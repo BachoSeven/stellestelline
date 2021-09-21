@@ -107,6 +107,7 @@
 
 ## Awk 
 
+- [phillbush/incipit](https://github.com/phillbush/incipit) - the incipit plain text markup language, and the mi(7) troff macro package
 - [huijunchen9260/fm.awk](https://github.com/huijunchen9260/fm.awk) - File manager written in awk
 - [huijunchen9260/bib.awk](https://github.com/huijunchen9260/bib.awk) - Bibliography manager written in awk
 
@@ -1284,7 +1285,7 @@
 - [cmatsuoka/asciiquarium](https://github.com/cmatsuoka/asciiquarium) - Enjoy the mysteries of the sea from the safety of your own terminal!
 - [DamienRobert/vidir2](https://github.com/DamienRobert/vidir2) - An extension to vidir from moreutils allowing copy and editing of symlinks
 - [trapd00r/rmshit](https://github.com/trapd00r/rmshit) - Keep $HOME or other dir clean from unwanted tempfiles, configs and other crap you'll never use that's autocreated upon execution of bad behaving applications
-- [trizen/straw-viewer](https://github.com/trizen/straw-viewer) - **DEPRECATED** A lightweight YouTube client for Linux, using the API of invidio.us
+- [trizen/straw-viewer](https://github.com/trizen/straw-viewer) - **DEPRECATED** Use https://github.com/trizen/pipe-viewer instead.
 - [trizen/pipe-viewer](https://github.com/trizen/pipe-viewer) - A lightweight YouTube client for Linux (fork of straw-viewer)
 
 ## PowerShell 
@@ -1302,6 +1303,7 @@
 
 ## Python 
 
+- [ipython/xkcd-font](https://github.com/ipython/xkcd-font) - The xkcd font
 - [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) - The official terminal client for Zulip
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web app—powerful open source team chat
 - [Ahmed-Al-Balochi/LibreGaming](https://github.com/Ahmed-Al-Balochi/LibreGaming) - Python Program that downloads gaming required packages based on your Linux Distribution.
@@ -1748,7 +1750,6 @@
 - [codingtony/udev-monitor-hotplug](https://github.com/codingtony/udev-monitor-hotplug) - Script that get triggered when monitors are plugged in or out in Linux
 - [Barbarossa93/Muspelheim](https://github.com/Barbarossa93/Muspelheim) - Thonkpad setup
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
-- [phillbush/incipit](https://github.com/phillbush/incipit) - the incipit plain text markup language
 - [dylanaraps/barsh](https://github.com/dylanaraps/barsh) - Use your terminal as a bar
 - [archlinux/arch-install-scripts](https://github.com/archlinux/arch-install-scripts) - Useful scripts for installing Arch Linux
 - [evertiro/cdm](https://github.com/evertiro/cdm) - Console Display Manager
