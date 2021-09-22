@@ -117,6 +117,7 @@
 
 ## C 
 
+- [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [sacd-ripper/sacd-ripper](https://github.com/sacd-ripper/sacd-ripper) - SACD ripping software using a PS3
 - [nsxiv/nsxiv](https://github.com/nsxiv/nsxiv) - Neo Simple X Image Viewer
 - [GiacomoLaw/Keylogger](https://github.com/GiacomoLaw/Keylogger) - A simple keylogger for Windows, Linux and Mac
@@ -636,7 +637,7 @@
 - [StylishThemes/StackOverflow-Dark](https://github.com/StylishThemes/StackOverflow-Dark) - 📚 Dark theme for Stack Overflow & most Stack Exchange network sites
 - [Brettm12345/github-moonlight](https://github.com/Brettm12345/github-moonlight) - A beatiful dark blue userstyle for GItHub. Made with :heart:
 - [elkowar/dots-of-war](https://github.com/elkowar/dots-of-war) - My dotfiles, mostly. This is the wild west. don't expect to understand this mess. Don't try to understand this mess. This serves as a good way to backup my configs, nothing more.
-- [Barbarossa93/Genome](https://github.com/Barbarossa93/Genome) - Dotfiles for the Genome setup
+- [Barbarossa93/Genome](https://github.com/Barbarossa93/Genome) - Desktop setup
 - [koalaman/linuxatemyram.com](https://github.com/koalaman/linuxatemyram.com) - The contents on linuxatemyram.com
 - [alanrey6/startpage-az](https://github.com/alanrey6/startpage-az) - Basic start page inspired by stpg.tk
 - [sadparadiseinhell/tea-green](https://github.com/sadparadiseinhell/tea-green) - Simple startpage with weather and to-do list features.
@@ -658,7 +659,7 @@
 - [thuanpham2311/vimium_dark_theme](https://github.com/thuanpham2311/vimium_dark_theme) - My custom CSS for vimium (dark theme)
 - [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
 - [CharlieEtienne/material-github](https://github.com/CharlieEtienne/material-github) - A Material Dark Theme for GitHub
-- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment. Read the README.md!
+- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment. Completed setup, integrated, and high-performance. Read the README.md!
 - [gruvbox-community/gruvbox-contrib](https://github.com/gruvbox-community/gruvbox-contrib) - Ports of the gruvbox colorscheme
 - [morpheusthewhite/spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify (https://github.com/khanhas/spicetify-cli)
 
@@ -1557,6 +1558,7 @@
 
 ## Rust 
 
+- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [jenra-uwu/uwutalk](https://github.com/jenra-uwu/uwutalk) - Matrix client.
 - [AusCyberman/dotfile-sync](https://github.com/AusCyberman/dotfile-sync) - Syncing dotfiles or other symlinks easily
 - [Smithay/wayland-rs](https://github.com/Smithay/wayland-rs) - Rust implementation of the wayland protocol (client and server).
@@ -1939,7 +1941,7 @@
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
 - [LukeSmithxyz/mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard) - A system for automatically configuring mutt and isync with a simple interface and safe passwords
 - [BachoSeven/dotfiles](https://github.com/BachoSeven/dotfiles) - rice repo
-- [Barbarossa93/Forester](https://github.com/Barbarossa93/Forester) - Dotfiles for the forester setup
+- [Barbarossa93/Forester](https://github.com/Barbarossa93/Forester) - Acer setup
 - [tam-carre/ncmpcpp-ueberzug](https://github.com/tam-carre/ncmpcpp-ueberzug) - An ncmpcpp wrapper that enables cover art via ueberzug.
 - [ckardaris/ucollage](https://github.com/ckardaris/ucollage) - An extensible command line image viewer inspired by vim
 - [fl-w/dotfiles](https://github.com/fl-w/dotfiles) - La mia casa
@@ -2030,6 +2032,8 @@
 
 ## TeX 
 
+- [latex3/latex2e](https://github.com/latex3/latex2e) - The LaTeX2e kernel
+- [snsmathlessons/Zannier1617](https://github.com/snsmathlessons/Zannier1617) - Corso di Zannier in Normale anni 2016/2017 (Funzioni Ellittiche e Modulari).
 - [severinlandolt/latex-thesis-template](https://github.com/severinlandolt/latex-thesis-template) - A LaTeX template for humans.
 - [PlummersSoftwareLLC/Primes](https://github.com/PlummersSoftwareLLC/Primes) - Prime Number Projects in C#/C++/Python
 - [fexed/Notes](https://github.com/fexed/Notes) - Appunti e note prese durante alcune lezioni e corsi
