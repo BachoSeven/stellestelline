@@ -177,7 +177,7 @@
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [johanmalm/jgmenu](https://github.com/johanmalm/jgmenu) - An X11 menu
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
-- [SartoxOnlyGNU/audacium](https://github.com/SartoxOnlyGNU/audacium) - Audacity fork without Telemetry and with new features
+- [SartoxSoftware/audacium](https://github.com/SartoxSoftware/audacium) - Audacity fork without Telemetry and with new features
 - [Sneeds-Feed-and-Seed/SIMP](https://github.com/Sneeds-Feed-and-Seed/SIMP) - Sneed's Image Manipulation Program (Formerly Chuck's)
 - [JamesCrook/audacity](https://github.com/JamesCrook/audacity) - Audacity(R): A Free, Cross-Platform Digital Audio Editor
 - [Dudemanguy/gtk](https://github.com/Dudemanguy/gtk) - Gtk+
@@ -607,7 +607,6 @@
 - [jsmaniac/WiTeX](https://github.com/jsmaniac/WiTeX) - If Donald Knuth had designed Wikipedia
 - [pradyungn/dotfiles](https://github.com/pradyungn/dotfiles) - A collection of my Linux Dotfiles!
 - [mountain-theme/Mountain](https://github.com/mountain-theme/Mountain) - Neutral. Calm.
-- [archcraft-os/archcraft-gtk-themes](https://github.com/archcraft-os/archcraft-gtk-themes) - A collection of gtk themes used in Archcraft
 - [prdanelli/dotfiles](https://github.com/prdanelli/dotfiles) - 
 - [3ximus/gruvbox-gtk](https://github.com/3ximus/gruvbox-gtk) - Gruvbox theme for gtk - created with oomox
 - [darch7/swaywm](https://github.com/darch7/swaywm) - 
@@ -659,7 +658,7 @@
 - [thuanpham2311/vimium_dark_theme](https://github.com/thuanpham2311/vimium_dark_theme) - My custom CSS for vimium (dark theme)
 - [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
 - [CharlieEtienne/material-github](https://github.com/CharlieEtienne/material-github) - A Material Dark Theme for GitHub
-- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment. Completed setup, integrated, and high-performance. Read the README.md!
+- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
 - [gruvbox-community/gruvbox-contrib](https://github.com/gruvbox-community/gruvbox-contrib) - Ports of the gruvbox colorscheme
 - [morpheusthewhite/spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify (https://github.com/khanhas/spicetify-cli)
 
