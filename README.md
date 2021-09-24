@@ -117,6 +117,7 @@
 
 ## C 
 
+- [rvah/sprucewm](https://github.com/rvah/sprucewm) - Window manager for X
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [sacd-ripper/sacd-ripper](https://github.com/sacd-ripper/sacd-ripper) - SACD ripping software using a PS3
 - [nsxiv/nsxiv](https://github.com/nsxiv/nsxiv) - Neo Simple X Image Viewer
@@ -882,6 +883,7 @@
 
 ## JavaScript 
 
+- [resonatecoop/stream](https://github.com/resonatecoop/stream) - Monorepo for Resonate Coop player
 - [jmmaranan/forge](https://github.com/jmmaranan/forge) - Forge - Tiling and Window Manager for Gnome-Shell
 - [ajbura/cinny](https://github.com/ajbura/cinny) - Yet another matrix client
 - [RetroShare/RSNewWebUI](https://github.com/RetroShare/RSNewWebUI) - 
@@ -1303,6 +1305,7 @@
 
 ## Python 
 
+- [MissLav/LibreQuake](https://github.com/MissLav/LibreQuake) - A freesoftware quake one remake with art under the BSD license
 - [ipython/xkcd-font](https://github.com/ipython/xkcd-font) - The xkcd font
 - [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) - The official terminal client for Zulip
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web app—powerful open source team chat
@@ -1521,7 +1524,7 @@
 - [srsudar/eg](https://github.com/srsudar/eg) - Useful examples at the command line.
 - [vimsence/vimsence](https://github.com/vimsence/vimsence) - Discord Rich Presence plugin for Vim
 - [gnome-terminator/terminator](https://github.com/gnome-terminator/terminator) - multiple GNOME terminals in one window
-- [mathics/Mathics](https://github.com/mathics/Mathics) - This repository if for archival. Please see https://Mathics3/mathics-core
+- [mathics/Mathics](https://github.com/mathics/Mathics) - This repository if for archival. Please see https://github.com/Mathics3/mathics-core
 - [XayOn/katcr](https://github.com/XayOn/katcr) - Search in multiple torrent sites from your CLI
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [rndusr/stig](https://github.com/rndusr/stig) - TUI and CLI for the BitTorrent client Transmission
