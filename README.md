@@ -980,7 +980,7 @@
 - [stared/tagoverflow](https://github.com/stared/tagoverflow) - An interactive map of Stack Exchange tags for all sites.
 - [crsnbrt/keysim](https://github.com/crsnbrt/keysim) - design and test virtual 3d keyboards.
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
-- [grtcdr/startpages](https://github.com/grtcdr/startpages) - 🍫 Startpages for your favorite browser!
+- [grtcdr/startpages](https://github.com/grtcdr/startpages) - 🍫 Extension-ready startpages for your favorite browser!
 - [einaregilsson/Redirector](https://github.com/einaregilsson/Redirector) - Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.
 - [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans
 - [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
@@ -1143,6 +1143,7 @@
 
 ## Others 
 
+- [spencerwooo/linux-wallpapers](https://github.com/spencerwooo/linux-wallpapers) - Linux Wallpapers designed according to Google's Material Design Guidelines.
 - [macchrome/linchrome](https://github.com/macchrome/linchrome) - ungoogled chromium portablelinux
 - [uuupah/pain27](https://github.com/uuupah/pain27) - a 27 key keyboard that is guaranteed to make you vomit in your own mouth, or your money back
 - [danklinux/X230-11GX](https://github.com/danklinux/X230-11GX) - X230 board with 11th generation Intel mobile processors with Iris Xe Graphics
@@ -1847,7 +1848,7 @@
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [zsh-vi-more/vi-motions](https://github.com/zsh-vi-more/vi-motions) - All the motions you could ask for and more for Zsh's vi mode.
 - [Mellbourn/zabb](https://github.com/Mellbourn/zabb) - zabb - a plugin for finding z abbreviations
-- [makedeb/makedeb](https://github.com/makedeb/makedeb) - Create Debian archives from PKGBUILDs
+- [makedeb/makedeb](https://github.com/makedeb/makedeb) - The modern packaging tool for Debian archives.
 - [Madh93/conky-spotify](https://github.com/Madh93/conky-spotify) - :musical_note: Show current Spotify track in Conky (Cover, title...)
 - [styluslabs/templates](https://github.com/styluslabs/templates) - Document templates for Write
 - [helpmeplsfortheloveofgod/hentaifetch](https://github.com/helpmeplsfortheloveofgod/hentaifetch) - 
