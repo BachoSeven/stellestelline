@@ -443,6 +443,7 @@
 
 ## C# # 
 
+- [jellyfin/jellyfin-plugin-bookshelf](https://github.com/jellyfin/jellyfin-plugin-bookshelf) - 
 - [NoelFB/Celeste](https://github.com/NoelFB/Celeste) - Celeste Bugs & Issue Tracker + some Source Code
 - [adamburgess/celeste-high-frame-rate](https://github.com/adamburgess/celeste-high-frame-rate) - Celeste with uncapped frame time
 - [dmarcuse/CelesteUncapped](https://github.com/dmarcuse/CelesteUncapped) - Tool to remove framerate cap from Celeste
@@ -883,6 +884,8 @@
 
 ## JavaScript 
 
+- [MorbZ/no-pdf-download](https://github.com/MorbZ/no-pdf-download) - Browser extension that opens all PDF files directly in the browser.
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [resonatecoop/stream](https://github.com/resonatecoop/stream) - Monorepo for Resonate Coop player
 - [jmmaranan/forge](https://github.com/jmmaranan/forge) - Forge - Tiling and Window Manager for Gnome-Shell
 - [ajbura/cinny](https://github.com/ajbura/cinny) - Yet another matrix client
@@ -1045,7 +1048,7 @@
 - [fhill2/xplr.nvim](https://github.com/fhill2/xplr.nvim) - XPLR - msgpack - lua
 - [sayanarijit/command-mode.xplr](https://github.com/sayanarijit/command-mode.xplr) - The missing command mode for xplr
 - [nickguletskii/GLXOSD](https://github.com/nickguletskii/GLXOSD) - GLXOSD is an extensible on-screen display (OSD)/overlay for OpenGL applications running on Linux with X11 which aims to provide similar functionality to MSI Afterburner/RivaTuner OSD. It can show FPS, frame timings, temperatures and more in OpenGL games and applications. It can also be used to benchmark games, much like voglperf.
-- [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github theme for Neovim, kitty, iTerm, Konsole, and Alacritty written in Lua
+- [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github theme for Neovim, kitty, iTerm, Konsole, tmux and Alacritty written in Lua
 - [jbyuki/instant.nvim](https://github.com/jbyuki/instant.nvim) - collaborative editing in Neovim using built-in capabilities
 - [undefinedDarkness/rice](https://github.com/undefinedDarkness/rice) - Home Sweet Home
 - [sayanarijit/material-landscape2.xplr](https://github.com/sayanarijit/material-landscape2.xplr) - xple theme - Material Landscape 2
@@ -1306,6 +1309,7 @@
 
 ## Python 
 
+- [xsmile/chromexup](https://github.com/xsmile/chromexup) - External extension updater for Chromium based browsers
 - [MissLav/LibreQuake](https://github.com/MissLav/LibreQuake) - A freesoftware quake one remake with art under the BSD license
 - [ipython/xkcd-font](https://github.com/ipython/xkcd-font) - The xkcd font
 - [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) - The official terminal client for Zulip
