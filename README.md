@@ -621,7 +621,6 @@
 - [Etesam913/slick-fox](https://github.com/Etesam913/slick-fox) - :fox_face: A firefox config that has rounded tabs and a url bar that can disappear when not selected on. It works with any theme.
 - [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox) - An opinionated set of configurations for firefox.
 - [Rosmaninho/Zotero-Dark-Theme](https://github.com/Rosmaninho/Zotero-Dark-Theme) - userChrome.css file for a Zotero dark theme. Suggestions for improvements are welcome.
-- [JulienMaille/dribbblish-dynamic-theme](https://github.com/JulienMaille/dribbblish-dynamic-theme) - A mod of Dribbblish theme for Spicetify with support for light/dark modes and album art based colors.
 - [Libera-Chat/libera-chat.github.io](https://github.com/Libera-Chat/libera-chat.github.io) - The website of Libera Chat, providing documentation and news
 - [kkYrusobad/kkYrusobad.github.io](https://github.com/kkYrusobad/kkYrusobad.github.io) - 
 - [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
@@ -884,7 +883,6 @@
 
 ## JavaScript 
 
-- [MorbZ/no-pdf-download](https://github.com/MorbZ/no-pdf-download) - Browser extension that opens all PDF files directly in the browser.
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [resonatecoop/stream](https://github.com/resonatecoop/stream) - Monorepo for Resonate Coop player
 - [jmmaranan/forge](https://github.com/jmmaranan/forge) - Forge - Tiling and Window Manager for Gnome-Shell
@@ -922,6 +920,7 @@
 - [zlatinb/mucats](https://github.com/zlatinb/mucats) - Website for hosting hashes of cat videos and other files shared on the MuWire network
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [Priler/dino3d](https://github.com/Priler/dino3d) - 🦖 Google Chrome T-Rex Run! in 3D (WebGL experiment)
+- [JulienMaille/dribbblish-dynamic-theme](https://github.com/JulienMaille/dribbblish-dynamic-theme) - A mod of Dribbblish theme for Spicetify with support for light/dark modes and album art based colors.
 - [tympanix/Electorrent](https://github.com/tympanix/Electorrent) - A remote control client for µTorrent, qBittorrent, rTorrent, Transmission, Synology & Deluge
 - [felixrieseberg/macintosh.js](https://github.com/felixrieseberg/macintosh.js) - 🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
 - [kylon/Sharedown](https://github.com/kylon/Sharedown) - Electron application to download Sharepoint videos (especially meant for students)
@@ -1364,7 +1363,7 @@
 - [xgi/castero](https://github.com/xgi/castero) - TUI podcast client for the terminal
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
 - [8go/matrix-commander](https://github.com/8go/matrix-commander) - simple but convenient CLI-based Matrix client app for sending and receiving
-- [makccr/pyt](https://github.com/makccr/pyt) - I made a little polybar module/python script to fetch the subscriber count for a YouTube channel. All it requires is a YouTube API key (instructions included), so keep your lotion and kleenex nearby!
+- [makccr/pyt](https://github.com/makccr/pyt) - A polybar module to fetch the sub count for a YouTube channel.
 - [eLvErDe/museek-plus](https://github.com/eLvErDe/museek-plus) - Museek+:  Client/server mode client for the SoulSeek peer-to-peer system
 - [Xpra-org/xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
 - [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
