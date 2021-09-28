@@ -802,6 +802,8 @@
 
 ## HTML 
 
+- [kennethcheo/startpage](https://github.com/kennethcheo/startpage) - Custom browser startpage
+- [planetmath/00_General](https://github.com/planetmath/00_General) - 
 - [easychen/not-only-fans](https://github.com/easychen/not-only-fans) - an open source, self-hosted digital content subscription platform like `onlyfans.com`  with  cryptocurrency payment
 - [paulbismuth/nicotine-plus-docker](https://github.com/paulbismuth/nicotine-plus-docker) - 
 - [FreeInit/freeinit.org](https://github.com/FreeInit/freeinit.org) - The FreeInit.org homepage
@@ -1042,6 +1044,7 @@
 
 ## Lua 
 
+- [initial1ze/nvim-spotify](https://github.com/initial1ze/nvim-spotify) - 
 - [sile-typesetter/sile](https://github.com/sile-typesetter/sile) - Simon’s Improved Layout Engine
 - [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim) - a lua powered greeter like vim-startify / dashboard-nvim
 - [fhill2/xplr.nvim](https://github.com/fhill2/xplr.nvim) - XPLR - msgpack - lua
