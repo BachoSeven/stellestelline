@@ -57,6 +57,7 @@
   - [Python](#python)
   - [QML](#qml)
   - [Raku](#raku)
+  - [ReScript](#rescript)
   - [Rich Text Format](#rich-text-format)
   - [Roff](#roff)
   - [Ruby](#ruby)
@@ -277,7 +278,7 @@
 - [hohmannr/xccp](https://github.com/hohmannr/xccp) - xccp - X Console Colorpicker
 - [takase1121/xwinwrap](https://github.com/takase1121/xwinwrap) - My fork of xwinwrap. Xwinwrap allows you to stick most of the apps to your desktop background.
 - [jzbor/moonwm](https://github.com/jzbor/moonwm) - My own outstandingly named Window Manager
-- [phillbush/shod](https://github.com/phillbush/shod) - hybrid (floating and tiling) tabbed window manager
+- [phillbush/shod-old](https://github.com/phillbush/shod-old) - hybrid (floating and tiling) tabbed window manager
 - [theFr1nge/dotfiles](https://github.com/theFr1nge/dotfiles) - Welcome to my dungeon. Here, I keep all my configuration files in case I have a stroke and lose all my memory. You're very welcome to explore and use anything in this repository. Have fun!
 - [arieboven/slock](https://github.com/arieboven/slock) - My custom slock build
 - [emersion/mrsh](https://github.com/emersion/mrsh) - A minimal POSIX shell
@@ -1547,6 +1548,10 @@
 
 - [rakudo/rakudo](https://github.com/rakudo/rakudo) - 🦋 Rakudo – Raku on MoarVM, JVM, and JS
 
+## ReScript 
+
+- [robol/MPSolve](https://github.com/robol/MPSolve) - Multiprecision Polynomial Solver
+
 ## Rich Text Format 
 
 - [github/dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
@@ -1567,6 +1572,7 @@
 
 ## Rust 
 
+- [sioodmy/todo](https://github.com/sioodmy/todo) - Simple todo cli program written in rust
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [jenra-uwu/uwutalk](https://github.com/jenra-uwu/uwutalk) - Matrix client.
 - [AusCyberman/dotfile-sync](https://github.com/AusCyberman/dotfile-sync) - Syncing dotfiles or other symlinks easily
@@ -1743,6 +1749,8 @@
 
 ## Shell 
 
+- [titzer/virgil](https://github.com/titzer/virgil) - A fast and lightweight native programming language
+- [sioodmy/bonsa-fi](https://github.com/sioodmy/bonsa-fi) - bonsa-fi is a simple POSIX script to help you concentrate
 - [ungoogled-software/ungoogled-chromium-portablelinux](https://github.com/ungoogled-software/ungoogled-chromium-portablelinux) - Portable Linux packaging for ungoogled-chromium
 - [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
 - [graysky2/profile-sync-daemon](https://github.com/graysky2/profile-sync-daemon) - Symlinks and syncs browser profile dirs to RAM thus reducing HDD/SDD calls and speeding-up browsers.
