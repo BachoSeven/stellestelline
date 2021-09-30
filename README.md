@@ -133,7 +133,7 @@
 - [file/file](https://github.com/file/file) - Read-only mirror of file CVS repository, updated every half hour. NOTE: do not make pull requests here, nor comment any commits, submit them usual way to bug tracker or to the mailing list. Maintainer(s) are not tracking  this git mirror.
 - [ryanflannery/vitunes](https://github.com/ryanflannery/vitunes) - A curses media indexer and player for vi users
 - [ghaerr/microwindows](https://github.com/ghaerr/microwindows) - The Nano-X Window System
-- [mssx86/apathy](https://github.com/mssx86/apathy) - what
+- [mssx86/apathy](https://github.com/mssx86/apathy) - 
 - [Aalbus-linux/Aalbus](https://github.com/Aalbus-linux/Aalbus) - The master repository for the Aalbus distribution
 - [intel/sgx-software-enable](https://github.com/intel/sgx-software-enable) - 
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A custom macOS statusbar with shell plugin, interaction and graph support
@@ -622,6 +622,7 @@
 - [Etesam913/slick-fox](https://github.com/Etesam913/slick-fox) - :fox_face: A firefox config that has rounded tabs and a url bar that can disappear when not selected on. It works with any theme.
 - [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox) - An opinionated set of configurations for firefox.
 - [Rosmaninho/Zotero-Dark-Theme](https://github.com/Rosmaninho/Zotero-Dark-Theme) - userChrome.css file for a Zotero dark theme. Suggestions for improvements are welcome.
+- [JulienMaille/dribbblish-dynamic-theme](https://github.com/JulienMaille/dribbblish-dynamic-theme) - A mod of Dribbblish theme for Spicetify with support for light/dark modes and album art based colors.
 - [Libera-Chat/libera-chat.github.io](https://github.com/Libera-Chat/libera-chat.github.io) - The website of Libera Chat, providing documentation and news
 - [kkYrusobad/kkYrusobad.github.io](https://github.com/kkYrusobad/kkYrusobad.github.io) - 
 - [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
@@ -923,7 +924,6 @@
 - [zlatinb/mucats](https://github.com/zlatinb/mucats) - Website for hosting hashes of cat videos and other files shared on the MuWire network
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [Priler/dino3d](https://github.com/Priler/dino3d) - 🦖 Google Chrome T-Rex Run! in 3D (WebGL experiment)
-- [JulienMaille/dribbblish-dynamic-theme](https://github.com/JulienMaille/dribbblish-dynamic-theme) - A mod of Dribbblish theme for Spicetify with support for light/dark modes and album art based colors.
 - [tympanix/Electorrent](https://github.com/tympanix/Electorrent) - A remote control client for µTorrent, qBittorrent, rTorrent, Transmission, Synology & Deluge
 - [felixrieseberg/macintosh.js](https://github.com/felixrieseberg/macintosh.js) - 🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
 - [kylon/Sharedown](https://github.com/kylon/Sharedown) - Electron application to download Sharepoint videos (especially meant for students)
