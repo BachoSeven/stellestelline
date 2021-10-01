@@ -622,7 +622,6 @@
 - [Etesam913/slick-fox](https://github.com/Etesam913/slick-fox) - :fox_face: A firefox config that has rounded tabs and a url bar that can disappear when not selected on. It works with any theme.
 - [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox) - An opinionated set of configurations for firefox.
 - [Rosmaninho/Zotero-Dark-Theme](https://github.com/Rosmaninho/Zotero-Dark-Theme) - userChrome.css file for a Zotero dark theme. Suggestions for improvements are welcome.
-- [JulienMaille/dribbblish-dynamic-theme](https://github.com/JulienMaille/dribbblish-dynamic-theme) - A mod of Dribbblish theme for Spicetify with support for light/dark modes and album art based colors.
 - [Libera-Chat/libera-chat.github.io](https://github.com/Libera-Chat/libera-chat.github.io) - The website of Libera Chat, providing documentation and news
 - [kkYrusobad/kkYrusobad.github.io](https://github.com/kkYrusobad/kkYrusobad.github.io) - 
 - [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
@@ -924,6 +923,7 @@
 - [zlatinb/mucats](https://github.com/zlatinb/mucats) - Website for hosting hashes of cat videos and other files shared on the MuWire network
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [Priler/dino3d](https://github.com/Priler/dino3d) - 🦖 Google Chrome T-Rex Run! in 3D (WebGL experiment)
+- [JulienMaille/dribbblish-dynamic-theme](https://github.com/JulienMaille/dribbblish-dynamic-theme) - A mod of Dribbblish theme for Spicetify with support for light/dark modes and album art based colors.
 - [tympanix/Electorrent](https://github.com/tympanix/Electorrent) - A remote control client for µTorrent, qBittorrent, rTorrent, Transmission, Synology & Deluge
 - [felixrieseberg/macintosh.js](https://github.com/felixrieseberg/macintosh.js) - 🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
 - [kylon/Sharedown](https://github.com/kylon/Sharedown) - Electron application to download Sharepoint videos (especially meant for students)
@@ -1789,7 +1789,7 @@
 - [ThatGeekyWeeb/shfire](https://github.com/ThatGeekyWeeb/shfire) - Making a discord client in POSIX sh, by jumping over the gateway cause it's useless, fuck your TOS
 - [ThatGeekyWeeb/psh](https://github.com/ThatGeekyWeeb/psh) - PurifiedSH or pSH is a simple sourceable script that replaces basic utils with puresh alternatives to make scripts more portable
 - [ArtiomSu/kensington-expert-trackball-linux-config](https://github.com/ArtiomSu/kensington-expert-trackball-linux-config) - 
-- [geminis3/simplyarch](https://github.com/geminis3/simplyarch) - The simplest way to install Arch Linux where you choose to bloat or not to bloat
+- [geminis3/simplyarch](https://github.com/geminis3/simplyarch) - The blazing fast ⚡ Arch Linux ⚡ installation script that puts you on control 🌟
 - [Smiley-McSmiles/jellyfin-cli](https://github.com/Smiley-McSmiles/jellyfin-cli) - This is a set of scripts to install and update the jellyfin-combined tar.gz
 - [a-schaefers/i3-wm-gruvbox-theme](https://github.com/a-schaefers/i3-wm-gruvbox-theme) - An i3-wm gruvbox theme implementation
 - [tremby/imgur.sh](https://github.com/tremby/imgur.sh) - Bart's Imgur uploader bash script
