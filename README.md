@@ -118,6 +118,7 @@
 
 ## C 
 
+- [unchilled/unlauncher](https://github.com/unchilled/unlauncher) - 
 - [rvah/sprucewm](https://github.com/rvah/sprucewm) - Window manager for X
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [sacd-ripper/sacd-ripper](https://github.com/sacd-ripper/sacd-ripper) - SACD ripping software using a PS3
@@ -605,7 +606,7 @@
 - [jamesNWT/StartPage2](https://github.com/jamesNWT/StartPage2) - Second attempt at a startpage
 - [i3d/term-themes](https://github.com/i3d/term-themes) - terminal themes I created
 - [chrisgdouglas/custom_css](https://github.com/chrisgdouglas/custom_css) - Collection of custom CSS files to override or compliment third party websites.
-- [paulgoio/searx](https://github.com/paulgoio/searx) - gitlab mirror: custom theme and optimized engines on top of the searxng/searxng project
+- [paulgoio/searxng](https://github.com/paulgoio/searxng) - gitlab mirror: custom theme and optimized engines on top of the searxng/searxng project
 - [AndrewBelt/WiTeX](https://github.com/AndrewBelt/WiTeX) - If Donald Knuth had designed Wikipedia
 - [jsmaniac/WiTeX](https://github.com/jsmaniac/WiTeX) - If Donald Knuth had designed Wikipedia
 - [pradyungn/dotfiles](https://github.com/pradyungn/dotfiles) - A collection of my Linux Dotfiles!
@@ -829,7 +830,6 @@
 - [rioastamal/tally-counter](https://github.com/rioastamal/tally-counter) - Super simple and fast tally counter. https://rioastamal.net/tally-counter/
 - [lokesh-krishna/dotfiles](https://github.com/lokesh-krishna/dotfiles) - My dotfiles
 - [gcormier/megadesk](https://github.com/gcormier/megadesk) - Open-source IKEA Bekant controller board
-- [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
 - [arewedistributedyet/arewedistributedyet](https://github.com/arewedistributedyet/arewedistributedyet) - Website + Community effort to unlock the peer-to-peer web at arewedistributedyet.com ⚡🌐🔑
 - [ranahaani/YouTube-Downloader](https://github.com/ranahaani/YouTube-Downloader) - Django YouTube Downloader Using youtube-dl
 - [furycd001/startpages](https://github.com/furycd001/startpages) - My collection of startpages....
@@ -1025,6 +1025,7 @@
 
 ## Kotlin 
 
+- [jkuester/unlauncher](https://github.com/jkuester/unlauncher) - Android minimalistic launcher
 - [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android
 - [RusticFlare/pixel-sorter](https://github.com/RusticFlare/pixel-sorter) - A command line app for pixel sorting images
 - [Taiko2k/TauonMusicRemote](https://github.com/Taiko2k/TauonMusicRemote) - Andorid remote app for Tauon Music Box
@@ -1223,7 +1224,6 @@
 - [bakkeby/patches](https://github.com/bakkeby/patches) - Collection of patches for dwm, st and dmenu
 - [obinslab/obinslab-starter-translations](https://github.com/obinslab/obinslab-starter-translations) - Translation project for Obinslab Starter
 - [ungoogled-software/contrib](https://github.com/ungoogled-software/contrib) - Community contributions for ungoogled-chromium
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
@@ -1907,6 +1907,7 @@
 - [fdietze/dotfiles](https://github.com/fdietze/dotfiles) - 
 - [jstkdng/aur](https://github.com/jstkdng/aur) - AUR packages I maintain and co-maintain
 - [toltec-dev/toltec](https://github.com/toltec-dev/toltec) - Community-maintained repository of free software for the reMarkable tablet.
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [Axarva/dotfiles-2.0](https://github.com/Axarva/dotfiles-2.0) - XMonad™️. Widgets go brr.
 - [dylanaraps/torque](https://github.com/dylanaraps/torque) - 🚂 A TUI client for transmission written in pure bash.
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
@@ -2086,6 +2087,7 @@
 - [esjeon/krohnkite](https://github.com/esjeon/krohnkite) - A dynamic tiling extension for KWin
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
+- [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
 - [Xmader/musescore-downloader](https://github.com/Xmader/musescore-downloader) - Download sheet music (MSCZ, PDF, MusicXML, MIDI, MP3, download individual parts as PDF) from musescore.com for free, no login or Musescore Pro required | 免登录、免 Musescore Pro，免费下载 musescore.com 上的曲谱 | Installation: https://msdl.librescore.org/install.user.js
 - [remigallego/winampify](https://github.com/remigallego/winampify) - ⚡ A Spotify web client with an OS-looking interface and a reimplementation of the classic audio player Winamp.
