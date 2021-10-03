@@ -608,7 +608,7 @@
 - [chrisgdouglas/custom_css](https://github.com/chrisgdouglas/custom_css) - Collection of custom CSS files to override or compliment third party websites.
 - [paulgoio/searxng](https://github.com/paulgoio/searxng) - gitlab mirror: custom theme and optimized engines on top of the searxng/searxng project
 - [AndrewBelt/WiTeX](https://github.com/AndrewBelt/WiTeX) - If Donald Knuth had designed Wikipedia
-- [jsmaniac/WiTeX](https://github.com/jsmaniac/WiTeX) - If Donald Knuth had designed Wikipedia
+- [SuzanneSoy/WiTeX](https://github.com/SuzanneSoy/WiTeX) - If Donald Knuth had designed Wikipedia
 - [pradyungn/dotfiles](https://github.com/pradyungn/dotfiles) - A collection of my Linux Dotfiles!
 - [mountain-theme/Mountain](https://github.com/mountain-theme/Mountain) - Neutral. Calm.
 - [prdanelli/dotfiles](https://github.com/prdanelli/dotfiles) - 
@@ -716,6 +716,7 @@
 
 ## Go 
 
+- [tulir/mauview](https://github.com/tulir/mauview) - A Go TUI library based on tcell.
 - [liamg/darktile](https://github.com/liamg/darktile) - :waning_crescent_moon: Darktile is a GPU rendered terminal emulator designed for tiling window managers.
 - [rkoesters/xkcd-gtk](https://github.com/rkoesters/xkcd-gtk) - Comic Sticks (xkcd-gtk) is a simple xkcd comic viewer written in Go using GTK+3
 - [knipferrc/fm](https://github.com/knipferrc/fm) - A terminal based file manager
@@ -842,6 +843,7 @@
 
 ## Haskell 
 
+- [ChrisPenner/void-space](https://github.com/ChrisPenner/void-space) - Well-Typed Typing Tutor where you Type Types... in space... yup, you heard me
 - [pasqu4le/clifm](https://github.com/pasqu4le/clifm) - Command Line Interface File Manager
 - [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
 - [samtay/tetris](https://github.com/samtay/tetris) - A terminal interface for Tetris
@@ -1264,7 +1266,7 @@
 - [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
 - [aleksator/arch-cursor-complete](https://github.com/aleksator/arch-cursor-complete) - Cursor theme for X11
 - [jmattheis/gruvbox-dark-icons-gtk](https://github.com/jmattheis/gruvbox-dark-icons-gtk) - 
-- [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary) - ⌨ Type math symbols more easily on your Android phone by using keyboard shortcuts inspired by LaTeX directly within the default Gboard keyboard.
+- [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary) - ⌨ Importable dictionary for typing math symbols more easily on your Android phone by using keyboard shortcuts inspired by LaTeX
 - [mattling9/Keycap-And-Legend-CAD-Models](https://github.com/mattling9/Keycap-And-Legend-CAD-Models) - CAD models for both the keycap and the legend. This removes the need to add the legends in post render.
 - [inaimathi/gtypist-single-space](https://github.com/inaimathi/gtypist-single-space) - GNU Typist lessons with the "two spaces after a sentence" garbage removed. You're welcome.
 - [rby90/project-based-tutorials-in-c](https://github.com/rby90/project-based-tutorials-in-c) - A curated list of project-based tutorials in C
@@ -1312,6 +1314,7 @@
 
 ## Python 
 
+- [cjnaz/xbsjsonedit](https://github.com/cjnaz/xbsjsonedit) - A basic editor for xBrowserSync json backup files
 - [xsmile/chromexup](https://github.com/xsmile/chromexup) - External extension updater for Chromium based browsers
 - [MissLav/LibreQuake](https://github.com/MissLav/LibreQuake) - A freesoftware quake one remake with art under the BSD license
 - [ipython/xkcd-font](https://github.com/ipython/xkcd-font) - The xkcd font
@@ -1572,6 +1575,9 @@
 
 ## Rust 
 
+- [Gerschtli/dwm-status](https://github.com/Gerschtli/dwm-status) - Highly performant and configurable DWM status service
+- [MustafaSalih1993/rsblocks](https://github.com/MustafaSalih1993/rsblocks) - A fast status-bar for dwm window manager written in Rust 🦀
+- [Arnavion/matrix-client-rs](https://github.com/Arnavion/matrix-client-rs) - TUI Matrix client in Rust.
 - [sioodmy/todo](https://github.com/sioodmy/todo) - Simple todo cli program written in rust
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [jenra-uwu/uwutalk](https://github.com/jenra-uwu/uwutalk) - Matrix client.
@@ -1742,6 +1748,7 @@
 
 ## Scheme 
 
+- [addy-dclxvi/dotfiles](https://github.com/addy-dclxvi/dotfiles) - My personal backup of my dotfiles on ThinkPad-X230-Debian-Openbox and Aspire-A514-Debian-Fluxbox
 - [Phantas0s/.dotfiles](https://github.com/Phantas0s/.dotfiles) - :fireworks: Arch Linux with i3 / nvim / tmux / urxvt / zsh / ...
 - [xlmnxp/blue-recorder](https://github.com/xlmnxp/blue-recorder) - Simple Screen Recorder written in Rust based on Green Recorder
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
@@ -1749,6 +1756,7 @@
 
 ## Shell 
 
+- [Fmstrat/winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 - [titzer/virgil](https://github.com/titzer/virgil) - A fast and lightweight native programming language
 - [sioodmy/bonsa-fi](https://github.com/sioodmy/bonsa-fi) - bonsa-fi is a simple POSIX script to help you concentrate
 - [ungoogled-software/ungoogled-chromium-portablelinux](https://github.com/ungoogled-software/ungoogled-chromium-portablelinux) - Portable Linux packaging for ungoogled-chromium
@@ -2050,6 +2058,7 @@
 
 ## TeX 
 
+- [spagnuolocarmine/TwentySecondsCurriculumVitae-LaTex](https://github.com/spagnuolocarmine/TwentySecondsCurriculumVitae-LaTex) - Write Beautiful Curriculum Vitae in LaTex, that ensures twenty seconds reading.
 - [latex3/latex2e](https://github.com/latex3/latex2e) - The LaTeX2e kernel
 - [snsmathlessons/Zannier1617](https://github.com/snsmathlessons/Zannier1617) - Corso di Zannier in Normale anni 2016/2017 (Funzioni Ellittiche e Modulari).
 - [severinlandolt/latex-thesis-template](https://github.com/severinlandolt/latex-thesis-template) - A LaTeX template for humans.
