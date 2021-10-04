@@ -474,6 +474,8 @@
 
 ## C++ 
 
+- [Sound-Linux-More/sacd](https://github.com/Sound-Linux-More/sacd) - Converts SACD image files, Philips DSDIFF and Sony DSF files to 24-bit high resolution wave files. Handles both DST and DSD streams. https://launchpad.net/sacd
+- [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
 - [linuxenko/chkservice](https://github.com/linuxenko/chkservice) - Systemd units manager with ncurses, terminal interface
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [kernc/logkeys](https://github.com/kernc/logkeys) - :memo: :keyboard: A GNU/Linux keylogger that works!
