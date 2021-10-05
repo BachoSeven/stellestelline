@@ -474,6 +474,7 @@
 
 ## C++ 
 
+- [hank/dsf2flac](https://github.com/hank/dsf2flac) - Code for converting DSF to FLAC files
 - [Sound-Linux-More/sacd](https://github.com/Sound-Linux-More/sacd) - Converts SACD image files, Philips DSDIFF and Sony DSF files to 24-bit high resolution wave files. Handles both DST and DSD streams. https://launchpad.net/sacd
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
 - [linuxenko/chkservice](https://github.com/linuxenko/chkservice) - Systemd units manager with ncurses, terminal interface
@@ -1577,6 +1578,7 @@
 
 ## Rust 
 
+- [sharkdp/binocle](https://github.com/sharkdp/binocle) - a graphical tool to visualize binary data
 - [Gerschtli/dwm-status](https://github.com/Gerschtli/dwm-status) - Highly performant and configurable DWM status service
 - [MustafaSalih1993/rsblocks](https://github.com/MustafaSalih1993/rsblocks) - A fast status-bar for dwm window manager written in Rust 🦀
 - [Arnavion/matrix-client-rs](https://github.com/Arnavion/matrix-client-rs) - TUI Matrix client in Rust.
