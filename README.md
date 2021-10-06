@@ -58,6 +58,7 @@
   - [QML](#qml)
   - [Raku](#raku)
   - [ReScript](#rescript)
+  - [Reason](#reason)
   - [Rich Text Format](#rich-text-format)
   - [Roff](#roff)
   - [Ruby](#ruby)
@@ -118,6 +119,7 @@
 
 ## C 
 
+- [flibitijibibo/kmquake2-linux](https://github.com/flibitijibibo/kmquake2-linux) - KMQuake2, hacked to death for Linux/SDL2
 - [unchilled/unlauncher](https://github.com/unchilled/unlauncher) - 
 - [rvah/sprucewm](https://github.com/rvah/sprucewm) - Window manager for X
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
@@ -336,7 +338,6 @@
 - [astrand/xclip](https://github.com/astrand/xclip) - Command line interface to the X11 clipboard
 - [LukeSmithxyz/scroll](https://github.com/LukeSmithxyz/scroll) - Minor personal tweaks to suckless's scroll (for st)
 - [Cubified/ntwm](https://github.com/Cubified/ntwm) - A tiny, frameless, keyboard-driven tiling window manager with multimonitor support, written in ANSI C.
-- [onivim/oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
 - [nullgemm/ly](https://github.com/nullgemm/ly) - display manager with console UI
 - [EHfive/pulseaudio-modules-bt](https://github.com/EHfive/pulseaudio-modules-bt) - [Deprecated, see https://github.com/EHfive/pulseaudio-modules-bt/issues/154] Adds Sony LDAC, aptX, aptX HD, AAC codecs (A2DP Audio) support to PulseAudio on Linux
 - [sanicSanic/dwmblocks](https://github.com/sanicSanic/dwmblocks) - My status bar: my build of the modular dwmblocks
@@ -1558,6 +1559,10 @@
 
 - [robol/MPSolve](https://github.com/robol/MPSolve) - Multiprecision Polynomial Solver
 
+## Reason 
+
+- [onivim/oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
+
 ## Rich Text Format 
 
 - [github/dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
@@ -1677,7 +1682,7 @@
 - [Wafelack/rdfm](https://github.com/Wafelack/rdfm) - RDFM - The Rusty DotFiles Manager
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [willdoescode/nat](https://github.com/willdoescode/nat) - `ls` alternative with useful info and a splash of color 🎨
-- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 Building a federated alternative to reddit in rust
+- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 Building a federated link aggregator in rust
 - [xymostech/XymosTeX](https://github.com/xymostech/XymosTeX) - A re-implementation of TeX in Rust to help me understand how it works and to eventually provide a debugging interface
 - [xou816/spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
 - [steganogram/stegano-rs](https://github.com/steganogram/stegano-rs) - A cross-platform command line tool for steganography focused on performance and simplicity written in rust-lang.
@@ -2042,7 +2047,7 @@
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [cemkeylan/yaic](https://github.com/cemkeylan/yaic) - Yet another Irc it Client
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [puneetsl/lotion](https://github.com/puneetsl/lotion) - Unofficial Notion.so app for Linux
 - [GideonWolfe/Zathura-Pywal](https://github.com/GideonWolfe/Zathura-Pywal) - 🎨📖 A script that dynamically generates a zathura colorscheme based on the current wal colors.
 - [march-linux/mimi](https://github.com/march-linux/mimi) - better xdg-open
