@@ -119,6 +119,7 @@
 
 ## C 
 
+- [kubo/injector](https://github.com/kubo/injector) - Library for injecting a shared library into a Linux or Windows process
 - [inferno-os/inferno-os](https://github.com/inferno-os/inferno-os) - Inferno® is a distributed operating system.  Inferno represents services and resources in a file-like name hierarchy, including devices, network and protocol interfaces, dynamic data sources, and services.Applications are written in a concurrent programming language, Limbo.
 - [flibitijibibo/kmquake2-linux](https://github.com/flibitijibibo/kmquake2-linux) - KMQuake2, hacked to death for Linux/SDL2
 - [unchilled/unlauncher](https://github.com/unchilled/unlauncher) - 
@@ -476,6 +477,7 @@
 
 ## C++ 
 
+- [amule-project/amule](https://github.com/amule-project/amule) - 'All-platform' P2P client based on eMule
 - [Fran314/CityRoutePlanner](https://github.com/Fran314/CityRoutePlanner) - Progetto di Francesco Baldino per il corso Algoritmi e Strutture Dati 2019/2020 della triennale di Matematica dell'Università di Pisa
 - [bertiniteam/b2](https://github.com/bertiniteam/b2) - Bertini 2.0:  The redevelopment of Bertini in C++.
 - [Rafiuth/Soggfy](https://github.com/Rafiuth/Soggfy) - Spotify ogg dumper
