@@ -123,7 +123,7 @@
 - [inferno-os/inferno-os](https://github.com/inferno-os/inferno-os) - Inferno® is a distributed operating system.  Inferno represents services and resources in a file-like name hierarchy, including devices, network and protocol interfaces, dynamic data sources, and services.Applications are written in a concurrent programming language, Limbo.
 - [flibitijibibo/kmquake2-linux](https://github.com/flibitijibibo/kmquake2-linux) - KMQuake2, hacked to death for Linux/SDL2
 - [unchilled/unlauncher](https://github.com/unchilled/unlauncher) - 
-- [rvah/sprucewm](https://github.com/rvah/sprucewm) - Window manager for X
+- [rogerhinders/sprucewm](https://github.com/rogerhinders/sprucewm) - Window manager for X
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [sacd-ripper/sacd-ripper](https://github.com/sacd-ripper/sacd-ripper) - SACD ripping software using a PS3
 - [nsxiv/nsxiv](https://github.com/nsxiv/nsxiv) - Neo Simple X Image Viewer
@@ -909,7 +909,7 @@
 - [sandsmark/chrome-extension-unconfidential](https://github.com/sandsmark/chrome-extension-unconfidential) - Allows you to select and copy text from "confidential" emails in gmail. Security by idiocy.
 - [mozilla/multi-account-containers](https://github.com/mozilla/multi-account-containers) - Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
 - [Cykelero/timefind](https://github.com/Cykelero/timefind) - Search a website's history.
-- [Apple-Music-Electron/Apple-Music-Electron](https://github.com/Apple-Music-Electron/Apple-Music-Electron) - A free, lightweight, open source alternative to iTunes and other Apple Music applications based on Electron 13.1.0
+- [Apple-Music-Electron/Apple-Music-Electron](https://github.com/Apple-Music-Electron/Apple-Music-Electron) - A free, lightweight, open source alternative to iTunes and other Apple Music applications based on Electron 15
 - [murdos/musicbrainz-userscripts](https://github.com/murdos/musicbrainz-userscripts) - Collection of userscripts for MusicBrainz, by various authors
 - [keepassxreboot/keepassxc-browser](https://github.com/keepassxreboot/keepassxc-browser) - KeePassXC Browser Extension
 - [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
@@ -1101,7 +1101,7 @@
 - [drahenprofi/dotfiles](https://github.com/drahenprofi/dotfiles) - Arch Linux dotfiles
 - [savq/paq-nvim](https://github.com/savq/paq-nvim) - 🌚  Neovim package manager
 - [b3nj5m1n/kommentary](https://github.com/b3nj5m1n/kommentary) - Neovim commenting plugin, written in lua.
-- [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview) - 📍 A Neovim plugin that displays interactive scrollbars.
+- [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview) - 📍 A Neovim plugin that displays interactive vertical scrollbars.
 - [wis/mpvSockets](https://github.com/wis/mpvSockets) - creates one IPC socket per mpv instance
 - [letoram/durden](https://github.com/letoram/durden) - Desktop Environment for Arcan
 - [ellisonleao/glow.nvim](https://github.com/ellisonleao/glow.nvim) - A markdown preview directly in your neovim.
@@ -1162,6 +1162,7 @@
 
 ## Others 
 
+- [aynp/dracula-wallpapers](https://github.com/aynp/dracula-wallpapers) - Wallpapers based on Dracula Theme
 - [spencerwooo/linux-wallpapers](https://github.com/spencerwooo/linux-wallpapers) - Linux Wallpapers designed according to Google's Material Design Guidelines.
 - [macchrome/linchrome](https://github.com/macchrome/linchrome) - ungoogled chromium portablelinux
 - [uuupah/pain27](https://github.com/uuupah/pain27) - a 27 key keyboard that is guaranteed to make you vomit in your own mouth, or your money back
@@ -1627,7 +1628,7 @@
 - [osa1/tiny](https://github.com/osa1/tiny) - A terminal IRC client
 - [Polochon-street/bliss-rs](https://github.com/Polochon-street/bliss-rs) - A song analysis library for making playlists
 - [Polochon-street/blissify-rs](https://github.com/Polochon-street/blissify-rs) - bliss bindings for MPD.
-- [veeso/termscp](https://github.com/veeso/termscp) - A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3
+- [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3
 - [ZeroX-DG/moon](https://github.com/ZeroX-DG/moon) - :earth_americas: :moon: A hobby web browser developed from scratch
 - [KSXGitHub/parallel-disk-usage](https://github.com/KSXGitHub/parallel-disk-usage) - Highly parallelized, blazing fast directory tree analyzer
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
