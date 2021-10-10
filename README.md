@@ -44,6 +44,7 @@
   - [Markdown](#markdown)
   - [Nim](#nim)
   - [Nix](#nix)
+  - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
   - [Objective-C++](#objective-c++)
   - [OpenSCAD](#openscad)
@@ -119,6 +120,7 @@
 
 ## C 
 
+- [mackstann/tinywm](https://github.com/mackstann/tinywm) - The tiniest window manager.
 - [kubo/injector](https://github.com/kubo/injector) - Library for injecting a shared library into a Linux or Windows process
 - [inferno-os/inferno-os](https://github.com/inferno-os/inferno-os) - Inferno® is a distributed operating system.  Inferno represents services and resources in a file-like name hierarchy, including devices, network and protocol interfaces, dynamic data sources, and services.Applications are written in a concurrent programming language, Limbo.
 - [flibitijibibo/kmquake2-linux](https://github.com/flibitijibibo/kmquake2-linux) - KMQuake2, hacked to death for Linux/SDL2
@@ -477,6 +479,8 @@
 
 ## C++ 
 
+- [Audio4Linux/Viper4Linux-GUI](https://github.com/Audio4Linux/Viper4Linux-GUI) - Official UI for Viper4Linux2
+- [keur/prettyeq](https://github.com/keur/prettyeq) - prettyeq is a system-wide paramateric equalizer for pulseaudio
 - [amule-project/amule](https://github.com/amule-project/amule) - 'All-platform' P2P client based on eMule
 - [Fran314/CityRoutePlanner](https://github.com/Fran314/CityRoutePlanner) - Progetto di Francesco Baldino per il corso Algoritmi e Strutture Dati 2019/2020 della triennale di Matematica dell'Università di Pisa
 - [bertiniteam/b2](https://github.com/bertiniteam/b2) - Bertini 2.0:  The redevelopment of Bertini in C++.
@@ -726,6 +730,7 @@
 
 ## Go 
 
+- [jezek/xgb](https://github.com/jezek/xgb) - The X Go Binding is a low-level API to communicate with the X server. It is modeled on XCB and supports many X extensions.
 - [tulir/mauview](https://github.com/tulir/mauview) - A Go TUI library based on tcell.
 - [liamg/darktile](https://github.com/liamg/darktile) - :waning_crescent_moon: Darktile is a GPU rendered terminal emulator designed for tiling window managers.
 - [rkoesters/xkcd-gtk](https://github.com/rkoesters/xkcd-gtk) - Comic Sticks (xkcd-gtk) is a simple xkcd comic viewer written in Go using GTK+3
@@ -874,6 +879,7 @@
 
 ## Java 
 
+- [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance
 - [openairplay/open-airplay](https://github.com/openairplay/open-airplay) - A collection of libraries for Apple's AirPlay protocol
 - [dozingcat/Vector-Pinball](https://github.com/dozingcat/Vector-Pinball) - Pinball game for Android.
 - [ktgw0316/LightZone](https://github.com/ktgw0316/LightZone) - LightZone is a photo editor for Mac, Windows, and Linux.
@@ -898,6 +904,7 @@
 
 ## JavaScript 
 
+- [airsonic-advanced/airsonic-advanced](https://github.com/airsonic-advanced/airsonic-advanced) - 
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [resonatecoop/stream](https://github.com/resonatecoop/stream) - Monorepo for Resonate Coop player
 - [jmmaranan/forge](https://github.com/jmmaranan/forge) - Forge - Tiling and Window Manager for Gnome-Shell
@@ -1032,6 +1039,7 @@
 
 ## Jupyter Notebook 
 
+- [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
 - [MTG/essentia](https://github.com/MTG/essentia) - C++ library for audio and music analysis, description and synthesis, including Python bindings
 - [morrolinux/simple-ehm](https://github.com/morrolinux/simple-ehm) - A simple tool for a simple task: remove filler sounds ("ehm") from pre-recorded speeches. AI powered.
 
@@ -1145,6 +1153,10 @@
 - [alexherbo2/configuration](https://github.com/alexherbo2/configuration) - Personal configuration files
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
 
+## OCaml 
+
+- [ygrek/mldonkey](https://github.com/ygrek/mldonkey) - cross-platform multi-network p2p daemon
+
 ## Objective-C 
 
 - [AlexisMtzGasca/Ubuntu-2bwm](https://github.com/AlexisMtzGasca/Ubuntu-2bwm) - 
@@ -1162,7 +1174,11 @@
 
 ## Others 
 
-- [aynp/dracula-wallpapers](https://github.com/aynp/dracula-wallpapers) - Wallpapers based on Dracula Theme
+- [iv-org/documentation](https://github.com/iv-org/documentation) - The official Invidious documentation
+- [ubports/ubuntu-touch](https://github.com/ubports/ubuntu-touch) - A simple and beautiful mobile OS for everyone! This repository is for Ubuntu Touch issue tracking. It does not contain any code used to create Ubuntu Touch.
+- [abkro/android_device_lge_h815](https://github.com/abkro/android_device_lge_h815) - LG G4 (International)
+- [abkro/android_device_lge_g4-common](https://github.com/abkro/android_device_lge_g4-common) - LG G4 (Common Tree)
+- [aynp/dracula-wallpapers](https://github.com/aynp/dracula-wallpapers) - Wallpapers based on the Dracula Theme
 - [spencerwooo/linux-wallpapers](https://github.com/spencerwooo/linux-wallpapers) - Linux Wallpapers designed according to Google's Material Design Guidelines.
 - [macchrome/linchrome](https://github.com/macchrome/linchrome) - ungoogled chromium portablelinux
 - [uuupah/pain27](https://github.com/uuupah/pain27) - a 27 key keyboard that is guaranteed to make you vomit in your own mouth, or your money back
@@ -1325,6 +1341,7 @@
 
 ## Python 
 
+- [JCGdev/Newpipe-CSV-Fixer](https://github.com/JCGdev/Newpipe-CSV-Fixer) - Convert your subscriptions csv file into a valid json for Newpipe!
 - [Fran314/SmashDataCollectorPython](https://github.com/Fran314/SmashDataCollectorPython) - A script to automatically collect stats from Super Smash Bros. Ultimate competitive and casual matches
 - [cjnaz/xbsjsonedit](https://github.com/cjnaz/xbsjsonedit) - A basic editor for xBrowserSync json backup files
 - [xsmile/chromexup](https://github.com/xsmile/chromexup) - External extension updater for Chromium based browsers
@@ -1410,7 +1427,7 @@
 - [jceb/vim-orgmode](https://github.com/jceb/vim-orgmode) - UNMAINTAINED looking for maintainers! Text outlining and task management for Vim based on Emacs' Org-Mode
 - [muammar/mkchromecast](https://github.com/muammar/mkchromecast) - Cast macOS and Linux Audio/Video to your Google Cast and Sonos Devices
 - [Taiko2k/TauonMusicBox](https://github.com/Taiko2k/TauonMusicBox) - The Linux desktop music player from the future! :city_sunset:
-- [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, no limits, no ties to proprietary translation services.
+- [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, offline capable and easy to setup.
 - [sdushantha/qr-filetransfer](https://github.com/sdushantha/qr-filetransfer) - Transfer files over WiFi between your computer and your smartphone from the terminal
 - [stuartlangridge/magnus](https://github.com/stuartlangridge/magnus) - A very simple screen magnifier for Ubuntu
 - [thiderman/doge](https://github.com/thiderman/doge) - wow very terminal doge
@@ -1555,6 +1572,7 @@
 
 ## QML 
 
+- [Tewelus/jellyfUn](https://github.com/Tewelus/jellyfUn) - 
 - [khanhas/zshelf](https://github.com/khanhas/zshelf) - reMarkable app: Browse and download books from Z-Library
 - [mirukana/mirage](https://github.com/mirukana/mirage) - A fancy, customizable, keyboard-operable Qt/QML & Python Matrix chat client for encrypted and decentralized communication.
 - [PedroHLC/niemeyer](https://github.com/PedroHLC/niemeyer) - An ArchLinux GUI installer that focuses on generating a customizable mkrootfs script.
@@ -1591,6 +1609,8 @@
 
 ## Rust 
 
+- [minijackson/set_eq](https://github.com/minijackson/set_eq) - A command-line tool to manipulate PulseAudio's equalizers
+- [codic12/worm](https://github.com/codic12/worm) - A floating, tag-based window manager written in Rust
 - [sharkdp/binocle](https://github.com/sharkdp/binocle) - a graphical tool to visualize binary data
 - [Gerschtli/dwm-status](https://github.com/Gerschtli/dwm-status) - Highly performant and configurable DWM status service
 - [MustafaSalih1993/rsblocks](https://github.com/MustafaSalih1993/rsblocks) - A fast status-bar for dwm window manager written in Rust 🦀
@@ -1773,6 +1793,8 @@
 
 ## Shell 
 
+- [pulseaudio-equalizer-ladspa/equalizer](https://github.com/pulseaudio-equalizer-ladspa/equalizer) - Pulseaudio LADSPA Equalizer
+- [alonswartz/trackpoint](https://github.com/alonswartz/trackpoint) - How to integrate a trackpoint in a mechanical keyboard
 - [Fmstrat/winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 - [titzer/virgil](https://github.com/titzer/virgil) - A fast and lightweight native programming language
 - [sioodmy/bonsa-fi](https://github.com/sioodmy/bonsa-fi) - bonsa-fi is a simple POSIX script to help you concentrate
@@ -1853,7 +1875,6 @@
 - [jstkdng/ungoogled-chromium-bin](https://github.com/jstkdng/ungoogled-chromium-bin) - Mirror from the now deleted ungoogled-chromium-bin AUR package
 - [Mangeshrex/rxfetch](https://github.com/Mangeshrex/rxfetch) - A custom system info fetching tool
 - [labbots/google-drive-upload](https://github.com/labbots/google-drive-upload) - Bash scripts to upload files to google drive
-- [pulseaudio-equalizer-ladspa/equalizer](https://github.com/pulseaudio-equalizer-ladspa/equalizer) - Pulseaudio LADSPA Equalizer
 - [dotnet/core](https://github.com/dotnet/core) - Home repository for .NET Core
 - [crhenr/openbsd-selfhosted](https://github.com/crhenr/openbsd-selfhosted) - :blowfish: Shell script for self-hosting cloud, email, and git services
 - [turquoise-hexagon/dots](https://github.com/turquoise-hexagon/dots) - another dotfiles repo
@@ -2143,6 +2164,7 @@
 
 ## Vim script 
 
+- [wellle/context.vim](https://github.com/wellle/context.vim) - Vim plugin that shows the context of the currently visible buffer contents
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [FredKSchott/CoVim](https://github.com/FredKSchott/CoVim) - Collaborative Editing for Vim
 - [voidz7/dotfiles](https://github.com/voidz7/dotfiles) - :ramen:
@@ -2201,7 +2223,7 @@
 - [mk12/vim-lean](https://github.com/mk12/vim-lean) - Lean Theorem Prover plugin for Vim.
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [907th/vim-auto-save](https://github.com/907th/vim-auto-save) - Automatically save changes to disk in Vim
-- [andymass/vim-matchup](https://github.com/andymass/vim-matchup) - vim match-up: even better % :facepunch: navigate and highlight matching words :facepunch: modern matchit and matchparen replacement
+- [andymass/vim-matchup](https://github.com/andymass/vim-matchup) - vim match-up: even better % :facepunch: navigate and highlight matching words :facepunch: modern matchit and matchparen
 - [McSinyx/vim-octave](https://github.com/McSinyx/vim-octave) - Octave syntax and indentation support for Vim
 - [tam-carre/dotfiles](https://github.com/tam-carre/dotfiles) - Linux configuration files.
 - [lambdalisue/battery.vim](https://github.com/lambdalisue/battery.vim) - Show battery information on statusline/tabline of Neovim/Vim
