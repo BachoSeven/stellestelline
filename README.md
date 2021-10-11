@@ -120,6 +120,8 @@
 
 ## C 
 
+- [adafruit/Adafruit_Learning_System_Guides](https://github.com/adafruit/Adafruit_Learning_System_Guides) - Programs and scripts to display "inline" in Adafruit Learning System guides
+- [bmc0/dsp](https://github.com/bmc0/dsp) - An audio processing program with an interactive mode.
 - [mackstann/tinywm](https://github.com/mackstann/tinywm) - The tiniest window manager.
 - [kubo/injector](https://github.com/kubo/injector) - Library for injecting a shared library into a Linux or Windows process
 - [inferno-os/inferno-os](https://github.com/inferno-os/inferno-os) - Inferno® is a distributed operating system.  Inferno represents services and resources in a file-like name hierarchy, including devices, network and protocol interfaces, dynamic data sources, and services.Applications are written in a concurrent programming language, Limbo.
@@ -904,6 +906,7 @@
 
 ## JavaScript 
 
+- [sonnyp/Tangram](https://github.com/sonnyp/Tangram) - Run web apps on your desktop.
 - [airsonic-advanced/airsonic-advanced](https://github.com/airsonic-advanced/airsonic-advanced) - 
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [resonatecoop/stream](https://github.com/resonatecoop/stream) - Monorepo for Resonate Coop player
@@ -1174,6 +1177,7 @@
 
 ## Others 
 
+- [Digitalone1/EasyEffects-Presets](https://github.com/Digitalone1/EasyEffects-Presets) - Presets for EasyEffects and PulseEffects.
 - [iv-org/documentation](https://github.com/iv-org/documentation) - The official Invidious documentation
 - [ubports/ubuntu-touch](https://github.com/ubports/ubuntu-touch) - A simple and beautiful mobile OS for everyone! This repository is for Ubuntu Touch issue tracking. It does not contain any code used to create Ubuntu Touch.
 - [abkro/android_device_lge_h815](https://github.com/abkro/android_device_lge_h815) - LG G4 (International)
@@ -1609,6 +1613,7 @@
 
 ## Rust 
 
+- [HEnquist/camilladsp](https://github.com/HEnquist/camilladsp) - A flexible cross-platform IIR and FIR engine for crossovers, room correction etc.
 - [minijackson/set_eq](https://github.com/minijackson/set_eq) - A command-line tool to manipulate PulseAudio's equalizers
 - [codic12/worm](https://github.com/codic12/worm) - A floating, tag-based window manager written in Rust
 - [sharkdp/binocle](https://github.com/sharkdp/binocle) - a graphical tool to visualize binary data
@@ -1793,6 +1798,7 @@
 
 ## Shell 
 
+- [d-wid/pipewire-eq-startup-script](https://github.com/d-wid/pipewire-eq-startup-script) - Simple-ish script which starts an equaliser under pipewire and connects a real output device to it as well as a virtual device to relay applications' sound to the equaliser.
 - [pulseaudio-equalizer-ladspa/equalizer](https://github.com/pulseaudio-equalizer-ladspa/equalizer) - Pulseaudio LADSPA Equalizer
 - [alonswartz/trackpoint](https://github.com/alonswartz/trackpoint) - How to integrate a trackpoint in a mechanical keyboard
 - [Fmstrat/winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
