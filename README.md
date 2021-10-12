@@ -60,7 +60,6 @@
   - [Raku](#raku)
   - [ReScript](#rescript)
   - [Reason](#reason)
-  - [Rich Text Format](#rich-text-format)
   - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
@@ -135,7 +134,6 @@
 - [J-Lentz/iwgtk](https://github.com/J-Lentz/iwgtk) - Lightweight, graphical wifi management utility for Linux
 - [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer designed for reading research papers and technical books.
-- [Rashad-707/rhombuses](https://github.com/Rashad-707/rhombuses) - 
 - [Audio4Linux/JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux) - An audio effect processor for PipeWire and PulseAudio clients
 - [anko/xkbcat](https://github.com/anko/xkbcat) - simple sudoless X11 keylogger
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
@@ -642,7 +640,6 @@
 - [Libera-Chat/libera-chat.github.io](https://github.com/Libera-Chat/libera-chat.github.io) - The website of Libera Chat, providing documentation and news
 - [kkYrusobad/kkYrusobad.github.io](https://github.com/kkYrusobad/kkYrusobad.github.io) - 
 - [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
-- [ChocolateBread799/Geometry](https://github.com/ChocolateBread799/Geometry) - 
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [RuneAudio/Docs](https://github.com/RuneAudio/Docs) - Official documentation of the RuneAudio project.
 - [emanuelep57/Blue-tea](https://github.com/emanuelep57/Blue-tea) - Simple startpage with weather and to-do list features.
@@ -784,7 +781,6 @@
 - [scotow/mego](https://github.com/scotow/mego) - A simple megadl wrapper with auto-retry and download list
 - [dundee/gdu](https://github.com/dundee/gdu) - Disk usage analyzer with console interface written in Go
 - [gleich/ctree](https://github.com/gleich/ctree) - 🎄 A Christmas tree right from your terminal!
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [Rhymen/go-whatsapp](https://github.com/Rhymen/go-whatsapp) - WhatsApp Web API
 - [odeke-em/drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
 - [normen/whatscli](https://github.com/normen/whatscli) - A command line interface for WhatsApp
@@ -844,6 +840,7 @@
 - [maboroshin/qBittorrentDarktheme](https://github.com/maboroshin/qBittorrentDarktheme) - qBittorrent Dark theme
 - [skovati/startpage](https://github.com/skovati/startpage) - tree inspired startpage!
 - [alanrey6/startpage-az2](https://github.com/alanrey6/startpage-az2) - My second startpage
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [Stanley00/anne-pro2-layout-configurator](https://github.com/Stanley00/anne-pro2-layout-configurator) - Layout configurator for Anne Pro 2 keyboard
 - [rioastamal/tally-counter](https://github.com/rioastamal/tally-counter) - Super simple and fast tally counter. https://rioastamal.net/tally-counter/
 - [lokesh-krishna/dotfiles](https://github.com/lokesh-krishna/dotfiles) - My dotfiles
@@ -1177,6 +1174,7 @@
 
 ## Others 
 
+- [yulunzhang/video-enhancement](https://github.com/yulunzhang/video-enhancement) - A list of resources for video enhancement, including video super-resolutio, interpolation, denoising, compression artifact removal et al..
 - [Digitalone1/EasyEffects-Presets](https://github.com/Digitalone1/EasyEffects-Presets) - Presets for EasyEffects and PulseEffects.
 - [iv-org/documentation](https://github.com/iv-org/documentation) - The official Invidious documentation
 - [ubports/ubuntu-touch](https://github.com/ubports/ubuntu-touch) - A simple and beautiful mobile OS for everyone! This repository is for Ubuntu Touch issue tracking. It does not contain any code used to create Ubuntu Touch.
@@ -1185,6 +1183,7 @@
 - [aynp/dracula-wallpapers](https://github.com/aynp/dracula-wallpapers) - Wallpapers based on the Dracula Theme
 - [spencerwooo/linux-wallpapers](https://github.com/spencerwooo/linux-wallpapers) - Linux Wallpapers designed according to Google's Material Design Guidelines.
 - [macchrome/linchrome](https://github.com/macchrome/linchrome) - ungoogled chromium portablelinux
+- [Rashad-707/rhombuses](https://github.com/Rashad-707/rhombuses) - 
 - [uuupah/pain27](https://github.com/uuupah/pain27) - a 27 key keyboard that is guaranteed to make you vomit in your own mouth, or your money back
 - [danklinux/X230-11GX](https://github.com/danklinux/X230-11GX) - X230 board with 11th generation Intel mobile processors with Iris Xe Graphics
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
@@ -1275,6 +1274,7 @@
 - [andirueckel/undefined-medium](https://github.com/andirueckel/undefined-medium) - undefined medium — a free and open-source monospace typeface with 400+ characters
 - [UgurcanAkkok/AreWeRustYet](https://github.com/UgurcanAkkok/AreWeRustYet) - Awesome list of "Are We *thing* Yet" for Rust
 - [AndydeCleyre/archbuilder_telegram-desktop-userfonts](https://github.com/AndydeCleyre/archbuilder_telegram-desktop-userfonts) - 
+- [github/dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
 - [helloSystem/hello](https://github.com/helloSystem/hello) - Desktop system for creators with a focus on simplicity, elegance, and usability. Based on FreeBSD. Less, but better!
 - [unixstickers/foss-swag-designs](https://github.com/unixstickers/foss-swag-designs) - Curated list of SWAG designs on unix, linux, programming and open source
 - [narunlifescience/Clementine-Custom-Icon-Sets](https://github.com/narunlifescience/Clementine-Custom-Icon-Sets) - :tangerine: Custom icon sets for Clementine music player
@@ -1345,6 +1345,7 @@
 
 ## Python 
 
+- [dothq/browser](https://github.com/dothq/browser) - 🌍 Take back your privacy with Dot Browser, the privacy-conscious web browser that protects you from being tracked and monitored online.
 - [JCGdev/Newpipe-CSV-Fixer](https://github.com/JCGdev/Newpipe-CSV-Fixer) - Convert your subscriptions csv file into a valid json for Newpipe!
 - [Fran314/SmashDataCollectorPython](https://github.com/Fran314/SmashDataCollectorPython) - A script to automatically collect stats from Super Smash Bros. Ultimate competitive and casual matches
 - [cjnaz/xbsjsonedit](https://github.com/cjnaz/xbsjsonedit) - A basic editor for xBrowserSync json backup files
@@ -1592,10 +1593,6 @@
 ## Reason 
 
 - [onivim/oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
-
-## Rich Text Format 
-
-- [github/dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
 
 ## Roff 
 
