@@ -119,12 +119,13 @@
 
 ## C 
 
+- [UtkarshVerma/dwmblocks-async](https://github.com/UtkarshVerma/dwmblocks-async) - My custom build of dwmblocks which updates blocks asynchronously.
 - [adafruit/Adafruit_Learning_System_Guides](https://github.com/adafruit/Adafruit_Learning_System_Guides) - Programs and scripts to display "inline" in Adafruit Learning System guides
 - [bmc0/dsp](https://github.com/bmc0/dsp) - An audio processing program with an interactive mode.
 - [mackstann/tinywm](https://github.com/mackstann/tinywm) - The tiniest window manager.
 - [kubo/injector](https://github.com/kubo/injector) - Library for injecting a shared library into a Linux or Windows process
 - [inferno-os/inferno-os](https://github.com/inferno-os/inferno-os) - Inferno® is a distributed operating system.  Inferno represents services and resources in a file-like name hierarchy, including devices, network and protocol interfaces, dynamic data sources, and services.Applications are written in a concurrent programming language, Limbo.
-- [flibitijibibo/kmquake2-linux](https://github.com/flibitijibibo/kmquake2-linux) - KMQuake2, hacked to death for Linux/SDL2
+- [flibitijibibo/kmquake2-tfol](https://github.com/flibitijibibo/kmquake2-tfol) - KMQuake2, hacked to death for TFOL
 - [unchilled/unlauncher](https://github.com/unchilled/unlauncher) - 
 - [rogerhinders/sprucewm](https://github.com/rogerhinders/sprucewm) - Window manager for X
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
@@ -765,7 +766,7 @@
 - [jan25/termracer](https://github.com/jan25/termracer) - Practise your typing skills from within your terminal
 - [irevenko/koneko](https://github.com/irevenko/koneko) - 🐈🌐 nyaa.si terminal BitTorrent tracker
 - [mautrix/whatsapp](https://github.com/mautrix/whatsapp) - A Matrix-WhatsApp puppeting bridge
-- [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🎀 a nice lil shell for lua people made with go and lua
+- [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌺 The flower shell. A comfy and nice little shell for Lua users and fans!
 - [leon332157/replish](https://github.com/leon332157/replish) - 
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [notsatan/auto-sub](https://github.com/notsatan/auto-sub) - A simple command-line application to process multiple media file at once, attaching subtitles, chapters, tags, attachments, etc. to the media files.
