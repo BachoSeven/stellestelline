@@ -54,7 +54,6 @@
   - [Perl](#perl)
   - [PowerShell](#powershell)
   - [Processing](#processing)
-  - [Pug](#pug)
   - [Python](#python)
   - [QML](#qml)
   - [Raku](#raku)
@@ -297,7 +296,7 @@
 - [btpd/btpd](https://github.com/btpd/btpd) - ⚡ The BitTorrent Protocol Daemon
 - [zsh-users/zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository.
 - [koreaneggroll/shell](https://github.com/koreaneggroll/shell) - a shell written in C
-- [khuedoan/slock](https://github.com/khuedoan/slock) - Suckless simple X display locker fork with transparency effect
+- [khuedoan/slock](https://github.com/khuedoan/slock) - 🔒 Suckless simple X display locker fork with transparency effect
 - [aario/slock-blur](https://github.com/aario/slock-blur) - Super fast and highly stable blur version of the simplest screen locker slock
 - [huijunchen9260/tabbed-hjc](https://github.com/huijunchen9260/tabbed-hjc) - A missing tab layout for any windows manager / desktop environment
 - [kevinconway/remouseable](https://github.com/kevinconway/remouseable) - Use a reMarkable tablet as a mouse.
@@ -480,6 +479,7 @@
 
 ## C++ 
 
+- [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray) - Tray application and Dolphin/Plasma integration for Syncthing
 - [Audio4Linux/Viper4Linux-GUI](https://github.com/Audio4Linux/Viper4Linux-GUI) - Official UI for Viper4Linux2
 - [keur/prettyeq](https://github.com/keur/prettyeq) - prettyeq is a system-wide paramateric equalizer for pulseaudio
 - [amule-project/amule](https://github.com/amule-project/amule) - 'All-platform' P2P client based on eMule
@@ -731,6 +731,7 @@
 
 ## Go 
 
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [jezek/xgb](https://github.com/jezek/xgb) - The X Go Binding is a low-level API to communicate with the X server. It is modeled on XCB and supports many X extensions.
 - [tulir/mauview](https://github.com/tulir/mauview) - A Go TUI library based on tcell.
 - [liamg/darktile](https://github.com/liamg/darktile) - :waning_crescent_moon: Darktile is a GPU rendered terminal emulator designed for tiling window managers.
@@ -972,6 +973,7 @@
 - [honestbleeps/Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Reddit Enhancement Suite
 - [jangxx/netflix-1080p](https://github.com/jangxx/netflix-1080p) - Chrome extension to play Netflix in 1080p and 5.1
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+- [kikiklang/pomme-page](https://github.com/kikiklang/pomme-page) - Big buttons with easy click startpage for a browser.
 - [d3ward/b2ntp](https://github.com/d3ward/b2ntp) - Kanban style New Tab Page extension with your bookmarks and powerful search
 - [styluslabs/stylusboard](https://github.com/styluslabs/stylusboard) - Online whiteboard server for real-time collaboration in Write
 - [patrikx3/onenote](https://github.com/patrikx3/onenote) - 📚 Linux Electron Onenote - A Linux compatible version of OneNote
@@ -1341,10 +1343,6 @@
 
 - [tsulej/GenerateMe](https://github.com/tsulej/GenerateMe) - Processing scripts used to generative glitch / art / design
 
-## Pug 
-
-- [kikiklang/pomme-page](https://github.com/kikiklang/pomme-page) - Big buttons with easy click startpage for a browser.
-
 ## Python 
 
 - [aitjcize/cppman](https://github.com/aitjcize/cppman) - C++ 98/11/14 manual pages for Linux/MacOS
@@ -1613,6 +1611,7 @@
 
 ## Rust 
 
+- [Morganamilo/paccat](https://github.com/Morganamilo/paccat) - Print pacman package files
 - [HEnquist/camilladsp](https://github.com/HEnquist/camilladsp) - A flexible cross-platform IIR and FIR engine for crossovers, room correction etc.
 - [minijackson/set_eq](https://github.com/minijackson/set_eq) - A command-line tool to manipulate PulseAudio's equalizers
 - [codic12/worm](https://github.com/codic12/worm) - A floating, tag-based window manager written in Rust
@@ -1798,6 +1797,7 @@
 
 ## Shell 
 
+- [deajan/osync](https://github.com/deajan/osync) - A robust two way (bidirectional) file sync script based on rsync with fault tolerance, POSIX ACL support, time control and near realtime sync
 - [d-wid/pipewire-eq-startup-script](https://github.com/d-wid/pipewire-eq-startup-script) - Simple-ish script which starts an equaliser under pipewire and connects a real output device to it as well as a virtual device to relay applications' sound to the equaliser.
 - [pulseaudio-equalizer-ladspa/equalizer](https://github.com/pulseaudio-equalizer-ladspa/equalizer) - Pulseaudio LADSPA Equalizer
 - [alonswartz/trackpoint](https://github.com/alonswartz/trackpoint) - How to integrate a trackpoint in a mechanical keyboard
@@ -2228,7 +2228,7 @@
 - [paradigm/dotfiles](https://github.com/paradigm/dotfiles) - Collection of configuration and settings files for Linux (and cygwin)
 - [mk12/vim-lean](https://github.com/mk12/vim-lean) - Lean Theorem Prover plugin for Vim.
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
-- [907th/vim-auto-save](https://github.com/907th/vim-auto-save) - Automatically save changes to disk in Vim
+- [907th/vim-auto-save](https://github.com/907th/vim-auto-save) - A Vim plugin which saves files to disk automatically.
 - [andymass/vim-matchup](https://github.com/andymass/vim-matchup) - vim match-up: even better % :facepunch: navigate and highlight matching words :facepunch: modern matchit and matchparen
 - [McSinyx/vim-octave](https://github.com/McSinyx/vim-octave) - Octave syntax and indentation support for Vim
 - [tam-carre/dotfiles](https://github.com/tam-carre/dotfiles) - Linux configuration files.
