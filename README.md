@@ -173,7 +173,7 @@
 - [mkj/dropbear](https://github.com/mkj/dropbear) - Dropbear SSH
 - [darktable-org/darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer
 - [torbiak/ptrkeys](https://github.com/torbiak/ptrkeys) - fluid mouse keys for X11
-- [siduck76/chadwm](https://github.com/siduck76/chadwm) - dwm made beautiful
+- [siduck76/chadwm](https://github.com/siduck76/chadwm) - Making dwm as beautiful as possible!
 - [rmnscnce/ntfs3](https://github.com/rmnscnce/ntfs3) - ntfs3 Linux kernel module by Paragon Software
 - [maharmstone/btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
 - [LGA1150/ntfs3-oot](https://github.com/LGA1150/ntfs3-oot) - Cherry-picked from https://aur.archlinux.org/packages/ntfs3-dkms/
@@ -621,7 +621,7 @@
 - [jamesNWT/StartPage2](https://github.com/jamesNWT/StartPage2) - Second attempt at a startpage
 - [i3d/term-themes](https://github.com/i3d/term-themes) - terminal themes I created
 - [chrisgdouglas/custom_css](https://github.com/chrisgdouglas/custom_css) - Collection of custom CSS files to override or compliment third party websites.
-- [paulgoio/searxng](https://github.com/paulgoio/searxng) - gitlab mirror: custom theme and optimized engines on top of the searxng/searxng project
+- [paulgoio/searxng](https://github.com/paulgoio/searxng) - gitlab mirror: custom theme and optimized engines on top of the searxng/searxng project https://paulgo.dev/paulgoio/searxng
 - [AndrewBelt/WiTeX](https://github.com/AndrewBelt/WiTeX) - If Donald Knuth had designed Wikipedia
 - [SuzanneSoy/WiTeX](https://github.com/SuzanneSoy/WiTeX) - If Donald Knuth had designed Wikipedia
 - [pradyungn/dotfiles](https://github.com/pradyungn/dotfiles) - A collection of my Linux Dotfiles!
@@ -829,6 +829,7 @@
 - [LukeSmithxyz/landchad](https://github.com/LukeSmithxyz/landchad) - Landchad.net Website Tutorial Page
 - [MCotocel/startpage](https://github.com/MCotocel/startpage) - Custom startpage for Qutebrowser/Firefox
 - [grtcdr/linen](https://github.com/grtcdr/linen) - 🎨 A light, calm and champagne-like colorscheme.
+- [matrix-org/matrix-doc](https://github.com/matrix-org/matrix-doc) - Matrix Documentation (including The Spec)
 - [matrix-org/matrix.org](https://github.com/matrix-org/matrix.org) - matrix.org public website
 - [hyperreal64/zsh-manual-mdbook](https://github.com/hyperreal64/zsh-manual-mdbook) - Mdbook for Zsh Manual
 - [comfies/comfi.es](https://github.com/comfies/comfi.es) - the /comfy/ website
@@ -1196,7 +1197,6 @@
 - [SonixQMK/Mechanical-Keyboard-Database](https://github.com/SonixQMK/Mechanical-Keyboard-Database) - A Mechanical Keyboard Database
 - [nastasie-octavian/nginx_pacman_cache_config](https://github.com/nastasie-octavian/nginx_pacman_cache_config) - nginx configuration for a pacman cache
 - [iridium-browser/iridium-browser](https://github.com/iridium-browser/iridium-browser) - Iridium Browser source code
-- [Kattress/Linux-Battery-Bible](https://github.com/Kattress/Linux-Battery-Bible) - The supreme guide for maximizing battery life out of your laptop running Linux!
 - [thepogsupreme/apo](https://github.com/thepogsupreme/apo) - Serene and grand wallpapers for the Mountain theme.
 - [unixwmbr/unixwmbr](https://github.com/unixwmbr/unixwmbr) - :computer: Official unixwmbr community repository.
 - [owl4ce/kurisu-x86_64](https://github.com/owl4ce/kurisu-x86_64) - :hibiscus: My personal kernel configuration (and a bit guides) based on Xanmod patchset. Only for AMD and Intel SoC.
@@ -1390,7 +1390,6 @@
 - [d0c-s4vage/lookatme](https://github.com/d0c-s4vage/lookatme) - An interactive, terminal-based markdown presenter
 - [nschloe/spectro](https://github.com/nschloe/spectro) - :musical_note: Audio file analysis
 - [tmick0/ppg](https://github.com/tmick0/ppg) - Python pixel glitcher -- disturbs image data to create cool effects
-- [matrix-org/matrix-doc](https://github.com/matrix-org/matrix-doc) - Matrix Documentation (including The Spec)
 - [vitiko98/qobuz-dl](https://github.com/vitiko98/qobuz-dl) - A complete Lossless and Hi-Res music downloader for Qobuz
 - [IBArbitrary/dotfiles](https://github.com/IBArbitrary/dotfiles) - Dotfiles from my arch installation.
 - [mailpile/Mailpile](https://github.com/mailpile/Mailpile) - A free & open modern, fast email client with user-friendly encryption and privacy features
