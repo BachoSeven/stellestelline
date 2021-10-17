@@ -118,6 +118,7 @@
 
 ## C 
 
+- [afify/sfm](https://github.com/afify/sfm) - simple file manager
 - [UtkarshVerma/dwmblocks-async](https://github.com/UtkarshVerma/dwmblocks-async) - My custom build of dwmblocks which updates blocks asynchronously.
 - [adafruit/Adafruit_Learning_System_Guides](https://github.com/adafruit/Adafruit_Learning_System_Guides) - Programs and scripts to display "inline" in Adafruit Learning System guides
 - [bmc0/dsp](https://github.com/bmc0/dsp) - An audio processing program with an interactive mode.
@@ -213,7 +214,7 @@
 - [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
 - [tinycorelinux/tinyx](https://github.com/tinycorelinux/tinyx) - 
 - [overmighty/i-use-arch-btw](https://github.com/overmighty/i-use-arch-btw) - "I use Arch btw" but it's a Turing-complete programming language.
-- [TASVideos/desmume](https://github.com/TASVideos/desmume) - DeSmuME is a Nintendo DS emulator
+- [TASEmulators/desmume](https://github.com/TASEmulators/desmume) - DeSmuME is a Nintendo DS emulator
 - [KnightOS/kimg](https://github.com/KnightOS/kimg) - A tool for converting images to the KIMG format.
 - [haileys/jsos](https://github.com/haileys/jsos) - An operating system written in JavaScript
 - [elvilio/Algoritmi-e-Strutture-Dati](https://github.com/elvilio/Algoritmi-e-Strutture-Dati) - Repository for the course "Algoritmi e Strutture dei Dati"year: 2019
@@ -608,6 +609,7 @@
 
 ## CSS 
 
+- [WalkxCode/Homer-Theme](https://github.com/WalkxCode/Homer-Theme) - A custom Homer theme!
 - [antcc/dotfiles](https://github.com/antcc/dotfiles) - Configuration files for Arch Linux.
 - [LambadaCorez/custom_css_jellyfin](https://github.com/LambadaCorez/custom_css_jellyfin) - Plug n' Play CSS templates for Jellyfin!
 - [GilbN/theme.park](https://github.com/GilbN/theme.park) - A collection of themes/skins for your favorite apps.
@@ -621,7 +623,7 @@
 - [jamesNWT/StartPage2](https://github.com/jamesNWT/StartPage2) - Second attempt at a startpage
 - [i3d/term-themes](https://github.com/i3d/term-themes) - terminal themes I created
 - [chrisgdouglas/custom_css](https://github.com/chrisgdouglas/custom_css) - Collection of custom CSS files to override or compliment third party websites.
-- [paulgoio/searxng](https://github.com/paulgoio/searxng) - gitlab mirror: custom theme and optimized engines on top of the searxng/searxng project https://paulgo.dev/paulgoio/searxng
+- [paulgoio/searxng](https://github.com/paulgoio/searxng) - gitlab mirror: SearXNG image with changed simple theme, settings.yml and bundled with filtron binary
 - [AndrewBelt/WiTeX](https://github.com/AndrewBelt/WiTeX) - If Donald Knuth had designed Wikipedia
 - [SuzanneSoy/WiTeX](https://github.com/SuzanneSoy/WiTeX) - If Donald Knuth had designed Wikipedia
 - [pradyungn/dotfiles](https://github.com/pradyungn/dotfiles) - A collection of my Linux Dotfiles!
@@ -907,6 +909,7 @@
 
 ## JavaScript 
 
+- [cloudrac3r/cadencegq](https://github.com/cloudrac3r/cadencegq) - Website featuring pastebin, image host, and YouTube player
 - [sonnyp/Tangram](https://github.com/sonnyp/Tangram) - Run web apps on your desktop.
 - [airsonic-advanced/airsonic-advanced](https://github.com/airsonic-advanced/airsonic-advanced) - 
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
@@ -1374,7 +1377,7 @@
 - [jumper149/blugon](https://github.com/jumper149/blugon) - simple and configurable Blue Light Filter for X
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
 - [NNBnh/dots](https://github.com/NNBnh/dots) - 📂 Đotfiles that SuperB (WIP)
-- [waydroid/waydroid](https://github.com/waydroid/waydroid) - 
+- [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [nsupdate-info/nsupdate.info](https://github.com/nsupdate-info/nsupdate.info) - Dynamic DNS service
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
 - [nixers-projects/ricerous](https://github.com/nixers-projects/ricerous) - The diary of ricers.
