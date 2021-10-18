@@ -118,6 +118,8 @@
 
 ## C 
 
+- [mupen64plus/mupen64plus-core](https://github.com/mupen64plus/mupen64plus-core) - Core module of the Mupen64Plus project
+- [FeralInteractive/gamemode](https://github.com/FeralInteractive/gamemode) - Optimise Linux system performance on demand
 - [afify/sfm](https://github.com/afify/sfm) - simple file manager
 - [UtkarshVerma/dwmblocks-async](https://github.com/UtkarshVerma/dwmblocks-async) - My custom build of dwmblocks which updates blocks asynchronously.
 - [adafruit/Adafruit_Learning_System_Guides](https://github.com/adafruit/Adafruit_Learning_System_Guides) - Programs and scripts to display "inline" in Adafruit Learning System guides
@@ -248,7 +250,6 @@
 - [vmatare/thinkfan](https://github.com/vmatare/thinkfan) - The minimalist fan control program
 - [MirBSD/mksh](https://github.com/MirBSD/mksh) - MirBSD Korn Shell Source Code Mirror – This is a publish-only repository and all pull requests are ignored. This repository is a mirror and may receive forced (non-fast-forward) updates. Please contribute to the CVS repository of The MirOS Project instead.
 - [hamadmarri/cacule-cpu-scheduler](https://github.com/hamadmarri/cacule-cpu-scheduler) - The CacULE CPU scheduler is based on interactivity score mechanism. The interactivity score is inspired by the ULE scheduler (FreeBSD scheduler).
-- [Sweets/tiramisu](https://github.com/Sweets/tiramisu) - Desktop notifications, the UNIX way
 - [allanmcrae/baka](https://github.com/allanmcrae/baka) - GTK+3 GUI for the pacman package manager
 - [zevlg/eukleides](https://github.com/zevlg/eukleides) - eukleides sources
 - [gitluin/sara](https://github.com/gitluin/sara) - Originally a fork of catwm, now an offspring of dwm with a streamlined featureset, plus some bspwm.
@@ -480,6 +481,7 @@
 
 ## C++ 
 
+- [snes9xgit/snes9x](https://github.com/snes9xgit/snes9x) - Snes9x - Portable Super Nintendo Entertainment System (TM) emulator
 - [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray) - Tray application and Dolphin/Plasma integration for Syncthing
 - [Audio4Linux/Viper4Linux-GUI](https://github.com/Audio4Linux/Viper4Linux-GUI) - Official UI for Viper4Linux2
 - [keur/prettyeq](https://github.com/keur/prettyeq) - prettyeq is a system-wide paramateric equalizer for pulseaudio
@@ -609,6 +611,7 @@
 
 ## CSS 
 
+- [ChocolateBread799/startpage](https://github.com/ChocolateBread799/startpage) - https://chocolatebread799.github.io/startpage/
 - [WalkxCode/Homer-Theme](https://github.com/WalkxCode/Homer-Theme) - A custom Homer theme!
 - [antcc/dotfiles](https://github.com/antcc/dotfiles) - Configuration files for Arch Linux.
 - [LambadaCorez/custom_css_jellyfin](https://github.com/LambadaCorez/custom_css_jellyfin) - Plug n' Play CSS templates for Jellyfin!
@@ -909,6 +912,7 @@
 
 ## JavaScript 
 
+- [karabaja4/mimejs](https://github.com/karabaja4/mimejs) - A replacement for xdg-open written in Node.js
 - [cloudrac3r/cadencegq](https://github.com/cloudrac3r/cadencegq) - Website featuring pastebin, image host, and YouTube player
 - [sonnyp/Tangram](https://github.com/sonnyp/Tangram) - Run web apps on your desktop.
 - [airsonic-advanced/airsonic-advanced](https://github.com/airsonic-advanced/airsonic-advanced) - 
@@ -1074,6 +1078,10 @@
 
 ## Lua 
 
+- [ChocolateBread799/Awesomewm_Dots](https://github.com/ChocolateBread799/Awesomewm_Dots) - 
+- [alesan99/mari0_ae](https://github.com/alesan99/mari0_ae) - Mari0: Alesan99's Entities
+- [Stabyourself/mari0](https://github.com/Stabyourself/mari0) - Mario + Portal platformer
+- [Mari0-CE/Mari0-Community-Edition](https://github.com/Mari0-CE/Mari0-Community-Edition) - A community-driven effort to fix and polish the latest version of Mari0:SE
 - [initial1ze/nvim-spotify](https://github.com/initial1ze/nvim-spotify) - 
 - [sile-typesetter/sile](https://github.com/sile-typesetter/sile) - Simon’s Improved Layout Engine
 - [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim) - a lua powered greeter like vim-startify / dashboard-nvim
@@ -1701,7 +1709,7 @@
 - [jam1garner/nail](https://github.com/jam1garner/nail) - A vim-inspired hex editor written in rust
 - [mathall/rim](https://github.com/mathall/rim) - Aspiring vim-like text editor
 - [atanunq/viu](https://github.com/atanunq/viu) - Simple terminal image viewer written in Rust.
-- [Macchina-CLI/macchina](https://github.com/Macchina-CLI/macchina) - A system information fetcher, with an (unhealthy) emphasis on performance.
+- [Macchina-CLI/macchina](https://github.com/Macchina-CLI/macchina) - A system information frontend, with an (unhealthy) emphasis on performance.
 - [r-darwish/alma](https://github.com/r-darwish/alma) - Create Arch Linux based bootable USB drives
 - [Kintaro/wtftw](https://github.com/Kintaro/wtftw) - Window Tiling For The Win. A tiling window manager written in Rust
 - [davidde/submod_rs](https://github.com/davidde/submod_rs) - Command line tool to modify .srt/.vtt subtitle files
@@ -2158,6 +2166,7 @@
 - [akiraux/Akira](https://github.com/akiraux/Akira) - Native Linux App for UI and UX Design built in Vala and GTK
 - [kevinselvaprasanna/mconnect](https://github.com/kevinselvaprasanna/mconnect) - mconnect - KDE Connect protocol implementation in Vala/C
 - [xxxserxxx/mconnect](https://github.com/xxxserxxx/mconnect) - mconnect - KDE Connect protocol implementation in Vala/C
+- [Sweets/tiramisu](https://github.com/Sweets/tiramisu) - Desktop notifications, the UNIX way
 - [grimpy/mconnect](https://github.com/grimpy/mconnect) - mconnect - KDE Connect protocol implementation in Vala/C
 - [Philip-Scott/wallpaperize](https://github.com/Philip-Scott/wallpaperize) - Beautify your oddly-sized wallpapers
 - [bboozzoo/mconnect](https://github.com/bboozzoo/mconnect) - mconnect - KDE Connect protocol implementation in Vala/C
