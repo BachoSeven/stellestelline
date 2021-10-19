@@ -118,6 +118,7 @@
 
 ## C 
 
+- [astsam/rtl8812au](https://github.com/astsam/rtl8812au) - RTL8812AU/21AU and RTL8814AU driver with monitor mode and frame injection
 - [mupen64plus/mupen64plus-core](https://github.com/mupen64plus/mupen64plus-core) - Core module of the Mupen64Plus project
 - [FeralInteractive/gamemode](https://github.com/FeralInteractive/gamemode) - Optimise Linux system performance on demand
 - [afify/sfm](https://github.com/afify/sfm) - simple file manager
@@ -577,7 +578,7 @@
 - [dasJ/spotifywm](https://github.com/dasJ/spotifywm) - Set Spotify's WM_NAME before opening the window
 - [Asus-MSM8916/android_device_asus_msm8916-common](https://github.com/Asus-MSM8916/android_device_asus_msm8916-common) - 
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
-- [PurritoBin/PurritoBin](https://github.com/PurritoBin/PurritoBin) - ultra fast, minimalistic, encrypted command line paste-bin
+- [PurritoBin/PurritoBin](https://github.com/PurritoBin/PurritoBin) - fast, minimalistic, encrypted command line paste-bin
 - [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
 - [MasterQ32/kristall](https://github.com/MasterQ32/kristall) - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
 - [allencch/med](https://github.com/allencch/med) - Linux alternative game memory editor
@@ -1190,6 +1191,7 @@
 
 ## Others 
 
+- [fiatjaf/awesome-loginless](https://github.com/fiatjaf/awesome-loginless) - an awesome list of internet services that don't require logins or registrations
 - [yulunzhang/video-enhancement](https://github.com/yulunzhang/video-enhancement) - A list of resources for video enhancement, including video super-resolutio, interpolation, denoising, compression artifact removal et al..
 - [Digitalone1/EasyEffects-Presets](https://github.com/Digitalone1/EasyEffects-Presets) - Presets for EasyEffects and PulseEffects.
 - [iv-org/documentation](https://github.com/iv-org/documentation) - The official Invidious documentation
@@ -1356,6 +1358,7 @@
 
 ## Python 
 
+- [bbilly1/tubearchivist](https://github.com/bbilly1/tubearchivist) - Your self hosted YouTube media server
 - [aitjcize/cppman](https://github.com/aitjcize/cppman) - C++ 98/11/14 manual pages for Linux/MacOS
 - [dothq/browser](https://github.com/dothq/browser) - 🌍 Take back your privacy with Dot Browser, the privacy-conscious web browser that protects you from being tracked and monitored online.
 - [JCGdev/Newpipe-CSV-Fixer](https://github.com/JCGdev/Newpipe-CSV-Fixer) - Convert your subscriptions csv file into a valid json for Newpipe!
@@ -1807,6 +1810,7 @@
 
 ## Shell 
 
+- [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
 - [deajan/osync](https://github.com/deajan/osync) - A robust two way (bidirectional) file sync script based on rsync with fault tolerance, POSIX ACL support, time control and near realtime sync
 - [d-wid/pipewire-eq-startup-script](https://github.com/d-wid/pipewire-eq-startup-script) - Simple-ish script which starts an equaliser under pipewire and connects a real output device to it as well as a virtual device to relay applications' sound to the equaliser.
 - [pulseaudio-equalizer-ladspa/equalizer](https://github.com/pulseaudio-equalizer-ladspa/equalizer) - Pulseaudio LADSPA Equalizer
