@@ -144,7 +144,7 @@
 - [file/file](https://github.com/file/file) - Read-only mirror of file CVS repository, updated every half hour. NOTE: do not make pull requests here, nor comment any commits, submit them usual way to bug tracker or to the mailing list. Maintainer(s) are not tracking  this git mirror.
 - [ryanflannery/vitunes](https://github.com/ryanflannery/vitunes) - A curses media indexer and player for vi users
 - [ghaerr/microwindows](https://github.com/ghaerr/microwindows) - The Nano-X Window System
-- [mssx86/apathy](https://github.com/mssx86/apathy) - 
+- [mssx86/apathy](https://github.com/mssx86/apathy) - linux thing
 - [Aalbus-linux/Aalbus](https://github.com/Aalbus-linux/Aalbus) - The master repository for the Aalbus distribution
 - [intel/sgx-software-enable](https://github.com/intel/sgx-software-enable) - 
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A custom macOS statusbar with shell plugin, interaction and graph support
@@ -775,7 +775,7 @@
 - [irevenko/koneko](https://github.com/irevenko/koneko) - 🐈🌐 nyaa.si terminal BitTorrent tracker
 - [mautrix/whatsapp](https://github.com/mautrix/whatsapp) - A Matrix-WhatsApp puppeting bridge
 - [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌺 The flower shell. A comfy and nice little shell for Lua users and fans!
-- [leon332157/replish](https://github.com/leon332157/replish) - 
+- [leon332157/replish](https://github.com/leon332157/replish) - websocket proxy for replit
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [notsatan/auto-sub](https://github.com/notsatan/auto-sub) - A simple command-line application to process multiple media file at once, attaching subtitles, chapters, tags, attachments, etc. to the media files.
 - [enjuus/sps](https://github.com/enjuus/sps) - spotify cli for the official client via dbus
@@ -887,6 +887,8 @@
 
 ## Java 
 
+- [NekoX-Dev/NekoX](https://github.com/NekoX-Dev/NekoX) - The third-party Telegram android app.
+- [Catogram/Catogram](https://github.com/Catogram/Catogram) - Experimental telegram client based on official Android sources
 - [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance
 - [openairplay/open-airplay](https://github.com/openairplay/open-airplay) - A collection of libraries for Apple's AirPlay protocol
 - [dozingcat/Vector-Pinball](https://github.com/dozingcat/Vector-Pinball) - Pinball game for Android.
@@ -1614,6 +1616,7 @@
 
 ## Ruby 
 
+- [gkovacs/pdfocr](https://github.com/gkovacs/pdfocr) - Adds text to PDF files using the cuneiform OCR software
 - [xofred/deviantart-gallery-downloader](https://github.com/xofred/deviantart-gallery-downloader) - fetch deviantart's images using mechanize
 - [MusicPlayerDaemon/website](https://github.com/MusicPlayerDaemon/website) - The MPD website
 - [sunaku/tamzen-font](https://github.com/sunaku/tamzen-font) - 💌 Bitmapped programming font, based on Tamsyn
@@ -1825,7 +1828,7 @@
 - [fsquillace/junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs upon any Linux distros without root access
 - [justinyaodu/iscanimage](https://github.com/justinyaodu/iscanimage) - User-friendly command line program for operating scanner devices in Linux.
 - [osresearch/heads](https://github.com/osresearch/heads) - A minimal Linux that runs as a coreboot or LinuxBoot ROM payload to provide a secure, flexible boot environment for laptops and servers.
-- [kusky3/natype](https://github.com/kusky3/natype) - Learn the NATO phonetic alphabet with this command line game
+- [kusky3/natype](https://github.com/kusky3/natype) - NATO phonetic alphabet cli test
 - [ptr1337/linux-cacule](https://github.com/ptr1337/linux-cacule) - Archlinux Kernel based on the Cacule Scheduler and with many improvements.
 - [KF-Art/ungoogled-chromium-void](https://github.com/KF-Art/ungoogled-chromium-void) - Void Linux repository for Ungoogled Chromium fork.
 - [steadfasterX/SALT](https://github.com/steadfasterX/SALT) - SALT - [S]teadfasterX [A]ll-in-one [L]G [T]ool ( https://bit.do/SALTatXDA )
