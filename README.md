@@ -613,6 +613,7 @@
 
 ## CSS 
 
+- [joeroe/risotto](https://github.com/joeroe/risotto) - A minimalist, responsive hugo theme inspired by terminal ricing aesthetics.
 - [ChocolateBread799/startpage](https://github.com/ChocolateBread799/startpage) - https://chocolatebread799.github.io/startpage/
 - [WalkxCode/Homer-Theme](https://github.com/WalkxCode/Homer-Theme) - A custom Homer theme!
 - [antcc/dotfiles](https://github.com/antcc/dotfiles) - Configuration files for Arch Linux.
@@ -682,7 +683,7 @@
 - [thuanpham2311/vimium_dark_theme](https://github.com/thuanpham2311/vimium_dark_theme) - My custom CSS for vimium (dark theme)
 - [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
 - [CharlieEtienne/material-github](https://github.com/CharlieEtienne/material-github) - A Material Dark Theme for GitHub
-- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
+- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment // Open discussion if there's problem.
 - [gruvbox-community/gruvbox-contrib](https://github.com/gruvbox-community/gruvbox-contrib) - Ports of the gruvbox colorscheme
 - [morpheusthewhite/spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify (https://github.com/khanhas/spicetify-cli)
 
@@ -868,6 +869,7 @@
 
 ## Haskell 
 
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - 🚀  SimpleX - decentralized chat with a focus on users’ privacy - doesn't use global user identities - now with groups and sending files!
 - [ChrisPenner/void-space](https://github.com/ChrisPenner/void-space) - Well-Typed Typing Tutor where you Type Types... in space... yup, you heard me
 - [pasqu4le/clifm](https://github.com/pasqu4le/clifm) - Command Line Interface File Manager
 - [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
@@ -916,6 +918,7 @@
 
 ## JavaScript 
 
+- [WeebDev/chibisafe](https://github.com/WeebDev/chibisafe) - Blazing fast file uploader and awesome bunker written in node! 🚀
 - [karabaja4/mimejs](https://github.com/karabaja4/mimejs) - A replacement for xdg-open written in Node.js
 - [cloudrac3r/cadencegq](https://github.com/cloudrac3r/cadencegq) - Website featuring pastebin, image host, and YouTube player
 - [sonnyp/Tangram](https://github.com/sonnyp/Tangram) - Run web apps on your desktop.
@@ -1331,6 +1334,7 @@
 
 ## PHP 
 
+- [pomf/pomf](https://github.com/pomf/pomf) - Pomf is a simple lightweight file host with support for drop, paste, click and API uploading.
 - [spotweb/spotweb](https://github.com/spotweb/spotweb) - Decentralized community
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
 - [xero/figlet-fonts](https://github.com/xero/figlet-fonts) - my collection of figlet / toilet ascii art fonts
@@ -2193,6 +2197,7 @@
 
 ## Vim script 
 
+- [mattn/vim-tanakh](https://github.com/mattn/vim-tanakh) - (´･_･`)
 - [gauteh/vim-cppman](https://github.com/gauteh/vim-cppman) - Plugin for use of cppman ("C++ 98/11/14 manual pages for Linux/MacOS" ) from within Vim
 - [wellle/context.vim](https://github.com/wellle/context.vim) - Vim plugin that shows the context of the currently visible buffer contents
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
@@ -2259,7 +2264,7 @@
 - [lambdalisue/battery.vim](https://github.com/lambdalisue/battery.vim) - Show battery information on statusline/tabline of Neovim/Vim
 - [ghifarit53/tokyonight-vim](https://github.com/ghifarit53/tokyonight-vim) - A clean, dark vim colorscheme that celebrates the lights of downtown Tokyo at night, based on a VSCode theme by @enkia with the same name
 - [mhinz/vim-startify](https://github.com/mhinz/vim-startify) - :link: The fancy start screen for Vim.
-- [NerdyPepper/scientifica](https://github.com/NerdyPepper/scientifica) - tall, condensed, bitmap font for geeks.
+- [NerdyPepper/scientifica](https://github.com/NerdyPepper/scientifica) - tall, condensed, bitmap font for geeks
 - [bennyyip/plugpac.vim](https://github.com/bennyyip/plugpac.vim) - Thin wrapper of minpac, provides vim-plug-like experience
 - [k-takata/minpac](https://github.com/k-takata/minpac) - A minimal package manager for Vim 8 (and Neovim)
 - [ap/vim-css-color](https://github.com/ap/vim-css-color) - Preview colours in source code while editing
