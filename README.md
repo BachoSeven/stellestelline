@@ -96,6 +96,7 @@
 ## Assembly 
 
 - [VitorVilela7/wide-snes](https://github.com/VitorVilela7/wide-snes) - Super Mario World (SNES) Widescreen Project
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 
 ## AutoHotkey 
@@ -275,7 +276,6 @@
 - [Mephysto666/rtl8822bu](https://github.com/Mephysto666/rtl8822bu) - RTL8822BU Wireless Driver for Linux
 - [qsmodo/sxiv](https://github.com/qsmodo/sxiv) - Simple X Image Viewer
 - [dudik/blockit](https://github.com/dudik/blockit) - WebKitGTK adblock extension with Brave's Rust-based adblock engine for backend.
-- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [dylanaraps/sowm](https://github.com/dylanaraps/sowm) - An itsy bitsy floating window manager (220~ sloc!).
 - [spbooth/xmountains](https://github.com/spbooth/xmountains) - This is my ancient X-windows sideways scrolling fractal landscape code
 - [juliusHuelsmann/st-history-vim](https://github.com/juliusHuelsmann/st-history-vim) - Development of the "vim patch" and  a minimalist "history patch" for the suckless simple terminal (st).
@@ -678,7 +678,7 @@
 - [FilipLitwora/pywal-discord](https://github.com/FilipLitwora/pywal-discord) - 🎨 A script that dynamically generates discord theme based on the current wal colorscheme
 - [guglicap/wal-discord](https://github.com/guglicap/wal-discord) - Generate Discord css from pywal colors
 - [linlinxza/Windows-7-Full-Theme-KDE-Plasma-only-](https://github.com/linlinxza/Windows-7-Full-Theme-KDE-Plasma-only-) - Here it is. A Full Windows 7 theme!
-- [NerdyPepper/nerdypepper.github.io](https://github.com/NerdyPepper/nerdypepper.github.io) - 
+- [nerdypepper/nerdypepper.github.io](https://github.com/nerdypepper/nerdypepper.github.io) - 
 - [RyanGreenup/cadmus](https://github.com/RyanGreenup/cadmus) - Shell Scripts to Facilitate Effective Note Taking
 - [thuanpham2311/vimium_dark_theme](https://github.com/thuanpham2311/vimium_dark_theme) - My custom CSS for vimium (dark theme)
 - [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
@@ -1198,6 +1198,7 @@
 
 ## Others 
 
+- [TemporalAgent7/awesome-windows-privacy](https://github.com/TemporalAgent7/awesome-windows-privacy) - A list of awesome tools, documentation and scripts for better privacy on Microsoft Windows
 - [fiatjaf/awesome-loginless](https://github.com/fiatjaf/awesome-loginless) - an awesome list of internet services that don't require logins or registrations
 - [yulunzhang/video-enhancement](https://github.com/yulunzhang/video-enhancement) - A list of resources for video enhancement, including video super-resolutio, interpolation, denoising, compression artifact removal et al..
 - [Digitalone1/EasyEffects-Presets](https://github.com/Digitalone1/EasyEffects-Presets) - Presets for EasyEffects and PulseEffects.
@@ -1305,7 +1306,7 @@
 - [jkup/awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) - A delightful list of personal tech blogs
 - [vizs/declutter-home](https://github.com/vizs/declutter-home) - declutter your home directory!
 - [usonianhorizon/vt-fnt](https://github.com/usonianhorizon/vt-fnt) - A collection of bitmap .FNT fonts created from various programming fonts, and to be used by FreeBSD's vt console terminal.
-- [NerdyPepper/curie](https://github.com/NerdyPepper/curie) - An upscaled version of scientifica.
+- [nerdypepper/curie](https://github.com/nerdypepper/curie) - An upscaled version of scientifica.
 - [Ev1lbl0w/fortune-mod-billwurtz](https://github.com/Ev1lbl0w/fortune-mod-billwurtz) - A collection of quotes from bill wurtz, i guess...
 - [samhh/bangin](https://github.com/samhh/bangin) - bangin is a primitive, portable shell script which enables DuckDuckGo-like bangs.
 - [mihic/linux-intel-undervolt](https://github.com/mihic/linux-intel-undervolt) - Guide to linux undervolting for Haswell and never Intel CPUs
@@ -1366,6 +1367,7 @@
 
 ## Python 
 
+- [baskerville/diana](https://github.com/baskerville/diana) - A command line interface to the aria2 daemon
 - [yixuanzhou/image2latex](https://github.com/yixuanzhou/image2latex) - A tool to convert math equation images to LaTeX markup
 - [blueOkiris/bgrm](https://github.com/blueOkiris/bgrm) - Virtual webcam that takes real webcam footage and replaces the background in order to have Virtual Backgrounds in MS Teams for Linux where the feature is unimplemented.
 - [bbilly1/tubearchivist](https://github.com/bbilly1/tubearchivist) - Your self hosted YouTube media server
@@ -1710,7 +1712,7 @@
 - [jhbabon/scout](https://github.com/jhbabon/scout) - Friendly fuzzy finder made in rust
 - [VixenUtils/Myxer](https://github.com/VixenUtils/Myxer) - A modern Volume Mixer for PulseAudio.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
-- [soywod/himalaya](https://github.com/soywod/himalaya) - 📫 CLI email client
+- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI email client
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [Soft/xcolor](https://github.com/Soft/xcolor) - Lightweight color picker for X11
 - [latex-lsp/texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX
@@ -1821,6 +1823,7 @@
 
 ## Shell 
 
+- [hboetes/muzshic](https://github.com/hboetes/muzshic) - Since I couldn't find the ideal music playlist manager, I created my own scripts
 - [XelphLinux/xelph-iso](https://github.com/XelphLinux/xelph-iso) - 
 - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
 - [deajan/osync](https://github.com/deajan/osync) - A robust two way (bidirectional) file sync script based on rsync with fault tolerance, POSIX ACL support, time control and near realtime sync
@@ -1943,7 +1946,6 @@
 - [makedeb/makedeb](https://github.com/makedeb/makedeb) - The modern packaging tool for Debian archives.
 - [Madh93/conky-spotify](https://github.com/Madh93/conky-spotify) - :musical_note: Show current Spotify track in Conky (Cover, title...)
 - [styluslabs/templates](https://github.com/styluslabs/templates) - Document templates for Write
-- [helpmeplsfortheloveofgod/hentaifetch](https://github.com/helpmeplsfortheloveofgod/hentaifetch) - 
 - [archlinux/svntogit-packages](https://github.com/archlinux/svntogit-packages) - Automatic import of svn 'packages' repo (read-only mirror)
 - [cdown/btmenu](https://github.com/cdown/btmenu) - Control bluetooth devices with dmenu
 - [ilya-fedin/kotatogramAUR](https://github.com/ilya-fedin/kotatogramAUR) - 
@@ -2264,11 +2266,11 @@
 - [lambdalisue/battery.vim](https://github.com/lambdalisue/battery.vim) - Show battery information on statusline/tabline of Neovim/Vim
 - [ghifarit53/tokyonight-vim](https://github.com/ghifarit53/tokyonight-vim) - A clean, dark vim colorscheme that celebrates the lights of downtown Tokyo at night, based on a VSCode theme by @enkia with the same name
 - [mhinz/vim-startify](https://github.com/mhinz/vim-startify) - :link: The fancy start screen for Vim.
-- [NerdyPepper/scientifica](https://github.com/NerdyPepper/scientifica) - tall, condensed, bitmap font for geeks
+- [nerdypepper/scientifica](https://github.com/nerdypepper/scientifica) - tall, condensed, bitmap font for geeks
 - [bennyyip/plugpac.vim](https://github.com/bennyyip/plugpac.vim) - Thin wrapper of minpac, provides vim-plug-like experience
 - [k-takata/minpac](https://github.com/k-takata/minpac) - A minimal package manager for Vim 8 (and Neovim)
 - [ap/vim-css-color](https://github.com/ap/vim-css-color) - Preview colours in source code while editing
-- [NerdyPepper/dotfiles](https://github.com/NerdyPepper/dotfiles) - files that define my GNU/Linux box.
+- [nerdypepper/dotfiles](https://github.com/nerdypepper/dotfiles) - files that define my GNU/Linux box.
 - [junegunn/goyo.vim](https://github.com/junegunn/goyo.vim) - :tulip: Distraction-free writing in Vim
 - [junegunn/limelight.vim](https://github.com/junegunn/limelight.vim) - :flashlight: All the world's indeed a stage and we are merely players
 - [GideonWolfe/vim.reaper](https://github.com/GideonWolfe/vim.reaper) - 💀 A Hackable, Fully Featured, Rice Friendly Neovim Configuration
