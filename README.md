@@ -248,7 +248,7 @@
 - [notandy/ympd](https://github.com/notandy/ympd) - Standalone MPD Web GUI written in C, utilizing Websockets and Bootstrap/JS
 - [jcorporation/myMPD](https://github.com/jcorporation/myMPD) - myMPD is a standalone and mobile friendly web mpd client with a tiny footprint and advanced features.
 - [jellyfin/jellyfin-ffmpeg](https://github.com/jellyfin/jellyfin-ffmpeg) - FFmpeg for Jellyfin
-- [leo-arch/clifm](https://github.com/leo-arch/clifm) - CliFM is a CLI-based, shell-like terminal file manager written in C: simple, fast, extensible, and lightweight as hell
+- [leo-arch/clifm](https://github.com/leo-arch/clifm) - A shell-like, command line terminal file manager written in C: simple, fast, extensible, and lightweight as hell
 - [vmatare/thinkfan](https://github.com/vmatare/thinkfan) - The minimalist fan control program
 - [MirBSD/mksh](https://github.com/MirBSD/mksh) - MirBSD Korn Shell Source Code Mirror – This is a publish-only repository and all pull requests are ignored. This repository is a mirror and may receive forced (non-fast-forward) updates. Please contribute to the CVS repository of The MirOS Project instead.
 - [hamadmarri/cacule-cpu-scheduler](https://github.com/hamadmarri/cacule-cpu-scheduler) - The CacULE CPU scheduler is based on interactivity score mechanism. The interactivity score is inspired by the ULE scheduler (FreeBSD scheduler).
@@ -830,6 +830,7 @@
 
 ## HTML 
 
+- [xero/0.xxe.ro](https://github.com/xero/0.xxe.ro) - random images
 - [ritheshkumar95/im2latex-tensorflow](https://github.com/ritheshkumar95/im2latex-tensorflow) - Tensorflow implementation of the HarvardNLP paper - What You Get Is What You See: A Visual Markup Decompiler (https://arxiv.org/pdf/1609.04938v1.pdf)
 - [kennethcheo/startpage](https://github.com/kennethcheo/startpage) - Custom browser startpage
 - [planetmath/00_General](https://github.com/planetmath/00_General) - 
@@ -918,10 +919,12 @@
 
 ## JavaScript 
 
+- [fosscord/fosscord](https://github.com/fosscord/fosscord) - Fosscord is a free open source selfhostable discord compatible communication platform
+- [Novik/ruTorrent](https://github.com/Novik/ruTorrent) - Yet another web front-end for rTorrent
 - [WeebDev/chibisafe](https://github.com/WeebDev/chibisafe) - Blazing fast file uploader and awesome bunker written in node! 🚀
 - [karabaja4/mimejs](https://github.com/karabaja4/mimejs) - A replacement for xdg-open written in Node.js
 - [cloudrac3r/cadencegq](https://github.com/cloudrac3r/cadencegq) - Website featuring pastebin, image host, and YouTube player
-- [sonnyp/Tangram](https://github.com/sonnyp/Tangram) - Run web apps on your desktop.
+- [sonnyp/Tangram](https://github.com/sonnyp/Tangram) - Browser for your pinned tabs
 - [airsonic-advanced/airsonic-advanced](https://github.com/airsonic-advanced/airsonic-advanced) - 
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [resonatecoop/stream](https://github.com/resonatecoop/stream) - Monorepo for Resonate Coop player
@@ -1603,6 +1606,7 @@
 
 ## QML 
 
+- [LinArcX/kindd](https://github.com/LinArcX/kindd) - A kindful dd, written in qt-quick.
 - [Tewelus/jellyfUn](https://github.com/Tewelus/jellyfUn) - 
 - [khanhas/zshelf](https://github.com/khanhas/zshelf) - reMarkable app: Browse and download books from Z-Library
 - [mirukana/mirage](https://github.com/mirukana/mirage) - A fancy, customizable, keyboard-operable Qt/QML & Python Matrix chat client for encrypted and decentralized communication.
@@ -2148,6 +2152,7 @@
 
 ## TypeScript 
 
+- [fosscord/fosscord-client](https://github.com/fosscord/fosscord-client) - Open source, themeable and extendable discord-compatible native fosscord client
 - [xbrowsersync/api](https://github.com/xbrowsersync/api) - Server-side REST API that serves requests from xBrowserSync client apps
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
 - [imLinguin/jelly-desktop](https://github.com/imLinguin/jelly-desktop) - Simple community made desktop client for Jellyfin
