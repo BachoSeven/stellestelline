@@ -454,6 +454,7 @@
 
 ## C# # 
 
+- [jackBonadies/SeekerAndroid](https://github.com/jackBonadies/SeekerAndroid) - Unofficial Soulseek Client for Android
 - [jellyfin/jellyfin-plugin-bookshelf](https://github.com/jellyfin/jellyfin-plugin-bookshelf) - 
 - [NoelFB/Celeste](https://github.com/NoelFB/Celeste) - Celeste Bugs & Issue Tracker + some Source Code
 - [adamburgess/celeste-high-frame-rate](https://github.com/adamburgess/celeste-high-frame-rate) - Celeste with uncapped frame time
@@ -671,6 +672,7 @@
 - [salimundo/Pop-gruvbox](https://github.com/salimundo/Pop-gruvbox) - Gruvbox theme based on Pop OS compact theme for GTK 3.22
 - [briano1905/typings](https://github.com/briano1905/typings) - typings.gg is a sleek and modern typing test website. it support many custom themes
 - [mut-ex/minimal-functional-fox](https://github.com/mut-ex/minimal-functional-fox) - A minimal, yet functional Firefox userChrome configuration.
+- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Microsoft Teams for Linux client
 - [TheGreatMcPain/gruvbox-material-gtk](https://github.com/TheGreatMcPain/gruvbox-material-gtk) - Gruvbox Material for GTK, Gnome, Cinnamon, XFCE, Unity, Plank and Icons
 - [6gk/polka](https://github.com/6gk/polka) - 🐢 dotless files  (sponsored by https://git.io/kiwmi)
 - [egoist/hack](https://github.com/egoist/hack) - ⛷ Dead simple CSS framework.
@@ -1177,7 +1179,7 @@
 
 ## Nix 
 
-- [alexherbo2/configuration](https://github.com/alexherbo2/configuration) - Personal configuration files
+- [alexherbo2/dotfiles](https://github.com/alexherbo2/dotfiles) - Personal configuration files
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
 
 ## OCaml 
@@ -1562,7 +1564,6 @@
 - [Askannz/optimus-manager](https://github.com/Askannz/optimus-manager) - A Linux program to handle GPU switching on Optimus laptops.
 - [slavfox/Cozette](https://github.com/slavfox/Cozette) - A bitmap programming font optimized for coziness 💜
 - [kal39/ptmv](https://github.com/kal39/ptmv) - An utf-8/truecolor image and video viewer for the terminal
-- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Microsoft Teams for Linux client
 - [jbarlow83/OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [RobertCsordas/linux-intel-undervolt-tool](https://github.com/RobertCsordas/linux-intel-undervolt-tool) - Scripts for undervolting 6+th gen Intel i* CPUs and their internal GPU.
 - [bexxmodd/vizex](https://github.com/bexxmodd/vizex) - Visualize disk space and disk usage in your UNIX\Linux terminal
