@@ -180,7 +180,7 @@
 - [mkj/dropbear](https://github.com/mkj/dropbear) - Dropbear SSH
 - [darktable-org/darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer
 - [torbiak/ptrkeys](https://github.com/torbiak/ptrkeys) - fluid mouse keys for X11
-- [siduck76/chadwm](https://github.com/siduck76/chadwm) - Making dwm as beautiful as possible!
+- [siduck/chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible!
 - [rmnscnce/ntfs3](https://github.com/rmnscnce/ntfs3) - ntfs3 Linux kernel module by Paragon Software
 - [maharmstone/btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
 - [LGA1150/ntfs3-oot](https://github.com/LGA1150/ntfs3-oot) - Cherry-picked from https://aur.archlinux.org/packages/ntfs3-dkms/
@@ -315,7 +315,7 @@
 - [muccc/scrollback](https://github.com/muccc/scrollback) - scrollback buffer program for terminals
 - [kohler/xwrits](https://github.com/kohler/xwrits) - Wrist break reminders for X windows
 - [deadpixi/mtm](https://github.com/deadpixi/mtm) - Perhaps the smallest useful terminal multiplexer in the world.
-- [siduck76/st](https://github.com/siduck76/st) - sexy terminal (suckless)
+- [siduck/st](https://github.com/siduck/st) - sexy terminal (suckless)
 - [officialcactar/colors](https://github.com/officialcactar/colors) - 
 - [corellium/linux-m1](https://github.com/corellium/linux-m1) - Linux kernel source tree
 - [prikhi/lightdm-mini-greeter](https://github.com/prikhi/lightdm-mini-greeter) - A Minimal, Configurable, Single-User GTK3 LightDM Greeter
@@ -334,7 +334,7 @@
 - [serhanekicii/dwm](https://github.com/serhanekicii/dwm) - My build of dwm with all applied patches as individual branches merged to master. Mirror from my own git server.
 - [freundTech/bar](https://github.com/freundTech/bar) - bar ain't recursive - A lightweight xcb based bar. This is a fork that supports fontconfig
 - [daringer/asus-fan](https://github.com/daringer/asus-fan) - Kernel module to get/set (both) fan speed(s) on ASUS Zenbooks
-- [siduck76/bspwm-dotfiles](https://github.com/siduck76/bspwm-dotfiles) - bspwm dotfiles with a bspwm newbie friendly tutorial
+- [siduck/bspwm-dotfiles](https://github.com/siduck/bspwm-dotfiles) - bspwm dotfiles with a bspwm newbie friendly tutorial
 - [maandree/asroot](https://github.com/maandree/asroot) - [Feature complete] A simpler alternative to sudo and doas
 - [Duncaen/OpenDoas](https://github.com/Duncaen/OpenDoas) - A portable fork of the OpenBSD `doas` command
 - [sdhand/n30f](https://github.com/sdhand/n30f) - 
@@ -644,7 +644,7 @@
 - [QuentinCurri/pixel-startpage](https://github.com/QuentinCurri/pixel-startpage) - 
 - [SylEleuth/gruvbox-plus-gtk](https://github.com/SylEleuth/gruvbox-plus-gtk) - Gruvbox+ dark theme for GTK2 and GTK3
 - [vitaly-zdanevich/wikipedia-userstyle-dark-minimum](https://github.com/vitaly-zdanevich/wikipedia-userstyle-dark-minimum) - Dark and minimum userstyle for Wikipedia. You can set this style at the admin area of Wikipedia for your account - without any plugins for your browser
-- [siduck76/dotfiles](https://github.com/siduck76/dotfiles) - dotfiles for my beautiful rices!
+- [siduck/dotfiles](https://github.com/siduck/dotfiles) - dotfiles for my beautiful rices!
 - [CircuitRCAY/Duvbox](https://github.com/CircuitRCAY/Duvbox) - A Discord theme based on the Vim theme, Gruvbox.
 - [Etesam913/slick-fox](https://github.com/Etesam913/slick-fox) - :fox_face: A firefox config that has rounded tabs and a url bar that can disappear when not selected on. It works with any theme.
 - [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox) - An opinionated set of configurations for firefox.
@@ -1226,7 +1226,7 @@
 - [iridium-browser/iridium-browser](https://github.com/iridium-browser/iridium-browser) - Iridium Browser source code
 - [thepogsupreme/apo](https://github.com/thepogsupreme/apo) - Serene and grand wallpapers for the Mountain theme.
 - [unixwmbr/unixwmbr](https://github.com/unixwmbr/unixwmbr) - :computer: Official unixwmbr community repository.
-- [owl4ce/kurisu-x86_64](https://github.com/owl4ce/kurisu-x86_64) - :hibiscus: My personal kernel configuration (and a bit guides) based on Xanmod patchset. Only for AMD and Intel SoC.
+- [owl4ce/kurisu-x86_64](https://github.com/owl4ce/kurisu-x86_64) - :hibiscus: My personal kernel configuration based on Xanmod patchset. Only AMD & Intel SoC.
 - [shubham-cpp/void-pkg-templates](https://github.com/shubham-cpp/void-pkg-templates) - Custom templates for several packages that could be installed using xbps-src
 - [stickus/Anne-Pro-2-Color-Profiles](https://github.com/stickus/Anne-Pro-2-Color-Profiles) - A repo of color profiles for the Anne Pro 2 programmable 60% RGB keyboard
 - [tenacityteam/assets](https://github.com/tenacityteam/assets) - Repository for storing canonical versions of the Tenacity logos, art, and other assets.
@@ -1831,6 +1831,7 @@
 
 ## Shell 
 
+- [tadly/hideIt.sh](https://github.com/tadly/hideIt.sh) - Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
 - [dreemurrs-embedded/Pine64-Arch](https://github.com/dreemurrs-embedded/Pine64-Arch) - PKGBUILD for running Arch Linux on PinePhone/PineTab.
 - [hboetes/muzshic](https://github.com/hboetes/muzshic) - Since I couldn't find the ideal music playlist manager, I created my own scripts
 - [XelphLinux/xelph-iso](https://github.com/XelphLinux/xelph-iso) - 
@@ -1940,7 +1941,7 @@
 - [melorin4/cfetch](https://github.com/melorin4/cfetch) - Just a simple and aesthetically pleasing system information fetch tool for Linux.
 - [MCotocel/pactest](https://github.com/MCotocel/pactest) - Test AUR software in a chroot
 - [kevinlynx/dhtcrawler2](https://github.com/kevinlynx/dhtcrawler2) - dhtcrawler is a DHT crawler written in erlang. It can join a DHT network and crawl many P2P torrents. The program save all torrent info into database and provide an http interface to search a torrent by a keyword
-- [kiddae/scripts](https://github.com/kiddae/scripts) - my (useless) scripts
+- [kiddae/scripts](https://github.com/kiddae/scripts) - A bunch of failed attempts at automatizing simple tasks.
 - [emanuelep57/Bspwm-SpaceBlue](https://github.com/emanuelep57/Bspwm-SpaceBlue) - Config files for my GitHub profile.
 - [ungoogled-software/ungoogled-chromium-archlinux](https://github.com/ungoogled-software/ungoogled-chromium-archlinux) - Arch Linux packaging for ungoogled-chromium
 - [ryanmjacobs/c](https://github.com/ryanmjacobs/c) - Compile and execute C "scripts" in one go!
@@ -2110,7 +2111,6 @@
 - [fghibellini/arch-silence](https://github.com/fghibellini/arch-silence) - GRUB2 theme for Arch-Linux users
 - [Naheel-Azawy/cp-p](https://github.com/Naheel-Azawy/cp-p) - cp (and mv), with progress
 - [SmartFinn/dotfiles](https://github.com/SmartFinn/dotfiles) - Dotfiles on my laptop. Feel free to steal something
-- [zdharma/fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) - (Short name F-Sy-H). Syntax-highlighting for Zshell – fine granularity, number of features and multiple shipped themes.
 - [davidarrieta/dotfiles](https://github.com/davidarrieta/dotfiles) - My dotfiles managed by GNU Stow - Arch, i3-gaps, bspwm, ncmpcpp, (neo)vim, zsh etc.
 - [seebye/fzf-ueberzogen](https://github.com/seebye/fzf-ueberzogen) - Just a script which allows to use fzf with ueberzug
 - [kazhala/dotbare](https://github.com/kazhala/dotbare) - Manage dotfiles and any git directories interactively with fzf
