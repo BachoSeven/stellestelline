@@ -334,7 +334,6 @@
 - [serhanekicii/dwm](https://github.com/serhanekicii/dwm) - My build of dwm with all applied patches as individual branches merged to master. Mirror from my own git server.
 - [freundTech/bar](https://github.com/freundTech/bar) - bar ain't recursive - A lightweight xcb based bar. This is a fork that supports fontconfig
 - [daringer/asus-fan](https://github.com/daringer/asus-fan) - Kernel module to get/set (both) fan speed(s) on ASUS Zenbooks
-- [siduck/bspwm-dotfiles](https://github.com/siduck/bspwm-dotfiles) - bspwm dotfiles with a bspwm newbie friendly tutorial
 - [maandree/asroot](https://github.com/maandree/asroot) - [Feature complete] A simpler alternative to sudo and doas
 - [Duncaen/OpenDoas](https://github.com/Duncaen/OpenDoas) - A portable fork of the OpenBSD `doas` command
 - [sdhand/n30f](https://github.com/sdhand/n30f) - 
@@ -1149,6 +1148,7 @@
 - [WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
 - [manilarome/the-glorious-dotfiles](https://github.com/manilarome/the-glorious-dotfiles) - A glorified personal dot files
 - [jgreco/mpv-youtube-quality](https://github.com/jgreco/mpv-youtube-quality) - A userscript for MPV that allows you to change youtube video quality (ytdl-format) on the fly
+- [kutsan/dotfiles](https://github.com/kutsan/dotfiles) - My dotfiles: Experimental, ongoing configuration files, development environment and scripts for various Unix-like systems, text-based command-line applications and interfaces.
 
 ## MATLAB 
 
@@ -1226,7 +1226,7 @@
 - [iridium-browser/iridium-browser](https://github.com/iridium-browser/iridium-browser) - Iridium Browser source code
 - [thepogsupreme/apo](https://github.com/thepogsupreme/apo) - Serene and grand wallpapers for the Mountain theme.
 - [unixwmbr/unixwmbr](https://github.com/unixwmbr/unixwmbr) - :computer: Official unixwmbr community repository.
-- [owl4ce/kurisu-x86_64](https://github.com/owl4ce/kurisu-x86_64) - :hibiscus: My personal kernel configuration based on Xanmod patchset. Only AMD & Intel SoC.
+- [owl4ce/hikari-x86_64](https://github.com/owl4ce/hikari-x86_64) - :bridge_at_night: My personal Linux kernel configuration (and guides) based on Xanmod patchset.
 - [shubham-cpp/void-pkg-templates](https://github.com/shubham-cpp/void-pkg-templates) - Custom templates for several packages that could be installed using xbps-src
 - [stickus/Anne-Pro-2-Color-Profiles](https://github.com/stickus/Anne-Pro-2-Color-Profiles) - A repo of color profiles for the Anne Pro 2 programmable 60% RGB keyboard
 - [tenacityteam/assets](https://github.com/tenacityteam/assets) - Repository for storing canonical versions of the Tenacity logos, art, and other assets.
@@ -1831,6 +1831,7 @@
 
 ## Shell 
 
+- [n0tsteve/glorious-dots](https://github.com/n0tsteve/glorious-dots) - My personal dotfiles
 - [tadly/hideIt.sh](https://github.com/tadly/hideIt.sh) - Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
 - [dreemurrs-embedded/Pine64-Arch](https://github.com/dreemurrs-embedded/Pine64-Arch) - PKGBUILD for running Arch Linux on PinePhone/PineTab.
 - [hboetes/muzshic](https://github.com/hboetes/muzshic) - Since I couldn't find the ideal music playlist manager, I created my own scripts
@@ -2292,7 +2293,6 @@
 - [alx741/vinfo](https://github.com/alx741/vinfo) - Vim info documentation reader, lets you read info pages within Vim or start it from the shell prompt (instead of Info)
 - [gruvbox-community/gruvbox](https://github.com/gruvbox-community/gruvbox) - Retro groove color scheme for Vim - community maintained edition
 - [Konfekt/vim-office](https://github.com/Konfekt/vim-office) - read common binary files, such as PDFs and those of Microsoft Office or LibreOffice, in Vim
-- [kutsan/dotfiles](https://github.com/kutsan/dotfiles) - My dotfiles: Experimental, ongoing configuration files, development environment and scripts for various Unix-like systems, text-based command-line applications and interfaces.
 - [neg-serg/dotfiles](https://github.com/neg-serg/dotfiles) - My configs with whistles and bells
 - [webgefrickel/dotfiles](https://github.com/webgefrickel/dotfiles) - A collection of my dotfiles. Lot's of Vim, Mutt, tmux and zsh stuff in here.
 - [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more
