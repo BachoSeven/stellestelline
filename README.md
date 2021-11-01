@@ -617,7 +617,7 @@
 
 - [joeroe/risotto](https://github.com/joeroe/risotto) - A minimalist, responsive hugo theme inspired by terminal ricing aesthetics.
 - [ChocolateBread799/startpage](https://github.com/ChocolateBread799/startpage) - https://chocolatebread799.github.io/startpage/
-- [WalkxCode/Homer-Theme](https://github.com/WalkxCode/Homer-Theme) - A custom Homer theme!
+- [walkxcode/homer-theme](https://github.com/walkxcode/homer-theme) - A custom Homer theme!
 - [antcc/dotfiles](https://github.com/antcc/dotfiles) - Configuration files for Arch Linux.
 - [LambadaCorez/custom_css_jellyfin](https://github.com/LambadaCorez/custom_css_jellyfin) - Plug n' Play CSS templates for Jellyfin!
 - [GilbN/theme.park](https://github.com/GilbN/theme.park) - A collection of themes/skins for your favorite apps.
@@ -778,7 +778,7 @@
 - [irevenko/koneko](https://github.com/irevenko/koneko) - 🐈🌐 nyaa.si terminal BitTorrent tracker
 - [mautrix/whatsapp](https://github.com/mautrix/whatsapp) - A Matrix-WhatsApp puppeting bridge
 - [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌺 The flower shell. A comfy and nice little shell for Lua users and fans!
-- [leon332157/replish](https://github.com/leon332157/replish) - websocket proxy for replit
+- [ReplDepot/replish](https://github.com/ReplDepot/replish) - websocket and shell proxy server and client
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [notsatan/auto-sub](https://github.com/notsatan/auto-sub) - A simple command-line application to process multiple media file at once, attaching subtitles, chapters, tags, attachments, etc. to the media files.
 - [enjuus/sps](https://github.com/enjuus/sps) - spotify cli for the official client via dbus
@@ -1720,7 +1720,7 @@
 - [jhbabon/scout](https://github.com/jhbabon/scout) - Friendly fuzzy finder made in rust
 - [VixenUtils/Myxer](https://github.com/VixenUtils/Myxer) - A modern Volume Mixer for PulseAudio.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
-- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI email client
+- [soywod/himalaya](https://github.com/soywod/himalaya) - Himalaya is a suite of independent Personal Information Management command-line tools.
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [Soft/xcolor](https://github.com/Soft/xcolor) - Lightweight color picker for X11
 - [latex-lsp/texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX
