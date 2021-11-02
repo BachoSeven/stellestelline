@@ -96,7 +96,6 @@
 ## Assembly 
 
 - [VitorVilela7/wide-snes](https://github.com/VitorVilela7/wide-snes) - Super Mario World (SNES) Widescreen Project
-- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 
 ## AutoHotkey 
@@ -278,6 +277,7 @@
 - [Mephysto666/rtl8822bu](https://github.com/Mephysto666/rtl8822bu) - RTL8822BU Wireless Driver for Linux
 - [qsmodo/sxiv](https://github.com/qsmodo/sxiv) - Simple X Image Viewer
 - [dudik/blockit](https://github.com/dudik/blockit) - WebKitGTK adblock extension with Brave's Rust-based adblock engine for backend.
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [dylanaraps/sowm](https://github.com/dylanaraps/sowm) - An itsy bitsy floating window manager (220~ sloc!).
 - [spbooth/xmountains](https://github.com/spbooth/xmountains) - This is my ancient X-windows sideways scrolling fractal landscape code
 - [juliusHuelsmann/st-history-vim](https://github.com/juliusHuelsmann/st-history-vim) - Development of the "vim patch" and  a minimalist "history patch" for the suckless simple terminal (st).
@@ -372,7 +372,7 @@
 - [runrin/tt](https://github.com/runrin/tt) - Practicing touch typing, and monitor your typing speed using your own text files
 - [torrinfail/dwmblocks](https://github.com/torrinfail/dwmblocks) - Modular status bar for dwm written in c.
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-- [mohabaks/dotfiles](https://github.com/mohabaks/dotfiles) - :computer: my workstation/laptop configs.
+- [mohabaks/dotfiles](https://github.com/mohabaks/dotfiles) - :computer:  workstation/laptop configs.
 - [rain-1/s](https://github.com/rain-1/s) - reupload of s, used to have 100 stars
 - [letoram/arcan](https://github.com/letoram/arcan) - Arcan - [Display Server, Multimedia Framework, Game Engine] -&gt; "Desktop Engine"
 - [xorg62/tty-clock](https://github.com/xorg62/tty-clock) - Clock using lib ncurses
@@ -714,6 +714,7 @@
 
 ## Dockerfile 
 
+- [IronicBadger/pms-wiki](https://github.com/IronicBadger/pms-wiki) - The aim is to share knowledge and information about building an open-source media server.
 - [dmpanch/radio](https://github.com/dmpanch/radio) - MPD + MPC + Telegram bot radio stack in Docker
 - [kokmok/rpi-nicotine-novnc](https://github.com/kokmok/rpi-nicotine-novnc) - 🐳 Nicotine Over noVNC Docker Container for RPI
 - [realies/soulseek-docker](https://github.com/realies/soulseek-docker) - 🐳 Soulseek Over noVNC Docker Container
@@ -846,7 +847,7 @@
 - [hyperreal64/zsh-manual-mdbook](https://github.com/hyperreal64/zsh-manual-mdbook) - Mdbook for Zsh Manual
 - [comfies/comfi.es](https://github.com/comfies/comfi.es) - the /comfy/ website
 - [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
-- [replit-discord/replit-desktop](https://github.com/replit-discord/replit-desktop) - Desktop app for https://replit.com
+- [ReplDepot/replit-desktop](https://github.com/ReplDepot/replit-desktop) - Desktop app for https://replit.com
 - [bedrocklinux/bedrocklinux-website](https://github.com/bedrocklinux/bedrocklinux-website) - This tracks website development for Bedrock Linux
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [jasolisdev/.dotfiles](https://github.com/jasolisdev/.dotfiles) - 
@@ -1204,6 +1205,7 @@
 
 ## Others 
 
+- [jnmcfly/awesome-startpage](https://github.com/jnmcfly/awesome-startpage) - This is a carefully compiled list of remarkable projects with the focus on startpages.
 - [TemporalAgent7/awesome-windows-privacy](https://github.com/TemporalAgent7/awesome-windows-privacy) - A list of awesome tools, documentation and scripts for better privacy on Microsoft Windows
 - [fiatjaf/awesome-loginless](https://github.com/fiatjaf/awesome-loginless) - an awesome list of internet services that don't require logins or registrations
 - [yulunzhang/video-enhancement](https://github.com/yulunzhang/video-enhancement) - A list of resources for video enhancement, including video super-resolutio, interpolation, denoising, compression artifact removal et al..
@@ -1720,7 +1722,7 @@
 - [jhbabon/scout](https://github.com/jhbabon/scout) - Friendly fuzzy finder made in rust
 - [VixenUtils/Myxer](https://github.com/VixenUtils/Myxer) - A modern Volume Mixer for PulseAudio.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
-- [soywod/himalaya](https://github.com/soywod/himalaya) - Himalaya is a suite of independent Personal Information Management command-line tools.
+- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI email client
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [Soft/xcolor](https://github.com/Soft/xcolor) - Lightweight color picker for X11
 - [latex-lsp/texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX
@@ -2136,7 +2138,7 @@
 
 ## Swift 
 
-- [cooklang/CookCLI](https://github.com/cooklang/CookCLI) - 
+- [cooklang/CookCLI](https://github.com/cooklang/CookCLI) - macOS and Linux command line program which provides a suite of tools to create shopping lists and maintain recipes.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 
 ## TeX 
@@ -2321,7 +2323,7 @@
 
 ## Zig 
 
-- [ifreund/river](https://github.com/ifreund/river) - A dynamic tiling Wayland compositor
+- [riverwm/river](https://github.com/riverwm/river) - A dynamic tiling Wayland compositor
 
 ## sed 
 
