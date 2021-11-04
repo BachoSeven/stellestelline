@@ -104,7 +104,7 @@
 
 ## AutoIt 
 
-- [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11  Release Ready
+- [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready
 
 ## Awk 
 
@@ -118,6 +118,7 @@
 
 ## C 
 
+- [RinCat/RTL88x2BU-Linux-Driver](https://github.com/RinCat/RTL88x2BU-Linux-Driver) - Realtek RTL88x2BU WiFi USB Driver for Linux
 - [WayneD/rsync](https://github.com/WayneD/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
 - [bbidulock/adwm](https://github.com/bbidulock/adwm) - advanced dynamic window manager
 - [kejpies/bruh](https://github.com/kejpies/bruh) - bruh sound, but as a program
@@ -485,6 +486,7 @@
 
 ## C++ 
 
+- [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
 - [falvaro/seshat](https://github.com/falvaro/seshat) - Handwritten math expression parser
 - [snes9xgit/snes9x](https://github.com/snes9xgit/snes9x) - Snes9x - Portable Super Nintendo Entertainment System (TM) emulator
 - [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray) - Tray application and Dolphin/Plasma integration for Syncthing
@@ -722,7 +724,7 @@
 ## Emacs Lisp 
 
 - [thiderman/dotfiles](https://github.com/thiderman/dotfiles) - Heavy emacs customizations with a purple finish
-- [CramMK/dots](https://github.com/CramMK/dots) - my main configuration files
+- [marcothms/dots](https://github.com/marcothms/dots) - my main configuration files
 - [jnykopp/emaccordion](https://github.com/jnykopp/emaccordion) - Control Emacs with MIDI
 - [jasonliang-dev/dotfiles](https://github.com/jasonliang-dev/dotfiles) - ~/.*
 
@@ -1092,6 +1094,7 @@
 
 ## Lua 
 
+- [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim) - Neovim motions on speed!
 - [harvardnlp/im2markup](https://github.com/harvardnlp/im2markup) - Neural model for converting Image-to-Markup (by Yuntian Deng github.com/da03)
 - [ChocolateBread799/Awesomewm_Dotfile](https://github.com/ChocolateBread799/Awesomewm_Dotfile) - 
 - [alesan99/mari0_ae](https://github.com/alesan99/mari0_ae) - Mari0: Alesan99's Entities
@@ -1432,7 +1435,7 @@
 - [Dniel97/RedSea](https://github.com/Dniel97/RedSea) - Music downloader for Tidal, revived, revived, revived and modded to download Dolby Atmos
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader) - Download 'TIDAL' Music On Windows/Linux/MacOs (PYTHON/C#)
-- [noqqlint/pwy](https://github.com/noqqlint/pwy) - :partly_sunny: A simple weather tool.
+- [clegargo/pwy](https://github.com/clegargo/pwy) - :partly_sunny: A simple weather tool.
 - [popey/sosumi-snap](https://github.com/popey/sosumi-snap) - 
 - [hchargois/gohufont](https://github.com/hchargois/gohufont) - A monospace bitmap font.
 - [ExposedCat/Meowgram](https://github.com/ExposedCat/Meowgram) - Telegram client written in GTK & Python
@@ -2147,6 +2150,9 @@
 
 ## TeX 
 
+- [dalcde/cam-notes](https://github.com/dalcde/cam-notes) - My Cambridge Lecture Notes
+- [david-bai-notes/II-Algebraic-Topology](https://github.com/david-bai-notes/II-Algebraic-Topology) - 
+- [Multramate/Cam-GANT](https://github.com/Multramate/Cam-GANT) - University of Cambridge lecture notes for Geometry, Algebra, and Number Theory
 - [spagnuolocarmine/TwentySecondsCurriculumVitae-LaTex](https://github.com/spagnuolocarmine/TwentySecondsCurriculumVitae-LaTex) - Write Beautiful Curriculum Vitae in LaTex, that ensures twenty seconds reading.
 - [latex3/latex2e](https://github.com/latex3/latex2e) - The LaTeX2e kernel
 - [snsmathlessons/Zannier1617](https://github.com/snsmathlessons/Zannier1617) - Corso di Zannier in Normale anni 2016/2017 (Funzioni Ellittiche e Modulari).
