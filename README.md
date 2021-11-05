@@ -166,7 +166,6 @@
 - [zbj2/viru](https://github.com/zbj2/viru) - x11 window manager
 - [ashish-yadav11/st](https://github.com/ashish-yadav11/st) - My fork of st with proper scrolling support, text reflow and a few other additions.
 - [Nooo37/pinsel](https://github.com/Nooo37/pinsel) - Minimal screenshot annotation tool with lua config
-- [MusiKid/acpi_ec](https://github.com/MusiKid/acpi_ec) - Kernel module to access directly to the ACPI EC.
 - [OpenBoardView/OpenBoardView](https://github.com/OpenBoardView/OpenBoardView) - View .brd files
 - [nbfc-linux/nbfc-linux](https://github.com/nbfc-linux/nbfc-linux) - NoteBook FanControl ported to Linux
 - [OpenPrinting/cups](https://github.com/OpenPrinting/cups) - OpenPrinting CUPS Sources
@@ -1665,14 +1664,14 @@
 - [jenra-uwu/uwutalk](https://github.com/jenra-uwu/uwutalk) - Matrix client.
 - [AusCyberman/dotfile-sync](https://github.com/AusCyberman/dotfile-sync) - Syncing dotfiles or other symlinks easily
 - [Smithay/wayland-rs](https://github.com/Smithay/wayland-rs) - Rust implementation of the wayland protocol (client and server).
-- [Canop/lfs](https://github.com/Canop/lfs) - A thing to get information on your mounted disks
+- [Canop/lfs](https://github.com/Canop/lfs) - A linux utility to get information on filesystems, like df but better
 - [nrc/r4cppp](https://github.com/nrc/r4cppp) - Rust for C++ programmers
 - [pop-os/tiler](https://github.com/pop-os/tiler) - Generic tiling window manager library in Rust
 - [kpcyrd/pacman-bintrans](https://github.com/kpcyrd/pacman-bintrans) - Experimental binary transparency for pacman with sigstore and rekor
 - [pop-os/launcher](https://github.com/pop-os/launcher) - Modular IPC-based desktop launcher service
 - [garak92/rearx](https://github.com/garak92/rearx) - A TUI client for the Searx meta-search engine, written in Rust
 - [p-e-w/ternimal](https://github.com/p-e-w/ternimal) - Simulate a lifeform in the terminal
-- [MusiKid/fancy](https://github.com/MusiKid/fancy) - Control your laptop fans with a fancy ( ͡° ͜ʖ ͡°) software.
+- [MusiKid/fancy](https://github.com/MusiKid/fancy) - Control your laptop fans with a fancy ( ͡° ͜ʖ ͡°) software (compatible with NBFC).
 - [sagudev/lac](https://github.com/sagudev/lac) - Lossless Audio Checker
 - [Icelk/clipcat](https://github.com/Icelk/clipcat) - clipcat is a clipboard manager written in Rust Programming Language.
 - [xrelkd/clipcat](https://github.com/xrelkd/clipcat) - clipcat is a clipboard manager written in Rust Programming Language.
@@ -1873,6 +1872,7 @@
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [dylanaraps/barsh](https://github.com/dylanaraps/barsh) - Use your terminal as a bar
 - [archlinux/arch-install-scripts](https://github.com/archlinux/arch-install-scripts) - Useful scripts for installing Arch Linux
+- [MusiKid/acpi_ec](https://github.com/MusiKid/acpi_ec) - Kernel module to access directly to the ACPI EC.
 - [evertiro/cdm](https://github.com/evertiro/cdm) - Console Display Manager
 - [amanhr/dotfiles](https://github.com/amanhr/dotfiles) - *nix config files, managed with GNU Stow.
 - [fmash16/ssg5](https://github.com/fmash16/ssg5) - My custom script for a posix compliable static site generator built by Roman Zolotarev
@@ -2322,7 +2322,7 @@
 
 ## Vue 
 
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A dashboard for your homelab
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A is self-hosted startpage for your server. Easy to use visual editor, status checking, themes and more!
 - [CzBiX/qb-web](https://github.com/CzBiX/qb-web) - A qBittorrent Web UI, write in TypeScript+Vue.
 - [m0ngr31/jellyamp](https://github.com/m0ngr31/jellyamp) - Desktop client for listening to music from a Jellyfin server
 - [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) - A modern web client for Jellyfin based on Vue.
