@@ -118,6 +118,7 @@
 
 ## C 
 
+- [Kameldieb/terminal_minecraft](https://github.com/Kameldieb/terminal_minecraft) - 
 - [RinCat/RTL88x2BU-Linux-Driver](https://github.com/RinCat/RTL88x2BU-Linux-Driver) - Realtek RTL88x2BU WiFi USB Driver for Linux
 - [WayneD/rsync](https://github.com/WayneD/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
 - [bbidulock/adwm](https://github.com/bbidulock/adwm) - advanced dynamic window manager
@@ -715,7 +716,7 @@
 
 ## Dockerfile 
 
-- [IronicBadger/pms-wiki](https://github.com/IronicBadger/pms-wiki) - The aim is to share knowledge and information about building an open-source media server.
+- [ironicbadger/pms-wiki](https://github.com/ironicbadger/pms-wiki) - The aim is to share knowledge and information about building an open-source media server.
 - [dmpanch/radio](https://github.com/dmpanch/radio) - MPD + MPC + Telegram bot radio stack in Docker
 - [kokmok/rpi-nicotine-novnc](https://github.com/kokmok/rpi-nicotine-novnc) - 🐳 Nicotine Over noVNC Docker Container for RPI
 - [realies/soulseek-docker](https://github.com/realies/soulseek-docker) - 🐳 Soulseek Over noVNC Docker Container
@@ -1434,7 +1435,7 @@
 - [Dniel97/RedSea](https://github.com/Dniel97/RedSea) - Music downloader for Tidal, revived, revived, revived and modded to download Dolby Atmos
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader) - Download 'TIDAL' Music On Windows/Linux/MacOs (PYTHON/C#)
-- [clegargo/pwy](https://github.com/clegargo/pwy) - :partly_sunny: A simple weather tool.
+- [cliegargo/pwy](https://github.com/cliegargo/pwy) - :partly_sunny: A simple weather tool.
 - [popey/sosumi-snap](https://github.com/popey/sosumi-snap) - 
 - [hchargois/gohufont](https://github.com/hchargois/gohufont) - A monospace bitmap font.
 - [ExposedCat/Meowgram](https://github.com/ExposedCat/Meowgram) - Telegram client written in GTK & Python
@@ -1758,7 +1759,7 @@
 - [xymostech/XymosTeX](https://github.com/xymostech/XymosTeX) - A re-implementation of TeX in Rust to help me understand how it works and to eventually provide a debugging interface
 - [xou816/spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
 - [steganogram/stegano-rs](https://github.com/steganogram/stegano-rs) - A cross-platform command line tool for steganography focused on performance and simplicity written in rust-lang.
-- [Keyboard-Slayer/runas](https://github.com/Keyboard-Slayer/runas) - An alternative to sudo and doas written in Rust
+- [keyboard-slayer/runas](https://github.com/keyboard-slayer/runas) - An alternative to sudo and doas written in Rust
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [sassman/t-rec-rs](https://github.com/sassman/t-rec-rs) - Blazingly fast terminal recorder that generates animated gif images for the web written in rust
 - [deltachat/deltachat-core-rust](https://github.com/deltachat/deltachat-core-rust) - Delta Chat Rust Core library, used by Android/iOS/desktop apps and bindings
