@@ -690,7 +690,7 @@
 - [thuanpham2311/vimium_dark_theme](https://github.com/thuanpham2311/vimium_dark_theme) - My custom CSS for vimium (dark theme)
 - [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
 - [CharlieEtienne/material-github](https://github.com/CharlieEtienne/material-github) - A Material Dark Theme for GitHub
-- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment. Preparing Joyful Desktop v4 // Renaissance
+- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment. Preparing Joyful Desktop v4
 - [gruvbox-community/gruvbox-contrib](https://github.com/gruvbox-community/gruvbox-contrib) - Ports of the gruvbox colorscheme
 - [morpheusthewhite/spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify (https://github.com/khanhas/spicetify-cli)
 
@@ -888,7 +888,6 @@
 - [afreakk/dmenuhistory](https://github.com/afreakk/dmenuhistory) - History for dmenu, fzf and rofi -dmenu type applications (show most frequently accessed on top)
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [fosskers/aura](https://github.com/fosskers/aura) - A secure, multilingual package manager for Arch Linux and the AUR.
-- [pbrisbin/dotfiles](https://github.com/pbrisbin/dotfiles) - My main configuration files
 - [lettier/gifcurry](https://github.com/lettier/gifcurry) - 😎 The open-source, Haskell-built video editor for GIF makers.
 - [ehamberg/9m](https://github.com/ehamberg/9m) - 9m Unicode URL Shortener
 - [vimus/vimus](https://github.com/vimus/vimus) - An MPD client with vim-like key bindings, written in Haskell
@@ -1382,6 +1381,7 @@
 
 ## Python 
 
+- [larmedina75/pulseaudio-equalizer-ladspa](https://github.com/larmedina75/pulseaudio-equalizer-ladspa) - Pulseaudio LADSPA Equalizer
 - [gabomdq/SDL_GameControllerDB](https://github.com/gabomdq/SDL_GameControllerDB) - A community sourced database of game controller mappings to be used with SDL2 Game Controller functionality
 - [baskerville/diana](https://github.com/baskerville/diana) - A command line interface to the aria2 daemon
 - [yixuanzhou/image2latex](https://github.com/yixuanzhou/image2latex) - A tool to convert math equation images to LaTeX markup
@@ -1439,7 +1439,7 @@
 - [Dniel97/RedSea](https://github.com/Dniel97/RedSea) - Music downloader for Tidal, revived, revived, revived and modded to download Dolby Atmos
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader) - Download 'TIDAL' Music On Windows/Linux/MacOs (PYTHON/C#)
-- [cliegargo/pwy](https://github.com/cliegargo/pwy) - :partly_sunny: A simple weather tool.
+- [cliegargo/pwy](https://github.com/cliegargo/pwy) - :partly_sunny: A simple weather information tool.
 - [popey/sosumi-snap](https://github.com/popey/sosumi-snap) - 
 - [hchargois/gohufont](https://github.com/hchargois/gohufont) - A monospace bitmap font.
 - [ExposedCat/Meowgram](https://github.com/ExposedCat/Meowgram) - Telegram client written in GTK & Python
@@ -1845,6 +1845,8 @@
 
 ## Shell 
 
+- [MunifTanjim/zed](https://github.com/MunifTanjim/zed) - ZSH Plugin Manager
+- [ungoogled-software/ungoogled-chromium-debian](https://github.com/ungoogled-software/ungoogled-chromium-debian) - Debian, Ubuntu, and others packaging for ungoogled-chromium
 - [denysvitali/covid-cert-analysis](https://github.com/denysvitali/covid-cert-analysis) - 
 - [n0tsteve/glorious-dots](https://github.com/n0tsteve/glorious-dots) - My personal dotfiles
 - [tadly/hideIt.sh](https://github.com/tadly/hideIt.sh) - Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
@@ -2025,6 +2027,7 @@
 - [windwp/rofi-color-picker](https://github.com/windwp/rofi-color-picker) - 
 - [sdushantha/tmpsms](https://github.com/sdushantha/tmpsms) - A temporary SMS utility right from your terminal written in POSIX sh
 - [kusky3/bookmenu](https://github.com/kusky3/bookmenu) - Browse and download ebooks from your terminal.
+- [pbrisbin/dotfiles](https://github.com/pbrisbin/dotfiles) - My main configuration files
 - [mlvzk/discocss](https://github.com/mlvzk/discocss) - A tiny Discord css-injector for Linux and MacOS.
 - [lemnos/theme.sh](https://github.com/lemnos/theme.sh) - A script which lets you set your $terminal theme.
 - [odilonscoelho/dots](https://github.com/odilonscoelho/dots) - Meus scripts
