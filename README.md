@@ -665,7 +665,7 @@
 - [privacyone/breeze-core](https://github.com/privacyone/breeze-core) - 
 - [Jorengarenar/RedditOldRedesignedDark](https://github.com/Jorengarenar/RedditOldRedesignedDark) - Dark theme for Reddit Old
 - [jakebian/kan](https://github.com/jakebian/kan) - Kan: A browser extension for reading nLab
-- [yukizsh/adwaita-rounded](https://github.com/yukizsh/adwaita-rounded) - A patch to round the bottom corners of the Adwaita theme.
+- [owozsh/adwaita-rounded](https://github.com/owozsh/adwaita-rounded) - A patch to round the bottom corners of the Adwaita theme.
 - [StylishThemes/StackOverflow-Dark](https://github.com/StylishThemes/StackOverflow-Dark) - 📚 Dark theme for Stack Overflow & most Stack Exchange network sites
 - [Brettm12345/github-moonlight](https://github.com/Brettm12345/github-moonlight) - A beatiful dark blue userstyle for GItHub. Made with :heart:
 - [elkowar/dots-of-war](https://github.com/elkowar/dots-of-war) - My dotfiles, mostly. This is the wild west. don't expect to understand this mess. Don't try to understand this mess. This serves as a good way to backup my configs, nothing more.
@@ -1102,7 +1102,7 @@
 
 - [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim) - Neovim motions on speed!
 - [harvardnlp/im2markup](https://github.com/harvardnlp/im2markup) - Neural model for converting Image-to-Markup (by Yuntian Deng github.com/da03)
-- [ChocolateBread799/Awesomewm_Dotfile](https://github.com/ChocolateBread799/Awesomewm_Dotfile) - 
+- [ChocolateBread799/Awesomewm_Dotfile](https://github.com/ChocolateBread799/Awesomewm_Dotfile) - My Awesomewm dotfile
 - [alesan99/mari0_ae](https://github.com/alesan99/mari0_ae) - Mari0: Alesan99's Entities
 - [Stabyourself/mari0](https://github.com/Stabyourself/mari0) - Mario + Portal platformer
 - [Mari0-CE/Mari0-Community-Edition](https://github.com/Mari0-CE/Mari0-Community-Edition) - A community-driven effort to fix and polish the latest version of Mari0:SE
@@ -1420,7 +1420,6 @@
 - [Davidy22/SkunkBooth](https://github.com/Davidy22/SkunkBooth) - Text based command line webcam photobooth app
 - [jumper149/blugon](https://github.com/jumper149/blugon) - simple and configurable Blue Light Filter for X
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
-- [NNBnh/dots](https://github.com/NNBnh/dots) - 📂 Đotfiles that SuperB (WIP)
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [nsupdate-info/nsupdate.info](https://github.com/nsupdate-info/nsupdate.info) - Dynamic DNS service
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
@@ -1522,7 +1521,7 @@
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [mhtghn/Luricifer](https://github.com/mhtghn/Luricifer) - A simple CLI tool to fetch lyrics from AZlyrics of the playing Spotify song
 - [mhinz/neovim-remote](https://github.com/mhinz/neovim-remote) - :ok_hand: Support for --remote and friends.
-- [ful1e5/XCursor-pro](https://github.com/ful1e5/XCursor-pro) - 💅 Modern X11 Cursor Theme
+- [ful1e5/XCursor-pro](https://github.com/ful1e5/XCursor-pro) - Modern X11 Cursor Theme
 - [karlch/vimiv-qt](https://github.com/karlch/vimiv-qt) - An image viewer with vim-like keybindings
 - [karlch/vimiv](https://github.com/karlch/vimiv) - An image viewer with vim-like keybindings.
 - [lahwaacz/Scripts](https://github.com/lahwaacz/Scripts) - 
@@ -1776,7 +1775,7 @@
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [sassman/t-rec-rs](https://github.com/sassman/t-rec-rs) - Blazingly fast terminal recorder that generates animated gif images for the web written in rust
 - [deltachat/deltachat-core-rust](https://github.com/deltachat/deltachat-core-rust) - Delta Chat Rust Core library, used by Android/iOS/desktop apps and bindings
-- [KaiJewson/aspotify](https://github.com/KaiJewson/aspotify) - Asynchronous client for the Spotify API
+- [KaiJewson/aspotify](https://github.com/KaiJewson/aspotify) - Deprecated in favour of rspotify: https://github.com/ramsayleung/rspotify
 - [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
 - [PorkSausages/tfex-rs](https://github.com/PorkSausages/tfex-rs) - A simple terminal UI file manager
 - [TerminalWitchcraft/marcos](https://github.com/TerminalWitchcraft/marcos) - :notebook: Command line file manager in Rust with VIM-inspired key-bindings
@@ -1894,6 +1893,7 @@
 - [amanhr/dotfiles](https://github.com/amanhr/dotfiles) - *nix config files, managed with GNU Stow.
 - [fmash16/ssg5](https://github.com/fmash16/ssg5) - My custom script for a posix compliable static site generator built by Roman Zolotarev
 - [timb-machine/linux-malware](https://github.com/timb-machine/linux-malware) - Tracking interesting Linux (and UNIX) malware. Send PRs
+- [NNBnh/dots](https://github.com/NNBnh/dots) - 📂 Đotfiles that SuperB (WIP)
 - [ipfs/ipget](https://github.com/ipfs/ipget) - Retrieve files over IPFS and save them locally.
 - [RichiH/vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
 - [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
