@@ -1203,7 +1203,7 @@
 
 ## Objective-C++ 
 
-- [Sweets/mxfw](https://github.com/Sweets/mxfw) - Framework window manager for macOS
+- [Sweets/mx](https://github.com/Sweets/mx) - Framework window manager for macOS
 - [KenjiTakahashi/pacmixer](https://github.com/KenjiTakahashi/pacmixer) - an alsamixer alike for PulseAudio.
 
 ## OpenSCAD 
@@ -1851,7 +1851,7 @@
 
 ## Shell 
 
-- [axyl-os/axyl-iso](https://github.com/axyl-os/axyl-iso) - Axyl OS iso source
+- [axyl-os/axyl-iso](https://github.com/axyl-os/axyl-iso) - Axyl is a Linux distro centered on tiling window managers. Choose from i3, bspwm, dwm and more.
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [MunifTanjim/zed](https://github.com/MunifTanjim/zed) - ZSH Plugin Manager
 - [ungoogled-software/ungoogled-chromium-debian](https://github.com/ungoogled-software/ungoogled-chromium-debian) - Debian, Ubuntu, and others packaging for ungoogled-chromium
