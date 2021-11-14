@@ -1614,7 +1614,7 @@
 - [srsudar/eg](https://github.com/srsudar/eg) - Useful examples at the command line.
 - [vimsence/vimsence](https://github.com/vimsence/vimsence) - Discord Rich Presence plugin for Vim
 - [gnome-terminator/terminator](https://github.com/gnome-terminator/terminator) - multiple GNOME terminals in one window
-- [mathics/Mathics](https://github.com/mathics/Mathics) - This repository if for archival. Please see https://github.com/Mathics3/mathics-core
+- [mathics/Mathics](https://github.com/mathics/Mathics) - This repository is for archival. Please see https://github.com/Mathics3/mathics-core
 - [XayOn/katcr](https://github.com/XayOn/katcr) - Search in multiple torrent sites from your CLI
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [rndusr/stig](https://github.com/rndusr/stig) - TUI and CLI for the BitTorrent client Transmission
@@ -1851,6 +1851,7 @@
 
 ## Shell 
 
+- [kusky3/consoom](https://github.com/kusky3/consoom) - Consoom plebbit a sxiv $1 at a time
 - [axyl-os/axyl-iso](https://github.com/axyl-os/axyl-iso) - Axyl is a Linux distro centered on tiling window managers. Choose from i3, bspwm, dwm and more.
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [MunifTanjim/zed](https://github.com/MunifTanjim/zed) - ZSH Plugin Manager
