@@ -927,6 +927,7 @@
 
 ## JavaScript 
 
+- [Jelmerro/Garlmap](https://github.com/Jelmerro/Garlmap) - Garlmap is the Gapless Almighty Rule-based Logical Mpv Audio Player
 - [DistroBoard/DistroBoard](https://github.com/DistroBoard/DistroBoard) - A modern and opensource alternative to distrowatch.
 - [fosscord/fosscord-client](https://github.com/fosscord/fosscord-client) - Open source, themeable and extendable discord-compatible native fosscord client
 - [fosscord/fosscord](https://github.com/fosscord/fosscord) - Fosscord is a free open source selfhostable discord compatible communication platform
@@ -1851,7 +1852,8 @@
 
 ## Shell 
 
-- [kusky3/consoom](https://github.com/kusky3/consoom) - Consoom plebbit a sxiv $1 at a time
+- [BachoSeven/mimi](https://github.com/BachoSeven/mimi) - better xdg-open
+- [kusky3/consoom](https://github.com/kusky3/consoom) - blazing fast plebbit consooming
 - [axyl-os/axyl-iso](https://github.com/axyl-os/axyl-iso) - Axyl is a Linux distro centered on tiling window managers. Choose from i3, bspwm, dwm and more.
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [MunifTanjim/zed](https://github.com/MunifTanjim/zed) - ZSH Plugin Manager
