@@ -118,6 +118,7 @@
 
 ## C 
 
+- [bakkeby/dusk](https://github.com/bakkeby/dusk) - Just another fork of dwm
 - [fabiensanglard/chocolate_duke3D](https://github.com/fabiensanglard/chocolate_duke3D) - chocolate Duke Nukem,3D
 - [Kameldieb/terminal_minecraft](https://github.com/Kameldieb/terminal_minecraft) - 
 - [RinCat/RTL88x2BU-Linux-Driver](https://github.com/RinCat/RTL88x2BU-Linux-Driver) - Realtek RTL88x2BU WiFi USB Driver for Linux
@@ -1388,6 +1389,7 @@
 
 ## Python 
 
+- [jellyfin/mopidy-jellyfin](https://github.com/jellyfin/mopidy-jellyfin) - Jellyfin Extension for Mopidy
 - [flathub/com.spotify.Client](https://github.com/flathub/com.spotify.Client) - 
 - [larmedina75/pulseaudio-equalizer-ladspa](https://github.com/larmedina75/pulseaudio-equalizer-ladspa) - Pulseaudio LADSPA Equalizer
 - [gabomdq/SDL_GameControllerDB](https://github.com/gabomdq/SDL_GameControllerDB) - A community sourced database of game controller mappings to be used with SDL2 Game Controller functionality
@@ -1855,6 +1857,7 @@
 
 ## Shell 
 
+- [TheRealKizu/dotfiles](https://github.com/TheRealKizu/dotfiles) - 🍚 my dootfiles on my daily driver.
 - [JLErvin/dotfiles](https://github.com/JLErvin/dotfiles) - Configuration files for arch linux and macOS
 - [BachoSeven/mimi](https://github.com/BachoSeven/mimi) - better xdg-open
 - [kusky3/consoom](https://github.com/kusky3/consoom) - blazing fast plebbit consooming
