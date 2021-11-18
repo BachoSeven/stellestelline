@@ -318,7 +318,7 @@
 - [muccc/scrollback](https://github.com/muccc/scrollback) - scrollback buffer program for terminals
 - [kohler/xwrits](https://github.com/kohler/xwrits) - Wrist break reminders for X windows
 - [deadpixi/mtm](https://github.com/deadpixi/mtm) - Perhaps the smallest useful terminal multiplexer in the world.
-- [siduck/st](https://github.com/siduck/st) - sexy terminal (suckless)
+- [siduck/st](https://github.com/siduck/st) - snazzy terminal (suckless)
 - [officialcactar/colors](https://github.com/officialcactar/colors) - 
 - [corellium/linux-m1](https://github.com/corellium/linux-m1) - Linux kernel source tree
 - [prikhi/lightdm-mini-greeter](https://github.com/prikhi/lightdm-mini-greeter) - A Minimal, Configurable, Single-User GTK3 LightDM Greeter
@@ -1664,6 +1664,7 @@
 
 ## Rust 
 
+- [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
 - [svenstaro/memefs](https://github.com/svenstaro/memefs) - Mount your memes using FUSE
 - [redox-os/orbtk](https://github.com/redox-os/orbtk) - The Rust UI-Toolkit.
@@ -2030,7 +2031,7 @@
 - [OliverLew/dotfiles](https://github.com/OliverLew/dotfiles) - Linux configuration files (dotfiles) and some useful scripts
 - [sdushantha/fontpreview](https://github.com/sdushantha/fontpreview) - Highly customizable and minimal font previewer written in bash
 - [sdushantha/farge](https://github.com/sdushantha/farge) - Click on a pixel on your screen and show its color value
-- [Z5483/gtcf](https://github.com/Z5483/gtcf) - gentoo configuration
+- [khuei/gtcf](https://github.com/khuei/gtcf) - gentoo configuration
 - [fdietze/dotfiles](https://github.com/fdietze/dotfiles) - 
 - [jstkdng/aur](https://github.com/jstkdng/aur) - AUR packages I maintain and co-maintain
 - [toltec-dev/toltec](https://github.com/toltec-dev/toltec) - Community-maintained repository of free software for the reMarkable tablet.
