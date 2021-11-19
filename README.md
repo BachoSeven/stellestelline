@@ -487,6 +487,7 @@
 
 ## C++ 
 
+- [jfedor2/two-ball-trackball](https://github.com/jfedor2/two-ball-trackball) - DIY trackball with two balls
 - [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
 - [fabiensanglard/Another-World-Bytecode-Interpreter](https://github.com/fabiensanglard/Another-World-Bytecode-Interpreter) - "Fabother World" an interpreter for Another World (Out of this world).
 - [pgaskin/NickelMenu](https://github.com/pgaskin/NickelMenu) - The easiest way to launch scripts, change settings, and run actions on Kobo e-readers.
