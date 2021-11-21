@@ -118,6 +118,9 @@
 
 ## C 
 
+- [Serranya/deadbeef-mpris2-plugin](https://github.com/Serranya/deadbeef-mpris2-plugin) - A rewrite of the seemingly orphaned deadbeef-mpris-plugin originally  written by HuangCongyu
+- [cboxdoerfer/ddb_spectrogram](https://github.com/cboxdoerfer/ddb_spectrogram) - Spectrogram plugin for DeaDBeeF audio player
+- [saivert/ddb_misc_headerbar_GTK3](https://github.com/saivert/ddb_misc_headerbar_GTK3) - Adds a headerbar to your DeaDBeeF.
 - [bakkeby/dusk](https://github.com/bakkeby/dusk) - Just another fork of dwm
 - [fabiensanglard/chocolate_duke3D](https://github.com/fabiensanglard/chocolate_duke3D) - chocolate Duke Nukem,3D
 - [Kameldieb/terminal_minecraft](https://github.com/Kameldieb/terminal_minecraft) - 
@@ -385,7 +388,7 @@
 - [dylanaraps/paleta](https://github.com/dylanaraps/paleta) - Change terminal colors on-the-fly independent of terminal emulator.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [skyjake/lagrange](https://github.com/skyjake/lagrange) - A Beautiful Gemini Client
-- [open-sdr/openwifi](https://github.com/open-sdr/openwifi) - open-source 802.11 WiFi baseband chip/FPGA design
+- [open-sdr/openwifi](https://github.com/open-sdr/openwifi) - open-source IEEE 802.11 WiFi baseband FPGA (chip) design
 - [klange/toaruos](https://github.com/klange/toaruos) - A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network stack, etc.
 - [plasmoduck/suckless](https://github.com/plasmoduck/suckless) - Suckless software collection
 - [zavg/linux-0.01](https://github.com/zavg/linux-0.01) - Historically first (actually 0.01) release of linux kernel made by Linus Torvalds
@@ -923,13 +926,14 @@
 - [yeokm1/docs-to-pdf-converter](https://github.com/yeokm1/docs-to-pdf-converter) - A standalone Java library/command line tool that converts DOC, DOCX, PPT, PPTX and ODT documents to PDF files.
 - [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Traditional roguelike game with pixel-art graphics and simple interface
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
-- [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - A sandbox tower defense game
+- [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense game
 - [ubergeek42/weechat-android](https://github.com/ubergeek42/weechat-android) - Simple Weechat-Relay Android Client
 - [Telegram-FOSS-Team/Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Unofficial, FOSS-friendly fork of the original Telegram client for Android
 - [Dar9586/NClientV2](https://github.com/Dar9586/NClientV2) - An unofficial NHentai android client
 
 ## JavaScript 
 
+- [enjeck/num2math](https://github.com/enjeck/num2math) - Generate a complicated math expression that results in a number
 - [linuxmint/cinnamon-spices-extensions](https://github.com/linuxmint/cinnamon-spices-extensions) - Extensions for the Cinnamon desktop
 - [lesspass/lesspass](https://github.com/lesspass/lesspass) - :key: stateless open source password manager
 - [Jelmerro/Garlmap](https://github.com/Jelmerro/Garlmap) - Garlmap is the Gapless Almighty Rule-based Logical Mpv Audio Player
@@ -1391,6 +1395,7 @@
 
 ## Python 
 
+- [quodlibet/quodlibet](https://github.com/quodlibet/quodlibet) - Music player and music library manager for Linux, Windows, and macOS
 - [aziis98/pyke](https://github.com/aziis98/pyke) - A small clone of GNU Make based on file checksums
 - [jellyfin/mopidy-jellyfin](https://github.com/jellyfin/mopidy-jellyfin) - Jellyfin Extension for Mopidy
 - [flathub/com.spotify.Client](https://github.com/flathub/com.spotify.Client) - 
@@ -1582,7 +1587,7 @@
 - [jarun/ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal
 - [bulletmark/libinput-gestures](https://github.com/bulletmark/libinput-gestures) - Actions gestures on your touchpad using libinput
 - [Jugran/lyrics-in-terminal](https://github.com/Jugran/lyrics-in-terminal) - Python curses application to view lyrics of current playing song in terminal.
-- [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Material Based Cursors.
+- [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Opensource, compact, and material-designed cursor set.
 - [matrix-org/matrix-synapse-ldap3](https://github.com/matrix-org/matrix-synapse-ldap3) - An LDAP3 auth provider for Synapse
 - [Askannz/optimus-manager](https://github.com/Askannz/optimus-manager) - A Linux program to handle GPU switching on Optimus laptops.
 - [slavfox/Cozette](https://github.com/slavfox/Cozette) - A bitmap programming font optimized for coziness 💜
