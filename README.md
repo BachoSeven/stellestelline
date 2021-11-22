@@ -118,6 +118,7 @@
 
 ## C 
 
+- [mariusor/mpris-scrobbler](https://github.com/mariusor/mpris-scrobbler) - Minimalistic user daemon which submits the currently playing song to listenbrainz.org, libre.fm and last.fm services.
 - [Serranya/deadbeef-mpris2-plugin](https://github.com/Serranya/deadbeef-mpris2-plugin) - A rewrite of the seemingly orphaned deadbeef-mpris-plugin originally  written by HuangCongyu
 - [cboxdoerfer/ddb_spectrogram](https://github.com/cboxdoerfer/ddb_spectrogram) - Spectrogram plugin for DeaDBeeF audio player
 - [saivert/ddb_misc_headerbar_GTK3](https://github.com/saivert/ddb_misc_headerbar_GTK3) - Adds a headerbar to your DeaDBeeF.
@@ -321,7 +322,7 @@
 - [muccc/scrollback](https://github.com/muccc/scrollback) - scrollback buffer program for terminals
 - [kohler/xwrits](https://github.com/kohler/xwrits) - Wrist break reminders for X windows
 - [deadpixi/mtm](https://github.com/deadpixi/mtm) - Perhaps the smallest useful terminal multiplexer in the world.
-- [siduck/st](https://github.com/siduck/st) - snazzy terminal (suckless)
+- [siduck/st](https://github.com/siduck/st) - snazzy terminal (suckless + lightweight)
 - [officialcactar/colors](https://github.com/officialcactar/colors) - 
 - [corellium/linux-m1](https://github.com/corellium/linux-m1) - Linux kernel source tree
 - [prikhi/lightdm-mini-greeter](https://github.com/prikhi/lightdm-mini-greeter) - A Minimal, Configurable, Single-User GTK3 LightDM Greeter
@@ -490,6 +491,7 @@
 
 ## C++ 
 
+- [hrkfdn/mpdas](https://github.com/hrkfdn/mpdas) - MPD AudioScrobbler written in C++ using libcurl
 - [jfedor2/two-ball-trackball](https://github.com/jfedor2/two-ball-trackball) - DIY trackball with two balls
 - [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
 - [fabiensanglard/Another-World-Bytecode-Interpreter](https://github.com/fabiensanglard/Another-World-Bytecode-Interpreter) - "Fabother World" an interpreter for Another World (Out of this world).
@@ -843,6 +845,7 @@
 
 ## HTML 
 
+- [phc-dm/content-poisson](https://github.com/phc-dm/content-poisson) - Tutti i contenuti inseriti in Poisson e.g. articoli, guide, ecc.
 - [distrolist/distrolist.github.io](https://github.com/distrolist/distrolist.github.io) - FOSS distrowatch alternative
 - [xero/0.xxe.ro](https://github.com/xero/0.xxe.ro) - random images
 - [ritheshkumar95/im2latex-tensorflow](https://github.com/ritheshkumar95/im2latex-tensorflow) - Tensorflow implementation of the HarvardNLP paper - What You Get Is What You See: A Visual Markup Decompiler (https://arxiv.org/pdf/1609.04938v1.pdf)
@@ -1224,6 +1227,8 @@
 
 ## Others 
 
+- [phc-dm/documentazione](https://github.com/phc-dm/documentazione) - Repository principale per la documentazione di ogni cosa presente nel PHC.
+- [phc-dm/forum](https://github.com/phc-dm/forum) - Forum di domande-risposta open soruce con wiki integrata (In cerca di una vero nome)
 - [NNBnh/bangs4all](https://github.com/NNBnh/bangs4all) - 
 - [jnmcfly/awesome-startpage](https://github.com/jnmcfly/awesome-startpage) - This is a carefully compiled list of remarkable projects with the focus on startpages.
 - [TemporalAgent7/awesome-windows-privacy](https://github.com/TemporalAgent7/awesome-windows-privacy) - A list of awesome tools, documentation and scripts for better privacy on Microsoft Windows
@@ -1395,6 +1400,7 @@
 
 ## Python 
 
+- [easylist/easylist](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
 - [quodlibet/quodlibet](https://github.com/quodlibet/quodlibet) - Music player and music library manager for Linux, Windows, and macOS
 - [aziis98/pyke](https://github.com/aziis98/pyke) - A small clone of GNU Make based on file checksums
 - [jellyfin/mopidy-jellyfin](https://github.com/jellyfin/mopidy-jellyfin) - Jellyfin Extension for Mopidy
@@ -1866,6 +1872,7 @@
 
 ## Shell 
 
+- [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [TheRealKizu/dotfiles](https://github.com/TheRealKizu/dotfiles) - 🍚 my dootfiles on my daily driver.
 - [JLErvin/dotfiles](https://github.com/JLErvin/dotfiles) - Configuration files for arch linux and macOS
@@ -2210,6 +2217,7 @@
 
 ## TypeScript 
 
+- [ckissane/blur-me](https://github.com/ckissane/blur-me) - Extension that adds a blur look to applications and to different parts of the GNOME Shell, including the top panel, dash and overview
 - [Alissonsleal/TwitchSubVod](https://github.com/Alissonsleal/TwitchSubVod) - Watch any sub-only Twitch VOD for free. You can also find deleted clips or Twitch VODS. Just insert the streamer username and select a video to watch. You can also download Twitch Clips with this application.
 - [xbrowsersync/api](https://github.com/xbrowsersync/api) - Server-side REST API that serves requests from xBrowserSync client apps
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
