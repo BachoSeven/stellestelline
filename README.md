@@ -936,7 +936,7 @@
 
 ## JavaScript 
 
-- [enjeck/num2math](https://github.com/enjeck/num2math) - Generate a complicated math expression that results in a number
+- [enjeck/num2math](https://github.com/enjeck/num2math) - Complicated math expression generator
 - [linuxmint/cinnamon-spices-extensions](https://github.com/linuxmint/cinnamon-spices-extensions) - Extensions for the Cinnamon desktop
 - [lesspass/lesspass](https://github.com/lesspass/lesspass) - :key: stateless open source password manager
 - [Jelmerro/Garlmap](https://github.com/Jelmerro/Garlmap) - Garlmap is the Gapless Almighty Rule-based Logical Mpv Audio Player
@@ -1133,7 +1133,7 @@
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [notomo/gesture.nvim](https://github.com/notomo/gesture.nvim) - Mouse gesture plugin for neovim
 - [wooosh/dots](https://github.com/wooosh/dots) - 
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast.
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast.
 - [GoldsteinE/compe-latex-symbols](https://github.com/GoldsteinE/compe-latex-symbols) - Autocomplete LaTeX symbol into your text via nvim-compe
 - [hrsh7th/nvim-compe](https://github.com/hrsh7th/nvim-compe) - Auto completion Lua plugin for nvim
 - [folke/zen-mode.nvim](https://github.com/folke/zen-mode.nvim) - 🧘  Distraction-free coding for Neovim
@@ -1678,6 +1678,7 @@
 
 ## Rust 
 
+- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
 - [svenstaro/memefs](https://github.com/svenstaro/memefs) - Mount your memes using FUSE
