@@ -118,6 +118,7 @@
 
 ## C 
 
+- [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image” format for fast, lossless image compression
 - [mariusor/mpris-scrobbler](https://github.com/mariusor/mpris-scrobbler) - Minimalistic user daemon which submits the currently playing song to listenbrainz.org, libre.fm and last.fm services.
 - [Serranya/deadbeef-mpris2-plugin](https://github.com/Serranya/deadbeef-mpris2-plugin) - A rewrite of the seemingly orphaned deadbeef-mpris-plugin originally  written by HuangCongyu
 - [cboxdoerfer/ddb_spectrogram](https://github.com/cboxdoerfer/ddb_spectrogram) - Spectrogram plugin for DeaDBeeF audio player
@@ -1474,7 +1475,7 @@
 - [Xpra-org/xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
 - [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
 - [Kent-Lee/deviantart-scraper](https://github.com/Kent-Lee/deviantart-scraper) - personal project for downloading artworks from DeviantArt
-- [mlvnt/deviantart-scraper](https://github.com/mlvnt/deviantart-scraper) - Download complete deviantart galleries
+- [mlvnt/mdvs](https://github.com/mlvnt/mdvs) - Download complete deviantart galleries
 - [hydrusnetwork/hydrus](https://github.com/hydrusnetwork/hydrus) - A personal booru-style media tagger that can import files and tags from your hard drive and popular websites. Content can be shared with other users via user-run servers.
 - [CuddleBear92/Hydrus-Presets-and-Scripts](https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts) - collection of presets and scripts for Hydrus
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
