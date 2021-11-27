@@ -491,6 +491,7 @@
 
 ## C++ 
 
+- [gokulmaxi/vantage](https://github.com/gokulmaxi/vantage) - 
 - [hrkfdn/mpdas](https://github.com/hrkfdn/mpdas) - MPD AudioScrobbler written in C++ using libcurl
 - [jfedor2/two-ball-trackball](https://github.com/jfedor2/two-ball-trackball) - DIY trackball with two balls
 - [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
@@ -718,6 +719,7 @@
 
 ## Dart 
 
+- [UnicornsOnLSD/finamp](https://github.com/UnicornsOnLSD/finamp) - A Jellyfin music client for mobile
 - [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
 - [xournalpp/xournalpp_mobile](https://github.com/xournalpp/xournalpp_mobile) - Infinitely take notes, sketch and learn. Xournal++ Mobile is a port of Xournal++ files and features to various mobile platofrms and the web. Mirror of the Xournal++ Mobile repository on GitLab.
 - [dahliaOS/pangolin_desktop](https://github.com/dahliaOS/pangolin_desktop) - Pangolin Desktop UI shell, designed for dahliaOS, written in Flutter.
@@ -1200,6 +1202,7 @@
 
 ## Nim 
 
+- [codic12/worm](https://github.com/codic12/worm) - A floating, tag-based window manager written in Rust
 - [oakes/vim_cubed](https://github.com/oakes/vim_cubed) - Vim rendered on a cube for no reason
 
 ## Nix 
@@ -1635,6 +1638,7 @@
 - [srsudar/eg](https://github.com/srsudar/eg) - Useful examples at the command line.
 - [vimsence/vimsence](https://github.com/vimsence/vimsence) - Discord Rich Presence plugin for Vim
 - [gnome-terminator/terminator](https://github.com/gnome-terminator/terminator) - multiple GNOME terminals in one window
+- [webgefrickel/dotfiles](https://github.com/webgefrickel/dotfiles) - A collection of my dotfiles. Lot's of Vim, Mutt, tmux and zsh stuff in here.
 - [mathics/Mathics](https://github.com/mathics/Mathics) - This repository is for archival. Please see https://github.com/Mathics3/mathics-core
 - [XayOn/katcr](https://github.com/XayOn/katcr) - Search in multiple torrent sites from your CLI
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
@@ -1690,7 +1694,6 @@
 - [Morganamilo/paccat](https://github.com/Morganamilo/paccat) - Print pacman package files
 - [HEnquist/camilladsp](https://github.com/HEnquist/camilladsp) - A flexible cross-platform IIR and FIR engine for crossovers, room correction etc.
 - [minijackson/set_eq](https://github.com/minijackson/set_eq) - A command-line tool to manipulate PulseAudio's equalizers
-- [codic12/worm](https://github.com/codic12/worm) - A floating, tag-based window manager written in Rust
 - [sharkdp/binocle](https://github.com/sharkdp/binocle) - a graphical tool to visualize binary data
 - [Gerschtli/dwm-status](https://github.com/Gerschtli/dwm-status) - Highly performant and configurable DWM status service
 - [MustafaSalih1993/rsblocks](https://github.com/MustafaSalih1993/rsblocks) - A fast status-bar for dwm window manager written in Rust 🦀
@@ -1889,7 +1892,7 @@
 - [tadly/hideIt.sh](https://github.com/tadly/hideIt.sh) - Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
 - [dreemurrs-embedded/Pine64-Arch](https://github.com/dreemurrs-embedded/Pine64-Arch) - PKGBUILD for running Arch Linux on PinePhone/PineTab.
 - [hboetes/muzshic](https://github.com/hboetes/muzshic) - Since I couldn't find the ideal music playlist manager, I created my own scripts
-- [XelphLinux/xelph-iso](https://github.com/XelphLinux/xelph-iso) - 
+- [XelphLinux/xelph-iso](https://github.com/XelphLinux/xelph-iso) - Moving soon to - https://gitlab.xelphlinux.com
 - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
 - [deajan/osync](https://github.com/deajan/osync) - A robust two way (bidirectional) file sync script based on rsync with fault tolerance, POSIX ACL support, time control and near realtime sync
 - [d-wid/pipewire-eq-startup-script](https://github.com/d-wid/pipewire-eq-startup-script) - Simple-ish script which starts an equaliser under pipewire and connects a real output device to it as well as a virtual device to relay applications' sound to the equaliser.
@@ -2355,7 +2358,6 @@
 - [gruvbox-community/gruvbox](https://github.com/gruvbox-community/gruvbox) - Retro groove color scheme for Vim - community maintained edition
 - [Konfekt/vim-office](https://github.com/Konfekt/vim-office) - read common binary files, such as PDFs and those of Microsoft Office or LibreOffice, in Vim
 - [neg-serg/dotfiles](https://github.com/neg-serg/dotfiles) - My configs with whistles and bells
-- [webgefrickel/dotfiles](https://github.com/webgefrickel/dotfiles) - A collection of my dotfiles. Lot's of Vim, Mutt, tmux and zsh stuff in here.
 - [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more
 - [dbmrq/vim-ditto](https://github.com/dbmrq/vim-ditto) - :speak_no_evil: Stop repeating yourself
 - [VebbNix/lf-vim](https://github.com/VebbNix/lf-vim) - Vim syntax highlighting for lfrc
