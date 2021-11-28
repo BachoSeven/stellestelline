@@ -957,7 +957,7 @@
 - [ajbura/cinny](https://github.com/ajbura/cinny) - Yet another matrix client
 - [RetroShare/RSNewWebUI](https://github.com/RetroShare/RSNewWebUI) - 
 - [iainbeeston/tab-less](https://github.com/iainbeeston/tab-less) - An extension that disables tabs in your web browser
-- [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks across browsers via Nextcloud, WebDAV or Google Drive
+- [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers
 - [danieladov/jellyfin-plugin-skin-manager](https://github.com/danieladov/jellyfin-plugin-skin-manager) - Jellyfin Skin Manager is a plugin that helps you to download and install skins
 - [sandsmark/chrome-extension-unconfidential](https://github.com/sandsmark/chrome-extension-unconfidential) - Allows you to select and copy text from "confidential" emails in gmail. Security by idiocy.
 - [mozilla/multi-account-containers](https://github.com/mozilla/multi-account-containers) - Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
@@ -1202,7 +1202,7 @@
 
 ## Nim 
 
-- [codic12/worm](https://github.com/codic12/worm) - A floating, tag-based window manager written in Rust
+- [codic12/worm](https://github.com/codic12/worm) - A floating, tag-based window manager written in Nim
 - [oakes/vim_cubed](https://github.com/oakes/vim_cubed) - Vim rendered on a cube for no reason
 
 ## Nix 
