@@ -338,7 +338,7 @@
 - [sfauzia/dwm](https://github.com/sfauzia/dwm) - Configuration of the suckless window manager, dwm
 - [jordansissel/xdotool](https://github.com/jordansissel/xdotool) - fake keyboard/mouse input, window management, and more
 - [save196/dwm](https://github.com/save196/dwm) - Save's custom build of dwm
-- [serhanekicii/dwm](https://github.com/serhanekicii/dwm) - My build of dwm with all applied patches as individual branches merged to master. Mirror from my own git server.
+- [serhanekicii/dwm](https://github.com/serhanekicii/dwm) - My build of dwm.
 - [freundTech/bar](https://github.com/freundTech/bar) - bar ain't recursive - A lightweight xcb based bar. This is a fork that supports fontconfig
 - [daringer/asus-fan](https://github.com/daringer/asus-fan) - Kernel module to get/set (both) fan speed(s) on ASUS Zenbooks
 - [maandree/asroot](https://github.com/maandree/asroot) - [Feature complete] A simpler alternative to sudo and doas
@@ -461,6 +461,7 @@
 
 ## C# # 
 
+- [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with a focus for manga and the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.
 - [jackBonadies/SeekerAndroid](https://github.com/jackBonadies/SeekerAndroid) - Unofficial Soulseek Client for Android
 - [jellyfin/jellyfin-plugin-bookshelf](https://github.com/jellyfin/jellyfin-plugin-bookshelf) - 
 - [NoelFB/Celeste](https://github.com/NoelFB/Celeste) - Celeste Bugs & Issue Tracker + some Source Code
@@ -491,6 +492,7 @@
 
 ## C++ 
 
+- [Maldela/fancontrol-gui](https://github.com/Maldela/fancontrol-gui) - GUI for Fancontrol. It uses the KAuth module of the KDE Frameworks 5 to write the generated config file. Furthermore it communicates with systemd via dbus to control the fancontrol service. If you want to compile without systemd support set the -DNO_SYSTEMD option.
 - [gokulmaxi/vantage](https://github.com/gokulmaxi/vantage) - 
 - [hrkfdn/mpdas](https://github.com/hrkfdn/mpdas) - MPD AudioScrobbler written in C++ using libcurl
 - [jfedor2/two-ball-trackball](https://github.com/jfedor2/two-ball-trackball) - DIY trackball with two balls
@@ -568,7 +570,6 @@
 - [epoupon/lms](https://github.com/epoupon/lms) - Lightweight Music Server. Access your self-hosted music using a web interface.
 - [M4444/TMatrix](https://github.com/M4444/TMatrix) - Terminal based replica of the digital rain from The Matrix.
 - [akinomyoga/cxxmatrix](https://github.com/akinomyoga/cxxmatrix) - C++ Matrix: The Matrix Reloaded in Terminals (Number falls, Banners, Matrix rains, Conway's Game of Life and Mandelbrot set)
-- [archphile/mpd-manisiutkin](https://github.com/archphile/mpd-manisiutkin) - MPD Fork with SACD ISO support
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [ManiacalLabs/ArcadeTrackballMouse](https://github.com/ManiacalLabs/ArcadeTrackballMouse) - 
 - [mintsuki-org/justclipboard](https://github.com/mintsuki-org/justclipboard) - Bullshit-free clipboard manager.
@@ -1404,6 +1405,7 @@
 
 ## Python 
 
+- [YoyPa/isw](https://github.com/YoyPa/isw) - Ice-Sealed Wyvern
 - [easylist/easylist](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
 - [quodlibet/quodlibet](https://github.com/quodlibet/quodlibet) - Music player and music library manager for Linux, Windows, and macOS
 - [aziis98/pyke](https://github.com/aziis98/pyke) - A small clone of GNU Make based on file checksums
@@ -1683,6 +1685,8 @@
 
 ## Rust 
 
+- [vv9k/dockeye](https://github.com/vv9k/dockeye) - GUI app for managing Docker
+- [TheRawMeatball/meme-cli](https://github.com/TheRawMeatball/meme-cli) - 
 - [Tarnadas/smmdb-client](https://github.com/Tarnadas/smmdb-client) - 
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
