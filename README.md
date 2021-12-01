@@ -1203,7 +1203,7 @@
 
 ## Nim 
 
-- [codic12/worm](https://github.com/codic12/worm) - A floating, tag-based window manager written in Nim
+- [codic12/worm](https://github.com/codic12/worm) - A dynamic, tag-based window manager written in Nim
 - [oakes/vim_cubed](https://github.com/oakes/vim_cubed) - Vim rendered on a cube for no reason
 
 ## Nix 
@@ -1232,6 +1232,7 @@
 
 ## Others 
 
+- [chriskempson/base16](https://github.com/chriskempson/base16) - An architecture for building themes
 - [phc-dm/documentazione](https://github.com/phc-dm/documentazione) - Repository principale per la documentazione di ogni cosa presente nel PHC.
 - [phc-dm/forum](https://github.com/phc-dm/forum) - Forum di domande-risposta open soruce con wiki integrata (In cerca di una vero nome)
 - [NNBnh/bangs4all](https://github.com/NNBnh/bangs4all) - 
@@ -1882,6 +1883,8 @@
 
 ## Shell 
 
+- [lmburns/dotfiles-arch](https://github.com/lmburns/dotfiles-arch) - A separate repository for dotfiles on my linux machine
+- [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [tyzoid/btw](https://github.com/tyzoid/btw) - Correcting glaring omissions from BtwOS
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
