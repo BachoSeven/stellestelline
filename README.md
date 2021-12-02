@@ -756,6 +756,7 @@
 
 ## Go 
 
+- [harness/drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - Self-hostable , easy-to-use , lightweight and feature-rich torrent client written in Go . It comes with beautiful Web UI and Optional Multi-User Support . Run Locally or Host in Server . Open/Download/Stream Torrents in Browser Right Away!
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [jezek/xgb](https://github.com/jezek/xgb) - The X Go Binding is a low-level API to communicate with the X server. It is modeled on XCB and supports many X extensions.
@@ -1232,6 +1233,7 @@
 
 ## Others 
 
+- [Amog-OS/AmogOS](https://github.com/Amog-OS/AmogOS) - ඞ Among-us themed OS. As seen on Reddit and Youtube.
 - [chriskempson/base16](https://github.com/chriskempson/base16) - An architecture for building themes
 - [phc-dm/documentazione](https://github.com/phc-dm/documentazione) - Repository principale per la documentazione di ogni cosa presente nel PHC.
 - [phc-dm/forum](https://github.com/phc-dm/forum) - Forum di domande-risposta open soruce con wiki integrata (In cerca di una vero nome)
@@ -1609,7 +1611,7 @@
 - [RobertCsordas/linux-intel-undervolt-tool](https://github.com/RobertCsordas/linux-intel-undervolt-tool) - Scripts for undervolting 6+th gen Intel i* CPUs and their internal GPU.
 - [bexxmodd/vizex](https://github.com/bexxmodd/vizex) - Visualize disk space and disk usage in your UNIX\Linux terminal
 - [eonpatapon/mpDris2](https://github.com/eonpatapon/mpDris2) - MPRIS V2.1 support for mpd
-- [mia-0/0x0](https://github.com/mia-0/0x0) - No-bullshit file hosting and URL shortening service
+- [mia-0/0x0](https://github.com/mia-0/0x0) - No-bullshit file hosting and URL shortening service. Mirror of https://git.0x0.st/mia/0x0
 - [vinayak-mehta/present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [sammko/picomc](https://github.com/sammko/picomc) - A tiny CLI Minecraft launcher
@@ -1716,7 +1718,7 @@
 - [pop-os/launcher](https://github.com/pop-os/launcher) - Modular IPC-based desktop launcher service
 - [garak92/rearx](https://github.com/garak92/rearx) - A TUI client for the Searx meta-search engine, written in Rust
 - [p-e-w/ternimal](https://github.com/p-e-w/ternimal) - Simulate a lifeform in the terminal
-- [MusiKid/fancy](https://github.com/MusiKid/fancy) - Control your laptop fans with a fancy ( ͡° ͜ʖ ͡°) software (compatible with NBFC).
+- [musikid/fancy](https://github.com/musikid/fancy) - Control your laptop fans with a fancy ( ͡° ͜ʖ ͡°) software (compatible with NBFC).
 - [sagudev/lac](https://github.com/sagudev/lac) - Lossless Audio Checker
 - [Icelk/clipcat](https://github.com/Icelk/clipcat) - clipcat is a clipboard manager written in Rust Programming Language.
 - [xrelkd/clipcat](https://github.com/xrelkd/clipcat) - clipcat is a clipboard manager written in Rust Programming Language.
@@ -1929,7 +1931,7 @@
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [dylanaraps/barsh](https://github.com/dylanaraps/barsh) - Use your terminal as a bar
 - [archlinux/arch-install-scripts](https://github.com/archlinux/arch-install-scripts) - Useful scripts for installing Arch Linux
-- [MusiKid/acpi_ec](https://github.com/MusiKid/acpi_ec) - Kernel module to access directly to the ACPI EC.
+- [musikid/acpi_ec](https://github.com/musikid/acpi_ec) - Kernel module to access directly to the ACPI EC.
 - [evertiro/cdm](https://github.com/evertiro/cdm) - Console Display Manager
 - [amanhr/dotfiles](https://github.com/amanhr/dotfiles) - *nix config files, managed with GNU Stow.
 - [fmash16/ssg5](https://github.com/fmash16/ssg5) - My custom script for a posix compliable static site generator built by Roman Zolotarev
@@ -2031,7 +2033,7 @@
 - [channel-42/wppfzf](https://github.com/channel-42/wppfzf) - Browse and download images from reddit
 - [e-zk/dotfiles](https://github.com/e-zk/dotfiles) - got rice?
 - [e-zk/shlog](https://github.com/e-zk/shlog) - a static blog generator in /bin/sh: rewrite pending
-- [rayes0/scripts](https://github.com/rayes0/scripts) - collection of potentially useful shell and python scripts
+- [rayes0/scripts](https://github.com/rayes0/scripts) - collection of miscellaneous scripts
 - [uggedal/pkgs](https://github.com/uggedal/pkgs) - Arch Linux system configuration as PKGBUILDs
 - [yochananmarqos/pkgbuilds](https://github.com/yochananmarqos/pkgbuilds) - Personal PKGBUILDs
 - [Zayac-The-Engineer/lazywal-cli](https://github.com/Zayac-The-Engineer/lazywal-cli) - Animated wallpaper script around xwinwrap
