@@ -940,6 +940,7 @@
 
 ## JavaScript 
 
+- [dmi3/userscripts](https://github.com/dmi3/userscripts) - 
 - [enjeck/num2math](https://github.com/enjeck/num2math) - Complicated math expression generator
 - [linuxmint/cinnamon-spices-extensions](https://github.com/linuxmint/cinnamon-spices-extensions) - Extensions for the Cinnamon desktop
 - [lesspass/lesspass](https://github.com/lesspass/lesspass) - :key: stateless open source password manager
@@ -1582,7 +1583,7 @@
 - [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - 📃 Get lyrics of currently playing Spotify song so you don't sing along with the wrong ones and embarrass yourself later. Very fast.
 - [bugnano/rnr](https://github.com/bugnano/rnr) - The RNR File Manager (RNR's Not Ranger)
 - [njhofmann/arXivist](https://github.com/njhofmann/arXivist) - Command line interface for managing papers from arXiv on a local machine.
-- [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client that really works
+- [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client
 - [rhyst/idasen-controller](https://github.com/rhyst/idasen-controller) - A Python script to control the Ikea IDÅSEN, a rebranded Linak standing desk.
 - [newAM/idasen](https://github.com/newAM/idasen) - Python API and CLI for the ikea IDÅSEN desk.
 - [wustho/epr](https://github.com/wustho/epr) - CLI Epub Reader
@@ -1890,7 +1891,7 @@
 - [tyzoid/btw](https://github.com/tyzoid/btw) - Correcting glaring omissions from BtwOS
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
-- [TheRealKizu/dotfiles](https://github.com/TheRealKizu/dotfiles) - 🍚 my dootfiles on my daily driver.
+- [TheRealKizu/dotfiles](https://github.com/TheRealKizu/dotfiles) - 🍚 my dotfiles on my daily driver.
 - [JLErvin/dotfiles](https://github.com/JLErvin/dotfiles) - Configuration files for arch linux and macOS
 - [BachoSeven/mimi](https://github.com/BachoSeven/mimi) - better xdg-open
 - [kusky3/consoom](https://github.com/kusky3/consoom) - blazing fast plebbit consooming
