@@ -118,6 +118,10 @@
 
 ## C 
 
+- [0xdevil/CVE-2021-42008](https://github.com/0xdevil/CVE-2021-42008) - CVE-2021-42008: Exploiting A 16-Year-Old Vulnerability In The Linux 6pack Driver
+- [ivan386/Shareaza](https://github.com/ivan386/Shareaza) - Shareaza is a peer-to-peer client for Windows that allows you to download any file-type found on several popular P2P networks.
+- [gtk-gnutella/gtk-gnutella](https://github.com/gtk-gnutella/gtk-gnutella) - The Most Efficient Gnutella Client
+- [nbfc-linux/nbfc-linux](https://github.com/nbfc-linux/nbfc-linux) - NoteBook FanControl ported to Linux
 - [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image” format for fast, lossless image compression
 - [mariusor/mpris-scrobbler](https://github.com/mariusor/mpris-scrobbler) - Minimalistic user daemon which submits the currently playing song to listenbrainz.org, libre.fm and last.fm services.
 - [Serranya/deadbeef-mpris2-plugin](https://github.com/Serranya/deadbeef-mpris2-plugin) - A rewrite of the seemingly orphaned deadbeef-mpris-plugin originally  written by HuangCongyu
@@ -140,7 +144,6 @@
 - [mackstann/tinywm](https://github.com/mackstann/tinywm) - The tiniest window manager.
 - [kubo/injector](https://github.com/kubo/injector) - Library for injecting a shared library into a Linux or Windows process
 - [inferno-os/inferno-os](https://github.com/inferno-os/inferno-os) - Inferno® is a distributed operating system.  Inferno represents services and resources in a file-like name hierarchy, including devices, network and protocol interfaces, dynamic data sources, and services.Applications are written in a concurrent programming language, Limbo.
-- [flibitijibibo/kmquake2-tfol](https://github.com/flibitijibibo/kmquake2-tfol) - KMQuake2, hacked to death for TFOL
 - [unchilled/unlauncher](https://github.com/unchilled/unlauncher) - 
 - [rogerhinders/sprucewm](https://github.com/rogerhinders/sprucewm) - Window manager for X
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
@@ -174,7 +177,6 @@
 - [ashish-yadav11/st](https://github.com/ashish-yadav11/st) - My fork of st with proper scrolling support, text reflow and a few other additions.
 - [Nooo37/pinsel](https://github.com/Nooo37/pinsel) - Minimal screenshot annotation tool with lua config
 - [OpenBoardView/OpenBoardView](https://github.com/OpenBoardView/OpenBoardView) - View .brd files
-- [nbfc-linux/nbfc-linux](https://github.com/nbfc-linux/nbfc-linux) - NoteBook FanControl ported to Linux
 - [OpenPrinting/cups](https://github.com/OpenPrinting/cups) - OpenPrinting CUPS Sources
 - [henrypp/simplewall](https://github.com/henrypp/simplewall) - Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.
 - [fmash16/riscv_emulator](https://github.com/fmash16/riscv_emulator) - A basic working RISCV emulator written in C
@@ -467,6 +469,7 @@
 - [NoelFB/Celeste](https://github.com/NoelFB/Celeste) - Celeste Bugs & Issue Tracker + some Source Code
 - [adamburgess/celeste-high-frame-rate](https://github.com/adamburgess/celeste-high-frame-rate) - Celeste with uncapped frame time
 - [dmarcuse/CelesteUncapped](https://github.com/dmarcuse/CelesteUncapped) - Tool to remove framerate cap from Celeste
+- [PlummersSoftwareLLC/Primes](https://github.com/PlummersSoftwareLLC/Primes) - Prime Number Projects in C#/C++/Python
 - [UraniumDonut/nbfc-revive](https://github.com/UraniumDonut/nbfc-revive) - NoteBook FanControl
 - [qmk/qmk_toolbox](https://github.com/qmk/qmk_toolbox) - A Toolbox companion for QMK Firmware
 - [piotrderen/auCDtect-Frontend](https://github.com/piotrderen/auCDtect-Frontend) - gui interface to auCDtect.exe
@@ -853,7 +856,7 @@
 - [distrolist/distrolist.github.io](https://github.com/distrolist/distrolist.github.io) - FOSS distrowatch alternative
 - [xero/0.xxe.ro](https://github.com/xero/0.xxe.ro) - random images
 - [ritheshkumar95/im2latex-tensorflow](https://github.com/ritheshkumar95/im2latex-tensorflow) - Tensorflow implementation of the HarvardNLP paper - What You Get Is What You See: A Visual Markup Decompiler (https://arxiv.org/pdf/1609.04938v1.pdf)
-- [kennethcheo/startpage](https://github.com/kennethcheo/startpage) - Custom browser startpage
+- [kencx/startpage](https://github.com/kencx/startpage) - Custom browser startpage
 - [planetmath/00_General](https://github.com/planetmath/00_General) - 
 - [easychen/not-only-fans](https://github.com/easychen/not-only-fans) - an open source, self-hosted digital content subscription platform like `onlyfans.com`  with  cryptocurrency payment
 - [paulbismuth/nicotine-plus-docker](https://github.com/paulbismuth/nicotine-plus-docker) - 
@@ -1761,6 +1764,7 @@
 - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
 - [o2sh/miro](https://github.com/o2sh/miro) - My terminal emulator
 - [nelsonjchen/speedtest-rs](https://github.com/nelsonjchen/speedtest-rs) - speedtest-cli in Rust.
+- [xlmnxp/blue-recorder](https://github.com/xlmnxp/blue-recorder) - Simple Screen Recorder written in Rust based on Green Recorder
 - [RustemB/oxiide](https://github.com/RustemB/oxiide) - Lib for WM creation with Elm-like arch
 - [melix99/telegrand](https://github.com/melix99/telegrand) - A Telegram client for GNOME
 - [neXromancers/hacksaw](https://github.com/neXromancers/hacksaw) - hacksaw (Select Operation)
@@ -1880,7 +1884,6 @@
 
 - [addy-dclxvi/dotfiles](https://github.com/addy-dclxvi/dotfiles) - My personal backup of my dotfiles on ThinkPad-X230-Debian-Openbox and Aspire-A514-Debian-Fluxbox
 - [Phantas0s/.dotfiles](https://github.com/Phantas0s/.dotfiles) - :fireworks: Arch Linux with i3 / nvim / tmux / urxvt / zsh / ...
-- [xlmnxp/blue-recorder](https://github.com/xlmnxp/blue-recorder) - Simple Screen Recorder written in Rust based on Green Recorder
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 - [plattfot/pinentry-rofi](https://github.com/plattfot/pinentry-rofi) - Rofi frontend to pinentry
 
@@ -2219,7 +2222,6 @@
 - [latex3/latex2e](https://github.com/latex3/latex2e) - The LaTeX2e kernel
 - [snsmathlessons/Zannier1617](https://github.com/snsmathlessons/Zannier1617) - Corso di Zannier in Normale anni 2016/2017 (Funzioni Ellittiche e Modulari).
 - [severinlandolt/latex-thesis-template](https://github.com/severinlandolt/latex-thesis-template) - A LaTeX template for humans.
-- [PlummersSoftwareLLC/Primes](https://github.com/PlummersSoftwareLLC/Primes) - Prime Number Projects in C#/C++/Python
 - [fexed/Notes](https://github.com/fexed/Notes) - Appunti e note prese durante alcune lezioni e corsi
 - [plk/biber](https://github.com/plk/biber) - Backend processor for BibLaTeX
 - [drago-96/appunti](https://github.com/drago-96/appunti) - Appunti di corsi che ho seguito
