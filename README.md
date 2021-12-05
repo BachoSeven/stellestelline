@@ -495,6 +495,7 @@
 
 ## C++ 
 
+- [vaxerski/Hypr](https://github.com/vaxerski/Hypr) - Hypr is a tiling window manager written in modern C++.
 - [Maldela/fancontrol-gui](https://github.com/Maldela/fancontrol-gui) - GUI for Fancontrol. It uses the KAuth module of the KDE Frameworks 5 to write the generated config file. Furthermore it communicates with systemd via dbus to control the fancontrol service. If you want to compile without systemd support set the -DNO_SYSTEMD option.
 - [gokulmaxi/vantage](https://github.com/gokulmaxi/vantage) - 
 - [hrkfdn/mpdas](https://github.com/hrkfdn/mpdas) - MPD AudioScrobbler written in C++ using libcurl
