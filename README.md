@@ -1238,6 +1238,7 @@
 
 ## Others 
 
+- [glibg10b/ltt-linux-challenge-issues](https://github.com/glibg10b/ltt-linux-challenge-issues) - A list of issues Linus and Luke experienced during the LTT Linux Daily Driver Challenge
 - [Amog-OS/AmogOS](https://github.com/Amog-OS/AmogOS) - ඞ Among-us themed OS. As seen on Reddit and Youtube.
 - [chriskempson/base16](https://github.com/chriskempson/base16) - An architecture for building themes
 - [phc-dm/documentazione](https://github.com/phc-dm/documentazione) - Repository principale per la documentazione di ogni cosa presente nel PHC.
@@ -1648,7 +1649,6 @@
 - [srsudar/eg](https://github.com/srsudar/eg) - Useful examples at the command line.
 - [vimsence/vimsence](https://github.com/vimsence/vimsence) - Discord Rich Presence plugin for Vim
 - [gnome-terminator/terminator](https://github.com/gnome-terminator/terminator) - multiple GNOME terminals in one window
-- [webgefrickel/dotfiles](https://github.com/webgefrickel/dotfiles) - A collection of my dotfiles. Lot's of Vim, Mutt, tmux and zsh stuff in here.
 - [mathics/Mathics](https://github.com/mathics/Mathics) - This repository is for archival. Please see https://github.com/Mathics3/mathics-core
 - [XayOn/katcr](https://github.com/XayOn/katcr) - Search in multiple torrent sites from your CLI
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
@@ -2373,6 +2373,7 @@
 - [gruvbox-community/gruvbox](https://github.com/gruvbox-community/gruvbox) - Retro groove color scheme for Vim - community maintained edition
 - [Konfekt/vim-office](https://github.com/Konfekt/vim-office) - read common binary files, such as PDFs and those of Microsoft Office or LibreOffice, in Vim
 - [neg-serg/dotfiles](https://github.com/neg-serg/dotfiles) - My configs with whistles and bells
+- [webgefrickel/dotfiles](https://github.com/webgefrickel/dotfiles) - A collection of my dotfiles. Lot's of Vim, Mutt, tmux and zsh stuff in here.
 - [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more
 - [dbmrq/vim-ditto](https://github.com/dbmrq/vim-ditto) - :speak_no_evil: Stop repeating yourself
 - [VebbNix/lf-vim](https://github.com/VebbNix/lf-vim) - Vim syntax highlighting for lfrc
