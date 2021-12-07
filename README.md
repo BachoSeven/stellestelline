@@ -685,7 +685,6 @@
 - [elkowar/dots-of-war](https://github.com/elkowar/dots-of-war) - My dotfiles, mostly. This is the wild west. don't expect to understand this mess. Don't try to understand this mess. This serves as a good way to backup my configs, nothing more.
 - [Barbarossa93/Genome](https://github.com/Barbarossa93/Genome) - Desktop setup
 - [koalaman/linuxatemyram.com](https://github.com/koalaman/linuxatemyram.com) - The contents on linuxatemyram.com
-- [alanrey6/startpage-az](https://github.com/alanrey6/startpage-az) - Basic start page inspired by stpg.tk
 - [sadparadiseinhell/tea-green](https://github.com/sadparadiseinhell/tea-green) - Simple startpage with weather and to-do list features.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [salimundo/Pop-gruvbox](https://github.com/salimundo/Pop-gruvbox) - Gruvbox theme based on Pop OS compact theme for GTK 3.22
@@ -1049,6 +1048,7 @@
 - [mafintosh/peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client for node.js
 - [ItzBlitz98/torrentflix](https://github.com/ItzBlitz98/torrentflix) - Nodejs cli app to search torrent sites and stream using peerflix
 - [vector-im/hydrogen-web](https://github.com/vector-im/hydrogen-web) - Lightweight matrix client with legacy and mobile browser support
+- [alanrey6/startpage-az](https://github.com/alanrey6/startpage-az) - Basic start page inspired by stpg.tk
 - [Miodec/monkeytype](https://github.com/Miodec/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [goranmoomin/mathematica-key-generator](https://github.com/goranmoomin/mathematica-key-generator) - Key generator for Wolfram Mathematica 12.0
 - [mitsuhiko/idasen-control](https://github.com/mitsuhiko/idasen-control) - Lets you control IKEA IDÅSEN desks from the command line.
