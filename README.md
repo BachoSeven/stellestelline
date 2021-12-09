@@ -118,6 +118,7 @@
 
 ## C 
 
+- [yilozt/mutter-rounded](https://github.com/yilozt/mutter-rounded) - A window manager for GNOME, with rounded corners patch
 - [rhboot/efibootmgr](https://github.com/rhboot/efibootmgr) - efibootmgr development tree
 - [0xdevil/CVE-2021-42008](https://github.com/0xdevil/CVE-2021-42008) - CVE-2021-42008: Exploiting A 16-Year-Old Vulnerability In The Linux 6pack Driver
 - [ivan386/Shareaza](https://github.com/ivan386/Shareaza) - Shareaza is a peer-to-peer client for Windows that allows you to download any file-type found on several popular P2P networks.
@@ -293,7 +294,7 @@
 - [juliusHuelsmann/st-history-vim](https://github.com/juliusHuelsmann/st-history-vim) - Development of the "vim patch" and  a minimalist "history patch" for the suckless simple terminal (st).
 - [alloca123/based-ssg](https://github.com/alloca123/based-ssg) - a very based, minimal, and flexible static site generator written in pure C89 with no external deps.
 - [stivale/stivale](https://github.com/stivale/stivale) - The stivale boot protocols' specifications and headers.
-- [limine-bootloader/limine-barebones](https://github.com/limine-bootloader/limine-barebones) - A simple example kernel using limine
+- [stivale/stivale2-barebones](https://github.com/stivale/stivale2-barebones) - A simple example kernel using limine
 - [TomatOrg/TomatBoot](https://github.com/TomatOrg/TomatBoot) - A UEFI 64bit Bootloader
 - [limine-bootloader/limine](https://github.com/limine-bootloader/limine) - x86/x86_64 BIOS/UEFI Bootloader
 - [gnuplot/gnuplot](https://github.com/gnuplot/gnuplot) - Unofficial mirror of gnuplot's git repository. Please don't open pull requests here, go to https://sourceforge.net/p/gnuplot/gnuplot-main/merge-requests/ instead.
@@ -341,7 +342,7 @@
 - [sfauzia/dwm](https://github.com/sfauzia/dwm) - Configuration of the suckless window manager, dwm
 - [jordansissel/xdotool](https://github.com/jordansissel/xdotool) - fake keyboard/mouse input, window management, and more
 - [save196/dwm](https://github.com/save196/dwm) - Save's custom build of dwm
-- [serhanekicii/dwm](https://github.com/serhanekicii/dwm) - My build of dwm.
+- [serhanekicii/dwm](https://github.com/serhanekicii/dwm) - My build of dwm. Extremely fast, small, and dynamic window manager for X.
 - [freundTech/bar](https://github.com/freundTech/bar) - bar ain't recursive - A lightweight xcb based bar. This is a fork that supports fontconfig
 - [daringer/asus-fan](https://github.com/daringer/asus-fan) - Kernel module to get/set (both) fan speed(s) on ASUS Zenbooks
 - [maandree/asroot](https://github.com/maandree/asroot) - [Feature complete] A simpler alternative to sudo and doas
@@ -468,7 +469,7 @@
 - [jackBonadies/SeekerAndroid](https://github.com/jackBonadies/SeekerAndroid) - Unofficial Soulseek Client for Android
 - [jellyfin/jellyfin-plugin-bookshelf](https://github.com/jellyfin/jellyfin-plugin-bookshelf) - 
 - [NoelFB/Celeste](https://github.com/NoelFB/Celeste) - Celeste Bugs & Issue Tracker + some Source Code
-- [adamburgess/celeste-high-frame-rate](https://github.com/adamburgess/celeste-high-frame-rate) - Celeste with uncapped frame time
+- [adamburgess/celeste-high-frame-rate](https://github.com/adamburgess/celeste-high-frame-rate) - Celeste with uncapped fps
 - [dmarcuse/CelesteUncapped](https://github.com/dmarcuse/CelesteUncapped) - Tool to remove framerate cap from Celeste
 - [PlummersSoftwareLLC/Primes](https://github.com/PlummersSoftwareLLC/Primes) - Prime Number Projects in C#/C++/Python
 - [UraniumDonut/nbfc-revive](https://github.com/UraniumDonut/nbfc-revive) - NoteBook FanControl
@@ -735,6 +736,7 @@
 
 - [ironicbadger/pms-wiki](https://github.com/ironicbadger/pms-wiki) - The aim is to share knowledge and information about building an open-source media server.
 - [dmpanch/radio](https://github.com/dmpanch/radio) - MPD + MPC + Telegram bot radio stack in Docker
+- [paulbismuth/nicotine-plus-docker](https://github.com/paulbismuth/nicotine-plus-docker) - 
 - [kokmok/rpi-nicotine-novnc](https://github.com/kokmok/rpi-nicotine-novnc) - 🐳 Nicotine Over noVNC Docker Container for RPI
 - [realies/soulseek-docker](https://github.com/realies/soulseek-docker) - 🐳 Soulseek Over noVNC Docker Container
 
@@ -861,7 +863,6 @@
 - [kencx/startpage](https://github.com/kencx/startpage) - Custom browser startpage
 - [planetmath/00_General](https://github.com/planetmath/00_General) - 
 - [easychen/not-only-fans](https://github.com/easychen/not-only-fans) - an open source, self-hosted digital content subscription platform like `onlyfans.com`  with  cryptocurrency payment
-- [paulbismuth/nicotine-plus-docker](https://github.com/paulbismuth/nicotine-plus-docker) - 
 - [FreeInit/freeinit.org](https://github.com/FreeInit/freeinit.org) - The FreeInit.org homepage
 - [LukeSmithxyz/landchad](https://github.com/LukeSmithxyz/landchad) - Landchad.net Website Tutorial Page
 - [MCotocel/startpage](https://github.com/MCotocel/startpage) - Custom startpage for Qutebrowser/Firefox
@@ -945,6 +946,7 @@
 
 ## JavaScript 
 
+- [Schneegans/Desktop-Cube](https://github.com/Schneegans/Desktop-Cube) - Indulge in nostalgia with useless 3D effects.
 - [dmi3/userscripts](https://github.com/dmi3/userscripts) - 
 - [enjeck/num2math](https://github.com/enjeck/num2math) - Complicated math expression generator
 - [linuxmint/cinnamon-spices-extensions](https://github.com/linuxmint/cinnamon-spices-extensions) - Extensions for the Cinnamon desktop
@@ -970,7 +972,7 @@
 - [sandsmark/chrome-extension-unconfidential](https://github.com/sandsmark/chrome-extension-unconfidential) - Allows you to select and copy text from "confidential" emails in gmail. Security by idiocy.
 - [mozilla/multi-account-containers](https://github.com/mozilla/multi-account-containers) - Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
 - [Cykelero/timefind](https://github.com/Cykelero/timefind) - Search a website's history.
-- [Apple-Music-Electron/Apple-Music-Electron](https://github.com/Apple-Music-Electron/Apple-Music-Electron) - A free, lightweight, open source alternative to iTunes and other Apple Music applications based on Electron 15
+- [ciderapp/Apple-Music-Electron](https://github.com/ciderapp/Apple-Music-Electron) - A free, lightweight, open source alternative to iTunes and other Apple Music applications based on Electron 15
 - [murdos/musicbrainz-userscripts](https://github.com/murdos/musicbrainz-userscripts) - Collection of userscripts for MusicBrainz, by various authors
 - [keepassxreboot/keepassxc-browser](https://github.com/keepassxreboot/keepassxc-browser) - KeePassXC Browser Extension
 - [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
@@ -1416,6 +1418,7 @@
 
 ## Python 
 
+- [tuhiproject/tuhi](https://github.com/tuhiproject/tuhi) - An application to access Wacom SmartPad devices
 - [xcp-ng/xcp](https://github.com/xcp-ng/xcp) - Entry point for issues and wiki. Also contains some scripts and sources.
 - [YoyPa/isw](https://github.com/YoyPa/isw) - Ice-Sealed Wyvern
 - [easylist/easylist](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
