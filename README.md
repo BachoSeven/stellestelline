@@ -650,7 +650,6 @@
 - [CTalvio/Monochromic](https://github.com/CTalvio/Monochromic) - A color muted, minimalistic theme for Jellyfin mediaserver created using CSS overrides
 - [prayag17/JellySkin](https://github.com/prayag17/JellySkin) - Vibrante/minimal Jellyfin CSS using custom Icons and more!!, created for Jellyfin web, can be used by just one line.
 - [jamesNWT/StartPage2](https://github.com/jamesNWT/StartPage2) - Second attempt at a startpage
-- [Barbarossa93/Muspelheim](https://github.com/Barbarossa93/Muspelheim) - Thonkpad setup
 - [i3d/term-themes](https://github.com/i3d/term-themes) - terminal themes I created
 - [chrisgdouglas/custom_css](https://github.com/chrisgdouglas/custom_css) - Collection of custom CSS files to override or compliment third party websites.
 - [paulgoio/searxng](https://github.com/paulgoio/searxng) - gitlab mirror: SearXNG image with changed simple theme, settings.yml and bundled with filtron binary
@@ -1896,6 +1895,7 @@
 
 ## Shell 
 
+- [rupa/z](https://github.com/rupa/z) - z - jump around
 - [lmburns/dotfiles-arch](https://github.com/lmburns/dotfiles-arch) - A separate repository for dotfiles on my linux machine
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [tyzoid/btw](https://github.com/tyzoid/btw) - Correcting glaring omissions from BtwOS
@@ -1939,6 +1939,7 @@
 - [spxak1/weywot](https://github.com/spxak1/weywot) - My notes on using Pop!_OS
 - [sayan01/scripts](https://github.com/sayan01/scripts) - scripts
 - [codingtony/udev-monitor-hotplug](https://github.com/codingtony/udev-monitor-hotplug) - Script that get triggered when monitors are plugged in or out in Linux
+- [Barbarossa93/Muspelheim](https://github.com/Barbarossa93/Muspelheim) - Thonkpad setup
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [dylanaraps/barsh](https://github.com/dylanaraps/barsh) - Use your terminal as a bar
 - [archlinux/arch-install-scripts](https://github.com/archlinux/arch-install-scripts) - Useful scripts for installing Arch Linux
