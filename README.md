@@ -2297,6 +2297,7 @@
 
 ## Vim script 
 
+- [srdz-af/vimrc](https://github.com/srdz-af/vimrc) - Vim config
 - [mattn/vim-tanakh](https://github.com/mattn/vim-tanakh) - (´･_･`)
 - [gauteh/vim-cppman](https://github.com/gauteh/vim-cppman) - Plugin for use of cppman ("C++ 98/11/14 manual pages for Linux/MacOS" ) from within Vim
 - [wellle/context.vim](https://github.com/wellle/context.vim) - Vim plugin that shows the context of the currently visible buffer contents
@@ -2383,7 +2384,7 @@
 - [webgefrickel/dotfiles](https://github.com/webgefrickel/dotfiles) - A collection of my dotfiles. Lot's of Vim, Mutt, tmux and zsh stuff in here.
 - [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more
 - [dbmrq/vim-ditto](https://github.com/dbmrq/vim-ditto) - :speak_no_evil: Stop repeating yourself
-- [VebbNix/lf-vim](https://github.com/VebbNix/lf-vim) - Vim syntax highlighting for lfrc
+- [camnw/lf-vim](https://github.com/camnw/lf-vim) - Vim syntax highlighting for lfrc
 
 ## VimL 
 
