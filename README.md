@@ -91,6 +91,7 @@
 
 ## ActionScript 
 
+- [TerryCavanagh/boscaceoil](https://github.com/TerryCavanagh/boscaceoil) - A simple music making program
 - [TerryCavanagh/VVVVVV](https://github.com/TerryCavanagh/VVVVVV) - The source code to VVVVVV! http://thelettervsixtim.es/
 
 ## Assembly 
@@ -497,6 +498,8 @@
 
 ## C++ 
 
+- [johang/btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
+- [lightspark/lightspark](https://github.com/lightspark/lightspark) - An open source flash player implementation
 - [vaxerski/Hypr](https://github.com/vaxerski/Hypr) - Hypr is a tiling window manager written in modern C++.
 - [Maldela/fancontrol-gui](https://github.com/Maldela/fancontrol-gui) - GUI for Fancontrol. It uses the KAuth module of the KDE Frameworks 5 to write the generated config file. Furthermore it communicates with systemd via dbus to control the fancontrol service. If you want to compile without systemd support set the -DNO_SYSTEMD option.
 - [gokulmaxi/vantage](https://github.com/gokulmaxi/vantage) - 
@@ -814,7 +817,7 @@
 - [mattn/longcat](https://github.com/mattn/longcat) - Looooooooooooooooooooooooooooooooooooooooooooooong cat
 - [tmountain/uchess](https://github.com/tmountain/uchess) - ♛♔ Play chess against UCI engines in your terminal.
 - [scotow/mego](https://github.com/scotow/mego) - A simple megadl wrapper with auto-retry and download list
-- [dundee/gdu](https://github.com/dundee/gdu) - Disk usage analyzer with console interface written in Go
+- [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [gleich/ctree](https://github.com/gleich/ctree) - 🎄 A Christmas tree right from your terminal!
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [Rhymen/go-whatsapp](https://github.com/Rhymen/go-whatsapp) - WhatsApp Web API
@@ -945,6 +948,8 @@
 
 ## JavaScript 
 
+- [publiusfederalist/federalist](https://github.com/publiusfederalist/federalist) - Access files on the decentralized, unblockable torrent swarm and visit links using Handshake domains.  Decentralized internet is here.
+- [tastejs/todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more
 - [Schneegans/Desktop-Cube](https://github.com/Schneegans/Desktop-Cube) - Indulge in nostalgia with useless 3D effects.
 - [dmi3/userscripts](https://github.com/dmi3/userscripts) - 
 - [enjeck/num2math](https://github.com/enjeck/num2math) - Complicated math expression generator
@@ -1241,6 +1246,7 @@
 
 ## Others 
 
+- [ValveSoftware/SteamOS](https://github.com/ValveSoftware/SteamOS) - SteamOS community tracker
 - [glibg10b/ltt-linux-challenge-issues](https://github.com/glibg10b/ltt-linux-challenge-issues) - A list of issues Linus and Luke experienced during the LTT Linux Daily Driver Challenge
 - [Amog-OS/AmogOS](https://github.com/Amog-OS/AmogOS) - ඞ Among-us themed OS. As seen on Reddit and Youtube.
 - [chriskempson/base16](https://github.com/chriskempson/base16) - An architecture for building themes
@@ -1417,6 +1423,7 @@
 
 ## Python 
 
+- [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [tuhiproject/tuhi](https://github.com/tuhiproject/tuhi) - An application to access Wacom SmartPad devices
 - [xcp-ng/xcp](https://github.com/xcp-ng/xcp) - Entry point for issues and wiki. Also contains some scripts and sources.
 - [YoyPa/isw](https://github.com/YoyPa/isw) - Ice-Sealed Wyvern
@@ -1453,7 +1460,6 @@
 - [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 - [darlinghq/darling-docker](https://github.com/darlinghq/darling-docker) - Dockerfile for Darling
 - [schlafwandler/ghidra_SavePatch](https://github.com/schlafwandler/ghidra_SavePatch) - A Ghidra script to save small patches back to the executable file
-- [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [ungoogled-software/ungoogled-chromium-windows](https://github.com/ungoogled-software/ungoogled-chromium-windows) - Windows packaging for ungoogled-chromium
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [Davidy22/SkunkBooth](https://github.com/Davidy22/SkunkBooth) - Text based command line webcam photobooth app
@@ -2297,7 +2303,7 @@
 
 ## Vim script 
 
-- [srdz-af/vimrc](https://github.com/srdz-af/vimrc) - Vim config
+- [srdz-af/vimrc](https://github.com/srdz-af/vimrc) - My personal vim config file.
 - [mattn/vim-tanakh](https://github.com/mattn/vim-tanakh) - (´･_･`)
 - [gauteh/vim-cppman](https://github.com/gauteh/vim-cppman) - Plugin for use of cppman ("C++ 98/11/14 manual pages for Linux/MacOS" ) from within Vim
 - [wellle/context.vim](https://github.com/wellle/context.vim) - Vim plugin that shows the context of the currently visible buffer contents
