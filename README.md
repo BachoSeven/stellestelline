@@ -295,9 +295,9 @@
 - [juliusHuelsmann/st-history-vim](https://github.com/juliusHuelsmann/st-history-vim) - Development of the "vim patch" and  a minimalist "history patch" for the suckless simple terminal (st).
 - [alloca123/based-ssg](https://github.com/alloca123/based-ssg) - a very based, minimal, and flexible static site generator written in pure C89 with no external deps.
 - [stivale/stivale](https://github.com/stivale/stivale) - The stivale boot protocols' specifications and headers.
-- [stivale/stivale2-barebones](https://github.com/stivale/stivale2-barebones) - A simple example kernel using limine
+- [stivale/stivale2-barebones](https://github.com/stivale/stivale2-barebones) - A simple stivale2-compliant kernel and build system example/template.
 - [TomatOrg/TomatBoot](https://github.com/TomatOrg/TomatBoot) - A UEFI 64bit Bootloader
-- [limine-bootloader/limine](https://github.com/limine-bootloader/limine) - x86/x86_64 BIOS/UEFI Bootloader
+- [limine-bootloader/limine](https://github.com/limine-bootloader/limine) - x86/x86_64 BIOS/UEFI Bootloader.
 - [gnuplot/gnuplot](https://github.com/gnuplot/gnuplot) - Unofficial mirror of gnuplot's git repository. Please don't open pull requests here, go to https://sourceforge.net/p/gnuplot/gnuplot-main/merge-requests/ instead.
 - [hohmannr/xccp](https://github.com/hohmannr/xccp) - xccp - X Console Colorpicker
 - [takase1121/xwinwrap](https://github.com/takase1121/xwinwrap) - My fork of xwinwrap. Xwinwrap allows you to stick most of the apps to your desktop background.
@@ -467,7 +467,7 @@
 ## C# # 
 
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with a focus for manga and the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.
-- [jackBonadies/SeekerAndroid](https://github.com/jackBonadies/SeekerAndroid) - Unofficial Soulseek Client for Android
+- [jackBonadies/SeekerAndroid](https://github.com/jackBonadies/SeekerAndroid) - Android client for the Soulseek peer-to-peer network
 - [jellyfin/jellyfin-plugin-bookshelf](https://github.com/jellyfin/jellyfin-plugin-bookshelf) - 
 - [NoelFB/Celeste](https://github.com/NoelFB/Celeste) - Celeste Bugs & Issue Tracker + some Source Code
 - [adamburgess/celeste-high-frame-rate](https://github.com/adamburgess/celeste-high-frame-rate) - Celeste with uncapped fps
@@ -736,6 +736,7 @@
 
 ## Dockerfile 
 
+- [mudler/linuxbundles](https://github.com/mudler/linuxbundles) - :penguin: Standalone, local-runnable binaries of popular linux distributions
 - [ironicbadger/pms-wiki](https://github.com/ironicbadger/pms-wiki) - The aim is to share knowledge and information about building an open-source media server.
 - [dmpanch/radio](https://github.com/dmpanch/radio) - MPD + MPC + Telegram bot radio stack in Docker
 - [paulbismuth/nicotine-plus-docker](https://github.com/paulbismuth/nicotine-plus-docker) - 
@@ -764,6 +765,8 @@
 
 ## Go 
 
+- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
+- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [harness/drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - Self-hostable , easy-to-use , lightweight and feature-rich torrent client written in Go . It comes with beautiful Web UI and Optional Multi-User Support . Run Locally or Host in Server . Open/Download/Stream Torrents in Browser Right Away!
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -1003,7 +1006,6 @@
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [Priler/dino3d](https://github.com/Priler/dino3d) - 🦖 Google Chrome T-Rex Run! in 3D (WebGL experiment)
 - [JulienMaille/dribbblish-dynamic-theme](https://github.com/JulienMaille/dribbblish-dynamic-theme) - A mod of Dribbblish theme for Spicetify with support for light/dark modes and album art based colors.
-- [tympanix/Electorrent](https://github.com/tympanix/Electorrent) - A remote control client for µTorrent, qBittorrent, rTorrent, Transmission, Synology & Deluge
 - [felixrieseberg/macintosh.js](https://github.com/felixrieseberg/macintosh.js) - 🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
 - [kylon/Sharedown](https://github.com/kylon/Sharedown) - Electron application to download Sharepoint videos (especially meant for students)
 - [ericblade/xo](https://github.com/ericblade/xo) - XO - The Subsonic Commander
@@ -1624,7 +1626,7 @@
 - [Askannz/optimus-manager](https://github.com/Askannz/optimus-manager) - A Linux program to handle GPU switching on Optimus laptops.
 - [slavfox/Cozette](https://github.com/slavfox/Cozette) - A bitmap programming font optimized for coziness 💜
 - [kal39/ptmv](https://github.com/kal39/ptmv) - An utf-8/truecolor image and video viewer for the terminal
-- [jbarlow83/OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+- [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [RobertCsordas/linux-intel-undervolt-tool](https://github.com/RobertCsordas/linux-intel-undervolt-tool) - Scripts for undervolting 6+th gen Intel i* CPUs and their internal GPU.
 - [bexxmodd/vizex](https://github.com/bexxmodd/vizex) - Visualize disk space and disk usage in your UNIX\Linux terminal
 - [eonpatapon/mpDris2](https://github.com/eonpatapon/mpDris2) - MPRIS V2.1 support for mpd
@@ -1876,6 +1878,7 @@
 
 ## SCSS 
 
+- [vinibiavatti1/TuiCss](https://github.com/vinibiavatti1/TuiCss) - Text-based user interface CSS library
 - [ungoogled-software/ungoogled-software.github.io](https://github.com/ungoogled-software/ungoogled-software.github.io) - Website for ungoogled-chromium
 - [phocus/gtk](https://github.com/phocus/gtk) - 
 - [elkowar/gtk](https://github.com/elkowar/gtk) - 
@@ -1901,6 +1904,7 @@
 
 ## Shell 
 
+- [Maccraft123/Cadmium](https://github.com/Maccraft123/Cadmium) - 
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [lmburns/dotfiles-arch](https://github.com/lmburns/dotfiles-arch) - A separate repository for dotfiles on my linux machine
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
@@ -2229,6 +2233,7 @@
 
 ## TeX 
 
+- [DavidMichaelRoberts/AlgebraicTopology2019](https://github.com/DavidMichaelRoberts/AlgebraicTopology2019) - Course notes for Pure Mathematics Topic D 2019
 - [dalcde/cam-notes](https://github.com/dalcde/cam-notes) - My Cambridge Lecture Notes
 - [david-bai-notes/II-Algebraic-Topology](https://github.com/david-bai-notes/II-Algebraic-Topology) - 
 - [Multramate/Cam-GANT](https://github.com/Multramate/Cam-GANT) - University of Cambridge lecture notes for Geometry, Algebra, and Number Theory
@@ -2257,6 +2262,7 @@
 - [imLinguin/jelly-desktop](https://github.com/imLinguin/jelly-desktop) - Simple community made desktop client for Jellyfin
 - [aome510/article-md-cli](https://github.com/aome510/article-md-cli) - An CLI application to parse web article's content into markdown format
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
+- [tympanix/Electorrent](https://github.com/tympanix/Electorrent) - A remote control client for µTorrent, qBittorrent, rTorrent, Transmission, Synology & Deluge
 - [bitwarden/browser](https://github.com/bitwarden/browser) - The browser extension vault (Chrome, Firefox, Opera, Edge, Safari, & more).
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
