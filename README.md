@@ -498,6 +498,7 @@
 
 ## C++ 
 
+- [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [johang/btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
 - [lightspark/lightspark](https://github.com/lightspark/lightspark) - An open source flash player implementation
 - [vaxerski/Hypr](https://github.com/vaxerski/Hypr) - Hypr is a tiling window manager written in modern C++.
@@ -736,7 +737,6 @@
 
 ## Dockerfile 
 
-- [mudler/linuxbundles](https://github.com/mudler/linuxbundles) - :penguin: Standalone, local-runnable binaries of popular linux distributions
 - [ironicbadger/pms-wiki](https://github.com/ironicbadger/pms-wiki) - The aim is to share knowledge and information about building an open-source media server.
 - [dmpanch/radio](https://github.com/dmpanch/radio) - MPD + MPC + Telegram bot radio stack in Docker
 - [paulbismuth/nicotine-plus-docker](https://github.com/paulbismuth/nicotine-plus-docker) - 
@@ -860,6 +860,7 @@
 
 ## HTML 
 
+- [alangpierce/TheProofIsTrivial](https://github.com/alangpierce/TheProofIsTrivial) - Math-themed single-serving site
 - [AdaptiveScale/lxdui](https://github.com/AdaptiveScale/lxdui) - LXDUI is a web UI for the native Linux container technology LXD/LXC
 - [phc-dm/content-poisson](https://github.com/phc-dm/content-poisson) - Tutti i contenuti inseriti in Poisson e.g. articoli, guide, ecc.
 - [distrolist/distrolist.github.io](https://github.com/distrolist/distrolist.github.io) - FOSS distrowatch alternative
@@ -951,6 +952,7 @@
 
 ## JavaScript 
 
+- [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [publiusfederalist/federalist](https://github.com/publiusfederalist/federalist) - Access files on the decentralized, unblockable torrent swarm and visit links using Handshake domains.  Decentralized internet is here.
 - [tastejs/todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more
 - [Schneegans/Desktop-Cube](https://github.com/Schneegans/Desktop-Cube) - Indulge in nostalgia with useless 3D effects.
@@ -1192,6 +1194,7 @@
 - [manilarome/the-glorious-dotfiles](https://github.com/manilarome/the-glorious-dotfiles) - A glorified personal dot files
 - [jgreco/mpv-youtube-quality](https://github.com/jgreco/mpv-youtube-quality) - A userscript for MPV that allows you to change youtube video quality (ytdl-format) on the fly
 - [kutsan/dotfiles](https://github.com/kutsan/dotfiles) - My dotfiles: Experimental, ongoing configuration files, development environment and scripts for various Unix-like systems, text-based command-line applications and interfaces.
+- [webgefrickel/dotfiles](https://github.com/webgefrickel/dotfiles) - A collection of my dotfiles. Lot's of Vim, Mutt, tmux and zsh stuff in here.
 
 ## MATLAB 
 
@@ -1706,6 +1709,7 @@
 
 ## Rust 
 
+- [flxzt/rnote](https://github.com/flxzt/rnote) - A simple note taking application written in Rust and GTK4
 - [vv9k/dockeye](https://github.com/vv9k/dockeye) - GUI app for managing Docker/Podman
 - [TheRawMeatball/meme-cli](https://github.com/TheRawMeatball/meme-cli) - 
 - [Tarnadas/smmdb-client](https://github.com/Tarnadas/smmdb-client) - 
@@ -1904,6 +1908,7 @@
 
 ## Shell 
 
+- [mudler/linuxbundles](https://github.com/mudler/linuxbundles) - :penguin: Standalone, local-runnable binaries of popular linux distributions
 - [Maccraft123/Cadmium](https://github.com/Maccraft123/Cadmium) - 
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [lmburns/dotfiles-arch](https://github.com/lmburns/dotfiles-arch) - A separate repository for dotfiles on my linux machine
@@ -2393,7 +2398,6 @@
 - [gruvbox-community/gruvbox](https://github.com/gruvbox-community/gruvbox) - Retro groove color scheme for Vim - community maintained edition
 - [Konfekt/vim-office](https://github.com/Konfekt/vim-office) - read common binary files, such as PDFs and those of Microsoft Office or LibreOffice, in Vim
 - [neg-serg/dotfiles](https://github.com/neg-serg/dotfiles) - My configs with whistles and bells
-- [webgefrickel/dotfiles](https://github.com/webgefrickel/dotfiles) - A collection of my dotfiles. Lot's of Vim, Mutt, tmux and zsh stuff in here.
 - [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more
 - [dbmrq/vim-ditto](https://github.com/dbmrq/vim-ditto) - :speak_no_evil: Stop repeating yourself
 - [camnw/lf-vim](https://github.com/camnw/lf-vim) - Vim syntax highlighting for lfrc
