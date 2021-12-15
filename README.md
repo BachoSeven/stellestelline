@@ -78,6 +78,7 @@
   - [VimL](#viml)
   - [Visual Basic](#visual-basic)
   - [Vue](#vue)
+  - [Xonsh](#xonsh)
   - [Zig](#zig)
   - [sed](#sed)
 
@@ -165,7 +166,7 @@
 - [mssx86/apathy](https://github.com/mssx86/apathy) - linux thing
 - [Aalbus-linux/Aalbus](https://github.com/Aalbus-linux/Aalbus) - The master repository for the Aalbus distribution
 - [intel/sgx-software-enable](https://github.com/intel/sgx-software-enable) - 
-- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A custom macOS statusbar with shell plugin, interaction and graph support
+- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [lemon32767/ccleste](https://github.com/lemon32767/ccleste) - Celeste Classic C source port for 3DS and PC.
 - [SonixQMK/qmk_firmware](https://github.com/SonixQMK/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
@@ -688,6 +689,7 @@
 - [StylishThemes/StackOverflow-Dark](https://github.com/StylishThemes/StackOverflow-Dark) - 📚 Dark theme for Stack Overflow & most Stack Exchange network sites
 - [Brettm12345/github-moonlight](https://github.com/Brettm12345/github-moonlight) - A beatiful dark blue userstyle for GItHub. Made with :heart:
 - [elkowar/dots-of-war](https://github.com/elkowar/dots-of-war) - My dotfiles, mostly. This is the wild west. don't expect to understand this mess. Don't try to understand this mess. This serves as a good way to backup my configs, nothing more.
+- [KraXen72/rosebox](https://github.com/KraXen72/rosebox) - a dark, eye-friendly color scheme similar to gruvbox
 - [Barbarossa93/Genome](https://github.com/Barbarossa93/Genome) - Desktop setup
 - [koalaman/linuxatemyram.com](https://github.com/koalaman/linuxatemyram.com) - The contents on linuxatemyram.com
 - [sadparadiseinhell/tea-green](https://github.com/sadparadiseinhell/tea-green) - Simple startpage with weather and to-do list features.
@@ -1251,6 +1253,7 @@
 
 ## Others 
 
+- [basings/selfhosted-music-overview](https://github.com/basings/selfhosted-music-overview) - A table listing software network services which can be hosted on your own servers
 - [ValveSoftware/SteamOS](https://github.com/ValveSoftware/SteamOS) - SteamOS community tracker
 - [glibg10b/ltt-linux-challenge-issues](https://github.com/glibg10b/ltt-linux-challenge-issues) - A list of issues Linus and Luke experienced during the LTT Linux Daily Driver Challenge
 - [Amog-OS/AmogOS](https://github.com/Amog-OS/AmogOS) - ඞ Among-us themed OS. As seen on Reddit and Youtube.
@@ -1428,6 +1431,7 @@
 
 ## Python 
 
+- [nvllsvm/jellysub](https://github.com/nvllsvm/jellysub) - Use Subsonic clients with Jellyfin
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [tuhiproject/tuhi](https://github.com/tuhiproject/tuhi) - An application to access Wacom SmartPad devices
 - [xcp-ng/xcp](https://github.com/xcp-ng/xcp) - Entry point for issues and wiki. Also contains some scripts and sources.
@@ -1709,6 +1713,7 @@
 
 ## Rust 
 
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [flxzt/rnote](https://github.com/flxzt/rnote) - A simple note taking application written in Rust and GTK4
 - [vv9k/dockeye](https://github.com/vv9k/dockeye) - GUI app for managing Docker/Podman
 - [TheRawMeatball/meme-cli](https://github.com/TheRawMeatball/meme-cli) - 
@@ -1832,7 +1837,7 @@
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [sassman/t-rec-rs](https://github.com/sassman/t-rec-rs) - Blazingly fast terminal recorder that generates animated gif images for the web written in rust
 - [deltachat/deltachat-core-rust](https://github.com/deltachat/deltachat-core-rust) - Delta Chat Rust Core library, used by Android/iOS/desktop apps and bindings
-- [KaiJewson/aspotify](https://github.com/KaiJewson/aspotify) - Deprecated in favour of rspotify: https://github.com/ramsayleung/rspotify
+- [SabrinaJewson/aspotify](https://github.com/SabrinaJewson/aspotify) - Deprecated in favour of rspotify: https://github.com/ramsayleung/rspotify
 - [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
 - [PorkSausages/tfex-rs](https://github.com/PorkSausages/tfex-rs) - A simple terminal UI file manager
 - [TerminalWitchcraft/marcos](https://github.com/TerminalWitchcraft/marcos) - :notebook: Command line file manager in Rust with VIM-inspired key-bindings
@@ -1963,7 +1968,6 @@
 - [amanhr/dotfiles](https://github.com/amanhr/dotfiles) - *nix config files, managed with GNU Stow.
 - [fmash16/ssg5](https://github.com/fmash16/ssg5) - My custom script for a posix compliable static site generator built by Roman Zolotarev
 - [timb-machine/linux-malware](https://github.com/timb-machine/linux-malware) - Tracking interesting Linux (and UNIX) malware. Send PRs
-- [NNBnh/dots](https://github.com/NNBnh/dots) - 📂 Đotfiles that SuperB (WIP)
 - [ipfs/ipget](https://github.com/ipfs/ipget) - Retrieve files over IPFS and save them locally.
 - [RichiH/vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
 - [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
@@ -2358,7 +2362,6 @@
 - [voldikss/vim-floaterm](https://github.com/voldikss/vim-floaterm) - :star2: Terminal manager for (neo)vim
 - [HendrikPetertje/vimify](https://github.com/HendrikPetertje/vimify) - Spotify integration for vim
 - [xero/blaquemagick.vim](https://github.com/xero/blaquemagick.vim) - greyscale monochrome with a blue highlight vim colorscheme
-- [KraXen72/rosebox](https://github.com/KraXen72/rosebox) - a dark, eye-friendly color scheme similar to gruvbox
 - [dstein64/vim-startuptime](https://github.com/dstein64/vim-startuptime) - ⏲️ A Vim plugin for profiling Vim's startup time.
 - [m-pilia/vim-pkgbuild](https://github.com/m-pilia/vim-pkgbuild) - Vim plugin to edit PKGBUILD files
 - [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim
@@ -2421,6 +2424,10 @@
 - [WDaan/VueTorrent](https://github.com/WDaan/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [LibreScore/LibreScore](https://github.com/LibreScore/LibreScore) - The open source (GPLv3), serverless, offline-first, and totally free alternative to musescore.com
 - [cbrasser/bashrc](https://github.com/cbrasser/bashrc) - Browser startpage emulating a unix terminal
+
+## Xonsh 
+
+- [NNBnh/dots](https://github.com/NNBnh/dots) - 📂 Đotfiles that SuperB (WIP)
 
 ## Zig 
 
