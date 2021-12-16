@@ -499,6 +499,8 @@
 
 ## C++ 
 
+- [jfedor2/twist-to-scroll-trackball](https://github.com/jfedor2/twist-to-scroll-trackball) - DIY trackball with twist-to-scroll
+- [st3w/neo](https://github.com/st3w/neo) - Simulates the digital rain from "The Matrix" (cmatrix clone with 32-bit color and Unicode support)
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [johang/btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
 - [lightspark/lightspark](https://github.com/lightspark/lightspark) - An open source flash player implementation
@@ -1713,6 +1715,7 @@
 
 ## Rust 
 
+- [InputUsername/rescrobbled](https://github.com/InputUsername/rescrobbled) - MPRIS music scrobbler daemon
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [flxzt/rnote](https://github.com/flxzt/rnote) - A simple note taking application written in Rust and GTK4
 - [vv9k/dockeye](https://github.com/vv9k/dockeye) - GUI app for managing Docker/Podman
