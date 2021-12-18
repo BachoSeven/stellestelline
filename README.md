@@ -834,7 +834,7 @@
 - [kkdai/youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
 - [verless/verless](https://github.com/verless/verless) - A simple and lightweight Static Site Generator
 - [mlvzk/piko](https://github.com/mlvzk/piko) - Light and simple media downloader with support for Youtube, Soundcloud, Imgur, Facebook, Twitter, Instagram, 4chan
-- [phc-dm/auth-poisson](https://github.com/phc-dm/auth-poisson) - Servizio di autenticazione attraverso LDAP
+- [phc-dm/phc-auth](https://github.com/phc-dm/phc-auth) - Servizio di autenticazione attraverso LDAP
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [rgburke/grv](https://github.com/rgburke/grv) - GRV is a terminal interface for viewing git repositories
 - [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
@@ -900,7 +900,7 @@
 - [furycd001/startpages](https://github.com/furycd001/startpages) - My collection of startpages....
 - [realdavidops/xcvb](https://github.com/realdavidops/xcvb) - a super simple start page.
 - [BreadMaker/grub-tune-tester](https://github.com/BreadMaker/grub-tune-tester) - A GRUB_INIT_TUNE online tester.
-- [phc-dm/server-poisson](https://github.com/phc-dm/server-poisson) - Servizio per il nuovo sito del PHC
+- [phc-dm/phc-server](https://github.com/phc-dm/phc-server) - Servizio per il nuovo sito del PHC
 - [Hungry-Hobo/Homepage](https://github.com/Hungry-Hobo/Homepage) - My custom homepage for my browser.
 - [gidsi/base16-ncspot](https://github.com/gidsi/base16-ncspot) - 
 - [gjtorikian/markdowntutorial.com](https://github.com/gjtorikian/markdowntutorial.com) - Lessons to help guide new writers into Markdown!
@@ -1927,7 +1927,7 @@
 - [tyzoid/btw](https://github.com/tyzoid/btw) - Correcting glaring omissions from BtwOS
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
-- [TheRealKizu/dotfiles](https://github.com/TheRealKizu/dotfiles) - 🍚 my dotfiles on my daily driver.
+- [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - 🍚 my dotfiles on my daily driver.
 - [JLErvin/dotfiles](https://github.com/JLErvin/dotfiles) - Configuration files for arch linux and macOS
 - [BachoSeven/mimi](https://github.com/BachoSeven/mimi) - better xdg-open
 - [kusky3/consoom](https://github.com/kusky3/consoom) - blazing fast plebbit consooming
@@ -2060,7 +2060,7 @@
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [zsh-vi-more/vi-motions](https://github.com/zsh-vi-more/vi-motions) - All the motions you could ask for and more for Zsh's vi mode.
 - [Mellbourn/zabb](https://github.com/Mellbourn/zabb) - zabb - a plugin for finding z abbreviations
-- [makedeb/makedeb](https://github.com/makedeb/makedeb) - The modern packaging tool for Debian archives.
+- [makedeb/makedeb](https://github.com/makedeb/makedeb) - A simplicity-focused packaging tool for Debian archives
 - [Madh93/conky-spotify](https://github.com/Madh93/conky-spotify) - :musical_note: Show current Spotify track in Conky (Cover, title...)
 - [styluslabs/templates](https://github.com/styluslabs/templates) - Document templates for Write
 - [archlinux/svntogit-packages](https://github.com/archlinux/svntogit-packages) - Automatic import of svn 'packages' repo (read-only mirror)
@@ -2324,6 +2324,7 @@
 
 ## Vim script 
 
+- [mattn/emmet-vim](https://github.com/mattn/emmet-vim) - emmet for vim: http://emmet.io/
 - [srdz-af/vimrc](https://github.com/srdz-af/vimrc) - My personal vim config file.
 - [mattn/vim-tanakh](https://github.com/mattn/vim-tanakh) - (´･_･`)
 - [gauteh/vim-cppman](https://github.com/gauteh/vim-cppman) - Plugin for use of cppman ("C++ 98/11/14 manual pages for Linux/MacOS" ) from within Vim
