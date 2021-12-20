@@ -120,6 +120,8 @@
 
 ## C 
 
+- [zhanghai/deadbeef-gnome-mmkeys](https://github.com/zhanghai/deadbeef-gnome-mmkeys) - Add GNOME multimedia keys support in DeadBeef player using DBus
+- [cboxdoerfer/ddb_waveform_seekbar](https://github.com/cboxdoerfer/ddb_waveform_seekbar) - Waveform Seekbar plugin for DeaDBeeF audio player
 - [yilozt/mutter-rounded](https://github.com/yilozt/mutter-rounded) - A window manager for GNOME, with rounded corners patch
 - [rhboot/efibootmgr](https://github.com/rhboot/efibootmgr) - efibootmgr development tree
 - [0xdevil/CVE-2021-42008](https://github.com/0xdevil/CVE-2021-42008) - CVE-2021-42008: Exploiting A 16-Year-Old Vulnerability In The Linux 6pack Driver
@@ -717,6 +719,7 @@
 
 ## CoffeeScript 
 
+- [BoLaMN/tch-exploit](https://github.com/BoLaMN/tch-exploit) - Technicolor OpenWRT Shell Unlocker
 - [dropbox/zxcvbn](https://github.com/dropbox/zxcvbn) - Low-Budget Password Strength Estimation
 - [Filirom1/npm2arch](https://github.com/Filirom1/npm2arch) - convert npm package to PKGBUILD
 
@@ -1436,6 +1439,7 @@
 
 ## Python 
 
+- [sdushantha/svart](https://github.com/sdushantha/svart) - Change between dark/light mode depending on the ambient light intensity
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan) - A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228
 - [nvllsvm/jellysub](https://github.com/nvllsvm/jellysub) - Use Subsonic clients with Jellyfin
@@ -1706,6 +1710,7 @@
 
 - [phillbush/incipit](https://github.com/phillbush/incipit) - the incipit plain text markup language, and some troff macro packages
 - [oasislinux/oasis](https://github.com/oasislinux/oasis) - a small statically-linked linux system
+- [slavistan/lf-gadgets](https://github.com/slavistan/lf-gadgets) - A collection of useful and nifty use cases and configurations for lf.
 - [Earnestly/sx](https://github.com/Earnestly/sx) - Start an xorg server
 
 ## Ruby 
@@ -2081,7 +2086,6 @@
 - [PandaFoss/baph](https://github.com/PandaFoss/baph) - baph - Basic AUR Package Helper
 - [archlinuxcn/repo](https://github.com/archlinuxcn/repo) - Arch Linux CN Repository
 - [neeshy/lfyt](https://github.com/neeshy/lfyt) - lf + youtube-dl
-- [slavistan/lf-gadgets](https://github.com/slavistan/lf-gadgets) - A collection of useful and nifty use cases and configurations for lf.
 - [chimay/scripts](https://github.com/chimay/scripts) - Useful scripts
 - [Aztek1337/Elecom_trackball_huge_button_map](https://github.com/Aztek1337/Elecom_trackball_huge_button_map) - A BASH script to help quickly map the Elecom TrackBall Huge
 - [Rasukarusan/shellnium](https://github.com/Rasukarusan/shellnium) - :dizzy: Selenium Webdriver for Bash (or Zsh).
@@ -2273,6 +2277,7 @@
 
 ## TypeScript 
 
+- [PrettyCoffee/startpage](https://github.com/PrettyCoffee/startpage) - A React library which provides tools that help creating browser startpages in react.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [ckissane/blur-me](https://github.com/ckissane/blur-me) - Extension that adds a blur look to applications and to different parts of the GNOME Shell, including the top panel, dash and overview
 - [Alissonsleal/TwitchSubVod](https://github.com/Alissonsleal/TwitchSubVod) - Watch any sub-only Twitch VOD for free. You can also find deleted clips or Twitch VODS. Just insert the streamer username and select a video to watch. You can also download Twitch Clips with this application.
