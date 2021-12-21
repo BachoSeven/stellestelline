@@ -128,7 +128,7 @@
 - [ivan386/Shareaza](https://github.com/ivan386/Shareaza) - Shareaza is a peer-to-peer client for Windows that allows you to download any file-type found on several popular P2P networks.
 - [gtk-gnutella/gtk-gnutella](https://github.com/gtk-gnutella/gtk-gnutella) - The Most Efficient Gnutella Client
 - [nbfc-linux/nbfc-linux](https://github.com/nbfc-linux/nbfc-linux) - NoteBook FanControl ported to Linux
-- [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image” format for fast, lossless image compression
+- [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression
 - [mariusor/mpris-scrobbler](https://github.com/mariusor/mpris-scrobbler) - Minimalistic user daemon which submits the currently playing song to listenbrainz.org, libre.fm and last.fm services.
 - [Serranya/deadbeef-mpris2-plugin](https://github.com/Serranya/deadbeef-mpris2-plugin) - A rewrite of the seemingly orphaned deadbeef-mpris-plugin originally  written by HuangCongyu
 - [cboxdoerfer/ddb_spectrogram](https://github.com/cboxdoerfer/ddb_spectrogram) - Spectrogram plugin for DeaDBeeF audio player
@@ -1419,6 +1419,7 @@
 
 ## Perl 
 
+- [ddclient/ddclient](https://github.com/ddclient/ddclient) - This is the new home for ddclient. Ddclient is a Perl client used to update dynamic DNS entries for accounts on 'Dynamic DNS Network Services' free DNS service. It currently supports a lot of different routers and a few different services.
 - [winterheart/broadcom-bt-firmware](https://github.com/winterheart/broadcom-bt-firmware) - Repository for various Broadcom Bluetooth firmware
 - [hamishcoleman/thinkpad-ec](https://github.com/hamishcoleman/thinkpad-ec) - Infrastructure for examining and patching Thinkpad embedded controller firmware
 - [sandsmark/asciiquarium](https://github.com/sandsmark/asciiquarium) - Enjoy the mysteries of the sea from the safety of your own terminal!
@@ -1962,7 +1963,7 @@
 - [graysky2/profile-sync-daemon](https://github.com/graysky2/profile-sync-daemon) - Symlinks and syncs browser profile dirs to RAM thus reducing HDD/SDD calls and speeding-up browsers.
 - [DAINRA/ungoogled-chromium-void](https://github.com/DAINRA/ungoogled-chromium-void) - Ungoogled Chromium template and builds for Void Linux
 - [jellyfin/jellyfin-docs](https://github.com/jellyfin/jellyfin-docs) - Documentation for Jellyfin
-- [fsquillace/junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs upon any Linux distros without root access
+- [fsquillace/junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs, without root privileges, upon any Linux distro
 - [justinyaodu/iscanimage](https://github.com/justinyaodu/iscanimage) - User-friendly command line program for operating scanner devices in Linux.
 - [osresearch/heads](https://github.com/osresearch/heads) - A minimal Linux that runs as a coreboot or LinuxBoot ROM payload to provide a secure, flexible boot environment for laptops and servers.
 - [kusky3/natype](https://github.com/kusky3/natype) - NATO phonetic alphabet cli test
