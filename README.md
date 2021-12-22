@@ -961,6 +961,8 @@
 
 ## JavaScript 
 
+- [aziis98/art-2021-12-19](https://github.com/aziis98/art-2021-12-19) - Growing circuit board pattern
+- [caderek/gramma](https://github.com/caderek/gramma) - command-line grammar checker
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [publiusfederalist/federalist](https://github.com/publiusfederalist/federalist) - Access files on the decentralized, unblockable torrent swarm and visit links using Handshake domains.  Decentralized internet is here.
 - [tastejs/todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more
@@ -2256,6 +2258,7 @@
 
 ## TeX 
 
+- [drago-96/master-thesis](https://github.com/drago-96/master-thesis) - 
 - [DavidMichaelRoberts/AlgebraicTopology2019](https://github.com/DavidMichaelRoberts/AlgebraicTopology2019) - Course notes for Pure Mathematics Topic D 2019
 - [dalcde/cam-notes](https://github.com/dalcde/cam-notes) - My Cambridge Lecture Notes
 - [david-bai-notes/II-Algebraic-Topology](https://github.com/david-bai-notes/II-Algebraic-Topology) - 
