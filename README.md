@@ -739,7 +739,7 @@
 - [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
 - [xournalpp/xournalpp_mobile](https://github.com/xournalpp/xournalpp_mobile) - Infinitely take notes, sketch and learn. Xournal++ Mobile is a port of Xournal++ files and features to various mobile platofrms and the web. Mirror of the Xournal++ Mobile repository on GitLab.
 - [dahliaOS/pangolin_desktop](https://github.com/dahliaOS/pangolin_desktop) - Pangolin Desktop UI shell, designed for dahliaOS, written in Flutter.
-- [atticdev/librebook](https://github.com/atticdev/librebook) - A minimal front-end library genesis client, built with Flutter
+- [bagaswastu/librebook](https://github.com/bagaswastu/librebook) - A minimal front-end library genesis client, built with Flutter
 - [manuelvargastapia/libgen_mobile_app](https://github.com/manuelvargastapia/libgen_mobile_app) - 
 
 ## Dockerfile 
@@ -1274,6 +1274,7 @@
 - [jnmcfly/awesome-startpage](https://github.com/jnmcfly/awesome-startpage) - This is a carefully compiled list of remarkable projects with the focus on startpages.
 - [TemporalAgent7/awesome-windows-privacy](https://github.com/TemporalAgent7/awesome-windows-privacy) - A list of awesome tools, documentation and scripts for better privacy on Microsoft Windows
 - [fiatjaf/awesome-loginless](https://github.com/fiatjaf/awesome-loginless) - an awesome list of internet services that don't require logins or registrations
+- [dothq/browser](https://github.com/dothq/browser) - 🌍 Take back your privacy with Dot Browser, the privacy-conscious web browser that protects you from being tracked and monitored online.
 - [yulunzhang/video-enhancement](https://github.com/yulunzhang/video-enhancement) - A list of resources for video enhancement, including video super-resolutio, interpolation, denoising, compression artifact removal et al..
 - [Digitalone1/EasyEffects-Presets](https://github.com/Digitalone1/EasyEffects-Presets) - Presets for EasyEffects and PulseEffects.
 - [iv-org/documentation](https://github.com/iv-org/documentation) - The official Invidious documentation
@@ -1462,7 +1463,6 @@
 - [blueOkiris/bgrm](https://github.com/blueOkiris/bgrm) - Virtual webcam that takes real webcam footage and replaces the background in order to have Virtual Backgrounds in MS Teams for Linux where the feature is unimplemented.
 - [bbilly1/tubearchivist](https://github.com/bbilly1/tubearchivist) - Your self hosted YouTube media server
 - [aitjcize/cppman](https://github.com/aitjcize/cppman) - C++ 98/11/14 manual pages for Linux/MacOS
-- [dothq/browser](https://github.com/dothq/browser) - 🌍 Take back your privacy with Dot Browser, the privacy-conscious web browser that protects you from being tracked and monitored online.
 - [JCGdev/Newpipe-CSV-Fixer](https://github.com/JCGdev/Newpipe-CSV-Fixer) - Convert your subscriptions csv file into a valid json for Newpipe!
 - [Fran314/SmashDataCollectorPython](https://github.com/Fran314/SmashDataCollectorPython) - A script to automatically collect stats from Super Smash Bros. Ultimate competitive and casual matches
 - [cjnaz/xbsjsonedit](https://github.com/cjnaz/xbsjsonedit) - A basic editor for xBrowserSync json backup files
@@ -1728,6 +1728,8 @@
 
 ## Rust 
 
+- [abba23/spotify-adblock](https://github.com/abba23/spotify-adblock) - Adblocker for Spotify
+- [toshi-search/Toshi](https://github.com/toshi-search/Toshi) - A full-text search engine in rust
 - [InputUsername/rescrobbled](https://github.com/InputUsername/rescrobbled) - MPRIS music scrobbler daemon
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [flxzt/rnote](https://github.com/flxzt/rnote) - A simple note taking application written in Rust and GTK4
@@ -2288,7 +2290,7 @@
 - [xbrowsersync/api](https://github.com/xbrowsersync/api) - Server-side REST API that serves requests from xBrowserSync client apps
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
 - [imLinguin/jelly-desktop](https://github.com/imLinguin/jelly-desktop) - Simple community made desktop client for Jellyfin
-- [aome510/article-md-cli](https://github.com/aome510/article-md-cli) - An CLI application to parse web article's content into markdown format
+- [aome510/article-md-cli](https://github.com/aome510/article-md-cli) - An CLI application to parse a web article into readable text.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [tympanix/Electorrent](https://github.com/tympanix/Electorrent) - A remote control client for µTorrent, qBittorrent, rTorrent, Transmission, Synology & Deluge
 - [bitwarden/browser](https://github.com/bitwarden/browser) - The browser extension vault (Chrome, Firefox, Opera, Edge, Safari, & more).
