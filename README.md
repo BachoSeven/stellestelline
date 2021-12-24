@@ -120,6 +120,7 @@
 
 ## C 
 
+- [andrewjrae/qmk-vim](https://github.com/andrewjrae/qmk-vim) - An attempt to emulate as much of vim as possible in QMK.
 - [zhanghai/deadbeef-gnome-mmkeys](https://github.com/zhanghai/deadbeef-gnome-mmkeys) - Add GNOME multimedia keys support in DeadBeef player using DBus
 - [cboxdoerfer/ddb_waveform_seekbar](https://github.com/cboxdoerfer/ddb_waveform_seekbar) - Waveform Seekbar plugin for DeaDBeeF audio player
 - [yilozt/mutter-rounded](https://github.com/yilozt/mutter-rounded) - A window manager for GNOME, with rounded corners patch
@@ -879,6 +880,7 @@
 - [planetmath/00_General](https://github.com/planetmath/00_General) - 
 - [easychen/not-only-fans](https://github.com/easychen/not-only-fans) - an open source, self-hosted digital content subscription platform like `onlyfans.com`  with  cryptocurrency payment
 - [FreeInit/freeinit.org](https://github.com/FreeInit/freeinit.org) - The FreeInit.org homepage
+- [timb-machine/linux-malware](https://github.com/timb-machine/linux-malware) - Tracking interesting Linux (and UNIX) malware. Send PRs
 - [LukeSmithxyz/landchad](https://github.com/LukeSmithxyz/landchad) - Landchad.net Website Tutorial Page
 - [MCotocel/startpage](https://github.com/MCotocel/startpage) - Custom startpage for Qutebrowser/Firefox
 - [grtcdr/linen](https://github.com/grtcdr/linen) - 🎨 A light, calm and champagne-like colorscheme.
@@ -1361,7 +1363,7 @@
 - [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
 - [hbtlabs/chromium-white-flash-fix](https://github.com/hbtlabs/chromium-white-flash-fix) - [deprecated (issue fixed)] chromium google-chrome white flash bug fix
 - [GSquad934/wallpapers](https://github.com/GSquad934/wallpapers) - My wallpapers
-- [chaotic-aur/packages](https://github.com/chaotic-aur/packages) - The Packages Mason, What Do They Mean? (Requests for packages and fixes in here.)
+- [chaotic-aur/packages](https://github.com/chaotic-aur/packages) - The packages Mason, what do they mean? (Package requests and bug reports here) 📑
 - [rsaihe/gruvbox-material-kitty](https://github.com/rsaihe/gruvbox-material-kitty) - A port of @sainnhe's Gruvbox Material theme for Kitty.
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 - [Francesco149/gopher](https://github.com/Francesco149/gopher) - new gopherspace, will be mostly programming/tech writeups
@@ -1931,6 +1933,7 @@
 
 ## Shell 
 
+- [M-Reimer/wine-lol](https://github.com/M-Reimer/wine-lol) - Patched wine-staging and glibc with fix needed to run League Of Legends
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal.
 - [mudler/linuxbundles](https://github.com/mudler/linuxbundles) - :penguin: Standalone, local-runnable binaries of popular linux distributions
 - [Maccraft123/Cadmium](https://github.com/Maccraft123/Cadmium) - 
@@ -1986,7 +1989,6 @@
 - [evertiro/cdm](https://github.com/evertiro/cdm) - Console Display Manager
 - [amanhr/dotfiles](https://github.com/amanhr/dotfiles) - *nix config files, managed with GNU Stow.
 - [fmash16/ssg5](https://github.com/fmash16/ssg5) - My custom script for a posix compliable static site generator built by Roman Zolotarev
-- [timb-machine/linux-malware](https://github.com/timb-machine/linux-malware) - Tracking interesting Linux (and UNIX) malware. Send PRs
 - [ipfs/ipget](https://github.com/ipfs/ipget) - Retrieve files over IPFS and save them locally.
 - [RichiH/vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
 - [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
@@ -2438,6 +2440,7 @@
 
 ## Vue 
 
+- [shroudedcode/refined-prime-video](https://github.com/shroudedcode/refined-prime-video) - 🍿 ​ A browser extension that adds small tweaks and useful new features to Amazon Prime Video
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, themes and tons more!
 - [CzBiX/qb-web](https://github.com/CzBiX/qb-web) - A qBittorrent Web UI, write in TypeScript+Vue.
 - [m0ngr31/jellyamp](https://github.com/m0ngr31/jellyamp) - Desktop client for listening to music from a Jellyfin server
