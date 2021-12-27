@@ -2463,7 +2463,7 @@
 
 ## Xonsh 
 
-- [NNBnh/dots](https://github.com/NNBnh/dots) - 📂 End-game Đotfiles (WIP)
+- [NNBnh/dots](https://github.com/NNBnh/dots) - 📂 End-game Đotfiles
 
 ## Zig 
 
