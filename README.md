@@ -2272,6 +2272,7 @@
 
 ## TeX 
 
+- [BhorisDhanjal/MathsRevisionCheatSheets](https://github.com/BhorisDhanjal/MathsRevisionCheatSheets) - A few Mathematics Revision Cheat Sheets I've made on LaTeX.
 - [drago-96/master-thesis](https://github.com/drago-96/master-thesis) - 
 - [DavidMichaelRoberts/AlgebraicTopology2019](https://github.com/DavidMichaelRoberts/AlgebraicTopology2019) - Course notes for Pure Mathematics Topic D 2019
 - [dalcde/cam-notes](https://github.com/dalcde/cam-notes) - My Cambridge Lecture Notes
