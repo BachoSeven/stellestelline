@@ -1453,11 +1453,11 @@
 
 ## Python 
 
+- [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [sdushantha/svart](https://github.com/sdushantha/svart) - Change between dark/light mode depending on the ambient light intensity
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan) - A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228
 - [nvllsvm/jellysub](https://github.com/nvllsvm/jellysub) - Use Subsonic clients with Jellyfin
-- [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [tuhiproject/tuhi](https://github.com/tuhiproject/tuhi) - An application to access Wacom SmartPad devices
 - [xcp-ng/xcp](https://github.com/xcp-ng/xcp) - Entry point for issues and wiki. Also contains some scripts and sources.
 - [YoyPa/isw](https://github.com/YoyPa/isw) - Ice-Sealed Wyvern
