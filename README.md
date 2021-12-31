@@ -18,6 +18,7 @@
   - [C++](#c++)
   - [CSS](#css)
   - [CoffeeScript](#coffeescript)
+  - [Common Lisp](#common-lisp)
   - [Crystal](#crystal)
   - [D](#d)
   - [Dart](#dart)
@@ -472,6 +473,7 @@
 
 ## C# # 
 
+- [jesseward/jellyfin-plugin-lastfm](https://github.com/jesseward/jellyfin-plugin-lastfm) - LastFM plugin for the Jellyfin media system. Fork of the Emby Last.FM plug-in
 - [Radarr/Radarr](https://github.com/Radarr/Radarr) - A fork of Sonarr to work with movies à la Couchpotato.
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with a focus for manga and the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.
 - [jackBonadies/SeekerAndroid](https://github.com/jackBonadies/SeekerAndroid) - Android client for the Soulseek peer-to-peer network
@@ -649,6 +651,7 @@
 
 ## CSS 
 
+- [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [joeroe/risotto](https://github.com/joeroe/risotto) - A minimalist, responsive hugo theme inspired by terminal ricing aesthetics.
 - [ChocolateBread799/startpage](https://github.com/ChocolateBread799/startpage) - https://chocolatebread799.github.io/startpage/
 - [walkxcode/homer-theme](https://github.com/walkxcode/homer-theme) - A custom Homer theme!
@@ -726,6 +729,10 @@
 - [BoLaMN/tch-exploit](https://github.com/BoLaMN/tch-exploit) - Technicolor OpenWRT Shell Unlocker
 - [dropbox/zxcvbn](https://github.com/dropbox/zxcvbn) - Low-Budget Password Strength Estimation
 - [Filirom1/npm2arch](https://github.com/Filirom1/npm2arch) - convert npm package to PKGBUILD
+
+## Common Lisp 
+
+- [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's power-browser.
 
 ## Crystal 
 
@@ -971,6 +978,7 @@
 
 ## JavaScript 
 
+- [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real Time Video Conferences Up to 4k and 60fps.
 - [aziis98/art-2021-12-19](https://github.com/aziis98/art-2021-12-19) - Growing circuit board pattern
 - [caderek/gramma](https://github.com/caderek/gramma) - command-line grammar checker
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
