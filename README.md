@@ -1606,7 +1606,7 @@
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [fake-name/xA-Scraper](https://github.com/fake-name/xA-Scraper) - 
 - [aaronraimist/element-themes](https://github.com/aaronraimist/element-themes) - A place to share themes for Element (formerly Riot), PRs with new themes are welcome!
-- [sezanzeb/key-mapper](https://github.com/sezanzeb/key-mapper) - 🎮 An easy to use tool to change the mapping of your input device buttons.
+- [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 An easy to use tool to change the mapping of your input device buttons.
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [mhtghn/Luricifer](https://github.com/mhtghn/Luricifer) - A simple CLI tool to fetch lyrics from AZlyrics of the playing Spotify song
 - [mhinz/neovim-remote](https://github.com/mhinz/neovim-remote) - :ok_hand: Support for --remote and friends.
@@ -1956,6 +1956,7 @@
 
 ## Shell 
 
+- [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [M-Reimer/wine-lol](https://github.com/M-Reimer/wine-lol) - Patched wine-staging and glibc with fix needed to run League Of Legends
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal.
