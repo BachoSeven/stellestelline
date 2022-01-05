@@ -408,7 +408,7 @@
 - [cyanreg/cyanrip](https://github.com/cyanreg/cyanrip) - Bule-ish CD ripper
 - [salman-abedin/puri](https://github.com/salman-abedin/puri) - Minimal CLI URL launcher
 - [jun7/wyeb](https://github.com/jun7/wyeb) - a vim-like webkit2gtk web browser
-- [mywave82/opencubicplayer](https://github.com/mywave82/opencubicplayer) - Open Cubic Player (unix fork). Music visualizer for various tracked music formats, chiptunes and other formats related to demoscene
+- [mywave82/opencubicplayer](https://github.com/mywave82/opencubicplayer) - Open Cubic Player (unix fork). Music visualizer for various tracked music formats (amiga modules, S3M, IT), chiptunes and other formats related to demoscene
 - [gwimm/leaf](https://github.com/gwimm/leaf) - what a green leaf...
 - [FedeDP/Clight](https://github.com/FedeDP/Clight) - A C daemon that turns your webcam into a light sensor. It will adjust screen backlight based on ambient brightness.
 - [jordansissel/keynav](https://github.com/jordansissel/keynav) - retire your mouse.
@@ -507,6 +507,7 @@
 
 ## C++ 
 
+- [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [jfedor2/twist-to-scroll-trackball](https://github.com/jfedor2/twist-to-scroll-trackball) - DIY trackball with twist-to-scroll
 - [st3w/neo](https://github.com/st3w/neo) - Simulates the digital rain from "The Matrix" (cmatrix clone with 32-bit color and Unicode support)
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
@@ -570,7 +571,7 @@
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
 - [MayaPosch/NymphCast](https://github.com/MayaPosch/NymphCast) - Audio and video casting system with support for custom applications.
 - [sonic-visualiser/sonic-visualiser](https://github.com/sonic-visualiser/sonic-visualiser) - Visualisation, analysis, and annotation of music audio recordings
-- [gerbera/gerbera](https://github.com/gerbera/gerbera) - UPnP Media Server for 2021: Stream your digital media through your home network and consume it on all kinds of UPnP supporting devices 📱💻📺
+- [gerbera/gerbera](https://github.com/gerbera/gerbera) - UPnP Media Server for 2022: Stream your digital media through your home network and consume it on all kinds of UPnP supporting devices 📱💻📺
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [raboof/nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool
 - [debrouxl/tilibs](https://github.com/debrouxl/tilibs) - TILP (formerly GtkTiLink) can transfer data between Texas Instruments graphing calculators and a computer. It works with all link cables (parallel, serial, Black/Gray/Silver/Direct Link) and it supports the TI-Z80 series (73..86), the TI-eZ80 series (83PCE, 84+CE), the TI-68k series (89, 92, 92+, V200, 89T) and the Nspire series (Nspire Clickpad / Touchpad / CX, both CAS and non-CAS)
@@ -764,7 +765,6 @@
 ## Emacs Lisp 
 
 - [thiderman/dotfiles](https://github.com/thiderman/dotfiles) - Heavy emacs customizations with a purple finish
-- [marcothms/dots](https://github.com/marcothms/dots) - my main configuration files
 - [jnykopp/emaccordion](https://github.com/jnykopp/emaccordion) - Control Emacs with MIDI
 - [jasonliang-dev/dotfiles](https://github.com/jasonliang-dev/dotfiles) - ~/.*
 
@@ -911,6 +911,7 @@
 - [grebord/rinsmiles-guide-to-the-void](https://github.com/grebord/rinsmiles-guide-to-the-void) - Setup guide for the VoidLinux operating system from a chroot.
 - [smblott-github/chrome-new-tab-url](https://github.com/smblott-github/chrome-new-tab-url) - Redirect Chrome's New-Tab URL
 - [maboroshin/qBittorrentDarktheme](https://github.com/maboroshin/qBittorrentDarktheme) - qBittorrent Dark theme
+- [deltachat/deltachat-desktop](https://github.com/deltachat/deltachat-desktop) - Email-based instant messaging for Desktop.
 - [skovati/startpage](https://github.com/skovati/startpage) - tree inspired startpage!
 - [alanrey6/startpage-az2](https://github.com/alanrey6/startpage-az2) - My second startpage
 - [Stanley00/anne-pro2-layout-configurator](https://github.com/Stanley00/anne-pro2-layout-configurator) - Layout configurator for Anne Pro 2 keyboard
@@ -1282,6 +1283,7 @@
 
 ## Others 
 
+- [AsahiLinux/docs](https://github.com/AsahiLinux/docs) - Hardware and software docs / wiki
 - [dmi3/blockdevspam](https://github.com/dmi3/blockdevspam) - 
 - [basings/selfhosted-music-overview](https://github.com/basings/selfhosted-music-overview) - A table listing software network services which can be hosted on your own servers
 - [ValveSoftware/SteamOS](https://github.com/ValveSoftware/SteamOS) - SteamOS community tracker
@@ -2100,6 +2102,7 @@
 - [dylanaraps/pxltrm](https://github.com/dylanaraps/pxltrm) - 🖌️ pxltrm - [WIP] A pixel art editor inside the terminal
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
 - [jhuntwork/merelinux](https://github.com/jhuntwork/merelinux) - A lightweight Linux distribution using musl libc, pacman and s6
+- [marcothms/dots](https://github.com/marcothms/dots) - my main configuration files
 - [z3ntu/archhurd_packages](https://github.com/z3ntu/archhurd_packages) - Packages for Arch Hurd
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [zsh-vi-more/vi-motions](https://github.com/zsh-vi-more/vi-motions) - All the motions you could ask for and more for Zsh's vi mode.
@@ -2336,7 +2339,6 @@
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
-- [deltachat/deltachat-desktop](https://github.com/deltachat/deltachat-desktop) - Email-based instant messaging for Desktop.
 - [esjeon/krohnkite](https://github.com/esjeon/krohnkite) - A dynamic tiling extension for KWin
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
