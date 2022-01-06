@@ -121,6 +121,7 @@
 
 ## C 
 
+- [krychu/wfc](https://github.com/krychu/wfc) - Wave Function Collapse library in C, plus a command-line tool
 - [gmc-holle/xfdashboard](https://github.com/gmc-holle/xfdashboard) - Maybe a Gnome shell like dashboard for Xfce
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 - [andrewjrae/qmk-vim](https://github.com/andrewjrae/qmk-vim) - An attempt to emulate as much of vim as possible in QMK.
@@ -885,6 +886,8 @@
 
 ## HTML 
 
+- [Animenosekai/freeWolframAlpha](https://github.com/Animenosekai/freeWolframAlpha) - Unlock/Receive FREE unlimited access to Wolfram|Alpha's full Step-by-step solutions.
+- [WolfreeAlpha/WolfreeAlpha.github.io](https://github.com/WolfreeAlpha/WolfreeAlpha.github.io) - All files in this repository are created by wolfree.lisp except for the following four files: .gitlab-ci.yml .nojekyll README.md _config.yml
 - [alangpierce/TheProofIsTrivial](https://github.com/alangpierce/TheProofIsTrivial) - Math-themed single-serving site
 - [AdaptiveScale/lxdui](https://github.com/AdaptiveScale/lxdui) - LXDUI is a web UI for the native Linux container technology LXD/LXC
 - [phc-dm/content-poisson](https://github.com/phc-dm/content-poisson) - Tutti i contenuti inseriti in Poisson e.g. articoli, guide, ecc.
@@ -979,13 +982,14 @@
 
 ## JavaScript 
 
+- [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your apps with style.
 - [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 4k and 60fps, compatible with all browsers and platforms.
 - [aziis98/art-2021-12-19](https://github.com/aziis98/art-2021-12-19) - Growing circuit board pattern
 - [caderek/gramma](https://github.com/caderek/gramma) - command-line grammar checker
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [publiusfederalist/federalist](https://github.com/publiusfederalist/federalist) - Access files on the decentralized, unblockable torrent swarm and visit links using Handshake domains.  Decentralized internet is here.
 - [tastejs/todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more
-- [Schneegans/Desktop-Cube](https://github.com/Schneegans/Desktop-Cube) - Indulge in nostalgia with useless 3D effects.
+- [Schneegans/Desktop-Cube](https://github.com/Schneegans/Desktop-Cube) - 🧊 Indulge in nostalgia with useless 3D effects.
 - [dmi3/userscripts](https://github.com/dmi3/userscripts) - 
 - [enjeck/num2math](https://github.com/enjeck/num2math) - Complicated math expression generator
 - [linuxmint/cinnamon-spices-extensions](https://github.com/linuxmint/cinnamon-spices-extensions) - Extensions for the Cinnamon desktop
@@ -2318,6 +2322,8 @@
 
 ## TypeScript 
 
+- [jeffvli/sonixd](https://github.com/jeffvli/sonixd) - A full-featured Subsonic/Jellyfin compatible desktop music player
+- [shiftinv/wolframalpha-moresteps](https://github.com/shiftinv/wolframalpha-moresteps) - Browser extension that automatically replaces partial step-by-step solutions on Wolfram|Alpha with complete solutions from the official API
 - [PrettyCoffee/startpage](https://github.com/PrettyCoffee/startpage) - A React library which provides tools that help creating browser startpages in react.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [ckissane/blur-me](https://github.com/ckissane/blur-me) - Extension that adds a blur look to applications and to different parts of the GNOME Shell, including the top panel, dash and overview
@@ -2485,7 +2491,7 @@
 
 ## Xonsh 
 
-- [NNBnh/dots](https://github.com/NNBnh/dots) - 📂 End-game Đotfiles
+- [NNBnh/dots](https://github.com/NNBnh/dots) - 📂 End-game Đotfiles (WIP)
 
 ## Zig 
 
