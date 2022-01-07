@@ -79,7 +79,6 @@
   - [VimL](#viml)
   - [Visual Basic](#visual-basic)
   - [Vue](#vue)
-  - [Xonsh](#xonsh)
   - [Zig](#zig)
   - [sed](#sed)
 
@@ -612,7 +611,7 @@
 - [suratovvlad/libqdark](https://github.com/suratovvlad/libqdark) - Dark theme plugin for Qt applications. Choose the dark side of the style.
 - [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - [Unofficial] qBittorrent Enhanced, based on qBittorrent
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
-- [Eeems/oxide](https://github.com/Eeems/oxide) - A launcher application for the reMarkable tablet
+- [Eeems/oxide](https://github.com/Eeems/oxide) - A desktop environment for the reMarkable tablet
 - [ttalvitie/browservice](https://github.com/ttalvitie/browservice) - Browservice: Browse the modern web on historical browsers
 - [lightvector/KataGo](https://github.com/lightvector/KataGo) - GTP engine and self-play learning in Go
 - [osleg/gebaar-libinput-fork](https://github.com/osleg/gebaar-libinput-fork) - Gebaar, A Super Simple WM Independent Touchpad Gesture Daemon for libinput. Forked version with additional features.
@@ -1015,7 +1014,7 @@
 - [sandsmark/chrome-extension-unconfidential](https://github.com/sandsmark/chrome-extension-unconfidential) - Allows you to select and copy text from "confidential" emails in gmail. Security by idiocy.
 - [mozilla/multi-account-containers](https://github.com/mozilla/multi-account-containers) - Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
 - [Cykelero/timefind](https://github.com/Cykelero/timefind) - Search a website's history.
-- [ciderapp/Apple-Music-Electron](https://github.com/ciderapp/Apple-Music-Electron) - Sunsetting soon. See Cider for more info https://github.com/ciderapp/Cider
+- [ciderapp/Apple-Music-Electron](https://github.com/ciderapp/Apple-Music-Electron) - Apple Music Electron is now deprecated. See our new project Cider https://github.com/ciderapp/Cider
 - [murdos/musicbrainz-userscripts](https://github.com/murdos/musicbrainz-userscripts) - Collection of userscripts for MusicBrainz, by various authors
 - [keepassxreboot/keepassxc-browser](https://github.com/keepassxreboot/keepassxc-browser) - KeePassXC Browser Extension
 - [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
@@ -1226,6 +1225,7 @@
 - [ChrisTitusTech/TitusPi](https://github.com/ChrisTitusTech/TitusPi) - Custom CTT Pi based linux distro
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [JavaCafe01/dotfiles](https://github.com/JavaCafe01/dotfiles) - My desktop configuration files
+- [salman-abedin/magpie](https://github.com/salman-abedin/magpie) - Dotfiles of my minimal Unix system geared for media, programming & writing
 - [WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
 - [manilarome/the-glorious-dotfiles](https://github.com/manilarome/the-glorious-dotfiles) - A glorified personal dot files
 - [jgreco/mpv-youtube-quality](https://github.com/jgreco/mpv-youtube-quality) - A userscript for MPV that allows you to change youtube video quality (ytdl-format) on the fly
@@ -1263,6 +1263,7 @@
 
 ## Nix 
 
+- [NNBnh/dots](https://github.com/NNBnh/dots) - 📂 End-game Đotfiles (WIP)
 - [alexherbo2/dotfiles](https://github.com/alexherbo2/dotfiles) - Personal configuration files
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
 
@@ -1692,7 +1693,6 @@
 - [hellerbarde/stapler](https://github.com/hellerbarde/stapler) - A small utility making use of the pypdf library to provide a (somewhat) lighter alternative to pdftk
 - [itsron143/XKCD](https://github.com/itsron143/XKCD) - A minimal command line tool for your daily dose of xkcd comics written in python. Feel free to contribute!
 - [ihabunek/toot](https://github.com/ihabunek/toot) - toot - Mastodon CLI & TUI
-- [salman-abedin/magpie](https://github.com/salman-abedin/magpie) - Dotfiles of my minimal Unix system geared for media, programming & writing
 - [s3rvac/weechat-notify-send](https://github.com/s3rvac/weechat-notify-send) - A WeeChat script that sends highlight and message notifications through notify-send.
 - [GermainZ/weechat-vimode](https://github.com/GermainZ/weechat-vimode) - A WeeChat script that adds vi-like modes, commands and keybindings.
 - [poljar/weechat-matrix](https://github.com/poljar/weechat-matrix) - Weechat Matrix protocol script written in python
@@ -2488,10 +2488,6 @@
 - [WDaan/VueTorrent](https://github.com/WDaan/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [LibreScore/LibreScore](https://github.com/LibreScore/LibreScore) - The open source (GPLv3), serverless, offline-first, and totally free alternative to musescore.com
 - [cbrasser/bashrc](https://github.com/cbrasser/bashrc) - Browser startpage emulating a unix terminal
-
-## Xonsh 
-
-- [NNBnh/dots](https://github.com/NNBnh/dots) - 📂 End-game Đotfiles (WIP)
 
 ## Zig 
 
