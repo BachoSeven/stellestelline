@@ -611,7 +611,7 @@
 - [suratovvlad/libqdark](https://github.com/suratovvlad/libqdark) - Dark theme plugin for Qt applications. Choose the dark side of the style.
 - [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - [Unofficial] qBittorrent Enhanced, based on qBittorrent
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
-- [Eeems/oxide](https://github.com/Eeems/oxide) - A desktop environment for the reMarkable tablet
+- [Eeems-Org/oxide](https://github.com/Eeems-Org/oxide) - A desktop environment for the reMarkable tablet
 - [ttalvitie/browservice](https://github.com/ttalvitie/browservice) - Browservice: Browse the modern web on historical browsers
 - [lightvector/KataGo](https://github.com/lightvector/KataGo) - GTP engine and self-play learning in Go
 - [osleg/gebaar-libinput-fork](https://github.com/osleg/gebaar-libinput-fork) - Gebaar, A Super Simple WM Independent Touchpad Gesture Daemon for libinput. Forked version with additional features.
@@ -694,7 +694,6 @@
 - [emanuelep57/Blue-tea](https://github.com/emanuelep57/Blue-tea) - Simple startpage with weather and to-do list features.
 - [obliviousofcraps/mf-dots](https://github.com/obliviousofcraps/mf-dots) - These are some of my ridiculously shit dotfiles that I use in my unproductive daily life.
 - [christiangenco/chrome-export-history](https://github.com/christiangenco/chrome-export-history) - Chrome Extension to export your entire history in json or csv
-- [privacyone/breeze-core](https://github.com/privacyone/breeze-core) - 
 - [Jorengarenar/RedditOldRedesignedDark](https://github.com/Jorengarenar/RedditOldRedesignedDark) - Dark theme for Reddit Old
 - [jakebian/kan](https://github.com/jakebian/kan) - Kan: A browser extension for reading nLab
 - [owozsh/adwaita-rounded](https://github.com/owozsh/adwaita-rounded) - A patch to round the bottom corners of the Adwaita theme.
@@ -1038,7 +1037,6 @@
 - [dataarts/dat.gui](https://github.com/dataarts/dat.gui) - dat.gui is a lightweight controller library for JavaScript.
 - [josdejong/mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
 - [zlatinb/mucats](https://github.com/zlatinb/mucats) - Website for hosting hashes of cat videos and other files shared on the MuWire network
-- [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [Priler/dino3d](https://github.com/Priler/dino3d) - 🦖 Google Chrome T-Rex Run! in 3D (WebGL experiment)
 - [JulienMaille/dribbblish-dynamic-theme](https://github.com/JulienMaille/dribbblish-dynamic-theme) - A mod of Dribbblish theme for Spicetify with support for light/dark modes and album art based colors.
 - [felixrieseberg/macintosh.js](https://github.com/felixrieseberg/macintosh.js) - 🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
@@ -1391,6 +1389,7 @@
 - [chaotic-aur/packages](https://github.com/chaotic-aur/packages) - The packages Mason, what do they mean? (Package requests and bug reports here) 📑
 - [rsaihe/gruvbox-material-kitty](https://github.com/rsaihe/gruvbox-material-kitty) - A port of @sainnhe's Gruvbox Material theme for Kitty.
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
+- [pagopa/io](https://github.com/pagopa/io) - Repository principale di IO: offre una mappa di informazioni e risorse per orientarsi nel progetto
 - [Francesco149/gopher](https://github.com/Francesco149/gopher) - new gopherspace, will be mostly programming/tech writeups
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [ProtractorNinja/xsnow-comp-patch](https://github.com/ProtractorNinja/xsnow-comp-patch) - Compositor-friendly patch for Xsnow
@@ -1601,6 +1600,7 @@
 - [XayOn/torrentmirror](https://github.com/XayOn/torrentmirror) - Torrentmirror python library and CLI access
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [hbldh/bleak](https://github.com/hbldh/bleak) - Bluetooth Low Energy platform Agnostic Klient for Python
+- [privacyone/breeze-core](https://github.com/privacyone/breeze-core) - 
 - [chubin/rate.sx](https://github.com/chubin/rate.sx) - :moneybag: curl cryptocurrencies exchange rates
 - [GideonWolfe/Chameleon](https://github.com/GideonWolfe/Chameleon) - 🦎 Theme your linux system to match any image
 - [BingLingGroup/autosub](https://github.com/BingLingGroup/autosub) - Command-line utility to transcribe/translate from video/audio/subtitles to subtitles
@@ -2316,7 +2316,6 @@
 - [dirompante/esercizi_laboratorio](https://github.com/dirompante/esercizi_laboratorio) - Raccolta di esercizi svolti da me
 - [WtfJoke/tectonic-docker](https://github.com/WtfJoke/tectonic-docker) - A tiny docker image for tectonic latex engine with a primed cache
 - [stacks/stacks-project](https://github.com/stacks/stacks-project) - Repository for the Stacks Project
-- [pagopa/io](https://github.com/pagopa/io) - Main repository for the Digital Citizenship initiative of the Italian Government
 - [lervag/vimtex](https://github.com/lervag/vimtex) - VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
 - [ernestyalumni/mathphysics](https://github.com/ernestyalumni/mathphysics) - Various notes and solutions on Math and Physics (and Mathematical Physics)
 
@@ -2333,6 +2332,7 @@
 - [imLinguin/jelly-desktop](https://github.com/imLinguin/jelly-desktop) - Simple community made desktop client for Jellyfin
 - [aome510/article-md-cli](https://github.com/aome510/article-md-cli) - An CLI application to parse a web article into readable text.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
+- [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [tympanix/Electorrent](https://github.com/tympanix/Electorrent) - A remote control client for µTorrent, qBittorrent, rTorrent, Transmission, Synology & Deluge
 - [bitwarden/browser](https://github.com/bitwarden/browser) - The browser extension vault (Chrome, Firefox, Opera, Edge, Safari, & more).
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
