@@ -120,6 +120,8 @@
 
 ## C 
 
+- [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
+- [AnasChhilif/MusicKid](https://github.com/AnasChhilif/MusicKid) - minimalist music player
 - [krychu/wfc](https://github.com/krychu/wfc) - Wave Function Collapse library in C, plus a command-line tool
 - [gmc-holle/xfdashboard](https://github.com/gmc-holle/xfdashboard) - Maybe a Gnome shell like dashboard for Xfce
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
@@ -884,6 +886,7 @@
 
 ## HTML 
 
+- [RootMyTV/RootMyTV.github.io](https://github.com/RootMyTV/RootMyTV.github.io) - RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs.
 - [Animenosekai/freeWolframAlpha](https://github.com/Animenosekai/freeWolframAlpha) - Unlock/Receive FREE unlimited access to Wolfram|Alpha's full Step-by-step solutions.
 - [WolfreeAlpha/WolfreeAlpha.github.io](https://github.com/WolfreeAlpha/WolfreeAlpha.github.io) - All files in this repository are created by wolfree.lisp except for the following four files: .gitlab-ci.yml .nojekyll README.md _config.yml
 - [alangpierce/TheProofIsTrivial](https://github.com/alangpierce/TheProofIsTrivial) - Math-themed single-serving site
@@ -952,6 +955,7 @@
 
 ## Java 
 
+- [agersant/polaris-android](https://github.com/agersant/polaris-android) - Android client for Polaris
 - [redsolver/skydroid](https://github.com/redsolver/skydroid) - A decentralized domain-based App Store for Android.
 - [NekoX-Dev/NekoX](https://github.com/NekoX-Dev/NekoX) - The third-party Telegram android app.
 - [Catogram/Catogram](https://github.com/Catogram/Catogram) - Experimental telegram client based on official Android sources
@@ -980,6 +984,7 @@
 
 ## JavaScript 
 
+- [webosbrew/webos-homebrew-channel](https://github.com/webosbrew/webos-homebrew-channel) - Unofficial webOS TV homebrew store and root-related tooling
 - [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your apps with style.
 - [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 4k and 60fps, compatible with all browsers and platforms.
 - [aziis98/art-2021-12-19](https://github.com/aziis98/art-2021-12-19) - Growing circuit board pattern
@@ -1758,6 +1763,7 @@
 
 ## Rust 
 
+- [agersant/polaris](https://github.com/agersant/polaris) - Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device.
 - [edouardpoitras/osm-geo-mapper](https://github.com/edouardpoitras/osm-geo-mapper) - Navigate OpenStreetMap data in the terminal
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [imazen/imageflow](https://github.com/imazen/imageflow) - High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow
@@ -2436,7 +2442,7 @@
 - [yukimemi/dotfiles](https://github.com/yukimemi/dotfiles) - my conf settings
 - [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim) - vim dashboard
 - [morhetz/gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim
-- [jdhao/better-escape.vim](https://github.com/jdhao/better-escape.vim) - A plugin for escaping Vim insert mode without lagging.
+- [jdhao/better-escape.vim](https://github.com/jdhao/better-escape.vim) - A plugin for escaping insert mode without lagging.
 - [wfxr/minimap.vim](https://github.com/wfxr/minimap.vim) - 📡 Blazing fast minimap / scrollbar for vim, powered by code-minimap written in Rust.
 - [paradigm/dotfiles](https://github.com/paradigm/dotfiles) - Collection of configuration and settings files for Linux (and cygwin)
 - [mk12/vim-lean](https://github.com/mk12/vim-lean) - Lean Theorem Prover plugin for Vim.
