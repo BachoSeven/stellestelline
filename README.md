@@ -723,7 +723,6 @@
 - [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
 - [CharlieEtienne/material-github](https://github.com/CharlieEtienne/material-github) - A Material Dark Theme for GitHub
 - [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment. Deprecated, preparing Joyful Desktop v4
-- [gruvbox-community/gruvbox-contrib](https://github.com/gruvbox-community/gruvbox-contrib) - Ports of the gruvbox colorscheme
 - [morpheusthewhite/spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify (https://github.com/khanhas/spicetify-cli)
 
 ## CoffeeScript 
@@ -1953,6 +1952,7 @@
 - [okarin001/Onepunch](https://github.com/okarin001/Onepunch) - for spicetify-theme
 - [b-01/startpage](https://github.com/b-01/startpage) - Simple HTML Startpage that displays the time, date, a searchbar and customizable (plus hideable) cards.
 - [jmattheis/gruvbox-dark-gtk](https://github.com/jmattheis/gruvbox-dark-gtk) - A colorless gruvbox dark theme for GTK 2.0 and 3.0.
+- [gruvbox-community/gruvbox-contrib](https://github.com/gruvbox-community/gruvbox-contrib) - Ports of the gruvbox colorscheme
 
 ## Sass 
 
