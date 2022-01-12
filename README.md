@@ -2066,7 +2066,7 @@
 - [ThatOneCalculator/NerdFetch](https://github.com/ThatOneCalculator/NerdFetch) - A POSIX *nix fetch script using Nerdfonts
 - [jitsi-contrib/jitas](https://github.com/jitsi-contrib/jitas) - Jitsi Assistant
 - [Kron4ek/Conty](https://github.com/Kron4ek/Conty) - Easy to use unprivileged Linux container packed into a single portable executable
-- [AsianCat54x/My_Eww_Scripts](https://github.com/AsianCat54x/My_Eww_Scripts) - Eww Scripts To Make Your Desktop Beautiful !
+- [0xsapphir3/My_Eww_Scripts](https://github.com/0xsapphir3/My_Eww_Scripts) - Eww Scripts To Make Your Desktop Beautiful !
 - [Frogging-Family/linux-tkg](https://github.com/Frogging-Family/linux-tkg) - linux-tkg custom kernels
 - [Jannik2099/gentoo-pinebookpro](https://github.com/Jannik2099/gentoo-pinebookpro) - A collection of scripts to prepare a Gentoo tarball for the pinebook pro
 - [dylanaraps/pash](https://github.com/dylanaraps/pash) - 🔒 A simple password manager using GPG written in POSIX sh.
@@ -2441,7 +2441,7 @@
 - [yukimemi/dotfiles](https://github.com/yukimemi/dotfiles) - my conf settings
 - [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim) - vim dashboard
 - [morhetz/gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim
-- [jdhao/better-escape.vim](https://github.com/jdhao/better-escape.vim) - A plugin for escaping insert mode without lagging.
+- [jdhao/better-escape.vim](https://github.com/jdhao/better-escape.vim) - A Vim/Neovim plugin for escaping insert mode without lagging.
 - [wfxr/minimap.vim](https://github.com/wfxr/minimap.vim) - 📡 Blazing fast minimap / scrollbar for vim, powered by code-minimap written in Rust.
 - [paradigm/dotfiles](https://github.com/paradigm/dotfiles) - Collection of configuration and settings files for Linux (and cygwin)
 - [mk12/vim-lean](https://github.com/mk12/vim-lean) - Lean Theorem Prover plugin for Vim.
