@@ -8,6 +8,7 @@
   - [AGS Script](#ags-script)
   - [ASL](#asl)
   - [ActionScript](#actionscript)
+  - [Agda](#agda)
   - [Assembly](#assembly)
   - [AutoHotkey](#autohotkey)
   - [AutoIt](#autoit)
@@ -94,6 +95,10 @@
 
 - [TerryCavanagh/boscaceoil](https://github.com/TerryCavanagh/boscaceoil) - A simple music making program
 - [TerryCavanagh/VVVVVV](https://github.com/TerryCavanagh/VVVVVV) - The source code to VVVVVV! http://thelettervsixtim.es/
+
+## Agda 
+
+- [thehottgame/TheHoTTGame](https://github.com/thehottgame/TheHoTTGame) - Attracting mathematicians (others welcome too) with no experience in proof verification interested in HoTT and able to use Agda for HoTT
 
 ## Assembly 
 
@@ -509,6 +514,7 @@
 
 ## C++ 
 
+- [iris-cli/iris](https://github.com/iris-cli/iris) - Iris is an AI-prototype CLI-assistant that receives any type of input and tries to find an answer for it. It strives to have a simple highly documented codebase while being extremely performant and lightweight.
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [jfedor2/twist-to-scroll-trackball](https://github.com/jfedor2/twist-to-scroll-trackball) - DIY trackball with twist-to-scroll
 - [st3w/neo](https://github.com/st3w/neo) - Simulates the digital rain from "The Matrix" (cmatrix clone with 32-bit color and Unicode support)
@@ -783,6 +789,7 @@
 
 ## Go 
 
+- [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [makeworld-the-better-one/amfora](https://github.com/makeworld-the-better-one/amfora) - A fancy terminal browser for the Gemini protocol.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 🎄
 - [evan-buss/openbooks](https://github.com/evan-buss/openbooks) - Search and Download eBooks
@@ -1761,6 +1768,8 @@
 
 ## Rust 
 
+- [PureArtistry/oi](https://github.com/PureArtistry/oi) - trivia on the command line
+- [federico-terzi/espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander written in Rust
 - [agersant/polaris](https://github.com/agersant/polaris) - Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device.
 - [edouardpoitras/osm-geo-mapper](https://github.com/edouardpoitras/osm-geo-mapper) - Navigate OpenStreetMap data in the terminal
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
