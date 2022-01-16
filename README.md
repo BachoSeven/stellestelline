@@ -1272,7 +1272,7 @@
 
 ## Nix 
 
-- [NNBnh/dots](https://github.com/NNBnh/dots) - 📂 End-game Đotfiles (WIP)
+- [NNBnh/dots](https://github.com/NNBnh/dots) - 📂 End-game Đotfiles
 - [alexherbo2/dotfiles](https://github.com/alexherbo2/dotfiles) - Personal configuration files
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
 
