@@ -791,7 +791,7 @@
 
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [makeworld-the-better-one/amfora](https://github.com/makeworld-the-better-one/amfora) - A fancy terminal browser for the Gemini protocol.
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 🎄
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 ✨
 - [evan-buss/openbooks](https://github.com/evan-buss/openbooks) - Search and Download eBooks
 - [yuin/goldmark-meta](https://github.com/yuin/goldmark-meta) - A YAML metadata extension for the goldmark markdown parser.
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats
@@ -1520,6 +1520,7 @@
 - [NeverDecaf/ungoogled-updater](https://github.com/NeverDecaf/ungoogled-updater) - Script for windows to keep ungoogled-chromium up to date.
 - [radude/rentry](https://github.com/radude/rentry) - Markdown pastebin from command line
 - [AsahiLinux/asahi-installer](https://github.com/AsahiLinux/asahi-installer) - Asahi Linux installer
+- [Barbarossa93/Muspelheim](https://github.com/Barbarossa93/Muspelheim) - Thonkpad setup
 - [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 - [darlinghq/darling-docker](https://github.com/darlinghq/darling-docker) - Dockerfile for Darling
 - [schlafwandler/ghidra_SavePatch](https://github.com/schlafwandler/ghidra_SavePatch) - A Ghidra script to save small patches back to the executable file
@@ -2031,7 +2032,6 @@
 - [spxak1/weywot](https://github.com/spxak1/weywot) - My notes on using Pop!_OS
 - [sayan01/scripts](https://github.com/sayan01/scripts) - scripts
 - [codingtony/udev-monitor-hotplug](https://github.com/codingtony/udev-monitor-hotplug) - Script that get triggered when monitors are plugged in or out in Linux
-- [Barbarossa93/Muspelheim](https://github.com/Barbarossa93/Muspelheim) - Thonkpad setup
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [dylanaraps/barsh](https://github.com/dylanaraps/barsh) - Use your terminal as a bar
 - [archlinux/arch-install-scripts](https://github.com/archlinux/arch-install-scripts) - Useful scripts for installing Arch Linux
