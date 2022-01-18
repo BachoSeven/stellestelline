@@ -125,6 +125,7 @@
 
 ## C 
 
+- [xeome/compix](https://github.com/xeome/compix) - an X compositor based on axcomp which is based on xcompmgr
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [AnasChhilif/MusicKid](https://github.com/AnasChhilif/MusicKid) - minimalist music player
 - [krychu/wfc](https://github.com/krychu/wfc) - Wave Function Collapse library in C, plus a command-line tool
@@ -219,7 +220,7 @@
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [johanmalm/jgmenu](https://github.com/johanmalm/jgmenu) - An X11 menu
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
-- [SartoxSoftware/audacium](https://github.com/SartoxSoftware/audacium) - Audacity fork without Telemetry and with new features
+- [SartoxSoftware/audacium](https://github.com/SartoxSoftware/audacium) - Free and open-source audio editor
 - [Sneeds-Feed-and-Seed/SIMP](https://github.com/Sneeds-Feed-and-Seed/SIMP) - Sneed's Image Manipulation Program (Formerly Chuck's)
 - [JamesCrook/audacity](https://github.com/JamesCrook/audacity) - Audacity(R): A Free, Cross-Platform Digital Audio Editor
 - [Dudemanguy/gtk](https://github.com/Dudemanguy/gtk) - Gtk+
@@ -480,6 +481,7 @@
 
 ## C# # 
 
+- [SHOEGAZEssb/Last.fm-Scrubbler-WPF](https://github.com/SHOEGAZEssb/Last.fm-Scrubbler-WPF) - Manual Last.fm scrobbling for when a service (or you!) failed to scrobble.
 - [jesseward/jellyfin-plugin-lastfm](https://github.com/jesseward/jellyfin-plugin-lastfm) - LastFM plugin for the Jellyfin media system. Fork of the Emby Last.FM plug-in
 - [Radarr/Radarr](https://github.com/Radarr/Radarr) - A fork of Sonarr to work with movies à la Couchpotato.
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with a focus for manga and the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.
@@ -514,6 +516,7 @@
 
 ## C++ 
 
+- [gerstner-hub/xwmfs](https://github.com/gerstner-hub/xwmfs) - X11 Window-Manager file system based on FUSE
 - [iris-cli/iris](https://github.com/iris-cli/iris) - Iris is an AI-prototype CLI-assistant that receives any type of input and tries to find an answer for it. It strives to have a simple highly documented codebase while being extremely performant and lightweight.
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [jfedor2/twist-to-scroll-trackball](https://github.com/jfedor2/twist-to-scroll-trackball) - DIY trackball with twist-to-scroll
@@ -663,7 +666,7 @@
 - [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [joeroe/risotto](https://github.com/joeroe/risotto) - A minimalist, responsive hugo theme inspired by terminal ricing aesthetics.
 - [ChocolateBread799/startpage](https://github.com/ChocolateBread799/startpage) - https://chocolatebread799.github.io/startpage/
-- [walkxcode/homer-theme](https://github.com/walkxcode/homer-theme) - A custom Homer theme!
+- [walkxhub/homer-theme](https://github.com/walkxhub/homer-theme) - A custom Homer theme!
 - [antcc/dotfiles](https://github.com/antcc/dotfiles) - Configuration files for Arch Linux.
 - [LambadaCorez/custom_css_jellyfin](https://github.com/LambadaCorez/custom_css_jellyfin) - Plug n' Play CSS templates for Jellyfin!
 - [GilbN/theme.park](https://github.com/GilbN/theme.park) - A collection of themes/skins for your favorite apps.
@@ -892,6 +895,7 @@
 
 ## HTML 
 
+- [lilnasy/scribblyscrobbly](https://github.com/lilnasy/scribblyscrobbly) - a little something to groom apple music and spotify data for last.fm
 - [arxiv-vanity/engrafo](https://github.com/arxiv-vanity/engrafo) - Convert LaTeX documents into beautiful responsive web pages using LaTeXML.
 - [RootMyTV/RootMyTV.github.io](https://github.com/RootMyTV/RootMyTV.github.io) - RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs.
 - [Animenosekai/freeWolframAlpha](https://github.com/Animenosekai/freeWolframAlpha) - Unlock/Receive FREE unlimited access to Wolfram|Alpha's full Step-by-step solutions.
@@ -990,6 +994,7 @@
 
 ## JavaScript 
 
+- [RudeySH/lastfm-bulk-edit](https://github.com/RudeySH/lastfm-bulk-edit) - Bulk edit your scrobbles for any artist, album or track on Last.fm at once.
 - [webosbrew/webos-homebrew-channel](https://github.com/webosbrew/webos-homebrew-channel) - Unofficial webOS TV homebrew store and root-related tooling
 - [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your apps with style.
 - [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 4k and 60fps, compatible with all browsers and platforms.
@@ -1479,6 +1484,7 @@
 
 ## Python 
 
+- [Sulius/Spotify-to-LastFM-Converter](https://github.com/Sulius/Spotify-to-LastFM-Converter) - Let's you import your Spotify history .json-file into Universal Scrobbler.
 - [webosbrew/apps-repo](https://github.com/webosbrew/apps-repo) - Central repo for webOS Homebrew apps
 - [dialect-app/dialect](https://github.com/dialect-app/dialect) - A translation app for GNOME.
 - [ssut/py-googletrans](https://github.com/ssut/py-googletrans) - (unofficial) Googletrans: Free and Unlimited Google translate API for Python. Translates totally free of charge.
@@ -1980,6 +1986,7 @@
 
 ## Shell 
 
+- [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - BSPWM -  Aesthetic Nordic
 - [thomaseizinger/pkgbuilds](https://github.com/thomaseizinger/pkgbuilds) - A collection of personal AUR packages.
 - [MiMillieuh/Photoshop-CC2021-Linux](https://github.com/MiMillieuh/Photoshop-CC2021-Linux) - Installer for Photoshop CC 2021 on linux with one command
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
@@ -2496,6 +2503,7 @@
 
 ## Vue 
 
+- [taurheim/scrobblify](https://github.com/taurheim/scrobblify) - Retroactively scrobble from spotify to last.fm (specifically meant for new accounts)
 - [shroudedcode/refined-prime-video](https://github.com/shroudedcode/refined-prime-video) - 🍿 ​ A browser extension that adds small tweaks and useful new features to Amazon Prime Video
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!
 - [CzBiX/qb-web](https://github.com/CzBiX/qb-web) - A qBittorrent Web UI, write in TypeScript+Vue.
