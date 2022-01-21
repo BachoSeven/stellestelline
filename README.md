@@ -663,6 +663,8 @@
 
 ## CSS 
 
+- [schnensch0/ziro](https://github.com/schnensch0/ziro) - spicetify theme inspired by zorin
+- [Fausto-Korpsvart/Gruvbox-GTK-Theme](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme) - A GTK theme based on the Gruvbox colour palette.
 - [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [joeroe/risotto](https://github.com/joeroe/risotto) - A minimalist, responsive hugo theme inspired by terminal ricing aesthetics.
 - [ChocolateBread799/startpage](https://github.com/ChocolateBread799/startpage) - https://chocolatebread799.github.io/startpage/
@@ -1233,7 +1235,7 @@
 - [drahenprofi/dotfiles](https://github.com/drahenprofi/dotfiles) - Arch Linux dotfiles
 - [savq/paq-nvim](https://github.com/savq/paq-nvim) - 🌚  Neovim package manager
 - [b3nj5m1n/kommentary](https://github.com/b3nj5m1n/kommentary) - Neovim commenting plugin, written in lua.
-- [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview) - 📍 A Neovim plugin that displays interactive vertical scrollbars.
+- [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview) - 📜📶 A Neovim plugin that displays interactive vertical scrollbars.
 - [karosamu/dotfiles](https://github.com/karosamu/dotfiles) - My dotfiles repo
 - [wis/mpvSockets](https://github.com/wis/mpvSockets) - creates one IPC socket per mpv instance
 - [letoram/durden](https://github.com/letoram/durden) - Desktop Environment for Arcan
@@ -1790,7 +1792,7 @@
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [flxzt/rnote](https://github.com/flxzt/rnote) - A simple note taking application written in Rust and GTK4
 - [vv9k/dockeye](https://github.com/vv9k/dockeye) - GUI app for managing Docker/Podman
-- [TheRawMeatball/meme-cli](https://github.com/TheRawMeatball/meme-cli) - 
+- [TheRawMeatball/meme-cli](https://github.com/TheRawMeatball/meme-cli) - Because the world needed this I decided.
 - [Tarnadas/smmdb-client](https://github.com/Tarnadas/smmdb-client) - 
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
@@ -2003,7 +2005,7 @@
 - [tyzoid/btw](https://github.com/tyzoid/btw) - Correcting glaring omissions from BtwOS
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
-- [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - 🍚 my dotfiles on my daily driver.
+- [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - 🍚 my personal configuration files.
 - [JLErvin/dotfiles](https://github.com/JLErvin/dotfiles) - Configuration files for arch linux and macOS
 - [BachoSeven/mimi](https://github.com/BachoSeven/mimi) - better xdg-open
 - [kusky3/consoom](https://github.com/kusky3/consoom) - blazing fast plebbit consooming
@@ -2145,7 +2147,7 @@
 - [channel-42/wppfzf](https://github.com/channel-42/wppfzf) - Browse and download images from reddit
 - [e-zk/dotfiles](https://github.com/e-zk/dotfiles) - got rice?
 - [e-zk/shlog](https://github.com/e-zk/shlog) - a static blog generator in /bin/sh: rewrite pending
-- [rayes0/scripts](https://github.com/rayes0/scripts) - collection of miscellaneous scripts
+- [rayes0/scripts](https://github.com/rayes0/scripts) - collection of miscellaneous scripts and small programs
 - [uggedal/pkgs](https://github.com/uggedal/pkgs) - Arch Linux system configuration as PKGBUILDs
 - [yochananmarqos/pkgbuilds](https://github.com/yochananmarqos/pkgbuilds) - Personal PKGBUILDs
 - [Zayac-The-Engineer/lazywal-cli](https://github.com/Zayac-The-Engineer/lazywal-cli) - Animated wallpaper script around xwinwrap
@@ -2333,7 +2335,7 @@
 - [latex3/latex2e](https://github.com/latex3/latex2e) - The LaTeX2e kernel
 - [snsmathlessons/Zannier1617](https://github.com/snsmathlessons/Zannier1617) - Corso di Zannier in Normale anni 2016/2017 (Funzioni Ellittiche e Modulari).
 - [severinlandolt/latex-thesis-template](https://github.com/severinlandolt/latex-thesis-template) - A LaTeX template for humans.
-- [fexed/Notes](https://github.com/fexed/Notes) - Appunti e note prese durante alcune lezioni e corsi
+- [fexed/Notes](https://github.com/fexed/Notes) - Appunti in LaTeX del CdL in Informatica presso UniPi / LaTeX notes of the CS course from University of Pisa
 - [plk/biber](https://github.com/plk/biber) - Backend processor for BibLaTeX
 - [drago-96/appunti](https://github.com/drago-96/appunti) - Appunti di corsi che ho seguito
 - [vEnhance/napkin](https://github.com/vEnhance/napkin) - An Infinitely Large Napkin
