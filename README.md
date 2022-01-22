@@ -125,6 +125,8 @@
 
 ## C 
 
+- [FrameworkComputer/EmbeddedController](https://github.com/FrameworkComputer/EmbeddedController) - Embedded Controller firmware for the Framework Laptop
+- [morrownr/88x2bu-20210702](https://github.com/morrownr/88x2bu-20210702) - Linux Driver for USB WiFi Adapters that are based on the RTL8812BU and RTL8822BU Chipsets - v5.13.1
 - [xeome/compix](https://github.com/xeome/compix) - an X compositor based on axcomp which is based on xcompmgr
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [AnasChhilif/MusicKid](https://github.com/AnasChhilif/MusicKid) - minimalist music player
@@ -946,7 +948,7 @@
 
 ## Haskell 
 
-- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - 🚀  SimpleX - the most private and secure chat and applications platform - now with groups and sending files!
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - 🚀  SimpleX - the most private and secure chat and applications platform - now with double ratchet E2E encryption!
 - [ChrisPenner/void-space](https://github.com/ChrisPenner/void-space) - Well-Typed Typing Tutor where you Type Types... in space... yup, you heard me
 - [pasqu4le/clifm](https://github.com/pasqu4le/clifm) - Command Line Interface File Manager
 - [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
@@ -1300,6 +1302,7 @@
 
 ## OpenSCAD 
 
+- [FrameworkComputer/ExpansionCards](https://github.com/FrameworkComputer/ExpansionCards) - Reference designs and documentation to create Expansion Cards for the Framework Laptop
 - [monroewilliams/trackball](https://github.com/monroewilliams/trackball) - Code for a trackball I'm building from scratch
 - [atulloh/oddball](https://github.com/atulloh/oddball) - A split keyboard with trackball support
 - [adereth/dactyl-keyboard](https://github.com/adereth/dactyl-keyboard) - Parameterized ergonomic keyboard
@@ -2324,6 +2327,7 @@
 
 ## TeX 
 
+- [simmaco99/GeometriaII](https://github.com/simmaco99/GeometriaII) - 
 - [synercys/annotated_latex_equations](https://github.com/synercys/annotated_latex_equations) - Examples of how to create colorful, annotated equations in Latex using Tikz.
 - [BhorisDhanjal/MathsRevisionCheatSheets](https://github.com/BhorisDhanjal/MathsRevisionCheatSheets) - A few Mathematics Revision Cheat Sheets I've made on LaTeX.
 - [drago-96/master-thesis](https://github.com/drago-96/master-thesis) - 
