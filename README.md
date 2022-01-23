@@ -909,6 +909,7 @@
 - [phc-dm/content-poisson](https://github.com/phc-dm/content-poisson) - Tutti i contenuti inseriti in Poisson e.g. articoli, guide, ecc.
 - [distrolist/distrolist.github.io](https://github.com/distrolist/distrolist.github.io) - FOSS distrowatch alternative
 - [xero/0.xxe.ro](https://github.com/xero/0.xxe.ro) - random images
+- [pomf/pomf](https://github.com/pomf/pomf) - Pomf is a simple lightweight file host with support for drop, paste, click and API uploading.
 - [ritheshkumar95/im2latex-tensorflow](https://github.com/ritheshkumar95/im2latex-tensorflow) - Tensorflow implementation of the HarvardNLP paper - What You Get Is What You See: A Visual Markup Decompiler (https://arxiv.org/pdf/1609.04938v1.pdf)
 - [kencx/startpage](https://github.com/kencx/startpage) - Custom browser startpage
 - [planetmath/00_General](https://github.com/planetmath/00_General) - 
@@ -998,6 +999,7 @@
 
 ## JavaScript 
 
+- [ps173/VimGore](https://github.com/ps173/VimGore) - An Interactive game to learn vim
 - [JoseExposito/gnome-shell-extension-x11gestures](https://github.com/JoseExposito/gnome-shell-extension-x11gestures) - Enable GNOME Shell multi-touch gestures on X11 with this extension
 - [RudeySH/lastfm-bulk-edit](https://github.com/RudeySH/lastfm-bulk-edit) - Bulk edit your scrobbles for any artist, album or track on Last.fm at once.
 - [webosbrew/webos-homebrew-channel](https://github.com/webosbrew/webos-homebrew-channel) - Unofficial webOS TV homebrew store and root-related tooling
@@ -1309,6 +1311,7 @@
 
 ## Others 
 
+- [JingOS-team/JingOS](https://github.com/JingOS-team/JingOS) - Awesome - JingOS - The World’s First Linux-based OS design for Tablets
 - [AsahiLinux/docs](https://github.com/AsahiLinux/docs) - Hardware and software docs / wiki
 - [dmi3/blockdevspam](https://github.com/dmi3/blockdevspam) - 
 - [basings/selfhosted-music-overview](https://github.com/basings/selfhosted-music-overview) - A table listing software network services which can be hosted on your own servers
@@ -1342,7 +1345,7 @@
 - [iridium-browser/iridium-browser](https://github.com/iridium-browser/iridium-browser) - Iridium Browser source code
 - [thepogsupreme/apo](https://github.com/thepogsupreme/apo) - Serene and grand wallpapers for the Mountain theme.
 - [unixwmbr/unixwmbr](https://github.com/unixwmbr/unixwmbr) - :computer: Official unixwmbr community repository.
-- [owl4ce/hikari-x86_64](https://github.com/owl4ce/hikari-x86_64) - :bridge_at_night: My cringy Linux kernel configuration based on Xanmod patchset.
+- [owl4ce/hikari-x86_64](https://github.com/owl4ce/hikari-x86_64) - :bridge_at_night: My cringy Linux kernel configuration based on Xanmod patchset
 - [shubham-cpp/void-pkg-templates](https://github.com/shubham-cpp/void-pkg-templates) - Custom templates for several packages that could be installed using xbps-src
 - [stickus/Anne-Pro-2-Color-Profiles](https://github.com/stickus/Anne-Pro-2-Color-Profiles) - A repo of color profiles for the Anne Pro 2 programmable 60% RGB keyboard
 - [tenacityteam/assets](https://github.com/tenacityteam/assets) - Repository for storing canonical versions of the Tenacity logos, art, and other assets.
@@ -1458,7 +1461,6 @@
 
 ## PHP 
 
-- [pomf/pomf](https://github.com/pomf/pomf) - Pomf is a simple lightweight file host with support for drop, paste, click and API uploading.
 - [spotweb/spotweb](https://github.com/spotweb/spotweb) - Decentralized community
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
 - [xero/figlet-fonts](https://github.com/xero/figlet-fonts) - my collection of figlet / toilet ascii art fonts
@@ -1793,7 +1795,7 @@
 - [toshi-search/Toshi](https://github.com/toshi-search/Toshi) - A full-text search engine in rust
 - [InputUsername/rescrobbled](https://github.com/InputUsername/rescrobbled) - MPRIS music scrobbler daemon
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-- [flxzt/rnote](https://github.com/flxzt/rnote) - A simple note taking application written in Rust and GTK4
+- [flxzt/rnote](https://github.com/flxzt/rnote) - A simple drawing application to create handwritten notes.
 - [vv9k/dockeye](https://github.com/vv9k/dockeye) - GUI app for managing Docker/Podman
 - [TheRawMeatball/meme-cli](https://github.com/TheRawMeatball/meme-cli) - Because the world needed this I decided.
 - [Tarnadas/smmdb-client](https://github.com/Tarnadas/smmdb-client) - 
