@@ -25,6 +25,7 @@
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [Emacs Lisp](#emacs-lisp)
+  - [F#](#f#)
   - [Fortran](#fortran)
   - [GAP](#gap)
   - [GLSL](#glsl)
@@ -125,6 +126,7 @@
 
 ## C 
 
+- [Kratacoa/dotfiles](https://github.com/Kratacoa/dotfiles) - 🌠 please support breaking of copyright laws 🌠
 - [FrameworkComputer/EmbeddedController](https://github.com/FrameworkComputer/EmbeddedController) - Embedded Controller firmware for the Framework Laptop
 - [morrownr/88x2bu-20210702](https://github.com/morrownr/88x2bu-20210702) - Linux Driver for USB WiFi Adapters that are based on the RTL8812BU and RTL8822BU Chipsets - v5.13.1
 - [xeome/compix](https://github.com/xeome/compix) - an X compositor based on axcomp which is based on xcompmgr
@@ -780,6 +782,10 @@
 - [thiderman/dotfiles](https://github.com/thiderman/dotfiles) - Heavy emacs customizations with a purple finish
 - [jnykopp/emaccordion](https://github.com/jnykopp/emaccordion) - Control Emacs with MIDI
 - [jasonliang-dev/dotfiles](https://github.com/jasonliang-dev/dotfiles) - ~/.*
+
+## F# # 
+
+- [ryco117/FunctionalSoul](https://github.com/ryco117/FunctionalSoul) - A Soulseek client app written in F#.
 
 ## Fortran 
 
@@ -1493,6 +1499,8 @@
 
 ## Python 
 
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - My self-hosting infrastructure, fully automated from empty disk to operating services
+- [nix-gui/nix-gui](https://github.com/nix-gui/nix-gui) - Use NixOS Without Coding
 - [Sulius/Spotify-to-LastFM-Converter](https://github.com/Sulius/Spotify-to-LastFM-Converter) - Let's you import your Spotify history .json-file into Universal Scrobbler.
 - [webosbrew/apps-repo](https://github.com/webosbrew/apps-repo) - Central repo for webOS Homebrew apps
 - [dialect-app/dialect](https://github.com/dialect-app/dialect) - A translation app for GNOME.
@@ -1995,6 +2003,8 @@
 
 ## Shell 
 
+- [angelofallars/dotfiles](https://github.com/angelofallars/dotfiles) - 🐧 My setup on Axyl. Gruvbox | Neovim | tmux
+- [k-vernooy/dotfiles](https://github.com/k-vernooy/dotfiles) - An organizational repository for my dotfiles and scripts
 - [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - 🍚 aesthetic linux dotfiles
 - [thomaseizinger/pkgbuilds](https://github.com/thomaseizinger/pkgbuilds) - A collection of personal AUR packages.
 - [MiMillieuh/Photoshop-CC2021-Linux](https://github.com/MiMillieuh/Photoshop-CC2021-Linux) - Installer for Photoshop CC 2021 on linux with one command
