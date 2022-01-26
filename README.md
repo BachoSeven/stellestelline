@@ -530,7 +530,7 @@
 - [lightspark/lightspark](https://github.com/lightspark/lightspark) - An open source flash player implementation
 - [vaxerski/Hypr](https://github.com/vaxerski/Hypr) - Hypr is a tiling window manager written in modern C++.
 - [Maldela/fancontrol-gui](https://github.com/Maldela/fancontrol-gui) - GUI for Fancontrol. It uses the KAuth module of the KDE Frameworks 5 to write the generated config file. Furthermore it communicates with systemd via dbus to control the fancontrol service. If you want to compile without systemd support set the -DNO_SYSTEMD option.
-- [gokulmaxi/vantage](https://github.com/gokulmaxi/vantage) - 
+- [gokulmaxi/vantage](https://github.com/gokulmaxi/vantage) - Terminal user interface for legion laptops
 - [hrkfdn/mpdas](https://github.com/hrkfdn/mpdas) - MPD AudioScrobbler written in C++ using libcurl
 - [jfedor2/two-ball-trackball](https://github.com/jfedor2/two-ball-trackball) - DIY trackball with two balls
 - [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
@@ -545,7 +545,6 @@
 - [amule-project/amule](https://github.com/amule-project/amule) - 'All-platform' P2P client based on eMule
 - [Fran314/CityRoutePlanner](https://github.com/Fran314/CityRoutePlanner) - Progetto di Francesco Baldino per il corso Algoritmi e Strutture Dati 2019/2020 della triennale di Matematica dell'Università di Pisa
 - [bertiniteam/b2](https://github.com/bertiniteam/b2) - Bertini 2.0:  The redevelopment of Bertini in C++.
-- [Rafiuth/Soggfy](https://github.com/Rafiuth/Soggfy) - Spotify ogg dumper
 - [hank/dsf2flac](https://github.com/hank/dsf2flac) - Code for converting DSF to FLAC files
 - [Sound-Linux-More/sacd](https://github.com/Sound-Linux-More/sacd) - Converts SACD image files, Philips DSDIFF and Sony DSF files to 24-bit high resolution wave files. Handles both DST and DSD streams. https://launchpad.net/sacd
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
@@ -1291,7 +1290,7 @@
 
 ## Nix 
 
-- [NNBnh/dots](https://github.com/NNBnh/dots) - 📂 End-game Đotfiles
+- [NNBnh/dots](https://github.com/NNBnh/dots) - 📂 End-game Đotfiles (WIP)
 - [alexherbo2/dotfiles](https://github.com/alexherbo2/dotfiles) - Personal configuration files
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
 
@@ -1317,6 +1316,7 @@
 
 ## Others 
 
+- [uzkbwza/viii](https://github.com/uzkbwza/viii) - a small bitmap font for coding
 - [JingOS-team/JingOS](https://github.com/JingOS-team/JingOS) - Awesome - JingOS - The World’s First Linux-based OS design for Tablets
 - [AsahiLinux/docs](https://github.com/AsahiLinux/docs) - Hardware and software docs / wiki
 - [dmi3/blockdevspam](https://github.com/dmi3/blockdevspam) - 
@@ -2371,6 +2371,7 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [ckissane/blur-me](https://github.com/ckissane/blur-me) - Extension that adds a blur look to applications and to different parts of the GNOME Shell, including the top panel, dash and overview
 - [Alissonsleal/TwitchSubVod](https://github.com/Alissonsleal/TwitchSubVod) - Watch any sub-only Twitch VOD for free. You can also find deleted clips or Twitch VODS. Just insert the streamer username and select a video to watch. You can also download Twitch Clips with this application.
+- [Rafiuth/Soggfy](https://github.com/Rafiuth/Soggfy) - Spotify ogg dumper
 - [xbrowsersync/api](https://github.com/xbrowsersync/api) - Server-side REST API that serves requests from xBrowserSync client apps
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
 - [imLinguin/jelly-desktop](https://github.com/imLinguin/jelly-desktop) - Simple community made desktop client for Jellyfin
