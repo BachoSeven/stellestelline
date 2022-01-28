@@ -1317,6 +1317,7 @@
 
 ## Others 
 
+- [phisch/phinger-cursors](https://github.com/phisch/phinger-cursors) - Most likely the most over engineered cursor theme.
 - [graysky2/kernel_compiler_patch](https://github.com/graysky2/kernel_compiler_patch) - Kernel patch enables compiler optimizations for additional CPUs.
 - [uzkbwza/viii](https://github.com/uzkbwza/viii) - a small bitmap font for coding
 - [JingOS-team/JingOS](https://github.com/JingOS-team/JingOS) - Awesome - JingOS - The World’s First Linux-based OS design for Tablets
@@ -1545,7 +1546,7 @@
 - [NeverDecaf/ungoogled-updater](https://github.com/NeverDecaf/ungoogled-updater) - Script for windows to keep ungoogled-chromium up to date.
 - [radude/rentry](https://github.com/radude/rentry) - Markdown pastebin from command line
 - [AsahiLinux/asahi-installer](https://github.com/AsahiLinux/asahi-installer) - Asahi Linux installer
-- [Barbarossa93/Muspelheim](https://github.com/Barbarossa93/Muspelheim) - Thonkpad setup
+- [Barbarossa93/Muspelheim](https://github.com/Barbarossa93/Muspelheim) - Thonkpad dotfiles
 - [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 - [darlinghq/darling-docker](https://github.com/darlinghq/darling-docker) - Dockerfile for Darling
 - [schlafwandler/ghidra_SavePatch](https://github.com/schlafwandler/ghidra_SavePatch) - A Ghidra script to save small patches back to the executable file
@@ -2005,6 +2006,7 @@
 
 ## Shell 
 
+- [CyberShadow/aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
 - [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements.
 - [angelofallars/dotfiles](https://github.com/angelofallars/dotfiles) - 🐧 My setup on Axyl. Gruvbox | Neovim | tmux
 - [k-vernooy/dotfiles](https://github.com/k-vernooy/dotfiles) - An organizational repository for my dotfiles and scripts
