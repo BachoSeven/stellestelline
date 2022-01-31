@@ -413,7 +413,7 @@
 - [dylanaraps/paleta](https://github.com/dylanaraps/paleta) - Change terminal colors on-the-fly independent of terminal emulator.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [skyjake/lagrange](https://github.com/skyjake/lagrange) - A Beautiful Gemini Client
-- [open-sdr/openwifi](https://github.com/open-sdr/openwifi) - open-source IEEE 802.11 WiFi baseband FPGA (chip) design
+- [open-sdr/openwifi](https://github.com/open-sdr/openwifi) - open-source IEEE 802.11 WiFi baseband FPGA (chip) design: driver, software
 - [klange/toaruos](https://github.com/klange/toaruos) - A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network stack, etc.
 - [plasmoduck/suckless](https://github.com/plasmoduck/suckless) - Suckless software collection
 - [zavg/linux-0.01](https://github.com/zavg/linux-0.01) - Historically first (actually 0.01) release of linux kernel made by Linus Torvalds
@@ -1794,6 +1794,7 @@
 
 ## Rust 
 
+- [j0ru/kickoff](https://github.com/j0ru/kickoff) - Minimalistic program launcher
 - [PureArtistry/oi](https://github.com/PureArtistry/oi) - trivia on the command line
 - [federico-terzi/espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander written in Rust
 - [agersant/polaris](https://github.com/agersant/polaris) - Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device.
@@ -2005,6 +2006,7 @@
 
 ## Shell 
 
+- [MilkyDeveloper/cb-linux](https://github.com/MilkyDeveloper/cb-linux) - Linux for Chromebooks
 - [CyberShadow/aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
 - [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements.
 - [angelofallars/dotfiles](https://github.com/angelofallars/dotfiles) - 🐧 My setup on Axyl. Gruvbox | Neovim | tmux
