@@ -520,6 +520,9 @@
 
 ## C++ 
 
+- [lukefleed/imdb-graph](https://github.com/lukefleed/imdb-graph) - 
+- [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
+- [jfedor2/scroll-ring-trackball](https://github.com/jfedor2/scroll-ring-trackball) - DIY trackball with scroll ring
 - [gerstner-hub/xwmfs](https://github.com/gerstner-hub/xwmfs) - X11 Window-Manager file system based on FUSE
 - [iris-cli/iris](https://github.com/iris-cli/iris) - Iris is an AI-prototype CLI-assistant that receives any type of input and tries to find an answer for it. It strives to have a simple highly documented codebase while being extremely performant and lightweight.
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
@@ -666,6 +669,7 @@
 
 ## CSS 
 
+- [susam/mathb](https://github.com/susam/mathb) - Math pastebin service with LaTeX and Markdown support that powers http://mathb.in/
 - [schnensch0/ziro](https://github.com/schnensch0/ziro) - spicetify theme inspired by zorin
 - [Fausto-Korpsvart/Gruvbox-GTK-Theme](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme) - A GTK theme based on the Gruvbox colour palette.
 - [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
@@ -778,6 +782,7 @@
 
 ## Emacs Lisp 
 
+- [susam/emfy](https://github.com/susam/emfy) - A dark and sleek Emacs setup for general purpose editing and programming
 - [thiderman/dotfiles](https://github.com/thiderman/dotfiles) - Heavy emacs customizations with a purple finish
 - [jnykopp/emaccordion](https://github.com/jnykopp/emaccordion) - Control Emacs with MIDI
 - [jasonliang-dev/dotfiles](https://github.com/jasonliang-dev/dotfiles) - ~/.*
@@ -1215,7 +1220,7 @@
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [notomo/gesture.nvim](https://github.com/notomo/gesture.nvim) - Mouse gesture plugin for neovim
 - [wooosh/dots](https://github.com/wooosh/dots) - 
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast.
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast startuptime ~ 0.05 secs
 - [GoldsteinE/compe-latex-symbols](https://github.com/GoldsteinE/compe-latex-symbols) - Autocomplete LaTeX symbol into your text via nvim-compe
 - [hrsh7th/nvim-compe](https://github.com/hrsh7th/nvim-compe) - Auto completion Lua plugin for nvim
 - [folke/zen-mode.nvim](https://github.com/folke/zen-mode.nvim) - 🧘  Distraction-free coding for Neovim
@@ -1315,10 +1320,12 @@
 
 ## Others 
 
+- [bcbcarl/docker-hollywood](https://github.com/bcbcarl/docker-hollywood) - Fake A Hollywood Hacker Screen.
 - [phisch/phinger-cursors](https://github.com/phisch/phinger-cursors) - Most likely the most over engineered cursor theme.
 - [graysky2/kernel_compiler_patch](https://github.com/graysky2/kernel_compiler_patch) - Kernel patch enables compiler optimizations for additional CPUs.
 - [uzkbwza/viii](https://github.com/uzkbwza/viii) - a small bitmap font for coding
 - [JingOS-team/JingOS](https://github.com/JingOS-team/JingOS) - Awesome - JingOS - The World’s First Linux-based OS design for Tablets
+- [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - 🍚 aesthetic linux dotfiles
 - [AsahiLinux/docs](https://github.com/AsahiLinux/docs) - Hardware and software docs / wiki
 - [dmi3/blockdevspam](https://github.com/dmi3/blockdevspam) - 
 - [basings/selfhosted-music-overview](https://github.com/basings/selfhosted-music-overview) - A table listing software network services which can be hosted on your own servers
@@ -2006,18 +2013,18 @@
 
 ## Shell 
 
+- [BachoSeven/dotfiles](https://github.com/BachoSeven/dotfiles) - rice repo
 - [MilkyDeveloper/cb-linux](https://github.com/MilkyDeveloper/cb-linux) - Linux for Chromebooks
 - [CyberShadow/aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
 - [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements.
 - [angelofallars/dotfiles](https://github.com/angelofallars/dotfiles) - 🐧 My setup on Axyl. Gruvbox | Neovim | tmux
 - [k-vernooy/dotfiles](https://github.com/k-vernooy/dotfiles) - An organizational repository for my dotfiles and scripts
-- [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - 🍚 aesthetic linux dotfiles
 - [thomaseizinger/pkgbuilds](https://github.com/thomaseizinger/pkgbuilds) - A collection of personal AUR packages.
 - [MiMillieuh/Photoshop-CC2021-Linux](https://github.com/MiMillieuh/Photoshop-CC2021-Linux) - Installer for Photoshop CC 2021 on linux with one command
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [M-Reimer/wine-lol](https://github.com/M-Reimer/wine-lol) - Patched wine-staging and glibc with fix needed to run League Of Legends
-- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal.
+- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with.
 - [mudler/linuxbundles](https://github.com/mudler/linuxbundles) - :penguin: Standalone, local-runnable binaries of popular linux distributions
 - [Maccraft123/Cadmium](https://github.com/Maccraft123/Cadmium) - 
 - [rupa/z](https://github.com/rupa/z) - z - jump around
@@ -2253,7 +2260,6 @@
 - [NotNocky/laptop-dots](https://github.com/NotNocky/laptop-dots) - My dot files for my laptop (Thinkpad T460s)
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
 - [LukeSmithxyz/mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard) - A system for automatically configuring mutt and isync with a simple interface and safe passwords
-- [BachoSeven/dotfiles](https://github.com/BachoSeven/dotfiles) - rice repo
 - [Barbarossa93/Forester](https://github.com/Barbarossa93/Forester) - Acer setup
 - [tam-carre/ncmpcpp-ueberzug](https://github.com/tam-carre/ncmpcpp-ueberzug) - An ncmpcpp wrapper that enables cover art via ueberzug.
 - [ckardaris/ucollage](https://github.com/ckardaris/ucollage) - An extensible command line image viewer inspired by vim
@@ -2430,6 +2436,7 @@
 
 ## Vim script 
 
+- [jcs/dotfiles](https://github.com/jcs/dotfiles) - ftp -o - https://jcs.org/move_in | sh -
 - [ludovicchabant/vim-gutentags](https://github.com/ludovicchabant/vim-gutentags) - A Vim plugin that manages your tag files
 - [mattn/emmet-vim](https://github.com/mattn/emmet-vim) - emmet for vim: http://emmet.io/
 - [srdz-af/vimrc](https://github.com/srdz-af/vimrc) - My personal vim config file.
