@@ -672,6 +672,7 @@
 - [susam/mathb](https://github.com/susam/mathb) - Math pastebin service with LaTeX and Markdown support that powers http://mathb.in/
 - [schnensch0/ziro](https://github.com/schnensch0/ziro) - spicetify theme inspired by zorin
 - [Fausto-Korpsvart/Gruvbox-GTK-Theme](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme) - A GTK theme based on the Gruvbox colour palette.
+- [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - 🍚 aesthetic linux dotfiles
 - [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [joeroe/risotto](https://github.com/joeroe/risotto) - A minimalist, responsive hugo theme inspired by terminal ricing aesthetics.
 - [ChocolateBread799/startpage](https://github.com/ChocolateBread799/startpage) - https://chocolatebread799.github.io/startpage/
@@ -806,6 +807,8 @@
 
 ## Go 
 
+- [raitonoberu/sptlrx](https://github.com/raitonoberu/sptlrx) - Spotify lyrics in your terminal.
+- [blrsn/zentile](https://github.com/blrsn/zentile) - Automatic Tiling for EWMH Compliant Window Managers
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [makeworld-the-better-one/amfora](https://github.com/makeworld-the-better-one/amfora) - A fancy terminal browser for the Gemini protocol.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 ✨
@@ -1325,7 +1328,6 @@
 - [graysky2/kernel_compiler_patch](https://github.com/graysky2/kernel_compiler_patch) - Kernel patch enables compiler optimizations for additional CPUs.
 - [uzkbwza/viii](https://github.com/uzkbwza/viii) - a small bitmap font for coding
 - [JingOS-team/JingOS](https://github.com/JingOS-team/JingOS) - Awesome - JingOS - The World’s First Linux-based OS design for Tablets
-- [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - 🍚 aesthetic linux dotfiles
 - [AsahiLinux/docs](https://github.com/AsahiLinux/docs) - Hardware and software docs / wiki
 - [dmi3/blockdevspam](https://github.com/dmi3/blockdevspam) - 
 - [basings/selfhosted-music-overview](https://github.com/basings/selfhosted-music-overview) - A table listing software network services which can be hosted on your own servers
@@ -1510,6 +1512,7 @@
 
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - My self-hosting infrastructure, fully automated from empty disk to operating services
 - [nix-gui/nix-gui](https://github.com/nix-gui/nix-gui) - Use NixOS Without Coding
+- [angelofallars/dotfiles](https://github.com/angelofallars/dotfiles) - ⛩️ My dotfiles on Artix Linux. Gruvbox | Neovim | tmux
 - [Sulius/Spotify-to-LastFM-Converter](https://github.com/Sulius/Spotify-to-LastFM-Converter) - Let's you import your Spotify history .json-file into Universal Scrobbler.
 - [webosbrew/apps-repo](https://github.com/webosbrew/apps-repo) - Central repo for webOS Homebrew apps
 - [dialect-app/dialect](https://github.com/dialect-app/dialect) - A translation app for GNOME.
@@ -2013,11 +2016,11 @@
 
 ## Shell 
 
+- [owl4ce/linucc224](https://github.com/owl4ce/linucc224) - :syringe: Easily patch your own Linux simplefb. This script needs to be refactored but the author is not free at the moment.
 - [BachoSeven/dotfiles](https://github.com/BachoSeven/dotfiles) - rice repo
 - [MilkyDeveloper/cb-linux](https://github.com/MilkyDeveloper/cb-linux) - Linux for Chromebooks
 - [CyberShadow/aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
 - [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements.
-- [angelofallars/dotfiles](https://github.com/angelofallars/dotfiles) - 🐧 My setup on Axyl. Gruvbox | Neovim | tmux
 - [k-vernooy/dotfiles](https://github.com/k-vernooy/dotfiles) - An organizational repository for my dotfiles and scripts
 - [thomaseizinger/pkgbuilds](https://github.com/thomaseizinger/pkgbuilds) - A collection of personal AUR packages.
 - [MiMillieuh/Photoshop-CC2021-Linux](https://github.com/MiMillieuh/Photoshop-CC2021-Linux) - Installer for Photoshop CC 2021 on linux with one command
@@ -2325,6 +2328,7 @@
 - [davidarrieta/dotfiles](https://github.com/davidarrieta/dotfiles) - My dotfiles managed by GNU Stow - Arch, i3-gaps, bspwm, ncmpcpp, (neo)vim, zsh etc.
 - [seebye/fzf-ueberzogen](https://github.com/seebye/fzf-ueberzogen) - Just a script which allows to use fzf with ueberzug
 - [kazhala/dotbare](https://github.com/kazhala/dotbare) - Manage dotfiles and any git directories interactively with fzf
+- [neg-serg/dotfiles](https://github.com/neg-serg/dotfiles) - My configs with whistles and bells
 - [mitchweaver/subs](https://github.com/mitchweaver/subs) - :tv: YouTube subscription manager via dmenu and mpv, no Google account needed.
 - [dylanaraps/pfetch](https://github.com/dylanaraps/pfetch) - 🐧 A pretty system information tool written in POSIX sh.
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
@@ -2521,7 +2525,6 @@
 - [alx741/vinfo](https://github.com/alx741/vinfo) - Vim info documentation reader, lets you read info pages within Vim or start it from the shell prompt (instead of Info)
 - [gruvbox-community/gruvbox](https://github.com/gruvbox-community/gruvbox) - Retro groove color scheme for Vim - community maintained edition
 - [Konfekt/vim-office](https://github.com/Konfekt/vim-office) - read common binary files, such as PDFs and those of Microsoft Office or LibreOffice, in Vim
-- [neg-serg/dotfiles](https://github.com/neg-serg/dotfiles) - My configs with whistles and bells
 - [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more
 - [dbmrq/vim-ditto](https://github.com/dbmrq/vim-ditto) - :speak_no_evil: Stop repeating yourself
 - [camnw/lf-vim](https://github.com/camnw/lf-vim) - Vim syntax highlighting for lfrc
