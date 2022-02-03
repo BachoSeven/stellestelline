@@ -28,6 +28,7 @@
   - [F#](#f#)
   - [Fortran](#fortran)
   - [GAP](#gap)
+  - [GDScript](#gdscript)
   - [GLSL](#glsl)
   - [Go](#go)
   - [Groovy](#groovy)
@@ -166,7 +167,6 @@
 - [mackstann/tinywm](https://github.com/mackstann/tinywm) - The tiniest window manager.
 - [kubo/injector](https://github.com/kubo/injector) - Library for injecting a shared library into a Linux or Windows process
 - [inferno-os/inferno-os](https://github.com/inferno-os/inferno-os) - Inferno® is a distributed operating system.  Inferno represents services and resources in a file-like name hierarchy, including devices, network and protocol interfaces, dynamic data sources, and services.Applications are written in a concurrent programming language, Limbo.
-- [unchilled/unlauncher](https://github.com/unchilled/unlauncher) - 
 - [rogerhinders/sprucewm](https://github.com/rogerhinders/sprucewm) - Window manager for X
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [sacd-ripper/sacd-ripper](https://github.com/sacd-ripper/sacd-ripper) - SACD ripping software using a PS3
@@ -800,6 +800,10 @@
 
 - [gap-system/gap](https://github.com/gap-system/gap) - Main development repository for GAP - Groups, Algorithms, Programming, a System for Computational Discrete Algebra
 
+## GDScript 
+
+- [pomme-grenade/2planets](https://github.com/pomme-grenade/2planets) - 🛰 Mini basebuilding space duel game
+
 ## GLSL 
 
 - [DerKoun/bsnes-hd](https://github.com/DerKoun/bsnes-hd) - bsnes fork that adds HD video features
@@ -807,6 +811,7 @@
 
 ## Go 
 
+- [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / subsonic server API implementation
 - [raitonoberu/sptlrx](https://github.com/raitonoberu/sptlrx) - Spotify lyrics in your terminal.
 - [blrsn/zentile](https://github.com/blrsn/zentile) - Automatic Tiling for EWMH Compliant Window Managers
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
@@ -982,6 +987,7 @@
 
 ## Java 
 
+- [sultannamja/tauonremote_android](https://github.com/sultannamja/tauonremote_android) - Tauon Remote  & Stream Android Application, Remote & Stream Tauon Music Box on your Android Phone
 - [agersant/polaris-android](https://github.com/agersant/polaris-android) - Android client for Polaris
 - [redsolver/skydroid](https://github.com/redsolver/skydroid) - A decentralized domain-based App Store for Android.
 - [NekoX-Dev/NekoX](https://github.com/NekoX-Dev/NekoX) - The third-party Telegram android app.
@@ -1015,7 +1021,7 @@
 - [JoseExposito/gnome-shell-extension-x11gestures](https://github.com/JoseExposito/gnome-shell-extension-x11gestures) - Enable GNOME Shell multi-touch gestures on X11 with this extension
 - [RudeySH/lastfm-bulk-edit](https://github.com/RudeySH/lastfm-bulk-edit) - Bulk edit your scrobbles for any artist, album or track on Last.fm at once.
 - [webosbrew/webos-homebrew-channel](https://github.com/webosbrew/webos-homebrew-channel) - Unofficial webOS TV homebrew store and root-related tooling
-- [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your apps with style.
+- [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your windows with style.
 - [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 4k and 60fps, compatible with all browsers and platforms.
 - [aziis98/art-2021-12-19](https://github.com/aziis98/art-2021-12-19) - Growing circuit board pattern
 - [caderek/gramma](https://github.com/caderek/gramma) - command-line grammar checker
@@ -1804,6 +1810,7 @@
 
 ## Rust 
 
+- [raffomania/songsonar](https://github.com/raffomania/songsonar) - 📻 A smart spotify playlist with new releases from artists you follow
 - [j0ru/kickoff](https://github.com/j0ru/kickoff) - Minimalistic program launcher
 - [PureArtistry/oi](https://github.com/PureArtistry/oi) - trivia on the command line
 - [federico-terzi/espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander written in Rust
