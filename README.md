@@ -524,7 +524,7 @@
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
 - [jfedor2/scroll-ring-trackball](https://github.com/jfedor2/scroll-ring-trackball) - DIY trackball with scroll ring
 - [gerstner-hub/xwmfs](https://github.com/gerstner-hub/xwmfs) - X11 Window-Manager file system based on FUSE
-- [iris-cli/iris](https://github.com/iris-cli/iris) - Iris is an AI-prototype CLI-assistant that receives any type of input and tries to find an answer for it. It strives to have a simple highly documented codebase while being extremely performant and lightweight.
+- [iris-cli/iris](https://github.com/iris-cli/iris) - Iris is an eater & feeder of information.
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [jfedor2/twist-to-scroll-trackball](https://github.com/jfedor2/twist-to-scroll-trackball) - DIY trackball with twist-to-scroll
 - [st3w/neo](https://github.com/st3w/neo) - Simulates the digital rain from "The Matrix" (cmatrix clone with 32-bit color and Unicode support)
@@ -811,6 +811,7 @@
 
 ## Go 
 
+- [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / subsonic server API implementation
 - [raitonoberu/sptlrx](https://github.com/raitonoberu/sptlrx) - Spotify lyrics in your terminal.
 - [blrsn/zentile](https://github.com/blrsn/zentile) - Automatic Tiling for EWMH Compliant Window Managers
@@ -1518,7 +1519,6 @@
 
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - My self-hosting infrastructure, fully automated from empty disk to operating services
 - [nix-gui/nix-gui](https://github.com/nix-gui/nix-gui) - Use NixOS Without Coding
-- [angelofallars/dotfiles](https://github.com/angelofallars/dotfiles) - ⛩️ My dotfiles on Artix Linux. Gruvbox | Neovim | tmux
 - [Sulius/Spotify-to-LastFM-Converter](https://github.com/Sulius/Spotify-to-LastFM-Converter) - Let's you import your Spotify history .json-file into Universal Scrobbler.
 - [webosbrew/apps-repo](https://github.com/webosbrew/apps-repo) - Central repo for webOS Homebrew apps
 - [dialect-app/dialect](https://github.com/dialect-app/dialect) - A translation app for GNOME.
@@ -2023,6 +2023,7 @@
 
 ## Shell 
 
+- [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature-rich syntax highlighting for ZSH
 - [owl4ce/linucc224](https://github.com/owl4ce/linucc224) - :syringe: Easily patch your own Linux simplefb. This script needs to be refactored but the author is not free at the moment.
 - [BachoSeven/dotfiles](https://github.com/BachoSeven/dotfiles) - rice repo
 - [MilkyDeveloper/cb-linux](https://github.com/MilkyDeveloper/cb-linux) - Linux for Chromebooks
@@ -2448,6 +2449,7 @@
 ## Vim script 
 
 - [jcs/dotfiles](https://github.com/jcs/dotfiles) - ftp -o - https://jcs.org/move_in | sh -
+- [angelofallars/dotfiles](https://github.com/angelofallars/dotfiles) - ⛩️ My dotfiles on Artix Linux. Gruvbox | Neovim | tmux
 - [ludovicchabant/vim-gutentags](https://github.com/ludovicchabant/vim-gutentags) - A Vim plugin that manages your tag files
 - [mattn/emmet-vim](https://github.com/mattn/emmet-vim) - emmet for vim: http://emmet.io/
 - [srdz-af/vimrc](https://github.com/srdz-af/vimrc) - My personal vim config file.
@@ -2547,6 +2549,7 @@
 
 ## Vue 
 
+- [tamland/airsonic-refix](https://github.com/tamland/airsonic-refix) - Modern UI for Airsonic / Subsonic
 - [taurheim/scrobblify](https://github.com/taurheim/scrobblify) - Retroactively scrobble from spotify to last.fm (specifically meant for new accounts)
 - [shroudedcode/refined-prime-video](https://github.com/shroudedcode/refined-prime-video) - 🍿 ​ A browser extension that adds small tweaks and useful new features to Amazon Prime Video
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!
