@@ -510,7 +510,6 @@
 - [mono/mono](https://github.com/mono/mono) - Mono open source ECMA CLI, C# and .NET implementation.
 - [mono/linux-packaging-msbuild](https://github.com/mono/linux-packaging-msbuild) - 
 - [ppy/osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [hirschmann/nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl
 - [fedarovich/qbittorrent-cli](https://github.com/fedarovich/qbittorrent-cli) - Command line interface for QBittorrent
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager for Windows
@@ -944,7 +943,6 @@
 - [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
 - [ReplDepot/replit-desktop](https://github.com/ReplDepot/replit-desktop) - Desktop app for https://replit.com
 - [bedrocklinux/bedrocklinux-website](https://github.com/bedrocklinux/bedrocklinux-website) - This tracks website development for Bedrock Linux
-- [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [jasolisdev/.dotfiles](https://github.com/jasolisdev/.dotfiles) - 
 - [grebord/rinsmiles-guide-to-the-void](https://github.com/grebord/rinsmiles-guide-to-the-void) - Setup guide for the VoidLinux operating system from a chroot.
 - [smblott-github/chrome-new-tab-url](https://github.com/smblott-github/chrome-new-tab-url) - Redirect Chrome's New-Tab URL
@@ -1028,7 +1026,6 @@
 - [caderek/gramma](https://github.com/caderek/gramma) - command-line grammar checker
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [publiusfederalist/federalist](https://github.com/publiusfederalist/federalist) - Access files on the decentralized, unblockable torrent swarm and visit links using Handshake domains.  Decentralized internet is here.
-- [tastejs/todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more
 - [Schneegans/Desktop-Cube](https://github.com/Schneegans/Desktop-Cube) - 🧊 Indulge in nostalgia with useless 3D effects.
 - [dmi3/userscripts](https://github.com/dmi3/userscripts) - 
 - [enjeck/num2math](https://github.com/enjeck/num2math) - Complicated math expression generator
@@ -1061,7 +1058,6 @@
 - [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
 - [webtorrent/instant.io](https://github.com/webtorrent/instant.io) - 🚀 Streaming file transfer over WebTorrent (torrents on the web)
-- [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [nadimkobeissi/appleprivacyletter](https://github.com/nadimkobeissi/appleprivacyletter) - An open letter against Apple's new privacy-invasive client-side content scanning.
 - [emps/Lossless-Audio-Checker-GUI](https://github.com/emps/Lossless-Audio-Checker-GUI) - Lossless Audio Checker detects upscaling, upsampling and transcoding in lossless musical tracks.
 - [arikrupnik/ltcsync](https://github.com/arikrupnik/ltcsync) - Syncs media files using embedded timecode (LTC)
@@ -1164,7 +1160,6 @@
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [getferdi/ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
 - [sindresorhus/speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI
-- [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [khanhas/spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 - [EliverLara/terminator-themes](https://github.com/EliverLara/terminator-themes) - :metal: The biggest collection of Terminator themes.
 - [m4heshd/offlinebay](https://github.com/m4heshd/offlinebay) - Official repository of the project OfflineBay
@@ -1412,7 +1407,6 @@
 - [dfuehrer/dwmblocks](https://github.com/dfuehrer/dwmblocks) - My status bar: my build of the modular dwmblocks
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [alevchuk/vim-clutch](https://github.com/alevchuk/vim-clutch) - A hardware pedal for improved text editing in Vim
-- [qcasey/chromium-patches](https://github.com/qcasey/chromium-patches) - Patches to customize chromium, including GTK dark mode and an extension-less startpage
 - [0x29aNull/DarkVoid](https://github.com/0x29aNull/DarkVoid) - 
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [officialcactar/dwm-singularborders](https://github.com/officialcactar/dwm-singularborders) - 
@@ -1420,7 +1414,6 @@
 - [brickbots/aball](https://github.com/brickbots/aball) - A Ball - Buttonless trackball for all
 - [domsson/fetch-all-the-things](https://github.com/domsson/fetch-all-the-things) - A list of *nix fetch utilities
 - [madoxnet/madox-interface-devices](https://github.com/madoxnet/madox-interface-devices) - Madox DIY Trackball
-- [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [WaterfoxCo/Waterfox](https://github.com/WaterfoxCo/Waterfox) - The official Waterfox 💧 source code repository
 - [ploopyco/nano-trackball](https://github.com/ploopyco/nano-trackball) - A very small trackball-only mouse. Mechanical files, PCBs, and firmware all included.
 - [rose-pine/rose-pine-theme](https://github.com/rose-pine/rose-pine-theme) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist
@@ -1429,7 +1422,6 @@
 - [bakkeby/patches](https://github.com/bakkeby/patches) - Collection of patches for dwm, st and dmenu
 - [obinslab/obinslab-starter-translations](https://github.com/obinslab/obinslab-starter-translations) - Translation project for Obinslab Starter
 - [ungoogled-software/contrib](https://github.com/ungoogled-software/contrib) - Community contributions for ungoogled-chromium
-- [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
 - [hbtlabs/chromium-white-flash-fix](https://github.com/hbtlabs/chromium-white-flash-fix) - [deprecated (issue fixed)] chromium google-chrome white flash bug fix
@@ -1439,7 +1431,6 @@
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 - [pagopa/io](https://github.com/pagopa/io) - Repository principale di IO: offre una mappa di informazioni e risorse per orientarsi nel progetto
 - [Francesco149/gopher](https://github.com/Francesco149/gopher) - new gopherspace, will be mostly programming/tech writeups
-- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [ProtractorNinja/xsnow-comp-patch](https://github.com/ProtractorNinja/xsnow-comp-patch) - Compositor-friendly patch for Xsnow
 - [make-github-pseudonymous-again/eightfold](https://github.com/make-github-pseudonymous-again/eightfold) - :hiking_boot: The Noble Eightfold Path
 - [make-github-pseudonymous-again/404](https://github.com/make-github-pseudonymous-again/404) - :sauropod: Missing technology
@@ -1754,7 +1745,6 @@
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
 - [rossant/awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [Eloston/ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [whipper-team/whipper](https://github.com/whipper-team/whipper) - Python CD-DA ripper preferring accuracy over speed
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
@@ -1810,6 +1800,7 @@
 
 ## Rust 
 
+- [pop-os/system76-scheduler](https://github.com/pop-os/system76-scheduler) - Auto-configure CFS and process priorities for improved desktop responsiveness
 - [raffomania/songsonar](https://github.com/raffomania/songsonar) - 📻 A smart spotify playlist with new releases from artists you follow
 - [j0ru/kickoff](https://github.com/j0ru/kickoff) - Minimalistic program launcher
 - [PureArtistry/oi](https://github.com/PureArtistry/oi) - trivia on the command line
@@ -2023,6 +2014,8 @@
 
 ## Shell 
 
+- [fusionneur/ethernally](https://github.com/fusionneur/ethernally) - Your scrcpy companion for Android wireless screen mirroring
+- [romkatv/zsh-bench](https://github.com/romkatv/zsh-bench) - Benchmark for interactive Zsh
 - [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature-rich syntax highlighting for ZSH
 - [owl4ce/linucc224](https://github.com/owl4ce/linucc224) - :syringe: Easily patch your own Linux simplefb. This script needs to be refactored but the author is not free at the moment.
 - [BachoSeven/dotfiles](https://github.com/BachoSeven/dotfiles) - rice repo
@@ -2183,6 +2176,7 @@
 - [cdown/btmenu](https://github.com/cdown/btmenu) - Control bluetooth devices with dmenu
 - [ilya-fedin/kotatogramAUR](https://github.com/ilya-fedin/kotatogramAUR) - 
 - [agnipau/telegram-palette-gen](https://github.com/agnipau/telegram-palette-gen) - A bash script that generates themes for Telegram based on an arbitrary 16-colors palette or by sourcing the colors generated by pywal/wal.
+- [qcasey/chromium-patches](https://github.com/qcasey/chromium-patches) - Patches to customize chromium, including GTK dark mode and an extension-less startpage
 - [channel-42/wppfzf](https://github.com/channel-42/wppfzf) - Browse and download images from reddit
 - [e-zk/dotfiles](https://github.com/e-zk/dotfiles) - got rice?
 - [e-zk/shlog](https://github.com/e-zk/shlog) - a static blog generator in /bin/sh: rewrite pending
@@ -2249,7 +2243,6 @@
 - [Hayao0819/wfa](https://github.com/Hayao0819/wfa) - A simple AUR helper written in a shell script
 - [migueravila/Dotfiles](https://github.com/migueravila/Dotfiles) - 🍙 Personal dotfiles repository.
 - [sgleizes/xsh](https://github.com/sgleizes/xsh) - A simple framework for shell configuration management.
-- [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [leofa/dotfiles-old](https://github.com/leofa/dotfiles-old) - @ ~/
 - [GuidoFe/bash-cat-with-cat](https://github.com/GuidoFe/bash-cat-with-cat) - The classic cat command but with a cat
 - [etcusrvar/xdgize](https://github.com/etcusrvar/xdgize) - Generates minimal wrapper/shim shell scripts around external commands to "XDG"-ize them.
@@ -2342,7 +2335,6 @@
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [cemkeylan/yaic](https://github.com/cemkeylan/yaic) - Yet another Irc it Client
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [puneetsl/lotion](https://github.com/puneetsl/lotion) - Unofficial Notion.so app for Linux
 - [GideonWolfe/Zathura-Pywal](https://github.com/GideonWolfe/Zathura-Pywal) - 🎨📖 A script that dynamically generates a zathura colorscheme based on the current wal colors.
 - [march-linux/mimi](https://github.com/march-linux/mimi) - better xdg-open
@@ -2359,7 +2351,6 @@
 ## Swift 
 
 - [cooklang/CookCLI](https://github.com/cooklang/CookCLI) - macOS and Linux command line program which provides a suite of tools to create shopping lists and maintain recipes.
-- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 
 ## TeX 
 
@@ -2391,7 +2382,6 @@
 - [jeffvli/sonixd](https://github.com/jeffvli/sonixd) - A full-featured Subsonic/Jellyfin compatible desktop music player
 - [shiftinv/wolframalpha-moresteps](https://github.com/shiftinv/wolframalpha-moresteps) - Browser extension that automatically replaces partial step-by-step solutions on Wolfram|Alpha with complete solutions from the official API
 - [PrettyCoffee/startpage](https://github.com/PrettyCoffee/startpage) - A React library which provides tools that help creating browser startpages in react.
-- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [ckissane/blur-me](https://github.com/ckissane/blur-me) - Extension that adds a blur look to applications and to different parts of the GNOME Shell, including the top panel, dash and overview
 - [Alissonsleal/TwitchSubVod](https://github.com/Alissonsleal/TwitchSubVod) - Watch any sub-only Twitch VOD for free. You can also find deleted clips or Twitch VODS. Just insert the streamer username and select a video to watch. You can also download Twitch Clips with this application.
 - [Rafiuth/Soggfy](https://github.com/Rafiuth/Soggfy) - Spotify ogg dumper
@@ -2415,7 +2405,6 @@
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [deltachat/deltachat-desktop](https://github.com/deltachat/deltachat-desktop) - Email-based instant messaging for Desktop.
 - [esjeon/krohnkite](https://github.com/esjeon/krohnkite) - A dynamic tiling extension for KWin
-- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
@@ -2464,7 +2453,6 @@
 - [sayanarijit/.files](https://github.com/sayanarijit/.files) - Just some files for my personal use
 - [mtwb47/dwmricer](https://github.com/mtwb47/dwmricer) - DWM Auto Install and Ricing Script
 - [felipec/vim-sanegx](https://github.com/felipec/vim-sanegx) - Makes gx work correctly.
-- [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [lifepillar/vim-gruvbox8](https://github.com/lifepillar/vim-gruvbox8) - A simplified and optimized Gruvbox colorscheme for Vim
 - [KoalaV2/dotfiles](https://github.com/KoalaV2/dotfiles) - My Linux laptop setup.
 - [yangmillstheory/vim-snipe](https://github.com/yangmillstheory/vim-snipe) - 
