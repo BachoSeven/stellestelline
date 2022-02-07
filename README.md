@@ -520,7 +520,7 @@
 
 ## C++ 
 
-- [lukefleed/imdb-graph](https://github.com/lukefleed/imdb-graph) - 
+- [lukefleed/imdb-graph](https://github.com/lukefleed/imdb-graph) - A script to find the (almost) exact centralities on the IMDb Graph
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
 - [jfedor2/scroll-ring-trackball](https://github.com/jfedor2/scroll-ring-trackball) - DIY trackball with scroll ring
 - [gerstner-hub/xwmfs](https://github.com/gerstner-hub/xwmfs) - X11 Window-Manager file system based on FUSE
@@ -810,6 +810,8 @@
 
 ## Go 
 
+- [quantumsheep/sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH
+- [diamondburned/gotktrix](https://github.com/diamondburned/gotktrix) - Matrix client in Go and GTK4
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / subsonic server API implementation
 - [raitonoberu/sptlrx](https://github.com/raitonoberu/sptlrx) - Spotify lyrics in your terminal.
@@ -1344,7 +1346,7 @@
 - [jnmcfly/awesome-startpage](https://github.com/jnmcfly/awesome-startpage) - This is a carefully compiled list of remarkable projects with the focus on startpages.
 - [TemporalAgent7/awesome-windows-privacy](https://github.com/TemporalAgent7/awesome-windows-privacy) - A list of awesome tools, documentation and scripts for better privacy on Microsoft Windows
 - [fiatjaf/awesome-loginless](https://github.com/fiatjaf/awesome-loginless) - an awesome list of internet services that don't require logins or registrations
-- [dothq/browser](https://github.com/dothq/browser) - 🌍 Take back your privacy with Dot Browser, the privacy-conscious web browser that protects you from being tracked and monitored online.
+- [dothq/browser](https://github.com/dothq/browser) - 🌍 The privacy-centric, modern web browser that fights for your privacy when browsing the internet.
 - [yulunzhang/video-enhancement](https://github.com/yulunzhang/video-enhancement) - A list of resources for video enhancement, including video super-resolutio, interpolation, denoising, compression artifact removal et al..
 - [Digitalone1/EasyEffects-Presets](https://github.com/Digitalone1/EasyEffects-Presets) - Presets for EasyEffects and PulseEffects.
 - [iv-org/documentation](https://github.com/iv-org/documentation) - The official Invidious documentation
@@ -1509,7 +1511,7 @@
 
 ## Python 
 
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - My self-hosting infrastructure, fully automated from empty disk to operating services
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and power efficient self-hosting infrastructure. Fully automated from empty disk to operating services
 - [nix-gui/nix-gui](https://github.com/nix-gui/nix-gui) - Use NixOS Without Coding
 - [Sulius/Spotify-to-LastFM-Converter](https://github.com/Sulius/Spotify-to-LastFM-Converter) - Let's you import your Spotify history .json-file into Universal Scrobbler.
 - [webosbrew/apps-repo](https://github.com/webosbrew/apps-repo) - Central repo for webOS Homebrew apps
@@ -1820,7 +1822,7 @@
 - [TheRawMeatball/meme-cli](https://github.com/TheRawMeatball/meme-cli) - Because the world needed this I decided.
 - [Tarnadas/smmdb-client](https://github.com/Tarnadas/smmdb-client) - 
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
 - [svenstaro/memefs](https://github.com/svenstaro/memefs) - Mount your memes using FUSE
 - [redox-os/orbtk](https://github.com/redox-os/orbtk) - The Rust UI-Toolkit.
