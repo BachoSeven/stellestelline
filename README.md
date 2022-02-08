@@ -671,7 +671,6 @@
 
 - [susam/mathb](https://github.com/susam/mathb) - Math pastebin service with LaTeX and Markdown support that powers http://mathb.in/
 - [schnensch0/ziro](https://github.com/schnensch0/ziro) - spicetify theme inspired by zorin
-- [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - 🍚 aesthetic linux dotfiles
 - [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [joeroe/risotto](https://github.com/joeroe/risotto) - A minimalist, responsive hugo theme inspired by terminal ricing aesthetics.
 - [ChocolateBread799/startpage](https://github.com/ChocolateBread799/startpage) - https://chocolatebread799.github.io/startpage/
@@ -1732,7 +1731,7 @@
 - [vinayak-mehta/present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [sammko/picomc](https://github.com/sammko/picomc) - A tiny CLI Minecraft launcher
-- [dsanson/termpdf.py](https://github.com/dsanson/termpdf.py) - A graphical pdf (and epub, cbz, ...) reader that works inside the kitty terminal
+- [dsanson/termpdf.py](https://github.com/dsanson/termpdf.py) - A graphical pdf and epub reader that works inside the kitty terminal
 - [libratbag/piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices
 - [toxinu/pyhn](https://github.com/toxinu/pyhn) - Hacker news command line client
 - [ms-jpq/chadtree](https://github.com/ms-jpq/chadtree) - File manager for Neovim. Better than NERDTree.
@@ -2026,6 +2025,7 @@
 - [CyberShadow/aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
 - [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements.
 - [k-vernooy/dotfiles](https://github.com/k-vernooy/dotfiles) - An organizational repository for my dotfiles and scripts
+- [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - 🍚 aesthetic linux dotfiles
 - [thomaseizinger/pkgbuilds](https://github.com/thomaseizinger/pkgbuilds) - A collection of personal AUR packages.
 - [MiMillieuh/Photoshop-CC2021-Linux](https://github.com/MiMillieuh/Photoshop-CC2021-Linux) - Installer for Photoshop CC 2021 on linux with one command
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
