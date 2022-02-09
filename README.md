@@ -1365,7 +1365,7 @@
 - [iridium-browser/iridium-browser](https://github.com/iridium-browser/iridium-browser) - Iridium Browser source code
 - [thepogsupreme/apo](https://github.com/thepogsupreme/apo) - Serene and grand wallpapers for the Mountain theme.
 - [unixwmbr/unixwmbr](https://github.com/unixwmbr/unixwmbr) - :computer: Official unixwmbr community repository.
-- [owl4ce/hikari-x86_64](https://github.com/owl4ce/hikari-x86_64) - :bridge_at_night: My cringy Linux kernel configuration based on Xanmod patchset
+- [owl4ce/hikari-x86_64](https://github.com/owl4ce/hikari-x86_64) - :bridge_at_night: My cringy Linux kernel configuration (and notes) based on Xanmod patchset
 - [shubham-cpp/void-pkg-templates](https://github.com/shubham-cpp/void-pkg-templates) - Custom templates for several packages that could be installed using xbps-src
 - [stickus/Anne-Pro-2-Color-Profiles](https://github.com/stickus/Anne-Pro-2-Color-Profiles) - A repo of color profiles for the Anne Pro 2 programmable 60% RGB keyboard
 - [tenacityteam/assets](https://github.com/tenacityteam/assets) - Repository for storing canonical versions of the Tenacity logos, art, and other assets.
@@ -1510,7 +1510,7 @@
 
 ## Python 
 
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and power efficient self-hosting infrastructure. Fully automated from empty disk to operating services
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
 - [nix-gui/nix-gui](https://github.com/nix-gui/nix-gui) - Use NixOS Without Coding
 - [Sulius/Spotify-to-LastFM-Converter](https://github.com/Sulius/Spotify-to-LastFM-Converter) - Let's you import your Spotify history .json-file into Universal Scrobbler.
 - [webosbrew/apps-repo](https://github.com/webosbrew/apps-repo) - Central repo for webOS Homebrew apps
@@ -2040,7 +2040,7 @@
 - [tyzoid/btw](https://github.com/tyzoid/btw) - Correcting glaring omissions from BtwOS
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
-- [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - 🍚 my personal configuration files.
+- [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - My desktop configuration files.
 - [JLErvin/dotfiles](https://github.com/JLErvin/dotfiles) - Configuration files for arch linux and macOS
 - [BachoSeven/mimi](https://github.com/BachoSeven/mimi) - better xdg-open
 - [kusky3/consoom](https://github.com/kusky3/consoom) - blazing fast plebbit consooming
@@ -2061,7 +2061,6 @@
 - [alonswartz/trackpoint](https://github.com/alonswartz/trackpoint) - How to integrate a trackpoint in a mechanical keyboard
 - [Fmstrat/winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 - [titzer/virgil](https://github.com/titzer/virgil) - A fast and lightweight native programming language
-- [sioodmy/bonsa-fi](https://github.com/sioodmy/bonsa-fi) - bonsa-fi is a simple POSIX script to help you concentrate
 - [ungoogled-software/ungoogled-chromium-portablelinux](https://github.com/ungoogled-software/ungoogled-chromium-portablelinux) - Portable Linux packaging for ungoogled-chromium
 - [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
 - [graysky2/profile-sync-daemon](https://github.com/graysky2/profile-sync-daemon) - Symlinks and syncs browser profile dirs to RAM thus reducing HDD/SDD calls and speeding-up browsers.
