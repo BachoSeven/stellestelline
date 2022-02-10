@@ -1915,7 +1915,7 @@
 - [MustafaSalih1993/tai](https://github.com/MustafaSalih1993/tai) - tai (Terminal Ascii Images) tool to convert images to text written in Rust
 - [jam1garner/nail](https://github.com/jam1garner/nail) - A vim-inspired hex editor written in rust
 - [mathall/rim](https://github.com/mathall/rim) - Aspiring vim-like text editor
-- [atanunq/viu](https://github.com/atanunq/viu) - Simple terminal image viewer written in Rust.
+- [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [Macchina-CLI/macchina](https://github.com/Macchina-CLI/macchina) - A system information frontend, with an (unhealthy) emphasis on performance.
 - [r-darwish/alma](https://github.com/r-darwish/alma) - Create Arch Linux based bootable USB drives
 - [Kintaro/wtftw](https://github.com/Kintaro/wtftw) - Window Tiling For The Win. A tiling window manager written in Rust
@@ -2024,6 +2024,7 @@
 - [MilkyDeveloper/cb-linux](https://github.com/MilkyDeveloper/cb-linux) - Linux for Chromebooks
 - [CyberShadow/aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
 - [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements.
+- [angelofallars/dotfiles](https://github.com/angelofallars/dotfiles) - ⛩️ My dotfiles on Artix Linux. Gruvbox | Neovim | tmux
 - [k-vernooy/dotfiles](https://github.com/k-vernooy/dotfiles) - An organizational repository for my dotfiles and scripts
 - [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - 🍚 aesthetic linux dotfiles
 - [thomaseizinger/pkgbuilds](https://github.com/thomaseizinger/pkgbuilds) - A collection of personal AUR packages.
@@ -2035,7 +2036,7 @@
 - [mudler/linuxbundles](https://github.com/mudler/linuxbundles) - :penguin: Standalone, local-runnable binaries of popular linux distributions
 - [Maccraft123/Cadmium](https://github.com/Maccraft123/Cadmium) - 
 - [rupa/z](https://github.com/rupa/z) - z - jump around
-- [lmburns/dotfiles-arch](https://github.com/lmburns/dotfiles-arch) - A separate repository for dotfiles on my linux machine
+- [lmburns/dotfiles-arch](https://github.com/lmburns/dotfiles-arch) - A separate repository for dotfiles on my Linux machine
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [tyzoid/btw](https://github.com/tyzoid/btw) - Correcting glaring omissions from BtwOS
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
@@ -2440,7 +2441,6 @@
 ## Vim script 
 
 - [jcs/dotfiles](https://github.com/jcs/dotfiles) - ftp -o - https://jcs.org/move_in | sh -
-- [angelofallars/dotfiles](https://github.com/angelofallars/dotfiles) - ⛩️ My dotfiles on Artix Linux. Gruvbox | Neovim | tmux
 - [ludovicchabant/vim-gutentags](https://github.com/ludovicchabant/vim-gutentags) - A Vim plugin that manages your tag files
 - [mattn/emmet-vim](https://github.com/mattn/emmet-vim) - emmet for vim: http://emmet.io/
 - [srdz-af/vimrc](https://github.com/srdz-af/vimrc) - My personal vim config file.
