@@ -309,7 +309,6 @@
 - [Mephysto666/rtl8822bu](https://github.com/Mephysto666/rtl8822bu) - RTL8822BU Wireless Driver for Linux
 - [qsmodo/sxiv](https://github.com/qsmodo/sxiv) - Simple X Image Viewer
 - [dudik/blockit](https://github.com/dudik/blockit) - WebKitGTK adblock extension with Brave's Rust-based adblock engine for backend.
-- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [dylanaraps/sowm](https://github.com/dylanaraps/sowm) - An itsy bitsy floating window manager (220~ sloc!).
 - [spbooth/xmountains](https://github.com/spbooth/xmountains) - This is my ancient X-windows sideways scrolling fractal landscape code
 - [juliusHuelsmann/st-history-vim](https://github.com/juliusHuelsmann/st-history-vim) - Development of the "vim patch" and  a minimalist "history patch" for the suckless simple terminal (st).
@@ -863,6 +862,7 @@
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
 - [jan25/termracer](https://github.com/jan25/termracer) - Practise your typing skills from within your terminal
 - [irevenko/koneko](https://github.com/irevenko/koneko) - 🐈🌐 nyaa.si terminal BitTorrent tracker
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [mautrix/whatsapp](https://github.com/mautrix/whatsapp) - A Matrix-WhatsApp puppeting bridge
 - [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌺 The flower shell. A comfy and nice little shell for Lua users and fans!
 - [ReplDepot/replish](https://github.com/ReplDepot/replish) - websocket and shell proxy server and client
@@ -1226,7 +1226,7 @@
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [notomo/gesture.nvim](https://github.com/notomo/gesture.nvim) - Mouse gesture plugin for neovim
 - [wooosh/dots](https://github.com/wooosh/dots) - 
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast startuptime ~ 0.05 secs
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast startuptime ~ 0.06 secs
 - [GoldsteinE/compe-latex-symbols](https://github.com/GoldsteinE/compe-latex-symbols) - Autocomplete LaTeX symbol into your text via nvim-compe
 - [hrsh7th/nvim-compe](https://github.com/hrsh7th/nvim-compe) - Auto completion Lua plugin for nvim
 - [folke/zen-mode.nvim](https://github.com/folke/zen-mode.nvim) - 🧘  Distraction-free coding for Neovim
