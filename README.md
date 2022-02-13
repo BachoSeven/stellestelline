@@ -922,7 +922,7 @@
 - [arxiv-vanity/engrafo](https://github.com/arxiv-vanity/engrafo) - Convert LaTeX documents into beautiful responsive web pages using LaTeXML.
 - [RootMyTV/RootMyTV.github.io](https://github.com/RootMyTV/RootMyTV.github.io) - RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs.
 - [Animenosekai/freeWolframAlpha](https://github.com/Animenosekai/freeWolframAlpha) - Unlock/Receive FREE unlimited access to Wolfram|Alpha's full Step-by-step solutions.
-- [WolfreeAlpha/WolfreeAlpha.github.io](https://github.com/WolfreeAlpha/WolfreeAlpha.github.io) - All files in this repository are created by wolfree.lisp except for the following four files: .gitlab-ci.yml .nojekyll README.md _config.yml
+- [WolfreeAlpha/WolfreeAlpha.github.io](https://github.com/WolfreeAlpha/WolfreeAlpha.github.io) - All files in this repository are created by wolfree.sh except for the following three files: .gitlab-ci.yml .nojekyll _config.yml
 - [alangpierce/TheProofIsTrivial](https://github.com/alangpierce/TheProofIsTrivial) - Math-themed single-serving site
 - [AdaptiveScale/lxdui](https://github.com/AdaptiveScale/lxdui) - LXDUI is a web UI for the native Linux container technology LXD/LXC
 - [phc-dm/content-poisson](https://github.com/phc-dm/content-poisson) - Tutti i contenuti inseriti in Poisson e.g. articoli, guide, ecc.
@@ -1345,7 +1345,7 @@
 - [jnmcfly/awesome-startpage](https://github.com/jnmcfly/awesome-startpage) - This is a carefully compiled list of remarkable projects with the focus on startpages.
 - [TemporalAgent7/awesome-windows-privacy](https://github.com/TemporalAgent7/awesome-windows-privacy) - A list of awesome tools, documentation and scripts for better privacy on Microsoft Windows
 - [fiatjaf/awesome-loginless](https://github.com/fiatjaf/awesome-loginless) - an awesome list of internet services that don't require logins or registrations
-- [dothq/browser](https://github.com/dothq/browser) - 🌍 The privacy-centric, modern web browser that fights for your privacy when browsing the internet.
+- [dothq/browser](https://github.com/dothq/browser) - 🌍 The browser that fights for your privacy.
 - [yulunzhang/video-enhancement](https://github.com/yulunzhang/video-enhancement) - A list of resources for video enhancement, including video super-resolutio, interpolation, denoising, compression artifact removal et al..
 - [Digitalone1/EasyEffects-Presets](https://github.com/Digitalone1/EasyEffects-Presets) - Presets for EasyEffects and PulseEffects.
 - [iv-org/documentation](https://github.com/iv-org/documentation) - The official Invidious documentation
@@ -1409,6 +1409,7 @@
 - [dfuehrer/dwmblocks](https://github.com/dfuehrer/dwmblocks) - My status bar: my build of the modular dwmblocks
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [alevchuk/vim-clutch](https://github.com/alevchuk/vim-clutch) - A hardware pedal for improved text editing in Vim
+- [qcasey/chromium-patches](https://github.com/qcasey/chromium-patches) - Patches to customize chromium, including GTK dark mode and an extension-less startpage
 - [0x29aNull/DarkVoid](https://github.com/0x29aNull/DarkVoid) - 
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [officialcactar/dwm-singularborders](https://github.com/officialcactar/dwm-singularborders) - 
@@ -2021,10 +2022,9 @@
 - [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature-rich syntax highlighting for ZSH
 - [owl4ce/linucc224](https://github.com/owl4ce/linucc224) - :syringe: Easily patch your own Linux simplefb. This script needs to be refactored but the author is not free at the moment.
 - [BachoSeven/dotfiles](https://github.com/BachoSeven/dotfiles) - rice repo
-- [MilkyDeveloper/cb-linux](https://github.com/MilkyDeveloper/cb-linux) - Linux for Chromebooks
+- [cb-linux/breath](https://github.com/cb-linux/breath) - Linux for Chromebooks
 - [CyberShadow/aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
 - [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements.
-- [angelofallars/dotfiles](https://github.com/angelofallars/dotfiles) - ⛩️ My dotfiles on Artix Linux. Gruvbox | Neovim | tmux
 - [k-vernooy/dotfiles](https://github.com/k-vernooy/dotfiles) - An organizational repository for my dotfiles and scripts
 - [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - 🍚 aesthetic linux dotfiles
 - [thomaseizinger/pkgbuilds](https://github.com/thomaseizinger/pkgbuilds) - A collection of personal AUR packages.
@@ -2179,7 +2179,6 @@
 - [cdown/btmenu](https://github.com/cdown/btmenu) - Control bluetooth devices with dmenu
 - [ilya-fedin/kotatogramAUR](https://github.com/ilya-fedin/kotatogramAUR) - 
 - [agnipau/telegram-palette-gen](https://github.com/agnipau/telegram-palette-gen) - A bash script that generates themes for Telegram based on an arbitrary 16-colors palette or by sourcing the colors generated by pywal/wal.
-- [qcasey/chromium-patches](https://github.com/qcasey/chromium-patches) - Patches to customize chromium, including GTK dark mode and an extension-less startpage
 - [channel-42/wppfzf](https://github.com/channel-42/wppfzf) - Browse and download images from reddit
 - [e-zk/dotfiles](https://github.com/e-zk/dotfiles) - got rice?
 - [e-zk/shlog](https://github.com/e-zk/shlog) - a static blog generator in /bin/sh: rewrite pending
@@ -2441,6 +2440,7 @@
 ## Vim script 
 
 - [jcs/dotfiles](https://github.com/jcs/dotfiles) - ftp -o - https://jcs.org/move_in | sh -
+- [angelofallars/dotfiles](https://github.com/angelofallars/dotfiles) - 🦀 My dotfiles on Artix Linux. Gruvbox | Neovim | tmux | River
 - [ludovicchabant/vim-gutentags](https://github.com/ludovicchabant/vim-gutentags) - A Vim plugin that manages your tag files
 - [mattn/emmet-vim](https://github.com/mattn/emmet-vim) - emmet for vim: http://emmet.io/
 - [srdz-af/vimrc](https://github.com/srdz-af/vimrc) - My personal vim config file.
