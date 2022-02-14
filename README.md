@@ -523,7 +523,7 @@
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
 - [jfedor2/scroll-ring-trackball](https://github.com/jfedor2/scroll-ring-trackball) - DIY trackball with scroll ring
 - [gerstner-hub/xwmfs](https://github.com/gerstner-hub/xwmfs) - X11 Window-Manager file system based on FUSE
-- [iris-cli/iris](https://github.com/iris-cli/iris) - Iris is an eater & feeder of information.
+- [iris-cli/iris](https://github.com/iris-cli/iris) - An eater & feeder of information.
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [jfedor2/twist-to-scroll-trackball](https://github.com/jfedor2/twist-to-scroll-trackball) - DIY trackball with twist-to-scroll
 - [st3w/neo](https://github.com/st3w/neo) - Simulates the digital rain from "The Matrix" (cmatrix clone with 32-bit color and Unicode support)
@@ -1207,7 +1207,7 @@
 - [is0n/fm-nvim](https://github.com/is0n/fm-nvim) - 🗂 Neovim plugin that lets you use your favorite terminal file managers (and fuzzy finders) from within Neovim.
 - [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim) - Neovim motions on speed!
 - [harvardnlp/im2markup](https://github.com/harvardnlp/im2markup) - Neural model for converting Image-to-Markup (by Yuntian Deng github.com/da03)
-- [ChocolateBread799/Awesomewm_Dotfile](https://github.com/ChocolateBread799/Awesomewm_Dotfile) - My Awesomewm dotfile
+- [ChocolateBread799/dotfiles](https://github.com/ChocolateBread799/dotfiles) - My Awesomewm dotfile
 - [alesan99/mari0_ae](https://github.com/alesan99/mari0_ae) - Mari0: Alesan99's Entities
 - [Stabyourself/mari0](https://github.com/Stabyourself/mari0) - Mario + Portal platformer
 - [Mari0-CE/Mari0-Community-Edition](https://github.com/Mari0-CE/Mari0-Community-Edition) - A community-driven effort to fix and polish the latest version of Mari0:SE
@@ -1326,6 +1326,7 @@
 
 ## Others 
 
+- [lukefleed/how-to-ro](https://github.com/lukefleed/how-to-ro) - 
 - [bcbcarl/docker-hollywood](https://github.com/bcbcarl/docker-hollywood) - Fake A Hollywood Hacker Screen.
 - [phisch/phinger-cursors](https://github.com/phisch/phinger-cursors) - Most likely the most over engineered cursor theme.
 - [graysky2/kernel_compiler_patch](https://github.com/graysky2/kernel_compiler_patch) - Kernel patch enables compiler optimizations for additional CPUs.
