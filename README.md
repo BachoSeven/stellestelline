@@ -519,7 +519,6 @@
 
 ## C++ 
 
-- [lukefleed/imdb-graph](https://github.com/lukefleed/imdb-graph) - A script to find the (almost) exact centralities on the IMDb Graph
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
 - [jfedor2/scroll-ring-trackball](https://github.com/jfedor2/scroll-ring-trackball) - DIY trackball with scroll ring
 - [gerstner-hub/xwmfs](https://github.com/gerstner-hub/xwmfs) - X11 Window-Manager file system based on FUSE
@@ -918,6 +917,7 @@
 
 ## HTML 
 
+- [lukefleed/imdb-graph](https://github.com/lukefleed/imdb-graph) - A script to find the (almost) exact centralities on the IMDb Graph
 - [lilnasy/scribblyscrobbly](https://github.com/lilnasy/scribblyscrobbly) - a little something to groom apple music and spotify data for last.fm
 - [arxiv-vanity/engrafo](https://github.com/arxiv-vanity/engrafo) - Convert LaTeX documents into beautiful responsive web pages using LaTeXML.
 - [RootMyTV/RootMyTV.github.io](https://github.com/RootMyTV/RootMyTV.github.io) - RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs.
@@ -966,7 +966,7 @@
 
 ## Haskell 
 
-- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - 🚀  SimpleX - the most private and secure chat and applications platform - now with double ratchet E2E encryption!
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - 🚀  SimpleX - private and secure chat and applications platform - join our iOS public beta 📱!
 - [ChrisPenner/void-space](https://github.com/ChrisPenner/void-space) - Well-Typed Typing Tutor where you Type Types... in space... yup, you heard me
 - [pasqu4le/clifm](https://github.com/pasqu4le/clifm) - Command Line Interface File Manager
 - [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
