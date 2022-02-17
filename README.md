@@ -204,7 +204,7 @@
 - [fmash16/riscv_emulator](https://github.com/fmash16/riscv_emulator) - A basic working RISCV emulator written in C
 - [fmash16/dotfiles](https://github.com/fmash16/dotfiles) - My personal configurations for i3, urxvt, vim , tmux and others
 - [joelekstrom/terminal-mines](https://github.com/joelekstrom/terminal-mines) - An ncurses-based minesweeper game
-- [Barbarossa93/dunst](https://github.com/Barbarossa93/dunst) - Lightweight and customizable notification daemon
+- [Barbaross93/dunst](https://github.com/Barbaross93/dunst) - Lightweight and customizable notification daemon
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon
 - [zen-kernel/zen-kernel](https://github.com/zen-kernel/zen-kernel) - Zen Patched Kernel Sources
 - [Depicus/WoLF](https://github.com/Depicus/WoLF) - A small wake on lan forwarder, ideal for routers and small linux boxes like the raspberry pi.
@@ -720,7 +720,7 @@
 - [Brettm12345/github-moonlight](https://github.com/Brettm12345/github-moonlight) - A beatiful dark blue userstyle for GItHub. Made with :heart:
 - [elkowar/dots-of-war](https://github.com/elkowar/dots-of-war) - My dotfiles, mostly. This is the wild west. don't expect to understand this mess. Don't try to understand this mess. This serves as a good way to backup my configs, nothing more.
 - [KraXen72/rosebox](https://github.com/KraXen72/rosebox) - a dark, eye-friendly color scheme similar to gruvbox
-- [Barbarossa93/Genome](https://github.com/Barbarossa93/Genome) - Desktop setup
+- [Barbaross93/Genome](https://github.com/Barbaross93/Genome) - Desktop setup
 - [koalaman/linuxatemyram.com](https://github.com/koalaman/linuxatemyram.com) - The contents on linuxatemyram.com
 - [sadparadiseinhell/tea-green](https://github.com/sadparadiseinhell/tea-green) - Simple startpage with weather and to-do list features.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -967,7 +967,7 @@
 
 ## Haskell 
 
-- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - 🚀  SimpleX - the most private and secure chat and applications platform - join our iOS public beta 📱!
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - 🚀  SimpleX - the first chat platform that is 100% private by design - it has no access to your connection graph! Join our iOS public beta 📱!
 - [ChrisPenner/void-space](https://github.com/ChrisPenner/void-space) - Well-Typed Typing Tutor where you Type Types... in space... yup, you heard me
 - [pasqu4le/clifm](https://github.com/pasqu4le/clifm) - Command Line Interface File Manager
 - [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
@@ -1401,7 +1401,6 @@
 - [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
 - [dylanaraps/clutter-home](https://github.com/dylanaraps/clutter-home) - clutter your home directory!
-- [YTVanced/Vanced](https://github.com/YTVanced/Vanced) - YouTube Vanced Issues/Docs repo
 - [woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) - :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
 - [firasuke/awesome](https://github.com/firasuke/awesome) - A curated list of awesome projects
 - [glaucuslinux/glaucus](https://github.com/glaucuslinux/glaucus) - An independent Linux® distribution built from scratch
@@ -1557,7 +1556,7 @@
 - [NeverDecaf/ungoogled-updater](https://github.com/NeverDecaf/ungoogled-updater) - Script for windows to keep ungoogled-chromium up to date.
 - [radude/rentry](https://github.com/radude/rentry) - Markdown pastebin from command line
 - [AsahiLinux/asahi-installer](https://github.com/AsahiLinux/asahi-installer) - Asahi Linux installer
-- [Barbarossa93/Muspelheim](https://github.com/Barbarossa93/Muspelheim) - Thonkpad dotfiles
+- [Barbaross93/Muspelheim](https://github.com/Barbaross93/Muspelheim) - Thonkpad dotfiles
 - [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 - [darlinghq/darling-docker](https://github.com/darlinghq/darling-docker) - Dockerfile for Darling
 - [schlafwandler/ghidra_SavePatch](https://github.com/schlafwandler/ghidra_SavePatch) - A Ghidra script to save small patches back to the executable file
@@ -1641,6 +1640,7 @@
 - [XayOn/torrentstream](https://github.com/XayOn/torrentstream) - Python simple BitTorrent streaming library based on libtorrent
 - [themayankjha/JAKYM](https://github.com/themayankjha/JAKYM) - JAKYM, Just Another Konsole YouTube-Music. A command line based Youtube music player written in Python with both Spotify and Youtube playlist support and easy on memory.
 - [bdesham/chrome-export](https://github.com/bdesham/chrome-export) - Python scripts to convert Google Chrome’s bookmarks and history to the standard HTML-ish bookmarks file format.
+- [YTVanced/Vanced](https://github.com/YTVanced/Vanced) - YouTube Vanced Issues/Docs repo
 - [jmcarp/robobrowser](https://github.com/jmcarp/robobrowser) - 
 - [pallets/werkzeug](https://github.com/pallets/werkzeug) - The comprehensive WSGI web application library.
 - [reubano/pygogo](https://github.com/reubano/pygogo) - A Python logging library with superpowers
@@ -1970,7 +1970,7 @@
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [terminal-discord/weechat-discord](https://github.com/terminal-discord/weechat-discord) - Weechat plugin for Discord support - https://weechat.org/ https://discord.com/
 - [legendofmiracles/yas](https://github.com/legendofmiracles/yas) - yet another sudo
-- [wfxr/csview](https://github.com/wfxr/csview) - 📠 A high performance csv viewer with cjk/emoji support.
+- [wfxr/csview](https://github.com/wfxr/csview) - 📠 Pretty cli csv viewer with cjk/emoji support.
 - [proycon/vocage](https://github.com/proycon/vocage) - A minimalistic spaced-repetion vocabulary trainer (flashcards) for the terminal
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [cloudhead/rx](https://github.com/cloudhead/rx) - 👾 Modern and minimalist pixel editor
@@ -2270,7 +2270,7 @@
 - [NotNocky/laptop-dots](https://github.com/NotNocky/laptop-dots) - My dot files for my laptop (Thinkpad T460s)
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
 - [LukeSmithxyz/mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard) - A system for automatically configuring mutt and isync with a simple interface and safe passwords
-- [Barbarossa93/Forester](https://github.com/Barbarossa93/Forester) - Acer setup
+- [Barbaross93/Forester](https://github.com/Barbaross93/Forester) - Acer setup
 - [tam-carre/ncmpcpp-ueberzug](https://github.com/tam-carre/ncmpcpp-ueberzug) - An ncmpcpp wrapper that enables cover art via ueberzug.
 - [ckardaris/ucollage](https://github.com/ckardaris/ucollage) - An extensible command line image viewer inspired by vim
 - [fl-w/dotfiles](https://github.com/fl-w/dotfiles) - La mia casa
