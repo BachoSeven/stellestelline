@@ -1800,6 +1800,7 @@
 
 ## Rust 
 
+- [m4tx/tundra](https://github.com/m4tx/tundra) - MyAnimeList scrobbler for Linux
 - [conradludgate/wordle](https://github.com/conradludgate/wordle) - Wordle TUI in Rust
 - [pop-os/system76-scheduler](https://github.com/pop-os/system76-scheduler) - Auto-configure CFS and process priorities for improved desktop responsiveness
 - [raffomania/songsonar](https://github.com/raffomania/songsonar) - 📻 A smart spotify playlist with new releases from artists you follow
@@ -2014,6 +2015,7 @@
 
 ## Shell 
 
+- [zone-linux/zone-iso](https://github.com/zone-linux/zone-iso) - + ISO Source Documents from Lab X-18; Located under Dark Valley
 - [ThePoorPilot/Unofficial-Spotify](https://github.com/ThePoorPilot/Unofficial-Spotify) - Unofficial up-to-date linux Spotify package derived from the Snap Package.
 - [vaporup/ssh-tools](https://github.com/vaporup/ssh-tools) - Making SSH more convenient
 - [fusionneur/ethernally](https://github.com/fusionneur/ethernally) - Your scrcpy companion for Android wireless screen mirroring
