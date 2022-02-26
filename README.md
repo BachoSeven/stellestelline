@@ -809,7 +809,7 @@
 ## Go 
 
 - [xyproto/wallutils](https://github.com/xyproto/wallutils) - :city_sunset: Utilities for handling monitors, resolutions, wallpapers and timed wallpapers
-- [xyproto/o](https://github.com/xyproto/o) - :cyclone: Configuration free text editor limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when programming. Includes syntax highlighting, quick compilation and formatting, jump-to-error, rainbow parenthesis, tab completion, smart indentation, macros and cut/paste portals.
+- [xyproto/o](https://github.com/xyproto/o) - :cyclone: Configuration-free text editor limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when programming. Includes syntax highlighting, quick compilation and formatting, jump-to-error, rainbow parenthesis, tab completion, smart indentation, macros and cut/paste portals.
 - [mrusme/reader](https://github.com/mrusme/reader) - reader is for your command line what the “readability” view is for modern browsers: A lightweight tool offering better readability of web pages on the CLI.
 - [quantumsheep/sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH
 - [diamondburned/gotktrix](https://github.com/diamondburned/gotktrix) - Matrix client in Go and GTK4
@@ -1165,7 +1165,7 @@
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [getferdi/ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
 - [sindresorhus/speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI
-- [khanhas/spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
+- [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 - [EliverLara/terminator-themes](https://github.com/EliverLara/terminator-themes) - :metal: The biggest collection of Terminator themes.
 - [m4heshd/offlinebay](https://github.com/m4heshd/offlinebay) - Official repository of the project OfflineBay
 
