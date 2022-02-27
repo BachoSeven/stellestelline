@@ -519,6 +519,7 @@
 
 ## C++ 
 
+- [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 - [leonmavr/zeitkatze](https://github.com/leonmavr/zeitkatze) - time cat -- literally. Available as AUR package
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
 - [jfedor2/scroll-ring-trackball](https://github.com/jfedor2/scroll-ring-trackball) - DIY trackball with scroll ring
@@ -990,6 +991,7 @@
 
 ## Java 
 
+- [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
 - [sultannamja/tauonremote_android](https://github.com/sultannamja/tauonremote_android) - Tauon Remote  & Stream Android Application, Remote & Stream Tauon Music Box on your Android Phone
 - [agersant/polaris-android](https://github.com/agersant/polaris-android) - Android client for Polaris
 - [redsolver/skydroid](https://github.com/redsolver/skydroid) - A decentralized domain-based App Store for Android.
@@ -1020,6 +1022,7 @@
 
 ## JavaScript 
 
+- [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 - [ps173/VimGore](https://github.com/ps173/VimGore) - An Interactive game to learn vim
 - [JoseExposito/gnome-shell-extension-x11gestures](https://github.com/JoseExposito/gnome-shell-extension-x11gestures) - Enable GNOME Shell multi-touch gestures on X11 with this extension
 - [RudeySH/lastfm-bulk-edit](https://github.com/RudeySH/lastfm-bulk-edit) - Bulk edit your scrobbles for any artist, album or track on Last.fm at once.
@@ -1044,6 +1047,7 @@
 - [WeebDev/chibisafe](https://github.com/WeebDev/chibisafe) - Blazing fast file uploader and awesome bunker written in node! 🚀
 - [karabaja4/mimejs](https://github.com/karabaja4/mimejs) - A replacement for xdg-open written in Node.js
 - [cloudrac3r/cadencegq](https://github.com/cloudrac3r/cadencegq) - Website featuring pastebin, image host, and YouTube player
+- [dothq/browser](https://github.com/dothq/browser) - The browser that fights for your privacy.
 - [sonnyp/Tangram](https://github.com/sonnyp/Tangram) - Browser for your pinned tabs
 - [airsonic-advanced/airsonic-advanced](https://github.com/airsonic-advanced/airsonic-advanced) - 
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
@@ -1347,7 +1351,6 @@
 - [jnmcfly/awesome-startpage](https://github.com/jnmcfly/awesome-startpage) - This is a carefully compiled list of remarkable projects with the focus on startpages.
 - [TemporalAgent7/awesome-windows-privacy](https://github.com/TemporalAgent7/awesome-windows-privacy) - A list of awesome tools, documentation and scripts for better privacy on Microsoft Windows
 - [fiatjaf/awesome-loginless](https://github.com/fiatjaf/awesome-loginless) - an awesome list of internet services that don't require logins or registrations
-- [dothq/browser](https://github.com/dothq/browser) - 🌍 The browser that fights for your privacy.
 - [yulunzhang/video-enhancement](https://github.com/yulunzhang/video-enhancement) - A list of resources for video enhancement, including video super-resolutio, interpolation, denoising, compression artifact removal et al..
 - [Digitalone1/EasyEffects-Presets](https://github.com/Digitalone1/EasyEffects-Presets) - Presets for EasyEffects and PulseEffects.
 - [iv-org/documentation](https://github.com/iv-org/documentation) - The official Invidious documentation
@@ -2021,6 +2024,7 @@
 
 ## Shell 
 
+- [adsr/rw.rs](https://github.com/adsr/rw.rs) - Free shell account and web 1.0 hosting @ http://rw.rs/~you
 - [zone-linux/zone-iso](https://github.com/zone-linux/zone-iso) - + ISO Source Documents from Lab X-18; Located under Dark Valley
 - [ThePoorPilot/Unofficial-Spotify](https://github.com/ThePoorPilot/Unofficial-Spotify) - Unofficial up-to-date linux Spotify package derived from the Snap Package.
 - [vaporup/ssh-tools](https://github.com/vaporup/ssh-tools) - Making SSH more convenient
