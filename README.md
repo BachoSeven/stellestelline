@@ -42,6 +42,7 @@
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
   - [Lean](#lean)
+  - [Less](#less)
   - [Lua](#lua)
   - [MATLAB](#matlab)
   - [Makefile](#makefile)
@@ -125,6 +126,7 @@
 
 ## C 
 
+- [Murtaza-Udaipurwala/window_manager_tutorial](https://github.com/Murtaza-Udaipurwala/window_manager_tutorial) - Tutorial series on building an X11 dynamic tiling window manager in C
 - [foutrelis/chromium-launcher](https://github.com/foutrelis/chromium-launcher) - Chromium launcher with support for custom user flags
 - [berdav/CVE-2021-4034](https://github.com/berdav/CVE-2021-4034) - CVE-2021-4034 1day
 - [Kratacoa/dotfiles](https://github.com/Kratacoa/dotfiles) - 🌠 please support breaking of copyright laws 🌠
@@ -397,7 +399,6 @@
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [approach0/search-engine](https://github.com/approach0/search-engine) - A math-aware search engine.
 - [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
-- [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [sigpipe/urlview](https://github.com/sigpipe/urlview) - Extract URLs from a text file and allow the user to select via a menu
 - [cpressey/ncurses_programs](https://github.com/cpressey/ncurses_programs) - git-ification/cleanup of the source code for "NCURSES Programming HOWTO".
 - [runrin/tt](https://github.com/runrin/tt) - Practicing touch typing, and monitor your typing speed using your own text files
@@ -688,7 +689,6 @@
 - [jamesNWT/StartPage2](https://github.com/jamesNWT/StartPage2) - Second attempt at a startpage
 - [i3d/term-themes](https://github.com/i3d/term-themes) - terminal themes I created
 - [chrisgdouglas/custom_css](https://github.com/chrisgdouglas/custom_css) - Collection of custom CSS files to override or compliment third party websites.
-- [paulgoio/searxng](https://github.com/paulgoio/searxng) - gitlab mirror: SearXNG image with changed simple theme, settings.yml and bundled with filtron binary
 - [AndrewBelt/WiTeX](https://github.com/AndrewBelt/WiTeX) - If Donald Knuth had designed Wikipedia
 - [SuzanneSoy/WiTeX](https://github.com/SuzanneSoy/WiTeX) - If Donald Knuth had designed Wikipedia
 - [pradyungn/dotfiles](https://github.com/pradyungn/dotfiles) - A collection of my Linux Dotfiles!
@@ -809,6 +809,7 @@
 
 ## Go 
 
+- [xyproto/interfaces](https://github.com/xyproto/interfaces) - :mate: List all network interfaces
 - [xyproto/wallutils](https://github.com/xyproto/wallutils) - :city_sunset: Utilities for handling monitors, resolutions, wallpapers and timed wallpapers
 - [xyproto/o](https://github.com/xyproto/o) - :cyclone: Configuration-free text editor limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when programming. Includes syntax highlighting, quick compilation and formatting, jump-to-error, rainbow parenthesis, tab completion, smart indentation, macros and cut/paste portals.
 - [mrusme/reader](https://github.com/mrusme/reader) - reader is for your command line what the “readability” view is for modern browsers: A lightweight tool offering better readability of web pages on the CLI.
@@ -991,6 +992,7 @@
 
 ## Java 
 
+- [CatogramX/CatogramX](https://github.com/CatogramX/CatogramX) - Catogram X source code.
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
 - [sultannamja/tauonremote_android](https://github.com/sultannamja/tauonremote_android) - Tauon Remote  & Stream Android Application, Remote & Stream Tauon Music Box on your Android Phone
 - [agersant/polaris-android](https://github.com/agersant/polaris-android) - Android client for Polaris
@@ -1208,6 +1210,10 @@
 
 - [leanprover-community/lean-liquid](https://github.com/leanprover-community/lean-liquid) - 💧 Liquid Tensor Experiment
 - [leanprover/lean4](https://github.com/leanprover/lean4) - Lean 4 programming language and theorem prover
+
+## Less 
+
+- [paulgoio/searxng](https://github.com/paulgoio/searxng) - gitlab mirror: SearXNG image with changed simple theme, settings.yml and bundled with filtron binary
 
 ## Lua 
 
@@ -1702,6 +1708,7 @@
 - [costis94/bookcut](https://github.com/costis94/bookcut) - Command Line Interface tool to download, organise and search free ebooks from your terminal in a moment.
 - [nickzuber/chs](https://github.com/nickzuber/chs) - ♝♞ Play chess against the Stockfish engine in your terminal.
 - [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - 📃 Get lyrics of currently playing Spotify song so you don't sing along with the wrong ones and embarrass yourself later. Very fast.
+- [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [bugnano/rnr](https://github.com/bugnano/rnr) - The RNR File Manager (RNR's Not Ranger)
 - [njhofmann/arXivist](https://github.com/njhofmann/arXivist) - Command line interface for managing papers from arXiv on a local machine.
 - [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client
