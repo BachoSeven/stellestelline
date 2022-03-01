@@ -740,7 +740,7 @@
 - [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
 - [CharlieEtienne/material-github](https://github.com/CharlieEtienne/material-github) - A Material Dark Theme for GitHub
 - [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment. Deprecated, preparing Joyful Desktop v4. Consider installing!
-- [morpheusthewhite/spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify (https://github.com/khanhas/spicetify-cli)
+- [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/spicetify-cli
 
 ## CoffeeScript 
 
@@ -809,6 +809,7 @@
 
 ## Go 
 
+- [xyproto/calendar](https://github.com/xyproto/calendar) - :card_index: Utility with red days and flag flying days + calendar package for Go
 - [xyproto/interfaces](https://github.com/xyproto/interfaces) - :mate: List all network interfaces
 - [xyproto/wallutils](https://github.com/xyproto/wallutils) - :city_sunset: Utilities for handling monitors, resolutions, wallpapers and timed wallpapers
 - [xyproto/o](https://github.com/xyproto/o) - :cyclone: Configuration-free text editor limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when programming. Includes syntax highlighting, quick compilation and formatting, jump-to-error, rainbow parenthesis, tab completion, smart indentation, macros and cut/paste portals.
@@ -1264,6 +1265,7 @@
 - [nvim-lua/completion-nvim](https://github.com/nvim-lua/completion-nvim) - A async completion framework aims to provide completion to neovim's built in LSP written in Lua
 - [po5/mpv_sponsorblock](https://github.com/po5/mpv_sponsorblock) - mpv script to skip sponsored segments of YouTube videos
 - [drahenprofi/dotfiles](https://github.com/drahenprofi/dotfiles) - Arch Linux dotfiles
+- [OliverLew/dotfiles](https://github.com/OliverLew/dotfiles) - Linux configuration files (dotfiles) and some useful scripts
 - [savq/paq-nvim](https://github.com/savq/paq-nvim) - 🌚  Neovim package manager
 - [b3nj5m1n/kommentary](https://github.com/b3nj5m1n/kommentary) - Neovim commenting plugin, written in lua.
 - [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview) - 📜📶 A Neovim plugin that displays interactive vertical scrollbars.
@@ -1519,6 +1521,7 @@
 
 ## Python 
 
+- [rchakra3/zsh_history](https://github.com/rchakra3/zsh_history) - Backup and restore ZSH history
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [agent255/clspotify](https://github.com/agent255/clspotify) - Spotify song downloader without injecting into the windows client
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
@@ -2226,7 +2229,6 @@
 - [salman-abedin/amenu](https://github.com/salman-abedin/amenu) - Fuzzy Finder Dynamic GUI Menu
 - [tdukv/dotfiles-void](https://github.com/tdukv/dotfiles-void) - my voidlinux setup
 - [jandamm/zgenom](https://github.com/jandamm/zgenom) - A lightweight and fast plugin manager for ZSH
-- [OliverLew/dotfiles](https://github.com/OliverLew/dotfiles) - Linux configuration files (dotfiles) and some useful scripts
 - [sdushantha/fontpreview](https://github.com/sdushantha/fontpreview) - Highly customizable and minimal font previewer written in bash
 - [sdushantha/farge](https://github.com/sdushantha/farge) - Click on a pixel on your screen and show its color value
 - [khuei/gtcf](https://github.com/khuei/gtcf) - gentoo configuration
