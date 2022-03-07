@@ -1187,6 +1187,7 @@
 
 ## Jupyter Notebook 
 
+- [greenelab/scihub](https://github.com/greenelab/scihub) - Source code and data analyses for the Sci-Hub Coverage Study
 - [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
 - [MTG/essentia](https://github.com/MTG/essentia) - C++ library for audio and music analysis, description and synthesis, including Python bindings
@@ -1783,6 +1784,7 @@
 
 ## QML 
 
+- [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 - [LinArcX/kindd](https://github.com/LinArcX/kindd) - A kindful dd, written in qt-quick.
 - [Tewelus/jellyfUn](https://github.com/Tewelus/jellyfUn) - 
 - [khanhas/zshelf](https://github.com/khanhas/zshelf) - reMarkable app: Browse and download books from Z-Library
@@ -2378,6 +2380,7 @@
 
 ## TeX 
 
+- [f0nzie/tikz_favorites](https://github.com/f0nzie/tikz_favorites) - collection of favorite TikZ graphics
 - [simmaco99/GeometriaII](https://github.com/simmaco99/GeometriaII) - 
 - [synercys/annotated_latex_equations](https://github.com/synercys/annotated_latex_equations) - Examples of how to create colorful, annotated equations in Latex using Tikz.
 - [BhorisDhanjal/MathsRevisionCheatSheets](https://github.com/BhorisDhanjal/MathsRevisionCheatSheets) - A few Mathematics Revision Cheat Sheets I've made on LaTeX.
@@ -2403,6 +2406,7 @@
 
 ## TypeScript 
 
+- [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [jeffvli/sonixd](https://github.com/jeffvli/sonixd) - A full-featured Subsonic/Jellyfin compatible desktop music player
 - [shiftinv/wolframalpha-moresteps](https://github.com/shiftinv/wolframalpha-moresteps) - Browser extension that automatically replaces partial step-by-step solutions on Wolfram|Alpha with complete solutions from the official API
 - [PrettyCoffee/startpage](https://github.com/PrettyCoffee/startpage) - A React library which provides tools that help creating browser startpages in react.
