@@ -1340,7 +1340,6 @@
 
 ## Others 
 
-- [lukefleed/how-to-ro](https://github.com/lukefleed/how-to-ro) - 
 - [bcbcarl/docker-hollywood](https://github.com/bcbcarl/docker-hollywood) - Fake A Hollywood Hacker Screen.
 - [phisch/phinger-cursors](https://github.com/phisch/phinger-cursors) - Most likely the most over engineered cursor theme.
 - [graysky2/kernel_compiler_patch](https://github.com/graysky2/kernel_compiler_patch) - Kernel patch enables compiler optimizations for additional CPUs.
