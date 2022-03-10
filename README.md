@@ -1811,6 +1811,7 @@
 
 ## Ruby 
 
+- [brotandgames/ciao](https://github.com/brotandgames/ciao) - HTTP checks & tests (private & public) monitoring - check the status of your URL
 - [gkovacs/pdfocr](https://github.com/gkovacs/pdfocr) - Adds text to PDF files using the cuneiform OCR software
 - [xofred/deviantart-gallery-downloader](https://github.com/xofred/deviantart-gallery-downloader) - fetch deviantart's images using mechanize
 - [MusicPlayerDaemon/website](https://github.com/MusicPlayerDaemon/website) - The MPD website
@@ -2136,7 +2137,7 @@
 - [adi1090x/widgets](https://github.com/adi1090x/widgets) - Few widgets for Eww, Elkowar’s Wacky Widgets.
 - [pystardust/waldl](https://github.com/pystardust/waldl) - Browse and download wallhaven.cc using sxiv
 - [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
-- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [Valodim/zshrc](https://github.com/Valodim/zshrc) - My zsh dotfiles
 - [wukinnin/unamefetch](https://github.com/wukinnin/unamefetch) - a small system information display for UNIX-like operating systems via GNU uname.
 - [ftrvxmtrx/split2flac](https://github.com/ftrvxmtrx/split2flac) - Split flac/ape/wv/wav + cue sheet into separate tracks
