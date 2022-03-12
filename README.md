@@ -522,6 +522,7 @@
 
 - [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 - [leonmavr/zeitkatze](https://github.com/leonmavr/zeitkatze) - time cat -- literally. Available as AUR package
+- [lukefleed/imdb-graph](https://github.com/lukefleed/imdb-graph) - An exact and fast algorithm for computing top-k closeness centrality, tested on the IMDb databse
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
 - [jfedor2/scroll-ring-trackball](https://github.com/jfedor2/scroll-ring-trackball) - DIY trackball with scroll ring
 - [gerstner-hub/xwmfs](https://github.com/gerstner-hub/xwmfs) - X11 Window-Manager file system based on FUSE
@@ -924,7 +925,6 @@
 
 ## HTML 
 
-- [lukefleed/imdb-graph](https://github.com/lukefleed/imdb-graph) - A script to find the (almost) exact centralities on the IMDb Graph
 - [lilnasy/scribblyscrobbly](https://github.com/lilnasy/scribblyscrobbly) - a web page to tidy up apple music and spotify streaming history for last.fm
 - [arxiv-vanity/engrafo](https://github.com/arxiv-vanity/engrafo) - Convert LaTeX documents into beautiful responsive web pages using LaTeXML.
 - [RootMyTV/RootMyTV.github.io](https://github.com/RootMyTV/RootMyTV.github.io) - RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs.
@@ -1207,7 +1207,7 @@
 - [allgood/OpenNoteScanner](https://github.com/allgood/OpenNoteScanner) - Android application for scanning and manipulating handwritten notes and documents.
 - [tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher) - Minimal AF launcher app for Android. Available at F-Droid and Play Store.
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
-- [lposidon/posidonLauncher](https://github.com/lposidon/posidonLauncher) - a one-page homescreen with a news feed
+- [lposidon/posidonLauncher](https://github.com/lposidon/posidonLauncher) - a one-page homescreen with a news feed (discontinued)
 
 ## Lean 
 
@@ -1655,7 +1655,7 @@
 - [XayOn/torrentstream](https://github.com/XayOn/torrentstream) - Python simple BitTorrent streaming library based on libtorrent
 - [themayankjha/JAKYM](https://github.com/themayankjha/JAKYM) - JAKYM, Just Another Konsole YouTube-Music. A command line based Youtube music player written in Python with both Spotify and Youtube playlist support and easy on memory.
 - [bdesham/chrome-export](https://github.com/bdesham/chrome-export) - Python scripts to convert Google Chrome’s bookmarks and history to the standard HTML-ish bookmarks file format.
-- [YTVanced/Vanced](https://github.com/YTVanced/Vanced) - YouTube Vanced Issues/Docs repo
+- [YTVanced/Vanced](https://github.com/YTVanced/Vanced) - Vanced Issues/Docs repo
 - [jmcarp/robobrowser](https://github.com/jmcarp/robobrowser) - 
 - [pallets/werkzeug](https://github.com/pallets/werkzeug) - The comprehensive WSGI web application library.
 - [reubano/pygogo](https://github.com/reubano/pygogo) - A Python logging library with superpowers
