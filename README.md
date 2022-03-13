@@ -776,6 +776,7 @@
 ## Dockerfile 
 
 - [ironicbadger/pms-wiki](https://github.com/ironicbadger/pms-wiki) - The aim is to share knowledge and information about building an open-source media server.
+- [iv-org/documentation](https://github.com/iv-org/documentation) - The official Invidious documentation
 - [dmpanch/radio](https://github.com/dmpanch/radio) - MPD + MPC + Telegram bot radio stack in Docker
 - [paulbismuth/nicotine-plus-docker](https://github.com/paulbismuth/nicotine-plus-docker) - 
 - [kokmok/rpi-nicotine-novnc](https://github.com/kokmok/rpi-nicotine-novnc) - 🐳 Nicotine Over noVNC Docker Container for RPI
@@ -936,7 +937,6 @@
 - [distrolist/distrolist.github.io](https://github.com/distrolist/distrolist.github.io) - FOSS distrowatch alternative
 - [xero/0.xxe.ro](https://github.com/xero/0.xxe.ro) - random images
 - [ritheshkumar95/im2latex-tensorflow](https://github.com/ritheshkumar95/im2latex-tensorflow) - Tensorflow implementation of the HarvardNLP paper - What You Get Is What You See: A Visual Markup Decompiler (https://arxiv.org/pdf/1609.04938v1.pdf)
-- [iv-org/documentation](https://github.com/iv-org/documentation) - The official Invidious documentation
 - [kencx/startpage](https://github.com/kencx/startpage) - Custom browser startpage
 - [planetmath/00_General](https://github.com/planetmath/00_General) - 
 - [easychen/not-only-fans](https://github.com/easychen/not-only-fans) - an open source, self-hosted digital content subscription platform like `onlyfans.com`  with  cryptocurrency payment
@@ -1191,6 +1191,7 @@
 - [greenelab/scihub](https://github.com/greenelab/scihub) - Source code and data analyses for the Sci-Hub Coverage Study
 - [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
+- [fexed/Notes](https://github.com/fexed/Notes) - Appunti in LaTeX del CdL in Informatica presso UniPi / LaTeX notes of the CS course from University of Pisa
 - [MTG/essentia](https://github.com/MTG/essentia) - C++ library for audio and music analysis, description and synthesis, including Python bindings
 - [morrolinux/simple-ehm](https://github.com/morrolinux/simple-ehm) - A simple tool for a simple task: remove filler sounds ("ehm") from pre-recorded speeches. AI powered.
 
@@ -1220,6 +1221,7 @@
 
 ## Lua 
 
+- [brainfucksec/neovim-lua](https://github.com/brainfucksec/neovim-lua) - Neovim KISS configuration with Lua
 - [is0n/fm-nvim](https://github.com/is0n/fm-nvim) - 🗂 Neovim plugin that lets you use your favorite terminal file managers (and fuzzy finders) from within Neovim.
 - [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim) - Neovim motions on speed!
 - [harvardnlp/im2markup](https://github.com/harvardnlp/im2markup) - Neural model for converting Image-to-Markup (by Yuntian Deng github.com/da03)
@@ -2038,6 +2040,8 @@
 
 ## Shell 
 
+- [ianthehenry/zsh-autoquoter](https://github.com/ianthehenry/zsh-autoquoter) - automatically quote arguments to commands like `git commit -m`
+- [ianthehenry/sd](https://github.com/ianthehenry/sd) - a cozy nest for your scripts
 - [adsr/rw.rs](https://github.com/adsr/rw.rs) - Free shell account and web 1.0 hosting @ http://rw.rs/~you
 - [zone-linux/zone-iso](https://github.com/zone-linux/zone-iso) - + ISO Source Documents from Lab X-18; Located under Dark Valley
 - [ThePoorPilot/Unofficial-Spotify](https://github.com/ThePoorPilot/Unofficial-Spotify) - Unofficial up-to-date linux Spotify package derived from the Snap Package.
@@ -2393,7 +2397,6 @@
 - [latex3/latex2e](https://github.com/latex3/latex2e) - The LaTeX2e kernel
 - [snsmathlessons/Zannier1617](https://github.com/snsmathlessons/Zannier1617) - Corso di Zannier in Normale anni 2016/2017 (Funzioni Ellittiche e Modulari).
 - [severinlandolt/latex-thesis-template](https://github.com/severinlandolt/latex-thesis-template) - A LaTeX template for humans.
-- [fexed/Notes](https://github.com/fexed/Notes) - Appunti in LaTeX del CdL in Informatica presso UniPi / LaTeX notes of the CS course from University of Pisa
 - [plk/biber](https://github.com/plk/biber) - Backend processor for BibLaTeX
 - [drago-96/appunti](https://github.com/drago-96/appunti) - Appunti di corsi che ho seguito
 - [vEnhance/napkin](https://github.com/vEnhance/napkin) - An Infinitely Large Napkin
@@ -2447,6 +2450,7 @@
 
 ## Vala 
 
+- [tkashkin/GameHub](https://github.com/tkashkin/GameHub) - All your games in one place
 - [akiraux/Akira](https://github.com/akiraux/Akira) - Native Linux App for UI and UX Design built in Vala and GTK
 - [kevinselvaprasanna/mconnect](https://github.com/kevinselvaprasanna/mconnect) - mconnect - KDE Connect protocol implementation in Vala/C
 - [xxxserxxx/mconnect](https://github.com/xxxserxxx/mconnect) - mconnect - KDE Connect protocol implementation in Vala/C
