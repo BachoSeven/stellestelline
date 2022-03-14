@@ -994,6 +994,7 @@
 
 ## Java 
 
+- [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) - A fork of NewPipe with SponsorBlock functionality.
 - [CatogramX/CatogramX](https://github.com/CatogramX/CatogramX) - Catogram X source code.
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
 - [sultannamja/tauonremote_android](https://github.com/sultannamja/tauonremote_android) - Tauon Remote  & Stream Android Application, Remote & Stream Tauon Music Box on your Android Phone
