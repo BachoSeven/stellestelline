@@ -576,7 +576,6 @@
 - [sandsmark/shortcut-satan](https://github.com/sandsmark/shortcut-satan) - Global hotkey daemon.
 - [mortennobel/cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 - [Beep6581/RawTherapee](https://github.com/Beep6581/RawTherapee) - A powerful cross-platform raw photo processing program
-- [AngelJumbo/unilife](https://github.com/AngelJumbo/unilife) - 
 - [MusicPlayerDaemon/mpdscribble](https://github.com/MusicPlayerDaemon/mpdscribble) - a MPD client which submits information about tracks being played to a scrobbler (e.g. last.fm)
 - [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the keyboard and mouse sharing tool
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome!
@@ -1061,7 +1060,7 @@
 - [ajbura/cinny](https://github.com/ajbura/cinny) - Yet another matrix client
 - [RetroShare/RSNewWebUI](https://github.com/RetroShare/RSNewWebUI) - 
 - [iainbeeston/tab-less](https://github.com/iainbeeston/tab-less) - An extension that disables tabs in your web browser
-- [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers
+- [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [danieladov/jellyfin-plugin-skin-manager](https://github.com/danieladov/jellyfin-plugin-skin-manager) - Jellyfin Skin Manager is a plugin that helps you to download and install skins
 - [sandsmark/chrome-extension-unconfidential](https://github.com/sandsmark/chrome-extension-unconfidential) - Allows you to select and copy text from "confidential" emails in gmail. Security by idiocy.
 - [mozilla/multi-account-containers](https://github.com/mozilla/multi-account-containers) - Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
@@ -2470,6 +2469,7 @@
 
 ## Vim script 
 
+- [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
 - [jcs/dotfiles](https://github.com/jcs/dotfiles) - ftp -o - https://jcs.org/move_in | sh -
 - [ludovicchabant/vim-gutentags](https://github.com/ludovicchabant/vim-gutentags) - A Vim plugin that manages your tag files
 - [mattn/emmet-vim](https://github.com/mattn/emmet-vim) - emmet for vim: http://emmet.io/
