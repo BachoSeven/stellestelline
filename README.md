@@ -1204,7 +1204,7 @@
 - [funkyg/funkytunes](https://github.com/funkyg/funkytunes) - A streaming music player for Android, using torrents.
 - [SimonSchubert/LinuxCommandLibrary](https://github.com/SimonSchubert/LinuxCommandLibrary) - Andorid app which provides a bunch of useful Linux commands.
 - [dkter/aaaaa](https://github.com/dkter/aaaaa) - a minimalist keyboard
-- [YTVanced/VancedManager](https://github.com/YTVanced/VancedManager) - Vanced Installer
+- [TeamVanced/VancedManager](https://github.com/TeamVanced/VancedManager) - Vanced Installer
 - [allgood/OpenNoteScanner](https://github.com/allgood/OpenNoteScanner) - Android application for scanning and manipulating handwritten notes and documents.
 - [tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher) - Minimal AF launcher app for Android. Available at F-Droid and Play Store.
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
@@ -1658,7 +1658,7 @@
 - [XayOn/torrentstream](https://github.com/XayOn/torrentstream) - Python simple BitTorrent streaming library based on libtorrent
 - [themayankjha/JAKYM](https://github.com/themayankjha/JAKYM) - JAKYM, Just Another Konsole YouTube-Music. A command line based Youtube music player written in Python with both Spotify and Youtube playlist support and easy on memory.
 - [bdesham/chrome-export](https://github.com/bdesham/chrome-export) - Python scripts to convert Google Chrome’s bookmarks and history to the standard HTML-ish bookmarks file format.
-- [YTVanced/Vanced](https://github.com/YTVanced/Vanced) - Vanced Issues/Docs repo
+- [TeamVanced/Vanced](https://github.com/TeamVanced/Vanced) - Vanced Issues/Docs repo
 - [jmcarp/robobrowser](https://github.com/jmcarp/robobrowser) - 
 - [pallets/werkzeug](https://github.com/pallets/werkzeug) - The comprehensive WSGI web application library.
 - [reubano/pygogo](https://github.com/reubano/pygogo) - A Python logging library with superpowers
