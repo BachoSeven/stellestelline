@@ -811,6 +811,7 @@
 
 ## Go 
 
+- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [xyproto/calendar](https://github.com/xyproto/calendar) - :card_index: Utility with red days and flag flying days + calendar package for Go
 - [xyproto/interfaces](https://github.com/xyproto/interfaces) - :mate: List all network interfaces
 - [xyproto/wallutils](https://github.com/xyproto/wallutils) - :city_sunset: Utilities for handling monitors, resolutions, wallpapers and timed wallpapers
@@ -1026,6 +1027,7 @@
 
 ## JavaScript 
 
+- [yanshiyason/github-stars](https://github.com/yanshiyason/github-stars) - chrome extension to display github stars in repo links
 - [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 - [ps173/VimGore](https://github.com/ps173/VimGore) - An Interactive game to learn vim
 - [JoseExposito/gnome-shell-extension-x11gestures](https://github.com/JoseExposito/gnome-shell-extension-x11gestures) - Enable GNOME Shell multi-touch gestures on X11 with this extension
@@ -1197,6 +1199,7 @@
 
 ## Kotlin 
 
+- [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android. [WIP]
 - [jkuester/unlauncher](https://github.com/jkuester/unlauncher) - Android minimalistic launcher
 - [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android
 - [RusticFlare/pixel-sorter](https://github.com/RusticFlare/pixel-sorter) - A command line app for pixel sorting images
@@ -1344,6 +1347,7 @@
 
 ## Others 
 
+- [aziis98/github-stars](https://github.com/aziis98/github-stars) - chrome extension to display github stars in repo links
 - [bcbcarl/docker-hollywood](https://github.com/bcbcarl/docker-hollywood) - Fake A Hollywood Hacker Screen.
 - [phisch/phinger-cursors](https://github.com/phisch/phinger-cursors) - Most likely the most over engineered cursor theme.
 - [graysky2/kernel_compiler_patch](https://github.com/graysky2/kernel_compiler_patch) - Kernel patch enables compiler optimizations for additional CPUs.
@@ -2041,6 +2045,7 @@
 
 ## Shell 
 
+- [wincent/vim-university](https://github.com/wincent/vim-university) - A curriculum for leveling up your Vim
 - [ianthehenry/zsh-autoquoter](https://github.com/ianthehenry/zsh-autoquoter) - automatically quote arguments to commands like `git commit -m`
 - [ianthehenry/sd](https://github.com/ianthehenry/sd) - a cozy nest for your scripts
 - [adsr/rw.rs](https://github.com/adsr/rw.rs) - Free shell account and web 1.0 hosting @ http://rw.rs/~you
