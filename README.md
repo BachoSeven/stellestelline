@@ -127,6 +127,7 @@
 
 ## C 
 
+- [jbensmann/xmouseless](https://github.com/jbensmann/xmouseless) - A fast and simple way to control the mouse.
 - [Murtaza-Udaipurwala/window_manager_tutorial](https://github.com/Murtaza-Udaipurwala/window_manager_tutorial) - Tutorial series on building an X11 dynamic tiling window manager in C
 - [foutrelis/chromium-launcher](https://github.com/foutrelis/chromium-launcher) - Chromium launcher with support for custom user flags
 - [berdav/CVE-2021-4034](https://github.com/berdav/CVE-2021-4034) - CVE-2021-4034 1day
@@ -1206,6 +1207,8 @@
 
 ## Kotlin 
 
+- [ReVancedTeam/revanced-patches](https://github.com/ReVancedTeam/revanced-patches) - Repo for all ReVanced patches
+- [ReVancedTeam/revanced-patcher](https://github.com/ReVancedTeam/revanced-patcher) - Repo for the patcher used by ReVanced
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android. [WIP]
 - [jkuester/unlauncher](https://github.com/jkuester/unlauncher) - Android minimalistic launcher
 - [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android
