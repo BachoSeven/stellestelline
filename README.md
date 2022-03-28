@@ -1509,6 +1509,7 @@
 
 ## PHP 
 
+- [OPSnet/Logchecker](https://github.com/OPSnet/Logchecker) - Logchecker for parsing and scoring logs coming from CD ripping programs
 - [pomf/pomf](https://github.com/pomf/pomf) - Pomf is a simple lightweight file host with support for drop, paste, click and API uploading.
 - [spotweb/spotweb](https://github.com/spotweb/spotweb) - Decentralized community
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
