@@ -107,6 +107,7 @@
 ## Assembly 
 
 - [VitorVilela7/wide-snes](https://github.com/VitorVilela7/wide-snes) - Super Mario World (SNES) Widescreen Project
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 
 ## AutoHotkey 
@@ -313,7 +314,6 @@
 - [Mephysto666/rtl8822bu](https://github.com/Mephysto666/rtl8822bu) - RTL8822BU Wireless Driver for Linux
 - [qsmodo/sxiv](https://github.com/qsmodo/sxiv) - Simple X Image Viewer
 - [dudik/blockit](https://github.com/dudik/blockit) - WebKitGTK adblock extension with Brave's Rust-based adblock engine for backend.
-- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [dylanaraps/sowm](https://github.com/dylanaraps/sowm) - An itsy bitsy floating window manager (220~ sloc!).
 - [spbooth/xmountains](https://github.com/spbooth/xmountains) - This is my ancient X-windows sideways scrolling fractal landscape code
 - [juliusHuelsmann/st-history-vim](https://github.com/juliusHuelsmann/st-history-vim) - Development of the "vim patch" and  a minimalist "history patch" for the suckless simple terminal (st).
@@ -820,7 +820,7 @@
 - [xyproto/calendar](https://github.com/xyproto/calendar) - :card_index: Utility with red days and flag flying days + calendar package for Go
 - [xyproto/interfaces](https://github.com/xyproto/interfaces) - :mate: List all network interfaces
 - [xyproto/wallutils](https://github.com/xyproto/wallutils) - :city_sunset: Utilities for handling monitors, resolutions, wallpapers and timed wallpapers
-- [xyproto/o](https://github.com/xyproto/o) - :cyclone: Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when programming. Includes syntax highlighting, quick compilation and formatting, jump-to-error, rainbow parenthesis, tab completion, smart indentation, macros and cut/paste portals.
+- [xyproto/o](https://github.com/xyproto/o) - :cyclone: Configuration-free text editor and minimalistic IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when programming. Includes syntax highlighting, quick compilation and formatting, jump-to-error, rainbow parenthesis, tab completion, smart indentation, macros and cut/paste portals.
 - [mrusme/reader](https://github.com/mrusme/reader) - reader is for your command line what the “readability” view is for modern browsers: A lightweight tool offering better readability of web pages on the CLI.
 - [quantumsheep/sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH
 - [diamondburned/gotktrix](https://github.com/diamondburned/gotktrix) - Matrix client in Go and GTK4
@@ -1843,6 +1843,7 @@
 
 ## Rust 
 
+- [nuta/nsh](https://github.com/nuta/nsh) - A command-line shell like fish, but POSIX compatible.
 - [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable
 - [m4tx/tundra](https://github.com/m4tx/tundra) - MyAnimeList scrobbler for Linux
 - [conradludgate/wordle](https://github.com/conradludgate/wordle) - Wordle TUI in Rust
@@ -2048,6 +2049,7 @@
 
 ## Scala 
 
+- [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
 - [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
 
 ## Scheme 
