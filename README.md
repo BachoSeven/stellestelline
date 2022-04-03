@@ -107,7 +107,6 @@
 ## Assembly 
 
 - [VitorVilela7/wide-snes](https://github.com/VitorVilela7/wide-snes) - Super Mario World (SNES) Widescreen Project
-- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 
 ## AutoHotkey 
@@ -314,6 +313,7 @@
 - [Mephysto666/rtl8822bu](https://github.com/Mephysto666/rtl8822bu) - RTL8822BU Wireless Driver for Linux
 - [qsmodo/sxiv](https://github.com/qsmodo/sxiv) - Simple X Image Viewer
 - [dudik/blockit](https://github.com/dudik/blockit) - WebKitGTK adblock extension with Brave's Rust-based adblock engine for backend.
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [dylanaraps/sowm](https://github.com/dylanaraps/sowm) - An itsy bitsy floating window manager (220~ sloc!).
 - [spbooth/xmountains](https://github.com/spbooth/xmountains) - This is my ancient X-windows sideways scrolling fractal landscape code
 - [juliusHuelsmann/st-history-vim](https://github.com/juliusHuelsmann/st-history-vim) - Development of the "vim patch" and  a minimalist "history patch" for the suckless simple terminal (st).
@@ -2134,7 +2134,7 @@
 - [archlinux/arch-install-scripts](https://github.com/archlinux/arch-install-scripts) - Useful scripts for installing Arch Linux
 - [musikid/acpi_ec](https://github.com/musikid/acpi_ec) - Kernel module to access directly to the ACPI EC.
 - [evertiro/cdm](https://github.com/evertiro/cdm) - Console Display Manager
-- [vrilles/dotfiles](https://github.com/vrilles/dotfiles) - *nix config files, managed with GNU Stow.
+- [vrilles/.files](https://github.com/vrilles/.files) - *nix config files, managed with GNU Stow.
 - [fmash16/ssg5](https://github.com/fmash16/ssg5) - My custom script for a posix compliable static site generator built by Roman Zolotarev
 - [ipfs/ipget](https://github.com/ipfs/ipget) - Retrieve files over IPFS and save them locally.
 - [RichiH/vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
@@ -2431,6 +2431,7 @@
 
 ## TypeScript 
 
+- [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - VSCode Neovim Integration
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [jeffvli/sonixd](https://github.com/jeffvli/sonixd) - A full-featured Subsonic/Jellyfin compatible desktop music player
 - [shiftinv/wolframalpha-moresteps](https://github.com/shiftinv/wolframalpha-moresteps) - Browser extension that automatically replaces partial step-by-step solutions on Wolfram|Alpha with complete solutions from the official API
