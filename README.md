@@ -69,6 +69,7 @@
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SCSS](#scss)
+  - [SVG](#svg)
   - [Sass](#sass)
   - [Scala](#scala)
   - [Scheme](#scheme)
@@ -1036,6 +1037,7 @@
 
 ## JavaScript 
 
+- [typeintandem/nvim](https://github.com/typeintandem/nvim) - Repository for the Tandem NeoVim Plugin
 - [yanshiyason/github-stars](https://github.com/yanshiyason/github-stars) - chrome extension to display github stars in repo links
 - [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 - [ps173/VimGore](https://github.com/ps173/VimGore) - An Interactive game to learn vim
@@ -1236,6 +1238,7 @@
 
 ## Lua 
 
+- [jbyuki/nabla.nvim](https://github.com/jbyuki/nabla.nvim) - take your scientific notes :pencil2: in Neovim
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
 - [brainfucksec/neovim-lua](https://github.com/brainfucksec/neovim-lua) - Neovim KISS configuration with Lua
 - [is0n/fm-nvim](https://github.com/is0n/fm-nvim) - 🗂 Neovim plugin that lets you use your favorite terminal file managers (and fuzzy finders) from within Neovim.
@@ -1313,7 +1316,6 @@
 
 - [morrolinux/ChimeraDesk](https://github.com/morrolinux/ChimeraDesk) - Simple, fast and flexible DIY Remote Desktop software
 - [feroldi/ricing](https://github.com/feroldi/ricing) - a book about ricing unix-like systems
-- [AsahiLinux/artwork](https://github.com/AsahiLinux/artwork) - Asahi Linux logo and other artwork
 - [Onmp314/hackedbox](https://github.com/Onmp314/hackedbox) - Hackedbox window manager (Blackbox 0.65.0 based) (ultimately) modified to compile on modern Linux.
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [LukeSmithxyz/based.cooking](https://github.com/LukeSmithxyz/based.cooking) - A simple culinary website.
@@ -1544,6 +1546,8 @@
 
 ## Python 
 
+- [Floobits/floobits-neovim](https://github.com/Floobits/floobits-neovim) - Floobits plugin for NeoVim
+- [typeintandem/tandem](https://github.com/typeintandem/tandem) - Typing in Tandem. Decentralized, cross-editor, collaborative text-editing!
 - [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
 - [rchakra3/zsh_history](https://github.com/rchakra3/zsh_history) - Backup and restore ZSH history
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
@@ -2043,6 +2047,10 @@
 - [jmattheis/gruvbox-dark-gtk](https://github.com/jmattheis/gruvbox-dark-gtk) - A colorless gruvbox dark theme for GTK 2.0 and 3.0.
 - [gruvbox-community/gruvbox-contrib](https://github.com/gruvbox-community/gruvbox-contrib) - Ports of the gruvbox colorscheme
 
+## SVG 
+
+- [AsahiLinux/artwork](https://github.com/AsahiLinux/artwork) - Asahi Linux logo and other artwork
+
 ## Sass 
 
 - [dotfiles/dotfiles.github.com](https://github.com/dotfiles/dotfiles.github.com) - Your unofficial guide to doing dotfiles on GitHub.
@@ -2061,6 +2069,7 @@
 
 ## Shell 
 
+- [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [wincent/vim-university](https://github.com/wincent/vim-university) - A curriculum for leveling up your Vim
 - [ianthehenry/zsh-autoquoter](https://github.com/ianthehenry/zsh-autoquoter) - automatically quote arguments to commands like `git commit -m`
 - [ianthehenry/sd](https://github.com/ianthehenry/sd) - a cozy nest for your scripts
