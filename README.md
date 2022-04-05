@@ -129,6 +129,7 @@
 
 ## C 
 
+- [cdown/zcfan](https://github.com/cdown/zcfan) - A zero configuration fan daemon for Thinkpads
 - [jbensmann/xmouseless](https://github.com/jbensmann/xmouseless) - A fast and simple way to control the mouse.
 - [Murtaza-Udaipurwala/window_manager_tutorial](https://github.com/Murtaza-Udaipurwala/window_manager_tutorial) - Tutorial series on building an X11 dynamic tiling window manager in C
 - [foutrelis/chromium-launcher](https://github.com/foutrelis/chromium-launcher) - Chromium launcher with support for custom user flags
@@ -683,7 +684,7 @@
 - [walkxhub/homer-theme](https://github.com/walkxhub/homer-theme) - A custom Homer theme!
 - [antcc/dotfiles](https://github.com/antcc/dotfiles) - Configuration files for Arch Linux.
 - [LambadaCorez/custom_css_jellyfin](https://github.com/LambadaCorez/custom_css_jellyfin) - Plug n' Play CSS templates for Jellyfin!
-- [GilbN/theme.park](https://github.com/GilbN/theme.park) - A collection of themes/skins for your favorite apps.
+- [GilbN/theme.park](https://github.com/GilbN/theme.park) - A collection of themes/skins for 48 selfhosted apps!
 - [prayag17/Jellyfin-Icons](https://github.com/prayag17/Jellyfin-Icons) - Change Jellyfin default icons to a different style
 - [CTalvio/Ultrachromic](https://github.com/CTalvio/Ultrachromic) - The final form, the true evolution of the chromic theme saga!
 - [CTalvio/Kaleidochromic](https://github.com/CTalvio/Kaleidochromic) - A more colorful custom theme for Jellyfin mediaserver created using CSS overrides
@@ -1238,6 +1239,7 @@
 
 ## Lua 
 
+- [letoram/cat9](https://github.com/letoram/cat9) - A User shell for LASH
 - [jbyuki/nabla.nvim](https://github.com/jbyuki/nabla.nvim) - take your scientific notes :pencil2: in Neovim
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
 - [brainfucksec/neovim-lua](https://github.com/brainfucksec/neovim-lua) - Neovim KISS configuration with Lua
