@@ -129,7 +129,7 @@
 
 ## C 
 
-- [cdown/zcfan](https://github.com/cdown/zcfan) - A zero configuration fan daemon for Thinkpads
+- [cdown/zcfan](https://github.com/cdown/zcfan) - A zero-configuration fan daemon for ThinkPads
 - [jbensmann/xmouseless](https://github.com/jbensmann/xmouseless) - A fast and simple way to control the mouse.
 - [Murtaza-Udaipurwala/window_manager_tutorial](https://github.com/Murtaza-Udaipurwala/window_manager_tutorial) - Tutorial series on building an X11 dynamic tiling window manager in C
 - [foutrelis/chromium-launcher](https://github.com/foutrelis/chromium-launcher) - Chromium launcher with support for custom user flags
