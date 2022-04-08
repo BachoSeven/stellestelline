@@ -1261,6 +1261,7 @@
 - [sayanarijit/material-landscape2.xplr](https://github.com/sayanarijit/material-landscape2.xplr) - xple theme - Material Landscape 2
 - [sayanarijit/material-landscape.xplr](https://github.com/sayanarijit/material-landscape.xplr) - xple theme - Material Landscape
 - [prncss-xyz/icons.xplr](https://github.com/prncss-xyz/icons.xplr) - xplr icon theme
+- [sayanarijit/.files](https://github.com/sayanarijit/.files) - Just some files for my personal use
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [notomo/gesture.nvim](https://github.com/notomo/gesture.nvim) - Mouse gesture plugin for neovim
 - [wooosh/dots](https://github.com/wooosh/dots) - 
@@ -2521,7 +2522,6 @@
 - [voidz7/dotfiles](https://github.com/voidz7/dotfiles) - :ramen:
 - [TeoDev1611/plugpac.vim](https://github.com/TeoDev1611/plugpac.vim) - Thin wrapper of minpac, provides vim-plug-like experience
 - [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter) - Vim plugin for intensely nerdy commenting powers
-- [sayanarijit/.files](https://github.com/sayanarijit/.files) - Just some files for my personal use
 - [mtwb47/dwmricer](https://github.com/mtwb47/dwmricer) - DWM Auto Install and Ricing Script
 - [felipec/vim-sanegx](https://github.com/felipec/vim-sanegx) - Makes gx work correctly.
 - [lifepillar/vim-gruvbox8](https://github.com/lifepillar/vim-gruvbox8) - A simplified and optimized Gruvbox colorscheme for Vim
