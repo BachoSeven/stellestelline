@@ -1161,7 +1161,7 @@
 - [mitsuhiko/idasen-control](https://github.com/mitsuhiko/idasen-control) - Lets you control IKEA IDÅSEN desks from the command line.
 - [varkor/quiver](https://github.com/varkor/quiver) - A modern commutative diagram editor for the web.
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- [wesbos/keycodes](https://github.com/wesbos/keycodes) - Easy visualizer for JavaScript KeyCodes
+- [toptal/keycodes](https://github.com/toptal/keycodes) - Easy visualizer for JavaScript KeyCodes
 - [stared/tagoverflow](https://github.com/stared/tagoverflow) - An interactive map of Stack Exchange tags for all sites.
 - [crsnbrt/keysim](https://github.com/crsnbrt/keysim) - design and test virtual 3d keyboards.
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
