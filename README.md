@@ -814,6 +814,7 @@
 
 ## Go 
 
+- [aziis98/goldmark-latex](https://github.com/aziis98/goldmark-latex) - An extension for goldmark that adds support for math blocks and inline math
 - [liamg/traitor](https://github.com/liamg/traitor) - :arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [xyproto/calendar](https://github.com/xyproto/calendar) - :card_index: Utility with red days and flag flying days + calendar package for Go
