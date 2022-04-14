@@ -47,6 +47,7 @@
   - [MATLAB](#matlab)
   - [Makefile](#makefile)
   - [Markdown](#markdown)
+  - [Mathematica](#mathematica)
   - [Nim](#nim)
   - [Nix](#nix)
   - [OCaml](#ocaml)
@@ -441,7 +442,7 @@
 - [klange/nyancat](https://github.com/klange/nyancat) - Nyancat in your terminal, rendered through ANSI escape sequences. This is the source for the Debian package `nyancat`.
 - [jhawthorn/fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
 - [phillbush/xnotify](https://github.com/phillbush/xnotify) - read notifications from stdin and pop them up on the screen
-- [jcs/xbanish](https://github.com/jcs/xbanish) - banish the mouse cursor when typing, show it again when the mouse moves
+- [jcs/xbanish](https://github.com/jcs/xbanish) - Hide the mouse cursor when typing and show it again when the mouse moves
 - [EntropicEffect/rtl8822bu](https://github.com/EntropicEffect/rtl8822bu) - RTL8822BU Wireless Driver for Linux
 - [florentc/xob](https://github.com/florentc/xob) - A lightweight overlay volume (or anything) bar for the X Window System.
 - [thomazmoura/qmk_firmware](https://github.com/thomazmoura/qmk_firmware) - Port of QMK for the Anne Pro 2
@@ -685,7 +686,7 @@
 - [walkxhub/homer-theme](https://github.com/walkxhub/homer-theme) - A custom Homer theme!
 - [antcc/dotfiles](https://github.com/antcc/dotfiles) - Configuration files for Arch Linux.
 - [LambadaCorez/custom_css_jellyfin](https://github.com/LambadaCorez/custom_css_jellyfin) - Plug n' Play CSS templates for Jellyfin!
-- [GilbN/theme.park](https://github.com/GilbN/theme.park) - A collection of themes/skins for 48 selfhosted apps!
+- [GilbN/theme.park](https://github.com/GilbN/theme.park) - A collection of themes/skins for 49 selfhosted apps!
 - [prayag17/Jellyfin-Icons](https://github.com/prayag17/Jellyfin-Icons) - Change Jellyfin default icons to a different style
 - [CTalvio/Ultrachromic](https://github.com/CTalvio/Ultrachromic) - The final form, the true evolution of the chromic theme saga!
 - [CTalvio/Kaleidochromic](https://github.com/CTalvio/Kaleidochromic) - A more colorful custom theme for Jellyfin mediaserver created using CSS overrides
@@ -814,6 +815,7 @@
 
 ## Go 
 
+- [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
 - [aziis98/goldmark-latex](https://github.com/aziis98/goldmark-latex) - An extension for goldmark that adds support for math blocks and inline math
 - [liamg/traitor](https://github.com/liamg/traitor) - :arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
@@ -1183,7 +1185,6 @@
 - [alexherbo2/webextension-dmenu](https://github.com/alexherbo2/webextension-dmenu) - Tab search, selection and beyond with a dmenu filter program
 - [tylercal/vimium-helper](https://github.com/tylercal/vimium-helper) - Vimium helper makes Vimium better
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
-- [getferdi/ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
 - [sindresorhus/speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI
 - [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 - [EliverLara/terminator-themes](https://github.com/EliverLara/terminator-themes) - :metal: The biggest collection of Terminator themes.
@@ -1328,6 +1329,10 @@
 ## Markdown 
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+
+## Mathematica 
+
+- [gillescastel/masterthesis](https://github.com/gillescastel/masterthesis) - Master Thesis
 
 ## Nim 
 
@@ -2417,6 +2422,7 @@
 
 ## TeX 
 
+- [gillescastel/lecture-notes](https://github.com/gillescastel/lecture-notes) - LaTeX code for some of my lecture notes
 - [f0nzie/tikz_favorites](https://github.com/f0nzie/tikz_favorites) - collection of favorite TikZ graphics
 - [simmaco99/GeometriaII](https://github.com/simmaco99/GeometriaII) - 
 - [synercys/annotated_latex_equations](https://github.com/synercys/annotated_latex_equations) - Examples of how to create colorful, annotated equations in Latex using Tikz.
