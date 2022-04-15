@@ -527,6 +527,7 @@
 
 ## C++ 
 
+- [ofloveandhate/bertini_real](https://github.com/ofloveandhate/bertini_real) - software for real algebraic sets
 - [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 - [leonmavr/zeitkatze](https://github.com/leonmavr/zeitkatze) - time cat -- literally. Available as AUR package
 - [lukefleed/imdb-graph](https://github.com/lukefleed/imdb-graph) - An exact and fast algorithm for computing top-k closeness centrality, tested on the IMDb databse
@@ -958,6 +959,7 @@
 - [matrix-org/matrix.org](https://github.com/matrix-org/matrix.org) - matrix.org public website
 - [hyperreal64/zsh-manual-mdbook](https://github.com/hyperreal64/zsh-manual-mdbook) - Mdbook for Zsh Manual
 - [comfies/comfi.es](https://github.com/comfies/comfi.es) - the /comfy/ website
+- [LukeSmithxyz/based.cooking](https://github.com/LukeSmithxyz/based.cooking) - A simple culinary website.
 - [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
 - [ReplDepot/replit-desktop](https://github.com/ReplDepot/replit-desktop) - Desktop app for https://replit.com
 - [bedrocklinux/bedrocklinux-website](https://github.com/bedrocklinux/bedrocklinux-website) - This tracks website development for Bedrock Linux
@@ -1037,6 +1039,7 @@
 
 ## JavaScript 
 
+- [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [typeintandem/nvim](https://github.com/typeintandem/nvim) - Repository for the Tandem NeoVim Plugin
 - [yanshiyason/github-stars](https://github.com/yanshiyason/github-stars) - chrome extension to display github stars in repo links
 - [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
@@ -1320,7 +1323,6 @@
 - [feroldi/ricing](https://github.com/feroldi/ricing) - a book about ricing unix-like systems
 - [Onmp314/hackedbox](https://github.com/Onmp314/hackedbox) - Hackedbox window manager (Blackbox 0.65.0 based) (ultimately) modified to compile on modern Linux.
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
-- [LukeSmithxyz/based.cooking](https://github.com/LukeSmithxyz/based.cooking) - A simple culinary website.
 - [gilbertw1/telegram-gruvbox-theme](https://github.com/gilbertw1/telegram-gruvbox-theme) - Gruvbox theme for Telegram Desktop
 - [nbeaver/why-linux-is-better](https://github.com/nbeaver/why-linux-is-better) - Objective reasons to prefer Linux to Windows.
 - [genuinetools/udict](https://github.com/genuinetools/udict) - A command line urban dictionary.
