@@ -959,6 +959,7 @@
 - [matrix-org/matrix.org](https://github.com/matrix-org/matrix.org) - matrix.org public website
 - [hyperreal64/zsh-manual-mdbook](https://github.com/hyperreal64/zsh-manual-mdbook) - Mdbook for Zsh Manual
 - [comfies/comfi.es](https://github.com/comfies/comfi.es) - the /comfy/ website
+- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [LukeSmithxyz/based.cooking](https://github.com/LukeSmithxyz/based.cooking) - A simple culinary website.
 - [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
 - [ReplDepot/replit-desktop](https://github.com/ReplDepot/replit-desktop) - Desktop app for https://replit.com
@@ -1370,6 +1371,7 @@
 
 ## Others 
 
+- [dab2020/Guides](https://github.com/dab2020/Guides) - Some of my random guides
 - [aziis98/github-stars](https://github.com/aziis98/github-stars) - chrome extension to display github stars in repo links
 - [bcbcarl/docker-hollywood](https://github.com/bcbcarl/docker-hollywood) - Fake A Hollywood Hacker Screen.
 - [phisch/phinger-cursors](https://github.com/phisch/phinger-cursors) - Most likely the most over engineered cursor theme.
@@ -1585,7 +1587,7 @@
 - [baskerville/diana](https://github.com/baskerville/diana) - A command line interface to the aria2 daemon
 - [yixuanzhou/image2latex](https://github.com/yixuanzhou/image2latex) - A tool to convert math equation images to LaTeX markup
 - [blueOkiris/bgrm](https://github.com/blueOkiris/bgrm) - Virtual webcam that takes real webcam footage and replaces the background in order to have Virtual Backgrounds in MS Teams for Linux where the feature is unimplemented.
-- [bbilly1/tubearchivist](https://github.com/bbilly1/tubearchivist) - Your self hosted YouTube media server
+- [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
 - [aitjcize/cppman](https://github.com/aitjcize/cppman) - C++ 98/11/14 manual pages for Linux/MacOS
 - [JCGdev/Newpipe-CSV-Fixer](https://github.com/JCGdev/Newpipe-CSV-Fixer) - Convert your subscriptions csv file into a valid json for Newpipe!
 - [Fran314/SmashDataCollectorPython](https://github.com/Fran314/SmashDataCollectorPython) - A script to automatically collect stats from Super Smash Bros. Ultimate competitive and casual matches
@@ -2450,6 +2452,7 @@
 
 ## TypeScript 
 
+- [webosbrew/dev-manager-desktop](https://github.com/webosbrew/dev-manager-desktop) - Device/DevMode Manager for webOS TV
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - VSCode Neovim Integration
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [jeffvli/sonixd](https://github.com/jeffvli/sonixd) - A full-featured Subsonic/Jellyfin compatible desktop music player
@@ -2468,7 +2471,6 @@
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
 - [rain0r/ampd](https://github.com/rain0r/ampd) - A web-based MPD client.
-- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [PrettyCoffee/fluidity](https://github.com/PrettyCoffee/fluidity) - Fluidity - An accordion based startpage
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
