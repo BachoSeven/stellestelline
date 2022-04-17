@@ -2426,6 +2426,7 @@
 
 ## TeX 
 
+- [semorrison/category-theory-2017](https://github.com/semorrison/category-theory-2017) - 
 - [gillescastel/lecture-notes](https://github.com/gillescastel/lecture-notes) - LaTeX code for some of my lecture notes
 - [f0nzie/tikz_favorites](https://github.com/f0nzie/tikz_favorites) - collection of favorite TikZ graphics
 - [simmaco99/GeometriaII](https://github.com/simmaco99/GeometriaII) - 
