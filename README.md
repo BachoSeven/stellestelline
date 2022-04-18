@@ -816,6 +816,7 @@
 
 ## Go 
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
 - [aziis98/goldmark-latex](https://github.com/aziis98/goldmark-latex) - An extension for goldmark that adds support for math blocks and inline math
 - [liamg/traitor](https://github.com/liamg/traitor) - :arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
@@ -1857,6 +1858,7 @@
 
 ## Rust 
 
+- [threadexio/zeus](https://github.com/threadexio/zeus) - Bringing docker containers to your AUR helper since 2022
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [nuta/nsh](https://github.com/nuta/nsh) - A command-line shell like fish, but POSIX compatible.
 - [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable
@@ -2193,7 +2195,7 @@
 - [ThatOneCalculator/NerdFetch](https://github.com/ThatOneCalculator/NerdFetch) - A POSIX *nix fetch script using Nerdfonts
 - [jitsi-contrib/jitas](https://github.com/jitsi-contrib/jitas) - Jitsi Assistant
 - [Kron4ek/Conty](https://github.com/Kron4ek/Conty) - Easy to use unprivileged Linux container packed into a single portable executable
-- [0xsapphir3/My_Eww_Scripts](https://github.com/0xsapphir3/My_Eww_Scripts) - Eww Scripts To Make Your Desktop Beautiful !
+- [BladeOfLightX/My_Eww_Scripts](https://github.com/BladeOfLightX/My_Eww_Scripts) - Eww Scripts To Make Your Desktop Beautiful !
 - [Frogging-Family/linux-tkg](https://github.com/Frogging-Family/linux-tkg) - linux-tkg custom kernels
 - [Jannik2099/gentoo-pinebookpro](https://github.com/Jannik2099/gentoo-pinebookpro) - A collection of scripts to prepare a Gentoo tarball for the pinebook pro
 - [dylanaraps/pash](https://github.com/dylanaraps/pash) - 🔒 A simple password manager using GPG written in POSIX sh.
