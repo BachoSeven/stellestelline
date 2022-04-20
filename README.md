@@ -695,7 +695,6 @@
 - [CTalvio/Novachromic](https://github.com/CTalvio/Novachromic) - My third theme for Jellyfin media server, part of the "chromic" family.
 - [CTalvio/Monochromic](https://github.com/CTalvio/Monochromic) - A color muted, minimalistic theme for Jellyfin mediaserver created using CSS overrides
 - [prayag17/JellySkin](https://github.com/prayag17/JellySkin) - Vibrante/minimal Jellyfin CSS using custom Icons and more!!, created for Jellyfin web, can be used by just one line.
-- [jamesNWT/StartPage2](https://github.com/jamesNWT/StartPage2) - Second attempt at a startpage
 - [i3d/term-themes](https://github.com/i3d/term-themes) - terminal themes I created
 - [chrisgdouglas/custom_css](https://github.com/chrisgdouglas/custom_css) - Collection of custom CSS files to override or compliment third party websites.
 - [AndrewBelt/WiTeX](https://github.com/AndrewBelt/WiTeX) - If Donald Knuth had designed Wikipedia
@@ -1082,6 +1081,7 @@
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [danieladov/jellyfin-plugin-skin-manager](https://github.com/danieladov/jellyfin-plugin-skin-manager) - Jellyfin Skin Manager is a plugin that helps you to download and install skins
 - [sandsmark/chrome-extension-unconfidential](https://github.com/sandsmark/chrome-extension-unconfidential) - Allows you to select and copy text from "confidential" emails in gmail. Security by idiocy.
+- [jamesNWT/StartPage2](https://github.com/jamesNWT/StartPage2) - Second attempt at a startpage
 - [mozilla/multi-account-containers](https://github.com/mozilla/multi-account-containers) - Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
 - [Cykelero/timefind](https://github.com/Cykelero/timefind) - Search a website's history.
 - [ciderapp/Apple-Music-Electron](https://github.com/ciderapp/Apple-Music-Electron) - Apple Music Electron is now deprecated. See our new project Cider https://github.com/ciderapp/Cider
@@ -1365,6 +1365,7 @@
 
 ## OpenSCAD 
 
+- [FrameworkComputer/Mainboard](https://github.com/FrameworkComputer/Mainboard) - Documentation for the Mainboard in the Framework Laptop
 - [FrameworkComputer/ExpansionCards](https://github.com/FrameworkComputer/ExpansionCards) - Reference designs and documentation to create Expansion Cards for the Framework Laptop
 - [monroewilliams/trackball](https://github.com/monroewilliams/trackball) - Code for a trackball I'm building from scratch
 - [atulloh/oddball](https://github.com/atulloh/oddball) - A split keyboard with trackball support
@@ -1858,6 +1859,7 @@
 
 ## Rust 
 
+- [oknozor/eww-tray](https://github.com/oknozor/eww-tray) - A system tray for eww
 - [threadexio/zeus](https://github.com/threadexio/zeus) - Bringing docker containers to your AUR helper since 2022
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [nuta/nsh](https://github.com/nuta/nsh) - A command-line shell like fish, but POSIX compatible.
@@ -2461,7 +2463,6 @@
 - [jeffvli/sonixd](https://github.com/jeffvli/sonixd) - A full-featured Subsonic/Jellyfin compatible desktop music player
 - [shiftinv/wolframalpha-moresteps](https://github.com/shiftinv/wolframalpha-moresteps) - Browser extension that automatically replaces partial step-by-step solutions on Wolfram|Alpha with complete solutions from the official API
 - [PrettyCoffee/startpage](https://github.com/PrettyCoffee/startpage) - A React library which provides tools that help creating browser startpages in react.
-- [Alissonsleal/TwitchSubVod](https://github.com/Alissonsleal/TwitchSubVod) - Watch any sub-only Twitch VOD for free. You can also find deleted clips or Twitch VODS. Just insert the streamer username and select a video to watch. You can also download Twitch Clips with this application.
 - [Rafiuth/Soggfy](https://github.com/Rafiuth/Soggfy) - Spotify ogg dumper
 - [xbrowsersync/api](https://github.com/xbrowsersync/api) - Server-side REST API that serves requests from xBrowserSync client apps
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
