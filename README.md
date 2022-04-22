@@ -1859,6 +1859,7 @@
 
 ## Rust 
 
+- [lsmb/udict](https://github.com/lsmb/udict) - Urban Dictionary CLI - written in Rust
 - [oknozor/eww-tray](https://github.com/oknozor/eww-tray) - A system tray for eww
 - [threadexio/zeus](https://github.com/threadexio/zeus) - Bringing docker containers to your AUR helper since 2022
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
