@@ -527,6 +527,7 @@
 
 ## C++ 
 
+- [textbrowser/biblioteq](https://github.com/textbrowser/biblioteq) - BiblioteQ strives to be a professional archiving, cataloging, and library management suite, utilizing a Qt interface and providing connectivity to PostgreSQL and SQLite. The Open Library, SRU, and Z39.50 protocols are used for retrieving data for books, journals, and magazines. AMD, ARM, Alpha, Android, PowerPC, Sparc64, etc. Completed.
 - [ofloveandhate/bertini_real](https://github.com/ofloveandhate/bertini_real) - software for real algebraic sets
 - [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 - [leonmavr/zeitkatze](https://github.com/leonmavr/zeitkatze) - time cat -- literally. Available as AUR package
@@ -670,7 +671,7 @@
 - [mihirlad55/polybar-dwm-module](https://github.com/mihirlad55/polybar-dwm-module) - A dwm module for polybar
 - [nonpop/xkblayout-state](https://github.com/nonpop/xkblayout-state) - A small command-line program to get/set the current keyboard layout.
 - [ncmpcpp/ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) - Featureful ncurses based MPD client inspired by ncmpc
-- [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
+- [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.
 - [fenrus75/powertop](https://github.com/fenrus75/powertop) - The Linux PowerTOP tool  -- please post patches to the mailing list instead of using github pull requests
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [dpayne/cli-visualizer](https://github.com/dpayne/cli-visualizer) - CLI based audio visualizer
@@ -796,6 +797,7 @@
 
 ## F# # 
 
+- [ggierlik/FSharp.Euler.Problems](https://github.com/ggierlik/FSharp.Euler.Problems) - Learning F# by solving Euler Problems
 - [vincenzoml/ProgrammingLanguages](https://github.com/vincenzoml/ProgrammingLanguages) - 
 - [ryco117/FunctionalSoul](https://github.com/ryco117/FunctionalSoul) - A Soulseek client app written in F#.
 
@@ -1039,6 +1041,7 @@
 
 ## JavaScript 
 
+- [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK eBook reader
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - 
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
@@ -2164,7 +2167,7 @@
 - [archlinux/arch-install-scripts](https://github.com/archlinux/arch-install-scripts) - Useful scripts for installing Arch Linux
 - [musikid/acpi_ec](https://github.com/musikid/acpi_ec) - Kernel module to access directly to the ACPI EC.
 - [evertiro/cdm](https://github.com/evertiro/cdm) - Console Display Manager
-- [vrilles/config](https://github.com/vrilles/config) - *nix config files, managed with GNU Stow.
+- [vrilles/dotfiles](https://github.com/vrilles/dotfiles) - *nix config files, managed with GNU Stow.
 - [fmash16/ssg5](https://github.com/fmash16/ssg5) - My custom script for a posix compliable static site generator built by Roman Zolotarev
 - [ipfs/ipget](https://github.com/ipfs/ipget) - Retrieve files over IPFS and save them locally.
 - [RichiH/vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
@@ -2509,6 +2512,7 @@
 
 ## Vala 
 
+- [babluboy/bookworm](https://github.com/babluboy/bookworm) - A simple ebook reader for Elementary OS
 - [tkashkin/GameHub](https://github.com/tkashkin/GameHub) - All your games in one place
 - [akiraux/Akira](https://github.com/akiraux/Akira) - Native Linux App for UI and UX Design built in Vala and GTK
 - [kevinselvaprasanna/mconnect](https://github.com/kevinselvaprasanna/mconnect) - mconnect - KDE Connect protocol implementation in Vala/C
