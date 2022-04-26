@@ -1248,6 +1248,7 @@
 
 ## Lua 
 
+- [kwakzalver/duckytype.nvim](https://github.com/kwakzalver/duckytype.nvim) - NeoVim plugin simulating monkeytype.com
 - [letoram/cat9](https://github.com/letoram/cat9) - A User shell for LASH
 - [jbyuki/nabla.nvim](https://github.com/jbyuki/nabla.nvim) - take your scientific notes :pencil2: in Neovim
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
