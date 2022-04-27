@@ -189,7 +189,7 @@
 - [file/file](https://github.com/file/file) - Read-only mirror of file CVS repository, updated every half hour. NOTE: do not make pull requests here, nor comment any commits, submit them usual way to bug tracker or to the mailing list. Maintainer(s) are not tracking  this git mirror.
 - [ryanflannery/vitunes](https://github.com/ryanflannery/vitunes) - A curses media indexer and player for vi users
 - [ghaerr/microwindows](https://github.com/ghaerr/microwindows) - The Nano-X Window System
-- [mssx86/apathy](https://github.com/mssx86/apathy) - among us
+- [mssx86/apathy](https://github.com/mssx86/apathy) - 
 - [Aalbus-linux/Aalbus](https://github.com/Aalbus-linux/Aalbus) - The master repository for the Aalbus distribution
 - [intel/sgx-software-enable](https://github.com/intel/sgx-software-enable) - 
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
@@ -559,6 +559,7 @@
 - [amule-project/amule](https://github.com/amule-project/amule) - 'All-platform' P2P client based on eMule
 - [Fran314/CityRoutePlanner](https://github.com/Fran314/CityRoutePlanner) - Progetto di Francesco Baldino per il corso Algoritmi e Strutture Dati 2019/2020 della triennale di Matematica dell'Università di Pisa
 - [bertiniteam/b2](https://github.com/bertiniteam/b2) - Bertini 2.0:  The redevelopment of Bertini in C++.
+- [Rafiuth/Soggfy](https://github.com/Rafiuth/Soggfy) - Spotify ogg dumper
 - [hank/dsf2flac](https://github.com/hank/dsf2flac) - Code for converting DSF to FLAC files
 - [Sound-Linux-More/sacd](https://github.com/Sound-Linux-More/sacd) - Converts SACD image files, Philips DSDIFF and Sony DSF files to 24-bit high resolution wave files. Handles both DST and DSD streams. https://launchpad.net/sacd
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
@@ -685,7 +686,7 @@
 - [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [joeroe/risotto](https://github.com/joeroe/risotto) - A minimalist, responsive hugo theme inspired by terminal ricing aesthetics.
 - [ChocolateBread799/startpage](https://github.com/ChocolateBread799/startpage) - https://chocolatebread799.github.io/startpage/
-- [walkxhub/homer-theme](https://github.com/walkxhub/homer-theme) - A custom Homer theme!
+- [walkxhub/homer-theme](https://github.com/walkxhub/homer-theme) - 🎨 A custom Homer theme!
 - [antcc/dotfiles](https://github.com/antcc/dotfiles) - Configuration files for Arch Linux.
 - [LambadaCorez/custom_css_jellyfin](https://github.com/LambadaCorez/custom_css_jellyfin) - Plug n' Play CSS templates for Jellyfin!
 - [GilbN/theme.park](https://github.com/GilbN/theme.park) - A collection of themes/skins for 49 selfhosted apps!
@@ -816,6 +817,7 @@
 
 ## Go 
 
+- [leukipp/cortile](https://github.com/leukipp/cortile) - Tiling manager with hot corner support for EWMH Compliant Window Managers
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
 - [aziis98/goldmark-latex](https://github.com/aziis98/goldmark-latex) - An extension for goldmark that adds support for math blocks and inline math
@@ -2474,7 +2476,6 @@
 - [jeffvli/sonixd](https://github.com/jeffvli/sonixd) - A full-featured Subsonic/Jellyfin compatible desktop music player
 - [shiftinv/wolframalpha-moresteps](https://github.com/shiftinv/wolframalpha-moresteps) - Browser extension that automatically replaces partial step-by-step solutions on Wolfram|Alpha with complete solutions from the official API
 - [PrettyCoffee/startpage](https://github.com/PrettyCoffee/startpage) - A React library which provides tools that help creating browser startpages in react.
-- [Rafiuth/Soggfy](https://github.com/Rafiuth/Soggfy) - Spotify ogg dumper
 - [xbrowsersync/api](https://github.com/xbrowsersync/api) - Server-side REST API that serves requests from xBrowserSync client apps
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
 - [imLinguin/jelly-desktop](https://github.com/imLinguin/jelly-desktop) - Simple community made desktop client for Jellyfin
