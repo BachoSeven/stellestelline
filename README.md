@@ -1163,7 +1163,6 @@
 - [htor/synth](https://github.com/htor/synth) - A simple polyphonic synth in the browser
 - [sadparadiseinhell/null](https://github.com/sadparadiseinhell/null) - Another one simple startpage.
 - [Jelmerro/Vieb](https://github.com/Jelmerro/Vieb) - Vim Inspired Electron Browser - Vim bindings for the web by design
-- [oxen-io/session-desktop](https://github.com/oxen-io/session-desktop) - Session Desktop - Onion routing based messenger
 - [mafintosh/peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client for node.js
 - [ItzBlitz98/torrentflix](https://github.com/ItzBlitz98/torrentflix) - Nodejs cli app to search torrent sites and stream using peerflix
 - [vector-im/hydrogen-web](https://github.com/vector-im/hydrogen-web) - Lightweight matrix client with legacy and mobile browser support
@@ -1871,7 +1870,7 @@
 ## Rust 
 
 - [lsmb/udict](https://github.com/lsmb/udict) - Urban Dictionary CLI - written in Rust
-- [oknozor/eww-tray](https://github.com/oknozor/eww-tray) - A system tray for eww
+- [oknozor/stray](https://github.com/oknozor/stray) - A system tray for eww
 - [threadexio/zeus](https://github.com/threadexio/zeus) - Bringing docker containers to your AUR helper since 2022
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [nuta/nsh](https://github.com/nuta/nsh) - A command-line shell like fish, but POSIX compatible.
@@ -2116,7 +2115,7 @@
 - [k-vernooy/dotfiles](https://github.com/k-vernooy/dotfiles) - An organizational repository for my dotfiles and scripts
 - [rxyhn/bspdots](https://github.com/rxyhn/bspdots) - BSPWM - Aesthetic Dotfiles 🍚
 - [thomaseizinger/pkgbuilds](https://github.com/thomaseizinger/pkgbuilds) - A collection of personal AUR packages.
-- [MiMillieuh/Photoshop-CC2021-Linux](https://github.com/MiMillieuh/Photoshop-CC2021-Linux) - Installer for Photoshop CC 2021 on linux with one command
+- [MiMillieuh/Photoshop-CC2021-Linux](https://github.com/MiMillieuh/Photoshop-CC2021-Linux) - Installer for Photoshop CC 2021 on linux with one command. Now with a GUI
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [M-Reimer/wine-lol](https://github.com/M-Reimer/wine-lol) - Patched wine-staging and glibc with fix needed to run League Of Legends
@@ -2493,6 +2492,7 @@
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [deltachat/deltachat-desktop](https://github.com/deltachat/deltachat-desktop) - Email-based instant messaging for Desktop.
+- [oxen-io/session-desktop](https://github.com/oxen-io/session-desktop) - Session Desktop - Onion routing based messenger
 - [Miodec/monkeytype](https://github.com/Miodec/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [esjeon/krohnkite](https://github.com/esjeon/krohnkite) - A dynamic tiling extension for KWin
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
