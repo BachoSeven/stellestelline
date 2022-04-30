@@ -836,7 +836,7 @@
 - [blrsn/zentile](https://github.com/blrsn/zentile) - Automatic Tiling for EWMH Compliant Window Managers
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [makeworld-the-better-one/amfora](https://github.com/makeworld-the-better-one/amfora) - A fancy terminal browser for the Gemini protocol.
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 ✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - PhotoPrism® is an AI-powered Photos App for the Decentralized Web 🌈💎✨
 - [evan-buss/openbooks](https://github.com/evan-buss/openbooks) - Search and Download eBooks
 - [yuin/goldmark-meta](https://github.com/yuin/goldmark-meta) - A YAML metadata extension for the goldmark markdown parser.
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats
@@ -1380,6 +1380,7 @@
 
 ## Others 
 
+- [pop-os/beta](https://github.com/pop-os/beta) - Pop!_OS Beta
 - [dab2020/Guides](https://github.com/dab2020/Guides) - Some of my random guides
 - [aziis98/github-stars](https://github.com/aziis98/github-stars) - chrome extension to display github stars in repo links
 - [bcbcarl/docker-hollywood](https://github.com/bcbcarl/docker-hollywood) - Fake A Hollywood Hacker Screen.
@@ -1872,7 +1873,7 @@
 
 - [lsmb/udict](https://github.com/lsmb/udict) - Urban Dictionary CLI - written in Rust
 - [oknozor/stray](https://github.com/oknozor/stray) - A system tray for eww
-- [threadexio/zeus](https://github.com/threadexio/zeus) - Bringing docker containers to your AUR helper since 2022
+- [threadexio/zeus](https://github.com/threadexio/zeus) - 🐳 📦 Bringing docker containers to your AUR helper since 2022
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [nuta/nsh](https://github.com/nuta/nsh) - A command-line shell like fish, but POSIX compatible.
 - [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable
@@ -2494,7 +2495,7 @@
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [deltachat/deltachat-desktop](https://github.com/deltachat/deltachat-desktop) - Email-based instant messaging for Desktop.
 - [oxen-io/session-desktop](https://github.com/oxen-io/session-desktop) - Session Desktop - Onion routing based messenger
-- [Miodec/monkeytype](https://github.com/Miodec/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
+- [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [esjeon/krohnkite](https://github.com/esjeon/krohnkite) - A dynamic tiling extension for KWin
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
