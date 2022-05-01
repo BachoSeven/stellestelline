@@ -703,7 +703,6 @@
 - [SuzanneSoy/WiTeX](https://github.com/SuzanneSoy/WiTeX) - If Donald Knuth had designed Wikipedia
 - [pradyungn/dotfiles](https://github.com/pradyungn/dotfiles) - A collection of my Linux Dotfiles!
 - [mountain-theme/Mountain](https://github.com/mountain-theme/Mountain) - Neutral. Calm.
-- [prdanelli/dotfiles](https://github.com/prdanelli/dotfiles) - 
 - [3ximus/gruvbox-gtk](https://github.com/3ximus/gruvbox-gtk) - Gruvbox theme for gtk - created with oomox
 - [darch7/swaywm](https://github.com/darch7/swaywm) - 
 - [ernwsto/startpage](https://github.com/ernwsto/startpage) - my startpage
@@ -1269,6 +1268,7 @@
 - [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github theme for Neovim, kitty, iTerm, Konsole, tmux, Xresources and Alacritty written in Lua
 - [jbyuki/instant.nvim](https://github.com/jbyuki/instant.nvim) - collaborative editing in Neovim using built-in capabilities
 - [undefinedDarkness/rice](https://github.com/undefinedDarkness/rice) - Home Sweet Home
+- [prdanelli/dotfiles](https://github.com/prdanelli/dotfiles) - 
 - [sayanarijit/material-landscape2.xplr](https://github.com/sayanarijit/material-landscape2.xplr) - xplr theme - Material Landscape 2
 - [sayanarijit/material-landscape.xplr](https://github.com/sayanarijit/material-landscape.xplr) - xple theme - Material Landscape
 - [prncss-xyz/icons.xplr](https://github.com/prncss-xyz/icons.xplr) - xplr icon theme
@@ -2472,7 +2472,7 @@
 ## TypeScript 
 
 - [webosbrew/dev-manager-desktop](https://github.com/webosbrew/dev-manager-desktop) - Device/DevMode Manager for webOS TV
-- [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - VSCode Neovim Integration
+- [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim-mode for Visual Studio Code using embedded Neovim
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [jeffvli/sonixd](https://github.com/jeffvli/sonixd) - A full-featured Subsonic/Jellyfin compatible desktop music player
 - [shiftinv/wolframalpha-moresteps](https://github.com/shiftinv/wolframalpha-moresteps) - Browser extension that automatically replaces partial step-by-step solutions on Wolfram|Alpha with complete solutions from the official API
