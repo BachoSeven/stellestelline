@@ -1872,6 +1872,7 @@
 
 ## Rust 
 
+- [pop-os/pop](https://github.com/pop-os/pop) - A project for managing all Pop!_OS sources
 - [lsmb/udict](https://github.com/lsmb/udict) - Urban Dictionary CLI - written in Rust
 - [oknozor/stray](https://github.com/oknozor/stray) - A system tray for eww
 - [threadexio/zeus](https://github.com/threadexio/zeus) - 🐳 📦 Bringing docker containers to your AUR helper since 2022
@@ -2133,7 +2134,7 @@
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - My desktop configuration files.
 - [JLErvin/dotfiles](https://github.com/JLErvin/dotfiles) - Configuration files for arch linux and macOS
-- [BachoSeven/mimi](https://github.com/BachoSeven/mimi) - better xdg-open
+- [BachoSeven/mimi](https://github.com/BachoSeven/mimi) - a better xdg-open - an active fork
 - [kusky3/consoom](https://github.com/kusky3/consoom) - blazing fast plebbit consooming
 - [axyl-os/axyl-iso](https://github.com/axyl-os/axyl-iso) - Axyl is a Linux distro centered on tiling window managers. Choose from i3, bspwm, dwm and more.
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
@@ -2639,7 +2640,7 @@
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!
 - [CzBiX/qb-web](https://github.com/CzBiX/qb-web) - A qBittorrent Web UI, write in TypeScript+Vue.
 - [m0ngr31/jellyamp](https://github.com/m0ngr31/jellyamp) - Desktop client for listening to music from a Jellyfin server
-- [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) - Modern Web Client for Jellyfin Based on Vue
+- [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) - A modern web client for Jellyfin based on Vue
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [WDaan/VueTorrent](https://github.com/WDaan/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [LibreScore/LibreScore](https://github.com/LibreScore/LibreScore) - The open source (GPLv3), serverless, offline-first, and totally free alternative to musescore.com
