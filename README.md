@@ -1266,7 +1266,7 @@
 - [fhill2/xplr.nvim](https://github.com/fhill2/xplr.nvim) - XPLR - msgpack - lua
 - [sayanarijit/command-mode.xplr](https://github.com/sayanarijit/command-mode.xplr) - The missing command mode for xplr
 - [nickguletskii/GLXOSD](https://github.com/nickguletskii/GLXOSD) - GLXOSD is an extensible on-screen display (OSD)/overlay for OpenGL applications running on Linux with X11 which aims to provide similar functionality to MSI Afterburner/RivaTuner OSD. It can show FPS, frame timings, temperatures and more in OpenGL games and applications. It can also be used to benchmark games, much like voglperf.
-- [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github theme for Neovim, kitty, iTerm, Konsole, tmux, Xresources and Alacritty written in Lua
+- [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github theme for Neovim and Terminals written in Lua
 - [jbyuki/instant.nvim](https://github.com/jbyuki/instant.nvim) - collaborative editing in Neovim using built-in capabilities
 - [undefinedDarkness/rice](https://github.com/undefinedDarkness/rice) - Home Sweet Home
 - [prdanelli/dotfiles](https://github.com/prdanelli/dotfiles) - 
@@ -1559,6 +1559,7 @@
 
 ## PowerShell 
 
+- [dotnet/core](https://github.com/dotnet/core) - Home repository for .NET Core
 - [simeononsecurity/Windows-Optimize-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Debloat) - For those who seek to minimize their Windows 10 installs.
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 
@@ -2228,7 +2229,6 @@
 - [jstkdng/ungoogled-chromium-bin](https://github.com/jstkdng/ungoogled-chromium-bin) - Mirror from the now deleted ungoogled-chromium-bin AUR package
 - [Mangeshrex/rxfetch](https://github.com/Mangeshrex/rxfetch) - A custom system info fetching tool
 - [labbots/google-drive-upload](https://github.com/labbots/google-drive-upload) - Bash scripts to upload files to google drive
-- [dotnet/core](https://github.com/dotnet/core) - Home repository for .NET Core
 - [cristianzsh/openbsd-selfhosted](https://github.com/cristianzsh/openbsd-selfhosted) - :blowfish: Shell script for self-hosting cloud, email, and git services
 - [turquoise-hexagon/dots](https://github.com/turquoise-hexagon/dots) - another dotfiles repo
 - [GideonWolfe/dots](https://github.com/GideonWolfe/dots) - 🌀 my linux configuration
@@ -2486,7 +2486,7 @@
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [tympanix/Electorrent](https://github.com/tympanix/Electorrent) - A remote control client for µTorrent, qBittorrent, rTorrent, Transmission, Synology & Deluge
-- [bitwarden/browser](https://github.com/bitwarden/browser) - The browser extension vault (Chrome, Firefox, Opera, Edge, Safari, & more).
+- [bitwarden/bitwarden](https://github.com/bitwarden/bitwarden) - Bitwarden client applications (web, browser extension, desktop, and cli)
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
 - [rain0r/ampd](https://github.com/rain0r/ampd) - A web-based MPD client.
