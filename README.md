@@ -83,7 +83,6 @@
   - [Vala](#vala)
   - [Vim Snippet](#vim-snippet)
   - [Vim script](#vim-script)
-  - [VimL](#viml)
   - [Vue](#vue)
   - [Zig](#zig)
   - [sed](#sed)
@@ -125,6 +124,7 @@
 
 ## Batchfile 
 
+- [Btdigg-Org/dhtcrawler2](https://github.com/Btdigg-Org/dhtcrawler2) - dhtcrawler is a DHT crawler written in erlang. It can join a DHT network and crawl many P2P torrents. The program save all torrent info into database and provide an http interface to search a torrent
 - [MasterGroosha/telegram-soliddark-theme](https://github.com/MasterGroosha/telegram-soliddark-theme) - A "Solid Dark" theme for Telegram Desktop, Android and MacOS
 
 ## C 
@@ -174,7 +174,7 @@
 - [bmc0/dsp](https://github.com/bmc0/dsp) - An audio processing program with an interactive mode.
 - [mackstann/tinywm](https://github.com/mackstann/tinywm) - The tiniest window manager.
 - [kubo/injector](https://github.com/kubo/injector) - Library for injecting a shared library into a Linux or Windows process
-- [inferno-os/inferno-os](https://github.com/inferno-os/inferno-os) - Inferno® is a distributed operating system.  Inferno represents services and resources in a file-like name hierarchy, including devices, network and protocol interfaces, dynamic data sources, and services.Applications are written in a concurrent programming language, Limbo.
+- [inferno-os/inferno-os](https://github.com/inferno-os/inferno-os) - Inferno® is a distributed operating system.  Inferno represents services and resources in a file-like name hierarchy, including devices, network and protocol interfaces, dynamic data sources, and serv
 - [rogerhinders/sprucewm](https://github.com/rogerhinders/sprucewm) - Window manager for X
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [sacd-ripper/sacd-ripper](https://github.com/sacd-ripper/sacd-ripper) - SACD ripping software using a PS3
@@ -186,7 +186,7 @@
 - [Audio4Linux/JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux) - An audio effect processor for PipeWire and PulseAudio clients
 - [anko/xkbcat](https://github.com/anko/xkbcat) - simple sudoless X11 keylogger
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
-- [file/file](https://github.com/file/file) - Read-only mirror of file CVS repository, updated every half hour. NOTE: do not make pull requests here, nor comment any commits, submit them usual way to bug tracker or to the mailing list. Maintainer(s) are not tracking  this git mirror.
+- [file/file](https://github.com/file/file) - Read-only mirror of file CVS repository, updated every half hour. NOTE: do not make pull requests here, nor comment any commits, submit them usual way to bug tracker or to the mailing list. Maintainer
 - [ryanflannery/vitunes](https://github.com/ryanflannery/vitunes) - A curses media indexer and player for vi users
 - [ghaerr/microwindows](https://github.com/ghaerr/microwindows) - The Nano-X Window System
 - [mssx86/apathy](https://github.com/mssx86/apathy) - 
@@ -263,9 +263,9 @@
 - [haileys/jsos](https://github.com/haileys/jsos) - An operating system written in JavaScript
 - [elvilio/Algoritmi-e-Strutture-Dati](https://github.com/elvilio/Algoritmi-e-Strutture-Dati) - Repository for the course "Algoritmi e Strutture dei Dati"year: 2019
 - [Vogtinator/gpsp](https://github.com/Vogtinator/gpsp) - gpSP nspire port by calc84maniac
-- [adriweb/tilp_and_gfm](https://github.com/adriweb/tilp_and_gfm) - TILP (formerly GtkTiLink) can transfer data between Texas Instruments graphing calculators and a computer. It works with all link cables (parallel, serial, Black/Gray/Silver/Direct Link) and it supports the TI-Z80 series (73..86), the TI-eZ80 series (83PCE, 84+CE), the TI-68k series (89, 92+, V200, 89T) and the Nspire series (Nspire Clickpad / Touchpad / CX, both CAS and non-CAS)
+- [adriweb/tilp_and_gfm](https://github.com/adriweb/tilp_and_gfm) - TILP (formerly GtkTiLink) can transfer data between Texas Instruments graphing calculators and a computer. It works with all link cables (parallel, serial, Black/Gray/Silver/Direct Link) and it suppor
 - [Vogtinator/crafti](https://github.com/Vogtinator/crafti) - 3D Minecraft for TI Nspire calcs
-- [debrouxl/tilp_and_gfm](https://github.com/debrouxl/tilp_and_gfm) - TILP (formerly GtkTiLink) can transfer data between Texas Instruments graphing calculators and a computer. It works with all link cables (parallel, serial, Black/Gray/Silver/Direct Link) and it supports the TI-Z80 series (73..86), the TI-eZ80 series (83PCE, 84+CE), the TI-68k series (89, 92, 92+, V200, 89T) and the Nspire series (Nspire Clickpad / Touchpad / CX, both CAS and non-CAS)
+- [debrouxl/tilp_and_gfm](https://github.com/debrouxl/tilp_and_gfm) - TILP (formerly GtkTiLink) can transfer data between Texas Instruments graphing calculators and a computer. It works with all link cables (parallel, serial, Black/Gray/Silver/Direct Link) and it suppor
 - [ndless-nspire/Ndless](https://github.com/ndless-nspire/Ndless) - The TI-Nspire calculator extension for native applications
 - [tangrs/nspire-linux-loader2](https://github.com/tangrs/nspire-linux-loader2) - A Linux bootloader for Nspire. Supports ATAG and DTB booting.
 - [gameblabla/pokemini](https://github.com/gameblabla/pokemini) - Pokemon Mini emulator with KolibriOS, TI-Nspire and GCW0 ports
@@ -290,13 +290,12 @@
 - [jellyfin/jellyfin-ffmpeg](https://github.com/jellyfin/jellyfin-ffmpeg) - FFmpeg for Jellyfin
 - [leo-arch/clifm](https://github.com/leo-arch/clifm) - The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell
 - [vmatare/thinkfan](https://github.com/vmatare/thinkfan) - The minimalist fan control program
-- [MirBSD/mksh](https://github.com/MirBSD/mksh) - MirBSD Korn Shell Source Code Mirror – This is a publish-only repository and all pull requests are ignored. This repository is a mirror and may receive forced (non-fast-forward) updates. Please contribute to the CVS repository of The MirOS Project instead.
+- [MirBSD/mksh](https://github.com/MirBSD/mksh) - MirBSD Korn Shell Source Code Mirror – This is a publish-only repository and all pull requests are ignored. This repository is a mirror and may receive forced (non-fast-forward) updates. Please contri
 - [hamadmarri/cacule-cpu-scheduler](https://github.com/hamadmarri/cacule-cpu-scheduler) - The CacULE CPU scheduler is based on interactivity score mechanism. The interactivity score is inspired by the ULE scheduler (FreeBSD scheduler).
 - [allanmcrae/baka](https://github.com/allanmcrae/baka) - GTK+3 GUI for the pacman package manager
 - [zevlg/eukleides](https://github.com/zevlg/eukleides) - eukleides sources
 - [gitluin/sara](https://github.com/gitluin/sara) - Originally a fork of catwm, now an offspring of dwm with a streamlined featureset, plus some bspwm.
 - [jdah/minecraft-weekend](https://github.com/jdah/minecraft-weekend) - Minecraft, but I made it in 48 hours.
-- [jdah/tetris-os](https://github.com/jdah/tetris-os) - An operating system, but it only plays Tetris.
 - [willeccles/bunny](https://github.com/willeccles/bunny) - 🐇 Light and fast Linux init primarily targeted at embedded systems (WIP - contributions welcome!)
 - [RasPlex/OpenPHT](https://github.com/RasPlex/OpenPHT) - OpenPHT is a community driven fork of Plex Home Theater
 - [uditkarode/libxft-bgra](https://github.com/uditkarode/libxft-bgra) - A patched version of libxft that allows for colored emojis to be rendered in Suckless software (dmenu/st/whatever).
@@ -341,6 +340,7 @@
 - [zsh-users/zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository.
 - [xianyi/OpenBLAS](https://github.com/xianyi/OpenBLAS) - OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.
 - [koreaneggroll/shell](https://github.com/koreaneggroll/shell) - a shell written in C
+- [dfuehrer/dwmblocks](https://github.com/dfuehrer/dwmblocks) - My status bar: my build of the modular dwmblocks
 - [khuedoan/slock](https://github.com/khuedoan/slock) - Suckless simple X display locker fork with transparency effect
 - [aario/slock-blur](https://github.com/aario/slock-blur) - Super fast and highly stable blur version of the simplest screen locker slock
 - [huijunchen9260/tabbed-hjc](https://github.com/huijunchen9260/tabbed-hjc) - A missing tab layout for any windows manager / desktop environment
@@ -422,7 +422,7 @@
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [skyjake/lagrange](https://github.com/skyjake/lagrange) - A Beautiful Gemini Client
 - [open-sdr/openwifi](https://github.com/open-sdr/openwifi) - open-source IEEE 802.11 WiFi baseband FPGA (chip) design: driver, software
-- [klange/toaruos](https://github.com/klange/toaruos) - A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network stack, etc.
+- [klange/toaruos](https://github.com/klange/toaruos) - A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network st
 - [plasmoduck/suckless](https://github.com/plasmoduck/suckless) - Suckless software collection
 - [zavg/linux-0.01](https://github.com/zavg/linux-0.01) - Historically first (actually 0.01) release of linux kernel made by Linus Torvalds
 - [cyanreg/cyanrip](https://github.com/cyanreg/cyanrip) - Bule-ish CD ripper
@@ -437,8 +437,8 @@
 - [Baitinq/OSXIV](https://github.com/Baitinq/OSXIV) - Overly Simple X Image Viewer
 - [venam/2bwm](https://github.com/venam/2bwm) - A fast floating WM written over the XCB library and derived from mcwm.
 - [martanne/vis](https://github.com/martanne/vis) - A vi-like editor based on Plan 9's structural regular expressions
-- [martanne/dvtm](https://github.com/martanne/dvtm) - dvtm brings the concept of tiling window management, popularized by X11-window managers like dwm to the console. As a console window manager it tries to make it easy to work with multiple console based programs.
-- [martanne/abduco](https://github.com/martanne/abduco) - abduco provides session management i.e. it allows programs to be run independently from its controlling terminal. That is programs can be detached - run in the background - and then later reattached. Together with dvtm it provides a simpler and cleaner alternative to tmux or screen.
+- [martanne/dvtm](https://github.com/martanne/dvtm) - dvtm brings the concept of tiling window management, popularized by X11-window managers like dwm to the console. As a console window manager it tries to make it easy to work with multiple console base
+- [martanne/abduco](https://github.com/martanne/abduco) - abduco provides session management i.e. it allows programs to be run independently from its controlling terminal. That is programs can be detached - run in the background - and then later reattached.
 - [klange/nyancat](https://github.com/klange/nyancat) - Nyancat in your terminal, rendered through ANSI escape sequences. This is the source for the Debian package `nyancat`.
 - [jhawthorn/fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
 - [phillbush/xnotify](https://github.com/phillbush/xnotify) - read notifications from stdin and pop them up on the screen
@@ -496,7 +496,7 @@
 - [SHOEGAZEssb/Last.fm-Scrubbler-WPF](https://github.com/SHOEGAZEssb/Last.fm-Scrubbler-WPF) - Manual Last.fm scrobbling for when a service (or you!) failed to scrobble.
 - [jesseward/jellyfin-plugin-lastfm](https://github.com/jesseward/jellyfin-plugin-lastfm) - LastFM plugin for the Jellyfin media system. Fork of the Emby Last.FM plug-in
 - [Radarr/Radarr](https://github.com/Radarr/Radarr) - A fork of Sonarr to work with movies à la Couchpotato.
-- [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with a focus for manga and the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.
+- [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with a focus for manga and the goal of being a full solution for all your reading needs. Setup your own server and share your readi
 - [jackBonadies/SeekerAndroid](https://github.com/jackBonadies/SeekerAndroid) - Android client for the Soulseek peer-to-peer network
 - [jellyfin/jellyfin-plugin-bookshelf](https://github.com/jellyfin/jellyfin-plugin-bookshelf) - 
 - [NoelFB/Celeste](https://github.com/NoelFB/Celeste) - Celeste Bugs & Issue Tracker + some Source Code
@@ -527,7 +527,7 @@
 
 ## C++ 
 
-- [textbrowser/biblioteq](https://github.com/textbrowser/biblioteq) - BiblioteQ strives to be a professional archiving, cataloging, and library management suite, utilizing a Qt interface and providing connectivity to PostgreSQL and SQLite. The Open Library, SRU, and Z39.50 protocols are used for retrieving data for books, journals, and magazines. AMD, ARM, Alpha, Android, PowerPC, Sparc64, etc. Completed.
+- [textbrowser/biblioteq](https://github.com/textbrowser/biblioteq) - BiblioteQ strives to be a professional archiving, cataloging, and library management suite, utilizing a Qt interface and providing connectivity to PostgreSQL and SQLite. The Open Library, SRU, and Z39
 - [ofloveandhate/bertini_real](https://github.com/ofloveandhate/bertini_real) - software for real algebraic sets
 - [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 - [leonmavr/zeitkatze](https://github.com/leonmavr/zeitkatze) - time cat -- literally. Available as AUR package
@@ -543,7 +543,7 @@
 - [johang/btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
 - [lightspark/lightspark](https://github.com/lightspark/lightspark) - An open source flash player implementation
 - [vaxerski/Hypr](https://github.com/vaxerski/Hypr) - Hypr is a tiling window manager written in modern C++.
-- [Maldela/fancontrol-gui](https://github.com/Maldela/fancontrol-gui) - GUI for Fancontrol. It uses the KAuth module of the KDE Frameworks 5 to write the generated config file. Furthermore it communicates with systemd via dbus to control the fancontrol service. If you want to compile without systemd support set the -DNO_SYSTEMD option.
+- [Maldela/fancontrol-gui](https://github.com/Maldela/fancontrol-gui) - GUI for Fancontrol. It uses the KAuth module of the KDE Frameworks 5 to write the generated config file. Furthermore it communicates with systemd via dbus to control the fancontrol service. If you wan
 - [gokulmaxi/vantage](https://github.com/gokulmaxi/vantage) - Terminal user interface for legion laptops
 - [hrkfdn/mpdas](https://github.com/hrkfdn/mpdas) - MPD AudioScrobbler written in C++ using libcurl
 - [jfedor2/two-ball-trackball](https://github.com/jfedor2/two-ball-trackball) - DIY trackball with two balls
@@ -556,6 +556,7 @@
 - [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray) - Tray application and Dolphin/Plasma integration for Syncthing
 - [Audio4Linux/Viper4Linux-GUI](https://github.com/Audio4Linux/Viper4Linux-GUI) - Official UI for Viper4Linux2
 - [keur/prettyeq](https://github.com/keur/prettyeq) - prettyeq is a system-wide paramateric equalizer for pulseaudio
+- [abkro/android_device_lge_g4-common](https://github.com/abkro/android_device_lge_g4-common) - LG G4 (Common Tree)
 - [amule-project/amule](https://github.com/amule-project/amule) - 'All-platform' P2P client based on eMule
 - [Fran314/CityRoutePlanner](https://github.com/Fran314/CityRoutePlanner) - Progetto di Francesco Baldino per il corso Algoritmi e Strutture Dati 2019/2020 della triennale di Matematica dell'Università di Pisa
 - [bertiniteam/b2](https://github.com/bertiniteam/b2) - Bertini 2.0:  The redevelopment of Bertini in C++.
@@ -575,8 +576,8 @@
 - [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - cross-platform music visualization. Open-source and Milkdrop-compatible
 - [ploopyco/classic-trackball](https://github.com/ploopyco/classic-trackball) - A trackball mouse. Mechanical files, PCBs, and firmware all included.
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
-- [widelands/widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it.
-- [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums on ppsspp.org.
+- [widelands/widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and d
+- [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the for
 - [kraxarn/spotify-qt](https://github.com/kraxarn/spotify-qt) - Lightweight Spotify client using Qt
 - [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker
 - [k4zmu2a/SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Decompilation of 3D Pinball for Windows – Space Cadet
@@ -602,7 +603,7 @@
 - [gerbera/gerbera](https://github.com/gerbera/gerbera) - UPnP Media Server for 2022: Stream your digital media through your home network and consume it on all kinds of UPnP supporting devices 📱💻📺
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [raboof/nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool
-- [debrouxl/tilibs](https://github.com/debrouxl/tilibs) - TILP (formerly GtkTiLink) can transfer data between Texas Instruments graphing calculators and a computer. It works with all link cables (parallel, serial, Black/Gray/Silver/Direct Link) and it supports the TI-Z80 series (73..86), the TI-eZ80 series (83PCE, 84+CE), the TI-68k series (89, 92, 92+, V200, 89T) and the Nspire series (Nspire Clickpad / Touchpad / CX, both CAS and non-CAS)
+- [debrouxl/tilibs](https://github.com/debrouxl/tilibs) - TILP (formerly GtkTiLink) can transfer data between Texas Instruments graphing calculators and a computer. It works with all link cables (parallel, serial, Black/Gray/Silver/Direct Link) and it suppor
 - [drago-96/cavacamisa](https://github.com/drago-96/cavacamisa) - Tools per l'analisi del gioco di carte "cavacamisa"
 - [fmang/oshu](https://github.com/fmang/oshu) - Fast osu! port for Linux (and more)
 - [qw3rtty/neix](https://github.com/qw3rtty/neix) - neix - a RSS/Atom feed reader for your terminal.
@@ -656,8 +657,8 @@
 - [leanprover/lean](https://github.com/leanprover/lean) - Lean Theorem Prover
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [hluk/FakeVim](https://github.com/hluk/FakeVim) - Vim emulation in QTextEdit, QPlainTextEdit and similar Qt widgets
-- [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.
-- [morrolinuxyt/xournalpp](https://github.com/morrolinuxyt/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, Suse), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.
+- [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from
+- [morrolinuxyt/xournalpp](https://github.com/morrolinuxyt/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, Suse), macOS and Windows 10. Supports pen input from
 - [JoseExposito/touchegg](https://github.com/JoseExposito/touchegg) - Linux multi-touch gesture recognizer
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [sandsmark/kdeconnect-minimal](https://github.com/sandsmark/kdeconnect-minimal) - kdeconnect without so many big required dependencies
@@ -672,7 +673,7 @@
 - [mihirlad55/polybar-dwm-module](https://github.com/mihirlad55/polybar-dwm-module) - A dwm module for polybar
 - [nonpop/xkblayout-state](https://github.com/nonpop/xkblayout-state) - A small command-line program to get/set the current keyboard layout.
 - [ncmpcpp/ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) - Featureful ncurses based MPD client inspired by ncmpc
-- [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.
+- [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for
 - [fenrus75/powertop](https://github.com/fenrus75/powertop) - The Linux PowerTOP tool  -- please post patches to the mailing list instead of using github pull requests
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [dpayne/cli-visualizer](https://github.com/dpayne/cli-visualizer) - CLI based audio visualizer
@@ -824,7 +825,7 @@
 - [xyproto/calendar](https://github.com/xyproto/calendar) - :card_index: Utility with red days and flag flying days + calendar package for Go
 - [xyproto/interfaces](https://github.com/xyproto/interfaces) - :mate: List all network interfaces
 - [xyproto/wallutils](https://github.com/xyproto/wallutils) - :city_sunset: Utilities for handling monitors, resolutions, wallpapers and timed wallpapers
-- [xyproto/o](https://github.com/xyproto/o) - :cyclone: Configuration-free text editor and minimalistic IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when programming. Includes syntax highlighting, jump-to-error, rainbow parenthesis, macros, tab completion and cut/paste portals.
+- [xyproto/o](https://github.com/xyproto/o) - :cyclone: Configuration-free text editor and minimalistic IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick e
 - [mrusme/reader](https://github.com/mrusme/reader) - reader is for your command line what the “readability” view is for modern browsers: A lightweight tool offering better readability of web pages on the CLI.
 - [quantumsheep/sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH
 - [diamondburned/gotktrix](https://github.com/diamondburned/gotktrix) - Matrix client in Go and GTK4
@@ -1022,7 +1023,7 @@
 - [dozingcat/Vector-Pinball](https://github.com/dozingcat/Vector-Pinball) - Pinball game for Android.
 - [ktgw0316/LightZone](https://github.com/ktgw0316/LightZone) - LightZone is a photo editor for Mac, Windows, and Linux.
 - [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) - Digital logic design tool and simulator
-- [i2p/i2p.i2p](https://github.com/i2p/i2p.i2p) - I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is both distributed and dynamic, with no trusted parties.
+- [i2p/i2p.i2p](https://github.com/i2p/i2p.i2p) - I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is b
 - [frostwire/frostwire](https://github.com/frostwire/frostwire) - An easy to use Cloud Downloader, BitTorrent Client and Media Player. Search, Download, Play, Share
 - [abarisain/dmix](https://github.com/abarisain/dmix) - A modern MPD Client for Android.
 - [broadinstitute/picard](https://github.com/broadinstitute/picard) - A set of command line tools (in Java) for manipulating high-throughput sequencing (HTS) data and formats such as SAM/BAM/CRAM and VCF.
@@ -1047,6 +1048,7 @@
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - 
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [typeintandem/nvim](https://github.com/typeintandem/nvim) - Repository for the Tandem NeoVim Plugin
+- [aziis98/github-stars](https://github.com/aziis98/github-stars) - chrome extension to display github stars in repo links
 - [yanshiyason/github-stars](https://github.com/yanshiyason/github-stars) - chrome extension to display github stars in repo links
 - [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 - [ps173/VimGore](https://github.com/ps173/VimGore) - An Interactive game to learn vim
@@ -1087,7 +1089,7 @@
 - [danieladov/jellyfin-plugin-skin-manager](https://github.com/danieladov/jellyfin-plugin-skin-manager) - Jellyfin Skin Manager is a plugin that helps you to download and install skins
 - [sandsmark/chrome-extension-unconfidential](https://github.com/sandsmark/chrome-extension-unconfidential) - Allows you to select and copy text from "confidential" emails in gmail. Security by idiocy.
 - [jamesNWT/StartPage2](https://github.com/jamesNWT/StartPage2) - Second attempt at a startpage
-- [mozilla/multi-account-containers](https://github.com/mozilla/multi-account-containers) - Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
+- [mozilla/multi-account-containers](https://github.com/mozilla/multi-account-containers) - Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web wit
 - [Cykelero/timefind](https://github.com/Cykelero/timefind) - Search a website's history.
 - [ciderapp/Apple-Music-Electron](https://github.com/ciderapp/Apple-Music-Electron) - Apple Music Electron is now deprecated. See our new project Cider https://github.com/ciderapp/Cider
 - [murdos/musicbrainz-userscripts](https://github.com/murdos/musicbrainz-userscripts) - Collection of userscripts for MusicBrainz, by various authors
@@ -1155,7 +1157,7 @@
 - [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - A chrome extension for suspending all tabs to free up memory, based on the original TGS 7.1.6, without tracking. Find more information about that on https://gioxx.org/tms
 - [artemave/translate_onhover](https://github.com/artemave/translate_onhover) - Google Chrome translation extension
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
-- [darksun-misc/piratebay-db-dump](https://github.com/darksun-misc/piratebay-db-dump) - A CSV file with all torrent infohashes and names from thepiratebay.org on the moment of 2019-Sep-14. You can lookup the content you need by the name and download the data by inserting the infohash into your favourite torrent client like deluge (you will need to convert the hash from base64 to hex, google some online tool).
+- [darksun-misc/piratebay-db-dump](https://github.com/darksun-misc/piratebay-db-dump) - A CSV file with all torrent infohashes and names from thepiratebay.org on the moment of 2019-Sep-14. You can lookup the content you need by the name and download the data by inserting the infohash int
 - [alextrv/enhanced-h264ify](https://github.com/alextrv/enhanced-h264ify) - A Firefox/Chrome extension that blocks video codecs you have chosen on YouTube
 - [erkserkserks/h264ify](https://github.com/erkserkserks/h264ify) - A Chrome extension that makes YouTube stream H.264 videos instead of VP8/VP9 videos
 - [Boettner-eric/Tiles](https://github.com/Boettner-eric/Tiles) - A responsive design homepage with live search
@@ -1177,7 +1179,7 @@
 - [grtcdr/startpages](https://github.com/grtcdr/startpages) - A collection of startpages for your favorite browser.
 - [einaregilsson/Redirector](https://github.com/einaregilsson/Redirector) - Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.
 - [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans
-- [github/dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
+- [github/dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent unti
 - [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
 - [shakiba/svgexport](https://github.com/shakiba/svgexport) - SVG to PNG/JPEG command-line tool and Node.js module
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Microsoft Teams for Linux client
@@ -1211,7 +1213,7 @@
 ## Jupyter Notebook 
 
 - [greenelab/scihub](https://github.com/greenelab/scihub) - Source code and data analyses for the Sci-Hub Coverage Study
-- [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
+- [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerabil
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
 - [fexed/Notes](https://github.com/fexed/Notes) - LaTeX notes from various courses (mainly from UniPi)
 - [MTG/essentia](https://github.com/MTG/essentia) - C++ library for audio and music analysis, description and synthesis, including Python bindings
@@ -1219,8 +1221,8 @@
 
 ## Kotlin 
 
-- [ReVancedTeam/revanced-patches](https://github.com/ReVancedTeam/revanced-patches) - Repo for all ReVanced patches
-- [ReVancedTeam/revanced-patcher](https://github.com/ReVancedTeam/revanced-patcher) - Repo for the patcher used by ReVanced
+- [revanced/revanced-patches](https://github.com/revanced/revanced-patches) - 🧩 Official patches maintained by ReVanced
+- [revanced/revanced-patcher](https://github.com/revanced/revanced-patcher) - 💉 Patcher used by ReVanced
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android. [WIP]
 - [jkuester/unlauncher](https://github.com/jkuester/unlauncher) - Android minimalistic launcher
 - [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android
@@ -1265,7 +1267,7 @@
 - [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim) - a lua powered greeter like vim-startify / dashboard-nvim
 - [fhill2/xplr.nvim](https://github.com/fhill2/xplr.nvim) - XPLR - msgpack - lua
 - [sayanarijit/command-mode.xplr](https://github.com/sayanarijit/command-mode.xplr) - The missing command mode for xplr
-- [nickguletskii/GLXOSD](https://github.com/nickguletskii/GLXOSD) - GLXOSD is an extensible on-screen display (OSD)/overlay for OpenGL applications running on Linux with X11 which aims to provide similar functionality to MSI Afterburner/RivaTuner OSD. It can show FPS, frame timings, temperatures and more in OpenGL games and applications. It can also be used to benchmark games, much like voglperf.
+- [nickguletskii/GLXOSD](https://github.com/nickguletskii/GLXOSD) - GLXOSD is an extensible on-screen display (OSD)/overlay for OpenGL applications running on Linux with X11 which aims to provide similar functionality to MSI Afterburner/RivaTuner OSD. It can show FPS,
 - [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github theme for Neovim and Terminals written in Lua
 - [jbyuki/instant.nvim](https://github.com/jbyuki/instant.nvim) - collaborative editing in Neovim using built-in capabilities
 - [undefinedDarkness/rice](https://github.com/undefinedDarkness/rice) - Home Sweet Home
@@ -1329,6 +1331,7 @@
 
 ## Makefile 
 
+- [abkro/android_device_lge_h815](https://github.com/abkro/android_device_lge_h815) - LG G4 (International)
 - [morrolinux/ChimeraDesk](https://github.com/morrolinux/ChimeraDesk) - Simple, fast and flexible DIY Remote Desktop software
 - [feroldi/ricing](https://github.com/feroldi/ricing) - a book about ricing unix-like systems
 - [Onmp314/hackedbox](https://github.com/Onmp314/hackedbox) - Hackedbox window manager (Blackbox 0.65.0 based) (ultimately) modified to compile on modern Linux.
@@ -1383,7 +1386,6 @@
 
 - [pop-os/beta](https://github.com/pop-os/beta) - Pop!_OS Beta
 - [dab2020/Guides](https://github.com/dab2020/Guides) - Some of my random guides
-- [aziis98/github-stars](https://github.com/aziis98/github-stars) - chrome extension to display github stars in repo links
 - [bcbcarl/docker-hollywood](https://github.com/bcbcarl/docker-hollywood) - Fake A Hollywood Hacker Screen.
 - [phisch/phinger-cursors](https://github.com/phisch/phinger-cursors) - Most likely the most over engineered cursor theme.
 - [graysky2/kernel_compiler_patch](https://github.com/graysky2/kernel_compiler_patch) - Kernel patch enables compiler optimizations for additional CPUs.
@@ -1406,8 +1408,6 @@
 - [yulunzhang/video-enhancement](https://github.com/yulunzhang/video-enhancement) - A list of resources for video enhancement, including video super-resolutio, interpolation, denoising, compression artifact removal et al..
 - [Digitalone1/EasyEffects-Presets](https://github.com/Digitalone1/EasyEffects-Presets) - Presets for EasyEffects and PulseEffects.
 - [ubports/ubuntu-touch](https://github.com/ubports/ubuntu-touch) - A simple and beautiful mobile OS for everyone! This repository is for Ubuntu Touch issue tracking. It does not contain any code used to create Ubuntu Touch.
-- [abkro/android_device_lge_h815](https://github.com/abkro/android_device_lge_h815) - LG G4 (International)
-- [abkro/android_device_lge_g4-common](https://github.com/abkro/android_device_lge_g4-common) - LG G4 (Common Tree)
 - [aynp/dracula-wallpapers](https://github.com/aynp/dracula-wallpapers) - Wallpapers based on the Dracula Theme
 - [spencerwooo/linux-wallpapers](https://github.com/spencerwooo/linux-wallpapers) - Linux Wallpapers designed according to Google's Material Design Guidelines.
 - [macchrome/linchrome](https://github.com/macchrome/linchrome) - ungoogled chromium portablelinux
@@ -1462,8 +1462,6 @@
 - [dbostian/fbomb](https://github.com/dbostian/fbomb) - 
 - [z3ntu/archhurd_packages_binary](https://github.com/z3ntu/archhurd_packages_binary) - Packages for Arch Hurd (binaries)
 - [dezelin/movies](https://github.com/dezelin/movies) - movies
-- [Btdigg-Org/dhtcrawler2](https://github.com/Btdigg-Org/dhtcrawler2) - dhtcrawler is a DHT crawler written in erlang. It can join a DHT network and crawl many P2P torrents. The program save all torrent info into database and provide an http interface to search a torrent by a keyword
-- [dfuehrer/dwmblocks](https://github.com/dfuehrer/dwmblocks) - My status bar: my build of the modular dwmblocks
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [alevchuk/vim-clutch](https://github.com/alevchuk/vim-clutch) - A hardware pedal for improved text editing in Vim
 - [qcasey/chromium-patches](https://github.com/qcasey/chromium-patches) - Patches to customize chromium, including GTK dark mode and an extension-less startpage
@@ -1515,7 +1513,7 @@
 - [herrbischoff/awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) - :shell: Use your terminal shell to do awesome things.
 - [humanetech-community/awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech) - Promoting Solutions that Improve Wellbeing, Freedom and Society
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
-- [mayfrost/guides](https://github.com/mayfrost/guides) - Looking for a guide? You came to the right place. Here you can find documentation for a variety of topics I research to make complex computing easier. For comments go to the IRC channel #nfo at the Rizon network.
+- [mayfrost/guides](https://github.com/mayfrost/guides) - Looking for a guide? You came to the right place. Here you can find documentation for a variety of topics I research to make complex computing easier. For comments go to the IRC channel #nfo at the Ri
 - [hkbakke/bash-insulter](https://github.com/hkbakke/bash-insulter) - Insults the user when typing wrong command
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
@@ -1541,13 +1539,13 @@
 
 ## Pascal 
 
-- [peazip/PeaZip](https://github.com/peazip/PeaZip) - Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ2, CAB, CHM, CPIO, DEB, GZ, ISO, JAR, LHA/LZH, NSIS, OOo, PAQ/LPAQ, PEA, QUAD, RAR, RPM, split, TAR, Z, ZIP, ZIPX, Zstandard.
+- [peazip/PeaZip](https://github.com/peazip/PeaZip) - Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ
 - [GerryFerdinandus/bittorrent-tracker-editor](https://github.com/GerryFerdinandus/bittorrent-tracker-editor) - Software for add or remove tracker from torrent files.
 
 ## Perl 
 
 - [bcrowell/when](https://github.com/bcrowell/when) - an extremely simple personal calendar program, aimed at the Unix geek who wants something minimalistic
-- [ddclient/ddclient](https://github.com/ddclient/ddclient) - This is the new home for ddclient. Ddclient is a Perl client used to update dynamic DNS entries for accounts on 'Dynamic DNS Network Services' free DNS service. It currently supports a lot of different routers and a few different services.
+- [ddclient/ddclient](https://github.com/ddclient/ddclient) - This is the new home for ddclient. Ddclient is a Perl client used to update dynamic DNS entries for accounts on 'Dynamic DNS Network Services' free DNS service. It currently supports a lot of differen
 - [winterheart/broadcom-bt-firmware](https://github.com/winterheart/broadcom-bt-firmware) - Repository for various Broadcom Bluetooth firmware
 - [hamishcoleman/thinkpad-ec](https://github.com/hamishcoleman/thinkpad-ec) - Infrastructure for examining and patching Thinkpad embedded controller firmware
 - [sandsmark/asciiquarium](https://github.com/sandsmark/asciiquarium) - Enjoy the mysteries of the sea from the safety of your own terminal!
@@ -1694,7 +1692,7 @@
 - [stuartlangridge/magnus](https://github.com/stuartlangridge/magnus) - A very simple screen magnifier for Ubuntu
 - [thiderman/doge](https://github.com/thiderman/doge) - wow very terminal doge
 - [christgau/wsdd](https://github.com/christgau/wsdd) - A Web Service Discovery host daemon.
-- [seebye/ueberzug](https://github.com/seebye/ueberzug) - ueberzug is a command line util which allows to display images in combination with X11. The user is expected to have knowledge of theoretical computer science. https://github.com/seebye/ueberzug/wiki/Troubleshooting/119e30f331799b30fb9594db29740685cb09425b
+- [seebye/ueberzug](https://github.com/seebye/ueberzug) - ueberzug is a command line util which allows to display images in combination with X11. The user is expected to have knowledge of theoretical computer science. https://github.com/seebye/ueberzug/wiki/
 - [idank/explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
 - [buckket/twtxt](https://github.com/buckket/twtxt) - Decentralised, minimalist microblogging service for hackers.
 - [qualious/dotfiles](https://github.com/qualious/dotfiles) - dotfiles from my setup
@@ -2205,7 +2203,6 @@
 - [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [Valodim/zshrc](https://github.com/Valodim/zshrc) - My zsh dotfiles
-- [wukinnin/unamefetch](https://github.com/wukinnin/unamefetch) - a small system information display for UNIX-like operating systems via GNU uname.
 - [ftrvxmtrx/split2flac](https://github.com/ftrvxmtrx/split2flac) - Split flac/ape/wv/wav + cue sheet into separate tracks
 - [ar-lex/cue2tracks](https://github.com/ar-lex/cue2tracks) - Tool for splitting audio CD image to tracks with cue sheet info.
 - [Awan/xdg-open](https://github.com/Awan/xdg-open) - An improved xdg-open.
@@ -2248,7 +2245,7 @@
 - [AquaUseful/bash-autobrightness](https://github.com/AquaUseful/bash-autobrightness) - 
 - [melorin4/cfetch](https://github.com/melorin4/cfetch) - Just a simple and aesthetically pleasing system information fetch tool for Linux.
 - [MCotocel/pactest](https://github.com/MCotocel/pactest) - Test AUR software in a chroot
-- [kevinlynx/dhtcrawler2](https://github.com/kevinlynx/dhtcrawler2) - dhtcrawler is a DHT crawler written in erlang. It can join a DHT network and crawl many P2P torrents. The program save all torrent info into database and provide an http interface to search a torrent by a keyword
+- [kevinlynx/dhtcrawler2](https://github.com/kevinlynx/dhtcrawler2) - dhtcrawler is a DHT crawler written in erlang. It can join a DHT network and crawl many P2P torrents. The program save all torrent info into database and provide an http interface to search a torrent
 - [kiddae/scripts](https://github.com/kiddae/scripts) - A bunch of failed attempts at automatizing simple tasks.
 - [emanuelep57/Bspwm-SpaceBlue](https://github.com/emanuelep57/Bspwm-SpaceBlue) - Config files for my GitHub profile.
 - [ungoogled-software/ungoogled-chromium-archlinux](https://github.com/ungoogled-software/ungoogled-chromium-archlinux) - Arch Linux packaging for ungoogled-chromium
@@ -2501,8 +2498,8 @@
 - [esjeon/krohnkite](https://github.com/esjeon/krohnkite) - A dynamic tiling extension for KWin
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
-- [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
-- [Xmader/musescore-downloader](https://github.com/Xmader/musescore-downloader) - Download sheet music (MSCZ, PDF, MusicXML, MIDI, MP3, download individual parts as PDF) from musescore.com for free, no login or Musescore Pro required | 免登录、免 Musescore Pro，免费下载 musescore.com 上的曲谱 | Installation: https://msdl.librescore.org/install.user.js
+- [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
+- [Xmader/musescore-downloader](https://github.com/Xmader/musescore-downloader) - Download sheet music (MSCZ, PDF, MusicXML, MIDI, MP3, download individual parts as PDF) from musescore.com for free, no login or Musescore Pro required | 免登录、免 Musescore Pro，免费下载 musescore.com 上的曲谱 |
 - [remigallego/winampify](https://github.com/remigallego/winampify) - ⚡ A Spotify web client with an OS-looking interface and a reimplementation of the classic audio player Winamp.
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk) - Matrix SDK for React Javascript
@@ -2573,6 +2570,7 @@
 - [tpope/vim-vinegar](https://github.com/tpope/vim-vinegar) - vinegar.vim: Combine with netrw to create a delicious salad dressing
 - [Luxed/ayu-vim](https://github.com/Luxed/ayu-vim) - Modern theme for modern VIMs
 - [noahfrederick/vim-noctu](https://github.com/noahfrederick/vim-noctu) - A Vim color scheme for 16-color terminals
+- [changemewtf/no_plugins](https://github.com/changemewtf/no_plugins) - "Slides" and supplemental info from my August 3rd 2016 NYC Vim talk
 - [LinArcX/winny](https://github.com/LinArcX/winny) - tips and tricks to make windows less bloated and more productive
 - [LinArcX/mpsl](https://github.com/LinArcX/mpsl) - minimal (n)vim plugins - status line(Under 200 LOC)
 - [LinArcX/mpbtl](https://github.com/LinArcX/mpbtl) - minimal (n)vim plugins - buffer tabline(Under 200 LOC)
@@ -2589,6 +2587,7 @@
 - [m-pilia/vim-pkgbuild](https://github.com/m-pilia/vim-pkgbuild) - Vim plugin to edit PKGBUILD files
 - [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim
 - [edvb/catium.vim](https://github.com/edvb/catium.vim) - add an element of nyan cat to vim
+- [nefo-mi/nyan-modoki.vim](https://github.com/nefo-mi/nyan-modoki.vim) - Nyan cat modoki in your Vim statusline! NyanNyan!
 - [mmskv/dotfiles](https://github.com/mmskv/dotfiles) - dots for my Linux setup
 - [mg979/vim-visual-multi](https://github.com/mg979/vim-visual-multi) - Multiple cursors plugin for vim/neovim
 - [sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material) - Gruvbox with Material Palette
@@ -2626,11 +2625,6 @@
 - [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more
 - [dbmrq/vim-ditto](https://github.com/dbmrq/vim-ditto) - :speak_no_evil: Stop repeating yourself
 - [camnw/lf-vim](https://github.com/camnw/lf-vim) - Vim syntax highlighting for lfrc
-
-## VimL 
-
-- [changemewtf/no_plugins](https://github.com/changemewtf/no_plugins) - "Slides" and supplemental info from my August 3rd 2016 NYC Vim talk
-- [nefo-mi/nyan-modoki.vim](https://github.com/nefo-mi/nyan-modoki.vim) - Nyan cat modoki in your Vim statusline! NyanNyan!
 
 ## Vue 
 
