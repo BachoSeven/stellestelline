@@ -130,6 +130,7 @@
 
 ## C 
 
+- [CommanderRag/xbox-controller-emulator-linux](https://github.com/CommanderRag/xbox-controller-emulator-linux) - 
 - [wbhart/antic](https://github.com/wbhart/antic) - Algebraic Number Theory In C
 - [cdown/zcfan](https://github.com/cdown/zcfan) - A zero-configuration fan daemon for ThinkPads
 - [jbensmann/xmouseless](https://github.com/jbensmann/xmouseless) - A fast and simple way to control the mouse.
@@ -527,6 +528,7 @@
 
 ## C++ 
 
+- [Vantskruv/wejoy](https://github.com/Vantskruv/wejoy) - Tool to read physical joystick devices, keyboards aswell, and create virtual joystick devices and output keyboard presses on a Linux system.
 - [textbrowser/biblioteq](https://github.com/textbrowser/biblioteq) - BiblioteQ strives to be a professional archiving, cataloging, and library management suite, utilizing a Qt interface and providing connectivity to PostgreSQL and SQLite. The Open Library, SRU, and Z39
 - [ofloveandhate/bertini_real](https://github.com/ofloveandhate/bertini_real) - software for real algebraic sets
 - [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
@@ -1261,7 +1263,7 @@
 - [brainfucksec/neovim-lua](https://github.com/brainfucksec/neovim-lua) - Neovim KISS configuration with Lua
 - [is0n/fm-nvim](https://github.com/is0n/fm-nvim) - 🗂 Neovim plugin that lets you use your favorite terminal file managers (and fuzzy finders) from within Neovim.
 - [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim) - Neovim motions on speed!
-- [harvardnlp/im2markup](https://github.com/harvardnlp/im2markup) - Neural model for converting Image-to-Markup (by Yuntian Deng github.com/da03)
+- [harvardnlp/im2markup](https://github.com/harvardnlp/im2markup) - Neural model for converting Image-to-Markup (by Yuntian Deng yuntiandeng.com)
 - [ChocolateBread799/dotfiles](https://github.com/ChocolateBread799/dotfiles) - My Awesomewm dotfile
 - [alesan99/mari0_ae](https://github.com/alesan99/mari0_ae) - Mari0: Alesan99's Entities
 - [Stabyourself/mari0](https://github.com/Stabyourself/mari0) - Mario + Portal platformer
@@ -1318,7 +1320,7 @@
 - [ellisonleao/glow.nvim](https://github.com/ellisonleao/glow.nvim) - A markdown preview directly in your neovim.
 - [ChrisTitusTech/TitusPi](https://github.com/ChrisTitusTech/TitusPi) - Custom CTT Pi based linux distro
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
-- [JavaCafe01/dotfiles](https://github.com/JavaCafe01/dotfiles) - My desktop configuration files
+- [JavaCafe01/dotfiles](https://github.com/JavaCafe01/dotfiles) - My desktop and WSL configuration files
 - [WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
 - [manilarome/the-glorious-dotfiles](https://github.com/manilarome/the-glorious-dotfiles) - A glorified personal dot files
 - [jgreco/mpv-youtube-quality](https://github.com/jgreco/mpv-youtube-quality) - A userscript for MPV that allows you to change youtube video quality (ytdl-format) on the fly
