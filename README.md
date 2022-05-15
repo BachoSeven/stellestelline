@@ -129,6 +129,7 @@
 
 ## C 
 
+- [mini-rose/rose](https://github.com/mini-rose/rose) - Clean tab-less browser based on webkit2 and GTK5.
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
 - [CommanderRag/xbox-controller-emulator-linux](https://github.com/CommanderRag/xbox-controller-emulator-linux) - 
 - [wbhart/antic](https://github.com/wbhart/antic) - Algebraic Number Theory In C
@@ -191,7 +192,7 @@
 - [file/file](https://github.com/file/file) - Read-only mirror of file CVS repository, updated every half hour. NOTE: do not make pull requests here, nor comment any commits, submit them usual way to bug tracker or to the mailing list. Maintainer
 - [ryanflannery/vitunes](https://github.com/ryanflannery/vitunes) - A curses media indexer and player for vi users
 - [ghaerr/microwindows](https://github.com/ghaerr/microwindows) - The Nano-X Window System
-- [mssx86/apathy](https://github.com/mssx86/apathy) - Among Us (2018)
+- [mssx86/apathy](https://github.com/mssx86/apathy) - The incident began when the ATF attempted to serve a search and arrest warrant on the ranch. An intense gunfight erupted, resulting in the deaths of four government agents and six Branch Davidians. Up
 - [Aalbus-linux/Aalbus](https://github.com/Aalbus-linux/Aalbus) - The master repository for the Aalbus distribution
 - [intel/sgx-software-enable](https://github.com/intel/sgx-software-enable) - 
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
@@ -819,6 +820,7 @@
 
 ## Go 
 
+- [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cosy typing speed tester
 - [leukipp/cortile](https://github.com/leukipp/cortile) - Tiling manager with hot corner support for EWMH Compliant Window Managers
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
@@ -2104,6 +2106,7 @@
 
 ## Shell 
 
+- [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - 
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [wincent/vim-university](https://github.com/wincent/vim-university) - A curriculum for leveling up your Vim
 - [ianthehenry/zsh-autoquoter](https://github.com/ianthehenry/zsh-autoquoter) - automatically quote arguments to commands like `git commit -m`
