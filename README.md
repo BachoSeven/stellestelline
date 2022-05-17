@@ -193,7 +193,7 @@
 - [file/file](https://github.com/file/file) - Read-only mirror of file CVS repository, updated every half hour. NOTE: do not make pull requests here, nor comment any commits, submit them usual way to bug tracker or to the mailing list. Maintainer
 - [ryanflannery/vitunes](https://github.com/ryanflannery/vitunes) - A curses media indexer and player for vi users
 - [ghaerr/microwindows](https://github.com/ghaerr/microwindows) - The Nano-X Window System
-- [mssx86/apathy](https://github.com/mssx86/apathy) - The incident began when the ATF attempted to serve a search and arrest warrant on the ranch. An intense gunfight erupted, resulting in the deaths of four government agents and six Branch Davidians. Up
+- [mssx86/apathy](https://github.com/mssx86/apathy) - spiderman 2
 - [Aalbus-linux/Aalbus](https://github.com/Aalbus-linux/Aalbus) - The master repository for the Aalbus distribution
 - [intel/sgx-software-enable](https://github.com/intel/sgx-software-enable) - 
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
@@ -1051,7 +1051,6 @@
 
 ## JavaScript 
 
-- [cinnyapp/cinny-desktop](https://github.com/cinnyapp/cinny-desktop) - Yet another matrix client for desktop
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK eBook reader
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
@@ -1577,6 +1576,7 @@
 
 ## Python 
 
+- [cinnyapp/cinny-desktop](https://github.com/cinnyapp/cinny-desktop) - Yet another matrix client for desktop
 - [Evidlo/passhole](https://github.com/Evidlo/passhole) - A secure hole for your passwords (KeePass CLI)
 - [firecat53/keepmenu](https://github.com/firecat53/keepmenu) - Dmenu/Rofi frontend for Keepass databases
 - [firecat53/bitwarden-menu](https://github.com/firecat53/bitwarden-menu) - Dmenu/Rofi frontend for managing Bitwarden vault using the Bitwarden CLI tool.
@@ -2108,7 +2108,7 @@
 
 ## Shell 
 
-- [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - 
+- [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [wincent/vim-university](https://github.com/wincent/vim-university) - A curriculum for leveling up your Vim
 - [ianthehenry/zsh-autoquoter](https://github.com/ianthehenry/zsh-autoquoter) - automatically quote arguments to commands like `git commit -m`
@@ -2129,7 +2129,7 @@
 - [k-vernooy/dotfiles](https://github.com/k-vernooy/dotfiles) - An organizational repository for my dotfiles and scripts
 - [rxyhn/bspdots](https://github.com/rxyhn/bspdots) - BSPWM - Aesthetic Dotfiles 🍚
 - [thomaseizinger/pkgbuilds](https://github.com/thomaseizinger/pkgbuilds) - A collection of personal AUR packages.
-- [MiMillieuh/Photoshop-CC2021-Linux](https://github.com/MiMillieuh/Photoshop-CC2021-Linux) - Installer for Photoshop CC 2021 on linux with one command. Now with a GUI
+- [MiMillieuh/Photoshop-CC2022-Linux](https://github.com/MiMillieuh/Photoshop-CC2022-Linux) - Installer for Photoshop CC 2022 on linux with a GUI
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [M-Reimer/wine-lol](https://github.com/M-Reimer/wine-lol) - Patched wine-staging and glibc with fix needed to run League Of Legends
