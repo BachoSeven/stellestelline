@@ -822,6 +822,7 @@
 
 ## Go 
 
+- [doron-cohen/antidot](https://github.com/doron-cohen/antidot) - Cleans up your $HOME from those pesky dotfiles
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cosy typing speed tester
 - [leukipp/cortile](https://github.com/leukipp/cortile) - Tiling manager with hot corner support for EWMH Compliant Window Managers
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
@@ -966,7 +967,7 @@
 - [timb-machine/linux-malware](https://github.com/timb-machine/linux-malware) - Tracking interesting Linux (and UNIX) malware. Send PRs
 - [LukeSmithxyz/landchad](https://github.com/LukeSmithxyz/landchad) - Landchad.net Website Tutorial Page
 - [MCotocel/startpage](https://github.com/MCotocel/startpage) - Custom startpage for Qutebrowser/Firefox
-- [grtcdr/linen](https://github.com/grtcdr/linen) - 🎨 A light, calm and champagne-like colorscheme.
+- [grtcdr/linen](https://github.com/grtcdr/linen) - A light, calm and champagne-like colorscheme.
 - [matrix-org/matrix.org](https://github.com/matrix-org/matrix.org) - matrix.org public website
 - [hyperreal64/zsh-manual-mdbook](https://github.com/hyperreal64/zsh-manual-mdbook) - Mdbook for Zsh Manual
 - [comfies/comfi.es](https://github.com/comfies/comfi.es) - the /comfy/ website
