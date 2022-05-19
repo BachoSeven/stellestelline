@@ -1041,7 +1041,6 @@
 - [UniversalMediaServer/UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer) - A DLNA, UPnP and HTTP(S) Media Server.
 - [openboard-team/openboard](https://github.com/openboard-team/openboard) - 
 - [JavaCafe01/PdfViewer](https://github.com/JavaCafe01/PdfViewer) - A simple Pdf document viewer 💼
-- [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
 - [yeokm1/docs-to-pdf-converter](https://github.com/yeokm1/docs-to-pdf-converter) - A standalone Java library/command line tool that converts DOC, DOCX, PPT, PPTX and ODT documents to PDF files.
 - [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Traditional roguelike game with pixel-art graphics and simple interface
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
@@ -1052,6 +1051,7 @@
 
 ## JavaScript 
 
+- [cinnyapp/cinny-desktop](https://github.com/cinnyapp/cinny-desktop) - Yet another matrix client for desktop
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK eBook reader
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
@@ -1577,7 +1577,6 @@
 
 ## Python 
 
-- [cinnyapp/cinny-desktop](https://github.com/cinnyapp/cinny-desktop) - Yet another matrix client for desktop
 - [Evidlo/passhole](https://github.com/Evidlo/passhole) - A secure hole for your passwords (KeePass CLI)
 - [firecat53/keepmenu](https://github.com/firecat53/keepmenu) - Dmenu/Rofi frontend for Keepass databases
 - [firecat53/bitwarden-menu](https://github.com/firecat53/bitwarden-menu) - Dmenu/Rofi frontend for managing Bitwarden vault using the Bitwarden CLI tool.
@@ -2483,6 +2482,7 @@
 
 ## TypeScript 
 
+- [CAAL/CAAL](https://github.com/CAAL/CAAL) - CAAL (Concurrency Workbench, Aalborg Edition) is a web-based tool for modelling, visualization and verification of concurrent processes expressed in the well-known CCS language (Calculus of Communicat
 - [webosbrew/dev-manager-desktop](https://github.com/webosbrew/dev-manager-desktop) - Device/DevMode Manager for webOS TV
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim-mode for Visual Studio Code using embedded Neovim
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
