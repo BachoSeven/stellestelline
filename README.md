@@ -2137,7 +2137,7 @@
 - [mudler/linuxbundles](https://github.com/mudler/linuxbundles) - :penguin: Standalone, local-runnable binaries of popular linux distributions
 - [Maccraft123/Cadmium](https://github.com/Maccraft123/Cadmium) - 
 - [rupa/z](https://github.com/rupa/z) - z - jump around
-- [lmburns/dotfiles](https://github.com/lmburns/dotfiles) - Dotfiles for Arch Linux
+- [lmburns/dotfiles](https://github.com/lmburns/dotfiles) - Dotfiles for Arch Linux - neovim, zsh
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [tyzoid/btw](https://github.com/tyzoid/btw) - Correcting glaring omissions from BtwOS
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
