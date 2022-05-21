@@ -107,6 +107,7 @@
 ## Assembly 
 
 - [VitorVilela7/wide-snes](https://github.com/VitorVilela7/wide-snes) - Super Mario World (SNES) Widescreen Project
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 
 ## AutoHotkey 
@@ -319,7 +320,6 @@
 - [Mephysto666/rtl8822bu](https://github.com/Mephysto666/rtl8822bu) - RTL8822BU Wireless Driver for Linux
 - [qsmodo/sxiv](https://github.com/qsmodo/sxiv) - Simple X Image Viewer
 - [dudik/blockit](https://github.com/dudik/blockit) - WebKitGTK adblock extension with Brave's Rust-based adblock engine for backend.
-- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [dylanaraps/sowm](https://github.com/dylanaraps/sowm) - An itsy bitsy floating window manager (220~ sloc!).
 - [spbooth/xmountains](https://github.com/spbooth/xmountains) - This is my ancient X-windows sideways scrolling fractal landscape code
 - [juliusHuelsmann/st-history-vim](https://github.com/juliusHuelsmann/st-history-vim) - Development of the "vim patch" and  a minimalist "history patch" for the suckless simple terminal (st).
@@ -998,6 +998,7 @@
 
 ## Haskell 
 
+- [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!
 - [ChrisPenner/void-space](https://github.com/ChrisPenner/void-space) - Well-Typed Typing Tutor where you Type Types... in space... yup, you heard me
 - [pasqu4le/clifm](https://github.com/pasqu4le/clifm) - Command Line Interface File Manager
@@ -2076,6 +2077,7 @@
 
 ## SCSS 
 
+- [rozniak/xfce-winxp-tc](https://github.com/rozniak/xfce-winxp-tc) - Windows XP stuff for XFCE
 - [vinibiavatti1/TuiCss](https://github.com/vinibiavatti1/TuiCss) - Text-based user interface CSS library
 - [ungoogled-software/ungoogled-software.github.io](https://github.com/ungoogled-software/ungoogled-software.github.io) - Website for ungoogled-chromium
 - [phocus/gtk](https://github.com/phocus/gtk) - From scratch, clean and opinionated GTK3 implementation of the phocus color scheme.
@@ -2108,7 +2110,6 @@
 
 ## Shell 
 
-- [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [wincent/vim-university](https://github.com/wincent/vim-university) - A curriculum for leveling up your Vim
 - [ianthehenry/zsh-autoquoter](https://github.com/ianthehenry/zsh-autoquoter) - automatically quote arguments to commands like `git commit -m`
@@ -2290,7 +2291,6 @@
 - [chimay/scripts](https://github.com/chimay/scripts) - Useful scripts
 - [Aztek1337/Elecom_trackball_huge_button_map](https://github.com/Aztek1337/Elecom_trackball_huge_button_map) - A BASH script to help quickly map the Elecom TrackBall Huge
 - [Rasukarusan/shellnium](https://github.com/Rasukarusan/shellnium) - :dizzy: Selenium Webdriver for Bash (or Zsh).
-- [5amu/minimal-prompt](https://github.com/5amu/minimal-prompt) - My zsh prompt as a plugin 🤟🏻
 - [ganifladi/lyrics-cli](https://github.com/ganifladi/lyrics-cli) - 
 - [fuzzybritches0/pinephone](https://github.com/fuzzybritches0/pinephone) - Pinephone bash Scripts for SMS, VOICE-CALL and more
 - [wimpysworld/antsy-alien-attack](https://github.com/wimpysworld/antsy-alien-attack) - A game, written in Bash, that is a somewhat retro-a-like shoot 'em up. Hopefully.
@@ -2317,6 +2317,7 @@
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [ddvk/remarkable-hacks](https://github.com/ddvk/remarkable-hacks) - additional functionality via binary patching
 - [BelkaDev/Mustream](https://github.com/BelkaDev/Mustream) - A script to play Spotify music through the command line.
+- [mmskv/dotfiles](https://github.com/mmskv/dotfiles) - dots for my Linux setup
 - [sadparadiseinhell/dotfiles](https://github.com/sadparadiseinhell/dotfiles) - Dotfiles
 - [archlinux/svntogit-community](https://github.com/archlinux/svntogit-community) - Automatic import of svn 'community' repo (read-only mirror)
 - [windwp/rofi-color-picker](https://github.com/windwp/rofi-color-picker) - 
@@ -2601,7 +2602,6 @@
 - [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim
 - [edvb/catium.vim](https://github.com/edvb/catium.vim) - add an element of nyan cat to vim
 - [nefo-mi/nyan-modoki.vim](https://github.com/nefo-mi/nyan-modoki.vim) - Nyan cat modoki in your Vim statusline! NyanNyan!
-- [mmskv/dotfiles](https://github.com/mmskv/dotfiles) - dots for my Linux setup
 - [mg979/vim-visual-multi](https://github.com/mg979/vim-visual-multi) - Multiple cursors plugin for vim/neovim
 - [sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material) - Gruvbox with Material Palette
 - [bennyyip/dot-vim](https://github.com/bennyyip/dot-vim) - 
