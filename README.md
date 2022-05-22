@@ -131,7 +131,7 @@
 ## C 
 
 - [vacaboja/tg](https://github.com/vacaboja/tg) - A program for timing mechanical watches
-- [mini-rose/rose](https://github.com/mini-rose/rose) - Clean tab-less browser based on webkit2 and GTK4.
+- [mini-rose/rose](https://github.com/mini-rose/rose) - Minimalist browser based on webkit2 and GTK4.
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
 - [CommanderRag/xbox-controller-emulator-linux](https://github.com/CommanderRag/xbox-controller-emulator-linux) - 
 - [wbhart/antic](https://github.com/wbhart/antic) - Algebraic Number Theory In C
@@ -194,7 +194,7 @@
 - [file/file](https://github.com/file/file) - Read-only mirror of file CVS repository, updated every half hour. NOTE: do not make pull requests here, nor comment any commits, submit them usual way to bug tracker or to the mailing list. Maintainer
 - [ryanflannery/vitunes](https://github.com/ryanflannery/vitunes) - A curses media indexer and player for vi users
 - [ghaerr/microwindows](https://github.com/ghaerr/microwindows) - The Nano-X Window System
-- [mssx86/apathy](https://github.com/mssx86/apathy) - spiderman 2
+- [mssx86/apathy](https://github.com/mssx86/apathy) - pistol whip yo bitch shoot her in da neck
 - [Aalbus-linux/Aalbus](https://github.com/Aalbus-linux/Aalbus) - The master repository for the Aalbus distribution
 - [intel/sgx-software-enable](https://github.com/intel/sgx-software-enable) - 
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
