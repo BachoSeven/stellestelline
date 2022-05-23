@@ -45,6 +45,7 @@
 - [Less](#less)
 - [Lua](#lua)
 - [MATLAB](#matlab)
+- [Macaulay2](#macaulay2)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mathematica](#mathematica)
@@ -1340,6 +1341,10 @@
 - [elvilio/Laboratorio-Didattico-di-Matematica-Computazionale](https://github.com/elvilio/Laboratorio-Didattico-di-Matematica-Computazionale) - 
 - [isantosruiz/inequality-plot](https://github.com/isantosruiz/inequality-plot) - MATLAB code to plot inequalities in 2-D spaces
 
+## Macaulay2 
+
+- [Macaulay2/M2](https://github.com/Macaulay2/M2) - The primary source code repository for Macaulay2, a system for computing in commutative algebra, algebraic geometry and related fields.
+
 ## Makefile 
 
 - [abkro/android_device_lge_h815](https://github.com/abkro/android_device_lge_h815) - LG G4 (International)
@@ -1631,7 +1636,6 @@
 - [NeverDecaf/ungoogled-updater](https://github.com/NeverDecaf/ungoogled-updater) - Script for windows to keep ungoogled-chromium up to date.
 - [radude/rentry](https://github.com/radude/rentry) - Markdown pastebin from command line
 - [AsahiLinux/asahi-installer](https://github.com/AsahiLinux/asahi-installer) - Asahi Linux installer
-- [Barbaross93/Muspelheim](https://github.com/Barbaross93/Muspelheim) - Thonkpad dotfiles
 - [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 - [darlinghq/darling-docker](https://github.com/darlinghq/darling-docker) - Dockerfile for Darling
 - [schlafwandler/ghidra_SavePatch](https://github.com/schlafwandler/ghidra_SavePatch) - A Ghidra script to save small patches back to the executable file
@@ -2179,6 +2183,7 @@
 - [spxak1/weywot](https://github.com/spxak1/weywot) - My notes on using Pop!_OS
 - [sayan01/scripts](https://github.com/sayan01/scripts) - scripts
 - [codingtony/udev-monitor-hotplug](https://github.com/codingtony/udev-monitor-hotplug) - Script that get triggered when monitors are plugged in or out in Linux
+- [Barbaross93/Muspelheim](https://github.com/Barbaross93/Muspelheim) - Thonkpad dotfiles
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [dylanaraps/barsh](https://github.com/dylanaraps/barsh) - Use your terminal as a bar
 - [archlinux/arch-install-scripts](https://github.com/archlinux/arch-install-scripts) - Useful scripts for installing Arch Linux
