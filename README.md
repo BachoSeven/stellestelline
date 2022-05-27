@@ -730,6 +730,7 @@
 - [emanuelep57/Blue-tea](https://github.com/emanuelep57/Blue-tea) - Simple startpage with weather and to-do list features.
 - [obliviousofcraps/mf-dots](https://github.com/obliviousofcraps/mf-dots) - These are some of my ridiculously shit dotfiles that I use in my unproductive daily life.
 - [christiangenco/chrome-export-history](https://github.com/christiangenco/chrome-export-history) - Chrome Extension to export your entire history in json or csv
+- [LukeSmithxyz/based.cooking](https://github.com/LukeSmithxyz/based.cooking) - A simple culinary website.
 - [Jorengarenar/RedditOldRedesignedDark](https://github.com/Jorengarenar/RedditOldRedesignedDark) - Dark theme for Reddit Old
 - [jakebian/kan](https://github.com/jakebian/kan) - Kan: A browser extension for reading nLab
 - [owozsh/adwaita-rounded](https://github.com/owozsh/adwaita-rounded) - A patch to round the bottom corners of the Adwaita theme.
@@ -973,7 +974,6 @@
 - [hyperreal64/zsh-manual-mdbook](https://github.com/hyperreal64/zsh-manual-mdbook) - Mdbook for Zsh Manual
 - [comfies/comfi.es](https://github.com/comfies/comfi.es) - the /comfy/ website
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
-- [LukeSmithxyz/based.cooking](https://github.com/LukeSmithxyz/based.cooking) - A simple culinary website.
 - [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
 - [ReplDepot/replit-desktop](https://github.com/ReplDepot/replit-desktop) - Desktop app for https://replit.com
 - [bedrocklinux/bedrocklinux-website](https://github.com/bedrocklinux/bedrocklinux-website) - This tracks website development for Bedrock Linux
@@ -1681,7 +1681,7 @@
 - [eLvErDe/museek-plus](https://github.com/eLvErDe/museek-plus) - Museek+:  Client/server mode client for the SoulSeek peer-to-peer system
 - [Xpra-org/xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
 - [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
-- [Kent-Lee/deviantart-scraper](https://github.com/Kent-Lee/deviantart-scraper) - personal project for downloading artworks from DeviantArt
+- [kent-lee/deviantart-scraper](https://github.com/kent-lee/deviantart-scraper) - personal project for downloading artworks from DeviantArt
 - [mlvnt/mdvs](https://github.com/mlvnt/mdvs) - Download complete deviantart galleries
 - [hydrusnetwork/hydrus](https://github.com/hydrusnetwork/hydrus) - A personal booru-style media tagger that can import files and tags from your hard drive and popular websites. Content can be shared with other users via user-run servers.
 - [CuddleBear92/Hydrus-Presets-and-Scripts](https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts) - collection of presets and scripts for Hydrus
@@ -1999,7 +1999,7 @@
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [jhbabon/scout](https://github.com/jhbabon/scout) - Friendly fuzzy finder made in rust
 - [VixenUtils/Myxer](https://github.com/VixenUtils/Myxer) - A modern Volume Mixer for PulseAudio.
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices.
 - [soywod/himalaya](https://github.com/soywod/himalaya) - Command-line interface for email management
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [Soft/xcolor](https://github.com/Soft/xcolor) - Lightweight color picker for X11
@@ -2224,6 +2224,7 @@
 - [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [Valodim/zshrc](https://github.com/Valodim/zshrc) - My zsh dotfiles
+- [KoalaV2/dotfiles](https://github.com/KoalaV2/dotfiles) - My Linux laptop setup.
 - [ftrvxmtrx/split2flac](https://github.com/ftrvxmtrx/split2flac) - Split flac/ape/wv/wav + cue sheet into separate tracks
 - [ar-lex/cue2tracks](https://github.com/ar-lex/cue2tracks) - Tool for splitting audio CD image to tracks with cue sheet info.
 - [Awan/xdg-open](https://github.com/Awan/xdg-open) - An improved xdg-open.
@@ -2575,7 +2576,6 @@
 - [mtwb47/dwmricer](https://github.com/mtwb47/dwmricer) - DWM Auto Install and Ricing Script
 - [felipec/vim-sanegx](https://github.com/felipec/vim-sanegx) - Makes gx work correctly.
 - [lifepillar/vim-gruvbox8](https://github.com/lifepillar/vim-gruvbox8) - A simplified and optimized Gruvbox colorscheme for Vim
-- [KoalaV2/dotfiles](https://github.com/KoalaV2/dotfiles) - My Linux laptop setup.
 - [yangmillstheory/vim-snipe](https://github.com/yangmillstheory/vim-snipe) - 
 - [tyru/open-browser.vim](https://github.com/tyru/open-browser.vim) - Open URI with your favorite browser from your most favorite editor
 - [dhruvasagar/vim-dotoo](https://github.com/dhruvasagar/vim-dotoo) - Org-mode like task logging & time tracking in Vim
