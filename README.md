@@ -1506,7 +1506,7 @@
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 - [pagopa/io](https://github.com/pagopa/io) - Repository principale di IO: offre una mappa di informazioni e risorse per orientarsi nel progetto
 - [Francesco149/gopher](https://github.com/Francesco149/gopher) - new gopherspace, will be mostly programming/tech writeups
-- [ProtractorNinja/xsnow-comp-patch](https://github.com/ProtractorNinja/xsnow-comp-patch) - Compositor-friendly patch for Xsnow
+- [Icelk/xsnow-comp-patch](https://github.com/Icelk/xsnow-comp-patch) - Compositor-friendly patch for Xsnow
 - [make-github-pseudonymous-again/eightfold](https://github.com/make-github-pseudonymous-again/eightfold) - :hiking_boot: The Noble Eightfold Path
 - [make-github-pseudonymous-again/404](https://github.com/make-github-pseudonymous-again/404) - :sauropod: Missing technology
 - [adi1090x/uGRUB](https://github.com/adi1090x/uGRUB) - Create an ultimate multiboot USB flash drive with Grub2 bootloader
