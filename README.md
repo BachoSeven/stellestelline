@@ -2129,7 +2129,7 @@
 - [fusionneur/ethernally](https://github.com/fusionneur/ethernally) - Your scrcpy companion for Android wireless screen mirroring
 - [romkatv/zsh-bench](https://github.com/romkatv/zsh-bench) - Benchmark for interactive Zsh
 - [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature-rich syntax highlighting for ZSH
-- [owl4ce/linucc224](https://github.com/owl4ce/linucc224) - :syringe: Easily patch your own Linux simplefb. This script needs to be refactored but the author is not free at the moment.
+- [owl4ce/linucc224](https://github.com/owl4ce/linucc224) - :syringe: Easily patch your own Linux simplefb
 - [BachoSeven/dotfiles](https://github.com/BachoSeven/dotfiles) - rice repo
 - [cb-linux/breath](https://github.com/cb-linux/breath) - Linux for Chromebooks
 - [CyberShadow/aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
