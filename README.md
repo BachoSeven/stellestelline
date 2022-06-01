@@ -237,7 +237,7 @@
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [johanmalm/jgmenu](https://github.com/johanmalm/jgmenu) - An X11 menu
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
-- [SartoxSoftware/audacium](https://github.com/SartoxSoftware/audacium) - Free and open-source audio editor
+- [Audacium/audacium](https://github.com/Audacium/audacium) - Free and open-source audio editor
 - [Sneeds-Feed-and-Seed/SIMP](https://github.com/Sneeds-Feed-and-Seed/SIMP) - Sneed's Image Manipulation Program (Formerly Chuck's)
 - [JamesCrook/audacity](https://github.com/JamesCrook/audacity) - Audacity(R): A Free, Cross-Platform Digital Audio Editor
 - [Dudemanguy/gtk](https://github.com/Dudemanguy/gtk) - Gtk+
@@ -620,7 +620,7 @@
 - [CDrummond/cantata](https://github.com/CDrummond/cantata) - Qt5 Graphical MPD Client
 - [MaartenBaert/ssr](https://github.com/MaartenBaert/ssr) - SimpleScreenRecorder, a screen recorder for Linux
 - [KenjiTakahashi/newsoul](https://github.com/KenjiTakahashi/newsoul) - Museek+, a daemon/server based Soulseek client, resurrected.
-- [skiftOS/skift](https://github.com/skiftOS/skift) - 🥑 A hobby operating system built from scratch in modern C++. Featuring a reactive UI library and a strong emphasis on user experience.
+- [skiftOS/skift](https://github.com/skiftOS/skift) - 🥑 The delightful operating system.
 - [managarm/managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O
 - [MaurycyLiebner/enve](https://github.com/MaurycyLiebner/enve) - Flexible, user expandable 2D animation software for Linux and Windows.
 - [taganaka/SpeedTest](https://github.com/taganaka/SpeedTest) - Yet another unofficial speedtest.net client cli interface
@@ -1832,7 +1832,7 @@
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
 - [rossant/awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
-- [Eloston/ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Google Chromium, sans integration with Google
+- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [whipper-team/whipper](https://github.com/whipper-team/whipper) - Python CD-DA ripper preferring accuracy over speed
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
 - [BoldBrowser/bold-browser](https://github.com/BoldBrowser/bold-browser) - Core codebase for Bold Browser (build scripts will be in other repositories)
@@ -2142,7 +2142,7 @@
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [M-Reimer/wine-lol](https://github.com/M-Reimer/wine-lol) - Patched wine-staging and glibc with fix needed to run League Of Legends
-- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with.
+- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [mudler/linuxbundles](https://github.com/mudler/linuxbundles) - :penguin: Standalone, local-runnable binaries of popular linux distributions
 - [Maccraft123/Cadmium](https://github.com/Maccraft123/Cadmium) - 
 - [rupa/z](https://github.com/rupa/z) - z - jump around
@@ -2232,7 +2232,7 @@
 - [ThatOneCalculator/NerdFetch](https://github.com/ThatOneCalculator/NerdFetch) - A POSIX *nix fetch script using Nerdfonts
 - [jitsi-contrib/jitas](https://github.com/jitsi-contrib/jitas) - Jitsi Assistant
 - [Kron4ek/Conty](https://github.com/Kron4ek/Conty) - Easy to use unprivileged Linux container packed into a single portable executable
-- [BladeOfLightX/My_Eww_Scripts](https://github.com/BladeOfLightX/My_Eww_Scripts) - Eww Scripts To Make Your Desktop Beautiful !
+- [VoidCupboard/My_Eww_Scripts](https://github.com/VoidCupboard/My_Eww_Scripts) - Eww Scripts To Make Your Desktop Beautiful !
 - [Frogging-Family/linux-tkg](https://github.com/Frogging-Family/linux-tkg) - linux-tkg custom kernels
 - [Jannik2099/gentoo-pinebookpro](https://github.com/Jannik2099/gentoo-pinebookpro) - A collection of scripts to prepare a Gentoo tarball for the pinebook pro
 - [dylanaraps/pash](https://github.com/dylanaraps/pash) - 🔒 A simple password manager using GPG written in POSIX sh.
@@ -2495,7 +2495,7 @@
 
 - [CAAL/CAAL](https://github.com/CAAL/CAAL) - CAAL (Concurrency Workbench, Aalborg Edition) is a web-based tool for modelling, visualization and verification of concurrent processes expressed in the well-known CCS language (Calculus of Communicat
 - [webosbrew/dev-manager-desktop](https://github.com/webosbrew/dev-manager-desktop) - Device/DevMode Manager for webOS TV
-- [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim-mode for Visual Studio Code using embedded Neovim
+- [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim-mode for VS Code using embedded Neovim
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [jeffvli/sonixd](https://github.com/jeffvli/sonixd) - A full-featured Subsonic/Jellyfin compatible desktop music player
 - [shiftinv/wolframalpha-moresteps](https://github.com/shiftinv/wolframalpha-moresteps) - Browser extension that automatically replaces partial step-by-step solutions on Wolfram|Alpha with complete solutions from the official API
