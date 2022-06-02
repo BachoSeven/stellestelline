@@ -1355,6 +1355,7 @@
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [gilbertw1/telegram-gruvbox-theme](https://github.com/gilbertw1/telegram-gruvbox-theme) - Gruvbox theme for Telegram Desktop
 - [nbeaver/why-linux-is-better](https://github.com/nbeaver/why-linux-is-better) - Objective reasons to prefer Linux to Windows.
+- [budlabs/bwp](https://github.com/budlabs/bwp) - CLI wallpaper selector
 - [genuinetools/udict](https://github.com/genuinetools/udict) - A command line urban dictionary.
 - [alirezaafkar/telegram-gruvbox-theme](https://github.com/alirezaafkar/telegram-gruvbox-theme) - Gruvbox theme for Telegram Desktop
 
@@ -2418,7 +2419,6 @@
 - [softmoth/zsh-vim-mode](https://github.com/softmoth/zsh-vim-mode) - Friendly bindings for ZSH's vi mode
 - [htr3n/zsh-config](https://github.com/htr3n/zsh-config) - Faster and enjoyable ZSH (maybe) !!!
 - [rgomezcasas/dotfiles](https://github.com/rgomezcasas/dotfiles) - :penguin: Simple, fast, productivity-increaser dotfiles
-- [budlabs/bwp](https://github.com/budlabs/bwp) - CLI wallpaper selector
 - [budlabs/typiskt](https://github.com/budlabs/typiskt) - touchtyping training in the terminal
 - [donovanglover/dotfiles](https://github.com/donovanglover/dotfiles) - My dotfiles for vim, fish, bspwm, and more. Includes full support for HiDPI.
 - [kaihendry/dotfiles](https://github.com/kaihendry/dotfiles) - Home directory with an absurd amount of tweaks
