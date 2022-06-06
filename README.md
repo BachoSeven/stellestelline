@@ -377,7 +377,6 @@
 - [sfauzia/dwm](https://github.com/sfauzia/dwm) - Configuration of the suckless window manager, dwm
 - [jordansissel/xdotool](https://github.com/jordansissel/xdotool) - fake keyboard/mouse input, window management, and more
 - [save196/dwm](https://github.com/save196/dwm) - Save's custom build of dwm
-- [serhanekicii/dwm](https://github.com/serhanekicii/dwm) - My build of dwm. Extremely fast, small, and dynamic window manager for X.
 - [freundTech/bar](https://github.com/freundTech/bar) - bar ain't recursive - A lightweight xcb based bar. This is a fork that supports fontconfig
 - [daringer/asus-fan](https://github.com/daringer/asus-fan) - Kernel module to get/set (both) fan speed(s) on ASUS Zenbooks
 - [maandree/asroot](https://github.com/maandree/asroot) - [Feature complete] A simpler alternative to sudo and doas
