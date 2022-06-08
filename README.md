@@ -1375,7 +1375,7 @@
 ## Nix 
 
 - [PedroHLC/system-setup](https://github.com/PedroHLC/system-setup) - Recipe for creating my NixOS and ArchLinux's rootfs. (ZFS and Sway)
-- [NNBnh/dots](https://github.com/NNBnh/dots) - 📂 End-game Đotfiles (WIP)
+- [NNBnh/dotfiles](https://github.com/NNBnh/dotfiles) - 📂 End-game Đotfiles
 - [alexherbo2/dotfiles](https://github.com/alexherbo2/dotfiles) - Personal configuration files
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
 
