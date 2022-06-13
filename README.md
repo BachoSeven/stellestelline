@@ -973,7 +973,6 @@
 - [matrix-org/matrix.org](https://github.com/matrix-org/matrix.org) - matrix.org public website
 - [hyperreal64/zsh-manual-mdbook](https://github.com/hyperreal64/zsh-manual-mdbook) - Mdbook for Zsh Manual
 - [comfies/comfi.es](https://github.com/comfies/comfi.es) - the /comfy/ website
-- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
 - [bedrocklinux/bedrocklinux-website](https://github.com/bedrocklinux/bedrocklinux-website) - This tracks website development for Bedrock Linux
 - [jasolisdev/.dotfiles](https://github.com/jasolisdev/.dotfiles) - 
@@ -2510,6 +2509,7 @@
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
 - [rain0r/ampd](https://github.com/rain0r/ampd) - A web-based MPD client.
+- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [PrettyCoffee/fluidity](https://github.com/PrettyCoffee/fluidity) - Fluidity - An accordion based startpage
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
