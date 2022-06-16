@@ -1265,6 +1265,7 @@
 - [jbyuki/nabla.nvim](https://github.com/jbyuki/nabla.nvim) - take your scientific notes :pencil2: in Neovim
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
 - [brainfucksec/neovim-lua](https://github.com/brainfucksec/neovim-lua) - Neovim KISS configuration with Lua
+- [angelofallars/dotfiles](https://github.com/angelofallars/dotfiles) - 🦀 My dotfiles on Artix Linux. Neovim | tmux | KDE Plasma
 - [is0n/fm-nvim](https://github.com/is0n/fm-nvim) - 🗂 Neovim plugin that lets you use your favorite terminal file managers (and fuzzy finders) from within Neovim.
 - [lmburns/dotfiles](https://github.com/lmburns/dotfiles) - Dotfiles for Arch Linux - neovim, zsh
 - [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim) - Neovim motions on speed!
@@ -2136,7 +2137,6 @@
 - [cb-linux/breath](https://github.com/cb-linux/breath) - Linux for Chromebooks
 - [CyberShadow/aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
 - [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements.
-- [angelofallars/dotfiles](https://github.com/angelofallars/dotfiles) - 🦀 My dotfiles on Artix Linux. Neovim | tmux | KDE Plasma
 - [k-vernooy/dotfiles](https://github.com/k-vernooy/dotfiles) - An organizational repository for my dotfiles and scripts
 - [rxyhn/bspdots](https://github.com/rxyhn/bspdots) - BSPWM - Aesthetic Dotfiles 🍚
 - [thomaseizinger/pkgbuilds](https://github.com/thomaseizinger/pkgbuilds) - A collection of personal AUR packages.
