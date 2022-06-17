@@ -518,7 +518,7 @@
 - [slskd/slskd](https://github.com/slskd/slskd) - A modern client-server application for the Soulseek file sharing network.
 - [ImAiiR/QobuzDownloaderX](https://github.com/ImAiiR/QobuzDownloaderX) - Downloads streams directly from Qobuz
 - [yaronzz/Tidal-Media-Downloader-PRO](https://github.com/yaronzz/Tidal-Media-Downloader-PRO) - Download 'TIDAL' Music On Windows/Linux/MacOs (PYTHON/C#)
-- [midwan/MB_SubSonic](https://github.com/midwan/MB_SubSonic) - MusicBee SubSonic plugin
+- [BlitterStudio/MB_SubSonic](https://github.com/BlitterStudio/MB_SubSonic) - MusicBee SubSonic plugin
 - [gchudov/cuetools.net](https://github.com/gchudov/cuetools.net) - CD image processing suite with optimized lossless encoders in C#
 - [Difegue/Stylophone](https://github.com/Difegue/Stylophone) - MPD Client for the Universal Windows Platform, based on MpcNET.
 - [mono/mono](https://github.com/mono/mono) - Mono open source ECMA CLI, C# and .NET implementation.
@@ -533,6 +533,7 @@
 
 ## C++ 
 
+- [oxen-io/lokinet](https://github.com/oxen-io/lokinet) - Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
 - [vaxerski/Hyprland](https://github.com/vaxerski/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [Vantskruv/wejoy](https://github.com/Vantskruv/wejoy) - Tool to read physical joystick devices, keyboards aswell, and create virtual joystick devices and output keyboard presses on a Linux system.
 - [textbrowser/biblioteq](https://github.com/textbrowser/biblioteq) - BiblioteQ strives to be a professional archiving, cataloging, and library management suite, utilizing a Qt interface and providing connectivity to PostgreSQL and SQLite. The Open Library, SRU, and Z39
