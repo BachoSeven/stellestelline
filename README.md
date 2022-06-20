@@ -279,7 +279,6 @@
 - [depsterr/mpdart](https://github.com/depsterr/mpdart) - A simple X application that shows mpd album art. Mirror of https://git.depsterr.com/mpdart
 - [dcat/swm](https://github.com/dcat/swm) - simple window manager
 - [comfies/custard](https://github.com/comfies/custard) - custard window manager
-- [Sweets/fluttr](https://github.com/Sweets/fluttr) - Fluttr service manager
 - [comfies/cetch](https://github.com/comfies/cetch) - c sysfetch
 - [Sweets/hummingbird](https://github.com/Sweets/hummingbird) - Hummingbird init system for Linux based operating systems.
 - [thesofproject/sof](https://github.com/thesofproject/sof) - Sound Open Firmware
@@ -304,7 +303,7 @@
 - [gitluin/sara](https://github.com/gitluin/sara) - Originally a fork of catwm, now an offspring of dwm with a streamlined featureset, plus some bspwm.
 - [jdah/minecraft-weekend](https://github.com/jdah/minecraft-weekend) - Minecraft, but I made it in 48 hours.
 - [willeccles/bunny](https://github.com/willeccles/bunny) - 🐇 Light and fast Linux init primarily targeted at embedded systems (WIP - contributions welcome!)
-- [Taiko2k/TauonMusicBox](https://github.com/Taiko2k/TauonMusicBox) - The Linux desktop music player from the future! :city_sunset:
+- [Taiko2k/TauonMusicBox](https://github.com/Taiko2k/TauonMusicBox) - The desktop music player from the future! :city_sunset:
 - [RasPlex/OpenPHT](https://github.com/RasPlex/OpenPHT) - OpenPHT is a community driven fork of Plex Home Theater
 - [uditkarode/libxft-bgra](https://github.com/uditkarode/libxft-bgra) - A patched version of libxft that allows for colored emojis to be rendered in Suckless software (dmenu/st/whatever).
 - [werererer/japokwm](https://github.com/werererer/japokwm) - A wlroots and dwl based tiling wayland compositor based around creating layouts
@@ -1391,7 +1390,6 @@
 
 ## Objective-C++ 
 
-- [Sweets/mx](https://github.com/Sweets/mx) - Framework window manager for macOS
 - [KenjiTakahashi/pacmixer](https://github.com/KenjiTakahashi/pacmixer) - an alsamixer alike for PulseAudio.
 
 ## OpenSCAD 
