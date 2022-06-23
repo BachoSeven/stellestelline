@@ -534,7 +534,7 @@
 ## C++ 
 
 - [oxen-io/lokinet](https://github.com/oxen-io/lokinet) - Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
-- [vaxerski/Hyprland](https://github.com/vaxerski/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [Vantskruv/wejoy](https://github.com/Vantskruv/wejoy) - Tool to read physical joystick devices, keyboards aswell, and create virtual joystick devices and output keyboard presses on a Linux system.
 - [textbrowser/biblioteq](https://github.com/textbrowser/biblioteq) - BiblioteQ strives to be a professional archiving, cataloging, and library management suite, utilizing a Qt interface and providing connectivity to PostgreSQL and SQLite. The Open Library, SRU, and Z39
 - [ofloveandhate/bertini_real](https://github.com/ofloveandhate/bertini_real) - software for real algebraic sets
@@ -551,7 +551,7 @@
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [johang/btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
 - [lightspark/lightspark](https://github.com/lightspark/lightspark) - An open source flash player implementation
-- [vaxerski/Hypr](https://github.com/vaxerski/Hypr) - Hypr is a tiling window manager written in modern C++.
+- [hyprwm/Hypr](https://github.com/hyprwm/Hypr) - Hypr is a tiling window manager written in modern C++.
 - [Maldela/fancontrol-gui](https://github.com/Maldela/fancontrol-gui) - GUI for Fancontrol. It uses the KAuth module of the KDE Frameworks 5 to write the generated config file. Furthermore it communicates with systemd via dbus to control the fancontrol service. If you wan
 - [gokulmaxi/vantage](https://github.com/gokulmaxi/vantage) - Terminal user interface for legion laptops
 - [hrkfdn/mpdas](https://github.com/hrkfdn/mpdas) - MPD AudioScrobbler written in C++ using libcurl
