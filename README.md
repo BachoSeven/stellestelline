@@ -715,6 +715,7 @@
 - [3ximus/gruvbox-gtk](https://github.com/3ximus/gruvbox-gtk) - Gruvbox theme for gtk - created with oomox
 - [darch7/swaywm](https://github.com/darch7/swaywm) - 
 - [ernwsto/startpage](https://github.com/ernwsto/startpage) - my startpage
+- [LukeSmithxyz/landchad](https://github.com/LukeSmithxyz/landchad) - Landchad.net Website Tutorial Page
 - [QuentinCurri/pixel-startpage](https://github.com/QuentinCurri/pixel-startpage) - 
 - [SylEleuth/gruvbox-plus-gtk](https://github.com/SylEleuth/gruvbox-plus-gtk) - Gruvbox+ dark theme for GTK2 and GTK3
 - [vitaly-zdanevich/wikipedia-userstyle-dark-minimum](https://github.com/vitaly-zdanevich/wikipedia-userstyle-dark-minimum) - Dark and minimum userstyle for Wikipedia. You can set this style at the admin area of Wikipedia for your account - without any plugins for your browser
@@ -967,7 +968,6 @@
 - [easychen/not-only-fans](https://github.com/easychen/not-only-fans) - an open source, self-hosted digital content subscription platform like `onlyfans.com`  with  cryptocurrency payment
 - [FreeInit/freeinit.org](https://github.com/FreeInit/freeinit.org) - The FreeInit.org homepage
 - [timb-machine/linux-malware](https://github.com/timb-machine/linux-malware) - Tracking interesting Linux (and UNIX) malware. Send PRs
-- [LukeSmithxyz/landchad](https://github.com/LukeSmithxyz/landchad) - Landchad.net Website Tutorial Page
 - [MCotocel/startpage](https://github.com/MCotocel/startpage) - Custom startpage for Qutebrowser/Firefox
 - [grtcdr/linen](https://github.com/grtcdr/linen) - A light, calm and champagne-like colorscheme.
 - [matrix-org/matrix.org](https://github.com/matrix-org/matrix.org) - matrix.org public website
@@ -1051,6 +1051,7 @@
 
 ## JavaScript 
 
+- [Jelmerro/Vieb](https://github.com/Jelmerro/Vieb) - Vim Inspired Electron Browser - Vim bindings for the web by design
 - [aziis98/ext-open-pdf](https://github.com/aziis98/ext-open-pdf) - Chrome extension for openning a pdf in Evince
 - [cinnyapp/cinny-desktop](https://github.com/cinnyapp/cinny-desktop) - Yet another matrix client for desktop
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
@@ -1174,7 +1175,6 @@
 - [Boettner-eric/Tiles](https://github.com/Boettner-eric/Tiles) - A responsive design homepage with live search
 - [htor/synth](https://github.com/htor/synth) - A simple polyphonic synth in the browser
 - [sadparadiseinhell/null](https://github.com/sadparadiseinhell/null) - Another one simple startpage.
-- [Jelmerro/Vieb](https://github.com/Jelmerro/Vieb) - Vim Inspired Electron Browser - Vim bindings for the web by design
 - [mafintosh/peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client for node.js
 - [ItzBlitz98/torrentflix](https://github.com/ItzBlitz98/torrentflix) - Nodejs cli app to search torrent sites and stream using peerflix
 - [vector-im/hydrogen-web](https://github.com/vector-im/hydrogen-web) - Lightweight matrix client with legacy and mobile browser support
@@ -2231,7 +2231,6 @@
 - [ar-lex/cue2tracks](https://github.com/ar-lex/cue2tracks) - Tool for splitting audio CD image to tracks with cue sheet info.
 - [Awan/xdg-open](https://github.com/Awan/xdg-open) - An improved xdg-open.
 - [depsterr/mfetch](https://github.com/depsterr/mfetch) - Minimalist fetch
-- [ThatOneCalculator/NerdFetch](https://github.com/ThatOneCalculator/NerdFetch) - A POSIX *nix fetch script using Nerdfonts
 - [jitsi-contrib/jitas](https://github.com/jitsi-contrib/jitas) - Jitsi Assistant
 - [Kron4ek/Conty](https://github.com/Kron4ek/Conty) - Easy to use unprivileged Linux container packed into a single portable executable
 - [VoidCupboard/My_Eww_Scripts](https://github.com/VoidCupboard/My_Eww_Scripts) - Eww Scripts To Make Your Desktop Beautiful !
