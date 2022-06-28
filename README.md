@@ -1056,7 +1056,6 @@
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK eBook reader
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
-- [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [typeintandem/nvim](https://github.com/typeintandem/nvim) - Repository for the Tandem NeoVim Plugin
 - [aziis98/github-stars](https://github.com/aziis98/github-stars) - chrome extension to display github stars in repo links
@@ -2231,6 +2230,7 @@
 - [ar-lex/cue2tracks](https://github.com/ar-lex/cue2tracks) - Tool for splitting audio CD image to tracks with cue sheet info.
 - [Awan/xdg-open](https://github.com/Awan/xdg-open) - An improved xdg-open.
 - [depsterr/mfetch](https://github.com/depsterr/mfetch) - Minimalist fetch
+- [ThatOneCalculator/NerdFetch](https://github.com/ThatOneCalculator/NerdFetch) - A POSIX *nix fetch script using Nerdfonts
 - [jitsi-contrib/jitas](https://github.com/jitsi-contrib/jitas) - Jitsi Assistant
 - [Kron4ek/Conty](https://github.com/Kron4ek/Conty) - Easy to use unprivileged Linux container packed into a single portable executable
 - [VoidCupboard/My_Eww_Scripts](https://github.com/VoidCupboard/My_Eww_Scripts) - Eww Scripts To Make Your Desktop Beautiful !
@@ -2493,6 +2493,7 @@
 ## TypeScript 
 
 - [CAAL/CAAL](https://github.com/CAAL/CAAL) - CAAL (Concurrency Workbench, Aalborg Edition) is a web-based tool for modelling, visualization and verification of concurrent processes expressed in the well-known CCS language (Calculus of Communicat
+- [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [webosbrew/dev-manager-desktop](https://github.com/webosbrew/dev-manager-desktop) - Device/DevMode Manager for webOS TV
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim-mode for VS Code using embedded Neovim
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
@@ -2557,6 +2558,7 @@
 
 ## Vim script 
 
+- [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
 - [ionide/Ionide-vim](https://github.com/ionide/Ionide-vim) - F# Vim plugin based on FsAutoComplete and LSP protocol
 - [adelarsq/neofsharp.vim](https://github.com/adelarsq/neofsharp.vim) - Basic F# support for (Neo)Vim 🔷
 - [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
