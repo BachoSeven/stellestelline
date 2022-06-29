@@ -825,6 +825,8 @@
 
 ## Go 
 
+- [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage
+- [mayth/go-simple-upload-server](https://github.com/mayth/go-simple-upload-server) - Simple HTTP server to save artifacts
 - [doron-cohen/antidot](https://github.com/doron-cohen/antidot) - Cleans up your $HOME from those pesky dotfiles
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cosy typing speed tester
 - [leukipp/cortile](https://github.com/leukipp/cortile) - Tiling manager with hot corner support for EWMH Compliant Window Managers
@@ -1722,7 +1724,7 @@
 - [SolitudeSF/dot](https://github.com/SolitudeSF/dot) - heh, configs
 - [LazoCoder/Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokemon terminal themes.
 - [XayOn/torrentstream](https://github.com/XayOn/torrentstream) - Python simple BitTorrent streaming library based on libtorrent
-- [themayankjha/JAKYM](https://github.com/themayankjha/JAKYM) - JAKYM, Just Another Konsole YouTube-Music. A command line based Youtube music player written in Python with both Spotify and Youtube playlist support and easy on memory.
+- [themayankjha/JAKYM](https://github.com/themayankjha/JAKYM) - JAKYM, Just Another Konsole YouTube-Music. A command line based Youtube music player written in Python with both Spotify and Youtube playlist support and easy on memory. See README for installation in
 - [bdesham/chrome-export](https://github.com/bdesham/chrome-export) - Python scripts to convert Google Chrome’s bookmarks and history to the standard HTML-ish bookmarks file format.
 - [TeamVanced/Vanced](https://github.com/TeamVanced/Vanced) - Vanced Issues/Docs repo
 - [jmcarp/robobrowser](https://github.com/jmcarp/robobrowser) - 
