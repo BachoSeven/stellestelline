@@ -704,7 +704,6 @@
 - [DevilsDesigns/Jellyfin-DarkFlix-Theme](https://github.com/DevilsDesigns/Jellyfin-DarkFlix-Theme) - DarkFlix For Jellyfin is one of The Best Netflix Dark Theme for Jellyfin Around! Plus a big thanks to @prayag17 for the base and inspiration!
 - [CTalvio/Novachromic](https://github.com/CTalvio/Novachromic) - My third theme for Jellyfin media server, part of the "chromic" family.
 - [CTalvio/Monochromic](https://github.com/CTalvio/Monochromic) - A color muted, minimalistic theme for Jellyfin mediaserver created using CSS overrides
-- [prayag17/JellySkin](https://github.com/prayag17/JellySkin) - Vibrante/minimal Jellyfin CSS using custom Icons and more!!, created for Jellyfin web, can be used by just one line.
 - [i3d/term-themes](https://github.com/i3d/term-themes) - terminal themes I created
 - [chrisgdouglas/custom_css](https://github.com/chrisgdouglas/custom_css) - Collection of custom CSS files to override or compliment third party websites.
 - [AndrewBelt/WiTeX](https://github.com/AndrewBelt/WiTeX) - If Donald Knuth had designed Wikipedia
@@ -828,7 +827,7 @@
 - [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage
 - [mayth/go-simple-upload-server](https://github.com/mayth/go-simple-upload-server) - Simple HTTP server to save artifacts
 - [doron-cohen/antidot](https://github.com/doron-cohen/antidot) - Cleans up your $HOME from those pesky dotfiles
-- [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cosy typing speed tester
+- [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cozy typing speed tester
 - [leukipp/cortile](https://github.com/leukipp/cortile) - Tiling manager with hot corner support for EWMH Compliant Window Managers
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
@@ -1231,7 +1230,7 @@
 
 ## Kotlin 
 
-- [revanced/revanced-patches](https://github.com/revanced/revanced-patches) - 🧩 Official patches maintained by ReVanced
+- [revanced/revanced-patches](https://github.com/revanced/revanced-patches) - 🧩 Official patches by ReVanced
 - [revanced/revanced-patcher](https://github.com/revanced/revanced-patcher) - 💉 Patcher used by ReVanced
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative YouTube front end, for Android. [WIP]
 - [jkuester/unlauncher](https://github.com/jkuester/unlauncher) - Android minimalistic launcher
@@ -2093,6 +2092,7 @@
 - [rozniak/xfce-winxp-tc](https://github.com/rozniak/xfce-winxp-tc) - Windows XP stuff for XFCE
 - [vinibiavatti1/TuiCss](https://github.com/vinibiavatti1/TuiCss) - Text-based user interface CSS library
 - [ungoogled-software/ungoogled-software.github.io](https://github.com/ungoogled-software/ungoogled-software.github.io) - Website for ungoogled-chromium
+- [prayag17/JellySkin](https://github.com/prayag17/JellySkin) - Vibrante/minimal Jellyfin CSS using custom Icons and more!!, created for Jellyfin web, can be used by just one line.
 - [phocus/gtk](https://github.com/phocus/gtk) - From scratch, clean and opinionated GTK3 implementation of the phocus color scheme.
 - [elkowar/gtk](https://github.com/elkowar/gtk) - 
 - [pop-os/gtk-theme](https://github.com/pop-os/gtk-theme) - System76 Pop GTK+ Theme
