@@ -1906,7 +1906,7 @@
 - [raffomania/songsonar](https://github.com/raffomania/songsonar) - 📻 A smart spotify playlist with new releases from artists you follow
 - [j0ru/kickoff](https://github.com/j0ru/kickoff) - Minimalistic program launcher
 - [PureArtistry/oi](https://github.com/PureArtistry/oi) - trivia on the command line
-- [federico-terzi/espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander written in Rust
+- [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [agersant/polaris](https://github.com/agersant/polaris) - Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device.
 - [edouardpoitras/osm-geo-mapper](https://github.com/edouardpoitras/osm-geo-mapper) - Navigate OpenStreetMap data in the terminal
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
