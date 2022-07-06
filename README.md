@@ -950,6 +950,7 @@
 
 ## HTML 
 
+- [boris-marinov/category-theory-illustrated](https://github.com/boris-marinov/category-theory-illustrated) - A book about category theory
 - [agrothendieck/agrothendieck.github.io](https://github.com/agrothendieck/agrothendieck.github.io) - THÈMES POUR UNE HARMONIE
 - [lilnasy/scribblyscrobbly](https://github.com/lilnasy/scribblyscrobbly) - a web page to tidy up apple music and spotify streaming history for last.fm
 - [arxiv-vanity/engrafo](https://github.com/arxiv-vanity/engrafo) - Convert LaTeX documents into beautiful responsive web pages using LaTeXML.
@@ -1232,7 +1233,7 @@
 
 - [revanced/revanced-patches](https://github.com/revanced/revanced-patches) - 🧩 Official patches by ReVanced
 - [revanced/revanced-patcher](https://github.com/revanced/revanced-patcher) - 💉 Patcher used by ReVanced
-- [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative YouTube front end, for Android. [WIP]
+- [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative YouTube front end, for Android.
 - [jkuester/unlauncher](https://github.com/jkuester/unlauncher) - Android minimalistic launcher
 - [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android
 - [RusticFlare/pixel-sorter](https://github.com/RusticFlare/pixel-sorter) - A command line app for pixel sorting images
@@ -1414,10 +1415,10 @@
 - [ValveSoftware/SteamOS](https://github.com/ValveSoftware/SteamOS) - SteamOS community tracker
 - [glibg10b/ltt-linux-challenge-issues](https://github.com/glibg10b/ltt-linux-challenge-issues) - A list of issues Linus and Luke experienced during the LTT Linux Daily Driver Challenge
 - [Amog-OS/AmogOS](https://github.com/Amog-OS/AmogOS) - ඞ Among-us themed OS. As seen on Reddit and Youtube.
-- [chriskempson/base16](https://github.com/chriskempson/base16) - An architecture for building themes
 - [phc-dm/documentazione](https://github.com/phc-dm/documentazione) - Repository principale per la documentazione di ogni cosa presente nel PHC.
 - [phc-dm/forum](https://github.com/phc-dm/forum) - Forum di domande-risposta open soruce con wiki integrata (In cerca di una vero nome)
 - [NNBnh/bangs4all](https://github.com/NNBnh/bangs4all) - 
+- [ungoogled-software/ungoogled-chromium-debian](https://github.com/ungoogled-software/ungoogled-chromium-debian) - Debian, Ubuntu, and others packaging for ungoogled-chromium
 - [jnmcfly/awesome-startpage](https://github.com/jnmcfly/awesome-startpage) - This is a carefully compiled list of remarkable projects with the focus on startpages.
 - [TemporalAgent7/awesome-windows-privacy](https://github.com/TemporalAgent7/awesome-windows-privacy) - A list of awesome tools, documentation and scripts for better privacy on Microsoft Windows
 - [fiatjaf/awesome-loginless](https://github.com/fiatjaf/awesome-loginless) - an awesome list of internet services that don't require logins or registrations
@@ -1427,7 +1428,6 @@
 - [aynp/dracula-wallpapers](https://github.com/aynp/dracula-wallpapers) - Wallpapers based on the Dracula Theme
 - [spencerwooo/linux-wallpapers](https://github.com/spencerwooo/linux-wallpapers) - Linux Wallpapers designed according to Google's Material Design Guidelines.
 - [macchrome/linchrome](https://github.com/macchrome/linchrome) - ungoogled chromium portablelinux
-- [Rashad-707/rhombuses](https://github.com/Rashad-707/rhombuses) - 
 - [uuupah/pain27](https://github.com/uuupah/pain27) - a 27 key keyboard that is guaranteed to make you vomit in your own mouth, or your money back
 - [jellyfin/jellyfin-docs](https://github.com/jellyfin/jellyfin-docs) - Documentation for Jellyfin
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
@@ -1500,7 +1500,6 @@
 - [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
 - [hbtlabs/chromium-white-flash-fix](https://github.com/hbtlabs/chromium-white-flash-fix) - [deprecated (issue fixed)] chromium google-chrome white flash bug fix
 - [GSquad934/wallpapers](https://github.com/GSquad934/wallpapers) - My wallpapers
-- [chaotic-aur/packages](https://github.com/chaotic-aur/packages) - The packages Mason, what do they mean? (Package requests and bug reports here) 📑
 - [rsaihe/gruvbox-material-kitty](https://github.com/rsaihe/gruvbox-material-kitty) - A port of @sainnhe's Gruvbox Material theme for Kitty.
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 - [pagopa/io](https://github.com/pagopa/io) - Repository principale di IO: offre una mappa di informazioni e risorse per orientarsi nel progetto
@@ -2161,7 +2160,6 @@
 - [axyl-os/axyl-iso](https://github.com/axyl-os/axyl-iso) - Axyl is a Linux distro centered on tiling window managers. Choose from i3, bspwm, dwm and more.
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [MunifTanjim/zed](https://github.com/MunifTanjim/zed) - ZSH Plugin Manager
-- [ungoogled-software/ungoogled-chromium-debian](https://github.com/ungoogled-software/ungoogled-chromium-debian) - Debian, Ubuntu, and others packaging for ungoogled-chromium
 - [denysvitali/covid-cert-analysis](https://github.com/denysvitali/covid-cert-analysis) - 
 - [n0tsteve/glorious-dots](https://github.com/n0tsteve/glorious-dots) - My personal dotfiles
 - [tadly/hideIt.sh](https://github.com/tadly/hideIt.sh) - Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
@@ -2341,6 +2339,7 @@
 - [mlvzk/discocss](https://github.com/mlvzk/discocss) - A tiny Discord css-injector for Linux and MacOS.
 - [lemnos/theme.sh](https://github.com/lemnos/theme.sh) - A script which lets you set your $terminal theme.
 - [odilonscoelho/dots](https://github.com/odilonscoelho/dots) - Meus scripts
+- [chaotic-aur/packages](https://github.com/chaotic-aur/packages) - The packages Mason, what do they mean? (Package requests and bug reports here) 📑
 - [uriel1998/vindauga](https://github.com/uriel1998/vindauga) - Download and display album art or display embedded (or folder-based) album art using a bash script; a largely rewritten fork of kunst
 - [bobafetthotmail/refind-theme-regular](https://github.com/bobafetthotmail/refind-theme-regular) - 
 - [NNBnh/bfetch](https://github.com/NNBnh/bfetch) - 📠 Dynamic fetch displayer that SuperB
