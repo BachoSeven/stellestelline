@@ -131,6 +131,7 @@
 
 ## C 
 
+- [PhyTech-R0/phyOS-dwm](https://github.com/PhyTech-R0/phyOS-dwm) - wm for phyOS, alt + tab windows switching, png & icon supported status bar
 - [bakkeby/dwm-commented](https://github.com/bakkeby/dwm-commented) - A fork of dwm with comments explaining in detail how the window manager works
 - [vacaboja/tg](https://github.com/vacaboja/tg) - A program for timing mechanical watches
 - [mini-rose/rose](https://github.com/mini-rose/rose) - Minimalist browser based on webkit2 and GTK4.
@@ -1052,6 +1053,7 @@
 
 ## JavaScript 
 
+- [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
 - [Jelmerro/Vieb](https://github.com/Jelmerro/Vieb) - Vim Inspired Electron Browser - Vim bindings for the web by design
 - [aziis98/ext-open-pdf](https://github.com/aziis98/ext-open-pdf) - Chrome extension for openning a pdf in Evince
 - [cinnyapp/cinny-desktop](https://github.com/cinnyapp/cinny-desktop) - Yet another matrix client for desktop
