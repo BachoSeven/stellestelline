@@ -197,7 +197,7 @@
 - [file/file](https://github.com/file/file) - Read-only mirror of file CVS repository, updated every half hour. NOTE: do not make pull requests here, nor comment any commits, submit them usual way to bug tracker or to the mailing list. Maintainer
 - [ryanflannery/vitunes](https://github.com/ryanflannery/vitunes) - A curses media indexer and player for vi users
 - [ghaerr/microwindows](https://github.com/ghaerr/microwindows) - The Nano-X Window System
-- [mssx86/apathy](https://github.com/mssx86/apathy) - pistol whip yo bitch shoot her in da neck
+- [mssx86/apathy](https://github.com/mssx86/apathy) - apathy is an independent operating system featuring linux in its core.
 - [Aalbus-linux/Aalbus](https://github.com/Aalbus-linux/Aalbus) - The master repository for the Aalbus distribution
 - [intel/sgx-software-enable](https://github.com/intel/sgx-software-enable) - 
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
@@ -838,7 +838,7 @@
 - [xyproto/kal](https://github.com/xyproto/kal) - :card_index: Utility with red days and flag flying days + calendar package for Go
 - [xyproto/interfaces](https://github.com/xyproto/interfaces) - :mate: List all network interfaces
 - [xyproto/wallutils](https://github.com/xyproto/wallutils) - :city_sunset: Utilities for handling monitors, resolutions, wallpapers and timed wallpapers
-- [xyproto/o](https://github.com/xyproto/o) - :cyclone: Config-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles w
+- [xyproto/o](https://github.com/xyproto/o) - :cyclone: Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile c
 - [mrusme/reader](https://github.com/mrusme/reader) - reader is for your command line what the “readability” view is for modern browsers: A lightweight tool offering better readability of web pages on the CLI.
 - [quantumsheep/sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH
 - [diamondburned/gotktrix](https://github.com/diamondburned/gotktrix) - Matrix client in Go and GTK4
@@ -2142,7 +2142,7 @@
 - [k-vernooy/dotfiles](https://github.com/k-vernooy/dotfiles) - An organizational repository for my dotfiles and scripts
 - [rxyhn/bspdots](https://github.com/rxyhn/bspdots) - BSPWM - Aesthetic Dotfiles 🍚
 - [thomaseizinger/pkgbuilds](https://github.com/thomaseizinger/pkgbuilds) - A collection of personal AUR packages.
-- [MiMillieuh/Photoshop-CC2022-Linux](https://github.com/MiMillieuh/Photoshop-CC2022-Linux) - Installer for Photoshop CC 2022 on linux with a GUI
+- [MiMillieuh/Photoshop-CC2022-Linux](https://github.com/MiMillieuh/Photoshop-CC2022-Linux) - Installer from Photoshop CC 2021 to 2022 on linux with a GUI
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [M-Reimer/wine-lol](https://github.com/M-Reimer/wine-lol) - Patched wine-staging and glibc with fix needed to run League Of Legends
