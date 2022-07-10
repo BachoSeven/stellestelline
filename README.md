@@ -1090,7 +1090,6 @@
 - [WeebDev/chibisafe](https://github.com/WeebDev/chibisafe) - Blazing fast file uploader and awesome bunker written in node! 🚀
 - [karabaja4/mimejs](https://github.com/karabaja4/mimejs) - A replacement for xdg-open written in Node.js
 - [cloudrac3r/cadencegq](https://github.com/cloudrac3r/cadencegq) - This used to be the code for my personal website, but I've since rewritten everything. The old code lives here as a relic of the past.
-- [dothq/browser](https://github.com/dothq/browser) - The browser that fights for your privacy.
 - [sonnyp/Tangram](https://github.com/sonnyp/Tangram) - Browser for your pinned tabs
 - [airsonic-advanced/airsonic-advanced](https://github.com/airsonic-advanced/airsonic-advanced) - 
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
@@ -1331,7 +1330,7 @@
 - [ellisonleao/glow.nvim](https://github.com/ellisonleao/glow.nvim) - A markdown preview directly in your neovim.
 - [ChrisTitusTech/TitusPi](https://github.com/ChrisTitusTech/TitusPi) - Custom CTT Pi based linux distro
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
-- [JavaCafe01/dotfiles](https://github.com/JavaCafe01/dotfiles) - My desktop and WSL configuration files
+- [JavaCafe01/dotnix](https://github.com/JavaCafe01/dotnix) - My desktop and WSL configuration files
 - [WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
 - [manilarome/the-glorious-dotfiles](https://github.com/manilarome/the-glorious-dotfiles) - A glorified personal dot files
 - [jgreco/mpv-youtube-quality](https://github.com/jgreco/mpv-youtube-quality) - A userscript for MPV that allows you to change youtube video quality (ytdl-format) on the fly
@@ -2092,7 +2091,7 @@
 - [rozniak/xfce-winxp-tc](https://github.com/rozniak/xfce-winxp-tc) - Windows XP stuff for XFCE
 - [vinibiavatti1/TuiCss](https://github.com/vinibiavatti1/TuiCss) - Text-based user interface CSS library
 - [ungoogled-software/ungoogled-software.github.io](https://github.com/ungoogled-software/ungoogled-software.github.io) - Website for ungoogled-chromium
-- [prayag17/JellySkin](https://github.com/prayag17/JellySkin) - Vibrante/minimal Jellyfin CSS using custom Icons and more!!, created for Jellyfin web, can be used by just one line.
+- [prayag17/JellySkin](https://github.com/prayag17/JellySkin) - Vibrante/minimal Jellyfin CSS using custom Icons and more!!, created for Jellyfin web :film_strip:, can be used by just one line.
 - [phocus/gtk](https://github.com/phocus/gtk) - From scratch, clean and opinionated GTK3 implementation of the phocus color scheme.
 - [elkowar/gtk](https://github.com/elkowar/gtk) - 
 - [pop-os/gtk-theme](https://github.com/pop-os/gtk-theme) - System76 Pop GTK+ Theme
@@ -2502,6 +2501,7 @@
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [jeffvli/sonixd](https://github.com/jeffvli/sonixd) - A full-featured Subsonic/Jellyfin compatible desktop music player
 - [PrettyCoffee/startpage](https://github.com/PrettyCoffee/startpage) - A React library which provides tools that help creating browser startpages in react.
+- [dothq/browser](https://github.com/dothq/browser) - The browser that fights for your privacy.
 - [xbrowsersync/api](https://github.com/xbrowsersync/api) - Server-side REST API that serves requests from xBrowserSync client apps
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
 - [imLinguin/jelly-desktop](https://github.com/imLinguin/jelly-desktop) - Simple community made desktop client for Jellyfin
