@@ -352,7 +352,7 @@
 - [huijunchen9260/tabbed-hjc](https://github.com/huijunchen9260/tabbed-hjc) - A missing tab layout for any windows manager / desktop environment
 - [kevinconway/remouseable](https://github.com/kevinconway/remouseable) - Use a reMarkable tablet as a mouse.
 - [LinusCDE/rmTabletDriver](https://github.com/LinusCDE/rmTabletDriver) - A userspace tablet driver on Linux for the reMarkable Paper Tablet
-- [jinfeihan57/p7zip](https://github.com/jinfeihan57/p7zip) - A new p7zip fork with additional codecs and improvements (forked from https://sourceforge.net/projects/p7zip/).
+- [jinfeihan57/p7zip](https://github.com/jinfeihan57/p7zip) - A new p7zip fork with additional codecs and improvements (forked from https://sourceforge.net/projects/sevenzip/ AND https://sourceforge.net/projects/p7zip/).
 - [troglobit/finit](https://github.com/troglobit/finit) - Fast init for Linux. Cookies included
 - [wmutils/opt](https://github.com/wmutils/opt) - optional addons to wmutils
 - [jcs/sdorfehs](https://github.com/jcs/sdorfehs) - A tiling window manager
@@ -1261,6 +1261,7 @@
 
 ## Lua 
 
+- [seanstertm/Isaac-Regret-Pedestals](https://github.com/seanstertm/Isaac-Regret-Pedestals) - A git repo for my isaac mod
 - [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Neovim plugin with collection of minimal, independent, and fast Lua modules dedicated to improve Neovim (version 0.5 and higher) experience
 - [kwakzalver/duckytype.nvim](https://github.com/kwakzalver/duckytype.nvim) - NeoVim plugin simulating monkeytype.com
 - [letoram/cat9](https://github.com/letoram/cat9) - A User shell for LASH
@@ -1342,7 +1343,7 @@
 - [simmaco99/SimplessoPrimale](https://github.com/simmaco99/SimplessoPrimale) - Algoritmo del Simplesso Primale
 - [lukefleed/lab-didattico](https://github.com/lukefleed/lab-didattico) - Esercizi svolti di Laboratorio Didattico di Matematica Computazionale [2020/2021]
 - [elvilio/Laboratorio-Didattico-di-Matematica-Computazionale](https://github.com/elvilio/Laboratorio-Didattico-di-Matematica-Computazionale) - 
-- [isantosruiz/inequality-plot](https://github.com/isantosruiz/inequality-plot) - MATLAB code to plot inequalities in 2-D spaces
+- [isantosruiz/inequalityplot](https://github.com/isantosruiz/inequalityplot) - Plot inequalities in 2-D space
 
 ## Macaulay2 
 
@@ -1409,7 +1410,6 @@
 - [graysky2/kernel_compiler_patch](https://github.com/graysky2/kernel_compiler_patch) - Kernel patch enables compiler optimizations for additional CPUs.
 - [uzkbwza/viii](https://github.com/uzkbwza/viii) - a small bitmap font for coding
 - [JingOS-team/JingOS](https://github.com/JingOS-team/JingOS) - Awesome - JingOS - The World’s First Linux-based OS design for Tablets
-- [Fausto-Korpsvart/Gruvbox-GTK-Theme](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme) - A GTK theme based on the Gruvbox colour palette.
 - [AsahiLinux/docs](https://github.com/AsahiLinux/docs) - Hardware and software docs / wiki
 - [dmi3/blockdevspam](https://github.com/dmi3/blockdevspam) - 
 - [basings/selfhosted-music-overview](https://github.com/basings/selfhosted-music-overview) - A table listing software network services which can be hosted on your own servers
