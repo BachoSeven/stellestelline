@@ -131,7 +131,7 @@
 
 ## C 
 
-- [PhyTech-R0/phyOS-dwm](https://github.com/PhyTech-R0/phyOS-dwm) - wm for phyOS, alt + tab windows switching, png & icon supported status bar
+- [FT-Labs/phyOS-dwm](https://github.com/FT-Labs/phyOS-dwm) - wm for phyOS, alt + tab windows switching, png & icon supported status bar
 - [bakkeby/dwm-commented](https://github.com/bakkeby/dwm-commented) - A fork of dwm with comments explaining in detail how the window manager works
 - [vacaboja/tg](https://github.com/vacaboja/tg) - A program for timing mechanical watches
 - [mini-rose/rose](https://github.com/mini-rose/rose) - Minimalist browser based on webkit2 and GTK4.
@@ -915,7 +915,7 @@
 - [normen/whatscli](https://github.com/normen/whatscli) - A command line interface for WhatsApp
 - [zquestz/s](https://github.com/zquestz/s) - Open a web search in your terminal.
 - [kkdai/youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
-- [verless/verless](https://github.com/verless/verless) - A simple and lightweight Static Site Generator
+- [verless/verless](https://github.com/verless/verless) - A Static Site Generator designed for Markdown-based content with a focus on simplicity and performance.
 - [mlvzk/piko](https://github.com/mlvzk/piko) - Light and simple media downloader with support for Youtube, Soundcloud, Imgur, Facebook, Twitter, Instagram, 4chan
 - [phc-dm/phc-auth](https://github.com/phc-dm/phc-auth) - Servizio di autenticazione attraverso LDAP
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
@@ -1047,7 +1047,6 @@
 - [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Traditional roguelike game with pixel-art graphics and simple interface
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
-- [ubergeek42/weechat-android](https://github.com/ubergeek42/weechat-android) - Simple Weechat-Relay Android Client
 - [Telegram-FOSS-Team/Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Unofficial, FOSS-friendly fork of the original Telegram client for Android
 - [Dar9586/NClientV2](https://github.com/Dar9586/NClientV2) - An unofficial NHentai android client
 
@@ -1246,6 +1245,7 @@
 - [allgood/OpenNoteScanner](https://github.com/allgood/OpenNoteScanner) - Android application for scanning and manipulating handwritten notes and documents.
 - [tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher) - Minimal AF launcher app for Android. Available at F-Droid and Play Store.
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
+- [ubergeek42/weechat-android](https://github.com/ubergeek42/weechat-android) - Simple Weechat-Relay Android Client
 - [lposidon/posidonLauncher](https://github.com/lposidon/posidonLauncher) - a one-page homescreen with a news feed (discontinued)
 
 ## Lean 
@@ -1302,6 +1302,7 @@
 - [Uni-qi/dotfiles](https://github.com/Uni-qi/dotfiles) - dots
 - [elianiva/dotfiles](https://github.com/elianiva/dotfiles) - .
 - [zlj-zz/nvim](https://github.com/zlj-zz/nvim) - This is my neovim, good vim configuration.
+- [marcothms/dots](https://github.com/marcothms/dots) - my main configuration files
 - [monaqa/dial.nvim](https://github.com/monaqa/dial.nvim) - enhanced increment/decrement plugin for Neovim.
 - [zegervdv/nrpattern.nvim](https://github.com/zegervdv/nrpattern.nvim) - Neovim plugin to expand incrementing/decrementing to more formats.
 - [glepnir/galaxyline.nvim](https://github.com/glepnir/galaxyline.nvim) - neovim statusline plugin written in lua
@@ -1891,6 +1892,7 @@
 
 ## Rust 
 
+- [nitnelave/lldap](https://github.com/nitnelave/lldap) - Light LDAP implementation
 - [jfecher/ante](https://github.com/jfecher/ante) - A safe, easy systems language
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
 - [pop-os/pop](https://github.com/pop-os/pop) - A project for managing all Pop!_OS sources
@@ -2278,7 +2280,6 @@
 - [dylanaraps/pxltrm](https://github.com/dylanaraps/pxltrm) - 🖌️ pxltrm - [WIP] A pixel art editor inside the terminal
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
 - [jhuntwork/merelinux](https://github.com/jhuntwork/merelinux) - A lightweight Linux distribution using musl libc, pacman and s6
-- [marcothms/dots](https://github.com/marcothms/dots) - my main configuration files
 - [z3ntu/archhurd_packages](https://github.com/z3ntu/archhurd_packages) - Packages for Arch Hurd
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [zsh-vi-more/vi-motions](https://github.com/zsh-vi-more/vi-motions) - All the motions you could ask for and more for Zsh's vi mode.
