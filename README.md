@@ -1239,7 +1239,7 @@
 - [RusticFlare/pixel-sorter](https://github.com/RusticFlare/pixel-sorter) - A command line app for pixel sorting images
 - [Taiko2k/TauonMusicRemote](https://github.com/Taiko2k/TauonMusicRemote) - Andorid remote app for Tauon Music Box
 - [funkyg/funkytunes](https://github.com/funkyg/funkytunes) - A streaming music player for Android, using torrents.
-- [SimonSchubert/LinuxCommandLibrary](https://github.com/SimonSchubert/LinuxCommandLibrary) - Andorid app which provides a bunch of useful Linux commands.
+- [SimonSchubert/LinuxCommandLibrary](https://github.com/SimonSchubert/LinuxCommandLibrary) - 1M+ downloads Linux reference app with basics, tips and formatted man pages
 - [dkter/aaaaa](https://github.com/dkter/aaaaa) - a minimalist keyboard
 - [TeamVanced/VancedManager](https://github.com/TeamVanced/VancedManager) - Vanced Installer
 - [allgood/OpenNoteScanner](https://github.com/allgood/OpenNoteScanner) - Android application for scanning and manipulating handwritten notes and documents.
