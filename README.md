@@ -131,6 +131,7 @@
 
 ## C 
 
+- [alols/xcape](https://github.com/alols/xcape) - Linux utility to configure modifier keys to act as other keys when pressed and released on their own.
 - [FT-Labs/phyOS-dwm](https://github.com/FT-Labs/phyOS-dwm) - wm for phyOS, alt + tab windows switching, png & icon supported status bar
 - [bakkeby/dwm-commented](https://github.com/bakkeby/dwm-commented) - A fork of dwm with comments explaining in detail how the window manager works
 - [vacaboja/tg](https://github.com/vacaboja/tg) - A program for timing mechanical watches
@@ -188,7 +189,7 @@
 - [sacd-ripper/sacd-ripper](https://github.com/sacd-ripper/sacd-ripper) - SACD ripping software using a PS3
 - [nsxiv/nsxiv](https://github.com/nsxiv/nsxiv) - Read-only mirror of Neo Simple X Image Viewer
 - [GiacomoLaw/Keylogger](https://github.com/GiacomoLaw/Keylogger) - A simple keylogger for Windows, Linux and Mac
-- [J-Lentz/iwgtk](https://github.com/J-Lentz/iwgtk) - Lightweight wireless network management GUI (front-end for iwd)
+- [J-Lentz/iwgtk](https://github.com/J-Lentz/iwgtk) - Lightweight wireless networking GUI (front-end for iwd)
 - [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer designed for reading research papers and technical books.
 - [Audio4Linux/JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux) - An audio effect processor for PipeWire and PulseAudio clients
@@ -1332,7 +1333,7 @@
 - [ellisonleao/glow.nvim](https://github.com/ellisonleao/glow.nvim) - A markdown preview directly in your neovim.
 - [ChrisTitusTech/TitusPi](https://github.com/ChrisTitusTech/TitusPi) - Custom CTT Pi based linux distro
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
-- [JavaCafe01/dotnix](https://github.com/JavaCafe01/dotnix) - My desktop and WSL configuration files
+- [JavaCafe01/dotfiles](https://github.com/JavaCafe01/dotfiles) - My desktop and WSL configuration files
 - [WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
 - [manilarome/the-glorious-dotfiles](https://github.com/manilarome/the-glorious-dotfiles) - A glorified personal dot files
 - [jgreco/mpv-youtube-quality](https://github.com/jgreco/mpv-youtube-quality) - A userscript for MPV that allows you to change youtube video quality (ytdl-format) on the fly
@@ -1586,6 +1587,7 @@
 
 ## Python 
 
+- [cmang/durdraw](https://github.com/cmang/durdraw) - Animated Unicode, ANSI and ASCII Art Editor for Linux/Unix/macOS
 - [MichaelStott/SimplexSolver](https://github.com/MichaelStott/SimplexSolver) - Python script that solves standard linear programs with the Simplex algorithm and outputs step-by-step LaTeX instructions.
 - [vmavromatis/absolutely-proprietary](https://github.com/vmavromatis/absolutely-proprietary) - Proprietary package detector for arch-based distros. Compares your installed packages against Parabola's package blacklist and then prints your Stallman Freedom Index (free/total).
 - [Chia-Network/chia-blockchain](https://github.com/Chia-Network/chia-blockchain) - Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)
