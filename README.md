@@ -958,7 +958,7 @@
 - [arxiv-vanity/engrafo](https://github.com/arxiv-vanity/engrafo) - Convert LaTeX documents into beautiful responsive web pages using LaTeXML.
 - [RootMyTV/RootMyTV.github.io](https://github.com/RootMyTV/RootMyTV.github.io) - RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs.
 - [Animenosekai/freeWolframAlpha](https://github.com/Animenosekai/freeWolframAlpha) - Unlock/Receive FREE unlimited access to Wolfram|Alpha's full Step-by-step solutions.
-- [WolfreeAlpha/WolfreeAlpha.github.io](https://github.com/WolfreeAlpha/WolfreeAlpha.github.io) - All files in this repository are created by wolfree.sh except for the following three files: .gitlab-ci.yml .nojekyll _config.yml
+- [WolfreeAlpha/WolfreeAlpha.github.io](https://github.com/WolfreeAlpha/WolfreeAlpha.github.io) - All files in this directory are output from wolfree.sh. Running wolfree.sh should automatically generate all the files in this directory. The source code for wolfree.sh is available on this Gitea serv
 - [alangpierce/TheProofIsTrivial](https://github.com/alangpierce/TheProofIsTrivial) - Math-themed single-serving site
 - [AdaptiveScale/lxdui](https://github.com/AdaptiveScale/lxdui) - LXDUI is a web UI for the native Linux container technology LXD/LXC
 - [phc-dm/content-poisson](https://github.com/phc-dm/content-poisson) - Tutti i contenuti inseriti in Poisson e.g. articoli, guide, ecc.
@@ -1289,7 +1289,7 @@
 - [NNBnh/dotfiles](https://github.com/NNBnh/dotfiles) - 📂 My personal Đotfiles
 - [sayanarijit/material-landscape2.xplr](https://github.com/sayanarijit/material-landscape2.xplr) - xplr theme - Material Landscape 2
 - [sayanarijit/material-landscape.xplr](https://github.com/sayanarijit/material-landscape.xplr) - xple theme - Material Landscape
-- [prncss-xyz/icons.xplr](https://github.com/prncss-xyz/icons.xplr) - xplr icon theme
+- [prncss-xyz/icons.xplr](https://github.com/prncss-xyz/icons.xplr) - icon theme for xplr file manager
 - [sayanarijit/.files](https://github.com/sayanarijit/.files) - Just some files for my personal use
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [notomo/gesture.nvim](https://github.com/notomo/gesture.nvim) - Mouse gesture plugin for neovim
