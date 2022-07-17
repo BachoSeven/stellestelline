@@ -845,7 +845,7 @@
 - [diamondburned/gotktrix](https://github.com/diamondburned/gotktrix) - Matrix client in Go and GTK4
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / subsonic server API implementation
-- [raitonoberu/sptlrx](https://github.com/raitonoberu/sptlrx) - Spotify lyrics in your terminal.
+- [raitonoberu/sptlrx](https://github.com/raitonoberu/sptlrx) - Timesynced lyrics in your terminal
 - [blrsn/zentile](https://github.com/blrsn/zentile) - Automatic Tiling for EWMH Compliant Window Managers
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [makeworld-the-better-one/amfora](https://github.com/makeworld-the-better-one/amfora) - A fancy terminal browser for the Gemini protocol.
