@@ -31,7 +31,6 @@
 - [GLSL](#glsl)
 - [Go](#go)
 - [Groovy](#groovy)
-- [HCL](#hcl)
 - [HTML](#html)
 - [Haskell](#haskell)
 - [HolyC](#holyc)
@@ -946,10 +945,6 @@
 
 - [zlatinb/muwire](https://github.com/zlatinb/muwire) - MuWire file sharing client for I2P
 
-## HCL 
-
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
-
 ## HTML 
 
 - [boris-marinov/category-theory-illustrated](https://github.com/boris-marinov/category-theory-illustrated) - A book about category theory
@@ -1271,6 +1266,7 @@
 - [brainfucksec/neovim-lua](https://github.com/brainfucksec/neovim-lua) - Neovim KISS configuration with Lua
 - [angelofallars/dotfiles](https://github.com/angelofallars/dotfiles) - 🦀 My dotfiles on Artix Linux. Neovim | tmux | KDE Plasma
 - [is0n/fm-nvim](https://github.com/is0n/fm-nvim) - 🗂 Neovim plugin that lets you use your favorite terminal file managers (and fuzzy finders) from within Neovim.
+- [lmburns/dotfiles](https://github.com/lmburns/dotfiles) - Dotfiles for Arch Linux - neovim, zsh
 - [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim) - Neovim motions on speed!
 - [harvardnlp/im2markup](https://github.com/harvardnlp/im2markup) - Neural model for converting Image-to-Markup (by Yuntian Deng yuntiandeng.com)
 - [ChocolateBread799/dotfiles](https://github.com/ChocolateBread799/dotfiles) - My Awesomewm dotfile
@@ -1459,7 +1455,7 @@
 - [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
 - [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine
 - [zX3no/ncmpcpp-windows](https://github.com/zX3no/ncmpcpp-windows) - Guide for ncmpcpp on windows.
-- [beucismis/awesome-fetch](https://github.com/beucismis/awesome-fetch) - Command-line fetch tools for system information
+- [beucismis/awesome-fetch](https://github.com/beucismis/awesome-fetch) - Command-line fetch tools for system/other information
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [thaiducdung255/vieb-conf](https://github.com/thaiducdung255/vieb-conf) - personal configs for vieb
 - [JavaCafe01/wallpapers](https://github.com/JavaCafe01/wallpapers) - Backgrounds that I used on my desktops
@@ -1587,6 +1583,7 @@
 
 ## Python 
 
+- [lukefleed/auto-graph](https://github.com/lukefleed/auto-graph) - 
 - [cmang/durdraw](https://github.com/cmang/durdraw) - Animated Unicode, ANSI and ASCII Art Editor for Linux/Unix/macOS
 - [MichaelStott/SimplexSolver](https://github.com/MichaelStott/SimplexSolver) - Python script that solves standard linear programs with the Simplex algorithm and outputs step-by-step LaTeX instructions.
 - [vmavromatis/absolutely-proprietary](https://github.com/vmavromatis/absolutely-proprietary) - Proprietary package detector for arch-based distros. Compares your installed packages against Parabola's package blacklist and then prints your Stallman Freedom Index (free/total).
@@ -1601,6 +1598,7 @@
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [agent255/clspotify](https://github.com/agent255/clspotify) - Spotify song downloader without injecting into the windows client
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
 - [nix-gui/nix-gui](https://github.com/nix-gui/nix-gui) - Use NixOS Without Coding
 - [Sulius/Spotify-to-LastFM-Converter](https://github.com/Sulius/Spotify-to-LastFM-Converter) - Let's you import your Spotify history .json-file into Universal Scrobbler.
 - [webosbrew/apps-repo](https://github.com/webosbrew/apps-repo) - Central repo for webOS Homebrew apps
@@ -2153,7 +2151,6 @@
 - [mudler/linuxbundles](https://github.com/mudler/linuxbundles) - :penguin: Standalone, local-runnable binaries of popular linux distributions
 - [Maccraft123/Cadmium](https://github.com/Maccraft123/Cadmium) - 
 - [rupa/z](https://github.com/rupa/z) - z - jump around
-- [lmburns/dotfiles](https://github.com/lmburns/dotfiles) - Dotfiles for Arch Linux - neovim, zsh
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [tyzoid/btw](https://github.com/tyzoid/btw) - Correcting glaring omissions from BtwOS
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
