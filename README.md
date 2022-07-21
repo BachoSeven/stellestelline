@@ -31,6 +31,7 @@
 - [GLSL](#glsl)
 - [Go](#go)
 - [Groovy](#groovy)
+- [HLSL](#hlsl)
 - [HTML](#html)
 - [Haskell](#haskell)
 - [HolyC](#holyc)
@@ -533,6 +534,8 @@
 
 ## C++ 
 
+- [IMAGINARY/surfer-alggeo-gtk](https://github.com/IMAGINARY/surfer-alggeo-gtk) - Sources of SURFER 2008, which is written in C++ and GTK 2
+- [Singular/Singular](https://github.com/Singular/Singular) - sources for the Singular computer algebra system
 - [oxen-io/lokinet](https://github.com/oxen-io/lokinet) - Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [Vantskruv/wejoy](https://github.com/Vantskruv/wejoy) - Tool to read physical joystick devices, keyboards aswell, and create virtual joystick devices and output keyboard presses on a Linux system.
@@ -945,6 +948,10 @@
 
 - [zlatinb/muwire](https://github.com/zlatinb/muwire) - MuWire file sharing client for I2P
 
+## HLSL 
+
+- [IMAGINARY/SURFER](https://github.com/IMAGINARY/SURFER) - Sources of Java version of SURFER (which uses JavaFX 1.3.1)
+
 ## HTML 
 
 - [boris-marinov/category-theory-illustrated](https://github.com/boris-marinov/category-theory-illustrated) - A book about category theory
@@ -1294,7 +1301,7 @@
 - [hrsh7th/nvim-compe](https://github.com/hrsh7th/nvim-compe) - Auto completion Lua plugin for nvim
 - [folke/zen-mode.nvim](https://github.com/folke/zen-mode.nvim) - 🧘  Distraction-free coding for Neovim
 - [Ansuel/tch-nginx-gui](https://github.com/Ansuel/tch-nginx-gui) - Modified file to apply to a stock technicolor GUI
-- [Pocco81/TrueZen.nvim](https://github.com/Pocco81/TrueZen.nvim) - 🦝 Clean and elegant distraction-free writing for NeoVim
+- [Pocco81/true-zen.nvim](https://github.com/Pocco81/true-zen.nvim) - 🦝 Clean and elegant distraction-free writing for NeoVim
 - [Uni-qi/dotfiles](https://github.com/Uni-qi/dotfiles) - dots
 - [elianiva/dotfiles](https://github.com/elianiva/dotfiles) - .
 - [zlj-zz/nvim](https://github.com/zlj-zz/nvim) - This is my neovim, good vim configuration.
@@ -1374,7 +1381,7 @@
 
 ## Nix 
 
-- [PedroHLC/system-setup](https://github.com/PedroHLC/system-setup) - Recipe for creating my NixOS and ArchLinux's rootfs. (ZFS and Sway)
+- [PedroHLC/system-setup](https://github.com/PedroHLC/system-setup) - Recipe for creating my NixOS machines. (ZFS and Sway)
 - [alexherbo2/dotfiles](https://github.com/alexherbo2/dotfiles) - Personal configuration files
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
 
@@ -1426,7 +1433,7 @@
 - [aynp/dracula-wallpapers](https://github.com/aynp/dracula-wallpapers) - Wallpapers based on the Dracula Theme
 - [spencerwooo/linux-wallpapers](https://github.com/spencerwooo/linux-wallpapers) - Linux Wallpapers designed according to Google's Material Design Guidelines.
 - [macchrome/linchrome](https://github.com/macchrome/linchrome) - ungoogled chromium portablelinux
-- [uuupah/pain27](https://github.com/uuupah/pain27) - a 27 key keyboard that is guaranteed to make you vomit in your own mouth, or your money back
+- [uuupah/pain27_kb](https://github.com/uuupah/pain27_kb) - a 27 key keyboard that is guaranteed to make you vomit in your own mouth, or your money back
 - [jellyfin/jellyfin-docs](https://github.com/jellyfin/jellyfin-docs) - Documentation for Jellyfin
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
 - [MaxGyver83/dwm-goback](https://github.com/MaxGyver83/dwm-goback) - Patch for dwm that enables going back to the previously focused tagset not restricted to the focused monitor
@@ -2124,6 +2131,7 @@
 
 ## Shell 
 
+- [BachoSeven/aur](https://github.com/BachoSeven/aur) - My PKGBUILDS
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [wincent/vim-university](https://github.com/wincent/vim-university) - A curriculum for leveling up your Vim
 - [ianthehenry/zsh-autoquoter](https://github.com/ianthehenry/zsh-autoquoter) - automatically quote arguments to commands like `git commit -m`
@@ -2562,6 +2570,7 @@
 
 ## Vim script 
 
+- [hkopp/dotfiles](https://github.com/hkopp/dotfiles) - Config files
 - [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
 - [ionide/Ionide-vim](https://github.com/ionide/Ionide-vim) - F# Vim plugin based on FsAutoComplete and LSP protocol
 - [adelarsq/neofsharp.vim](https://github.com/adelarsq/neofsharp.vim) - Basic F# support for (Neo)Vim 🔷
