@@ -2012,7 +2012,7 @@
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [jhbabon/scout](https://github.com/jhbabon/scout) - Friendly fuzzy finder made in rust
 - [VixenUtils/Myxer](https://github.com/VixenUtils/Myxer) - A modern Volume Mixer for PulseAudio.
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
 - [soywod/himalaya](https://github.com/soywod/himalaya) - Command-line interface for email management
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [Soft/xcolor](https://github.com/Soft/xcolor) - Lightweight color picker for X11
@@ -2579,7 +2579,7 @@
 - [jcs/dotfiles](https://github.com/jcs/dotfiles) - ftp -o - https://jcs.org/move_in | sh -
 - [ludovicchabant/vim-gutentags](https://github.com/ludovicchabant/vim-gutentags) - A Vim plugin that manages your tag files
 - [mattn/emmet-vim](https://github.com/mattn/emmet-vim) - emmet for vim: http://emmet.io/
-- [srdz-af/vimrc](https://github.com/srdz-af/vimrc) - My personal vim config file.
+- [srdz-af/vim-ide](https://github.com/srdz-af/vim-ide) - My personal vim config file.
 - [mattn/vim-tanakh](https://github.com/mattn/vim-tanakh) - (´･_･`)
 - [gauteh/vim-cppman](https://github.com/gauteh/vim-cppman) - Plugin for use of cppman ("C++ 98/11/14 manual pages for Linux/MacOS" ) from within Vim
 - [wellle/context.vim](https://github.com/wellle/context.vim) - Vim plugin that shows the context of the currently visible buffer contents
