@@ -1222,6 +1222,7 @@
 
 ## Julia 
 
+- [JuliaHomotopyContinuation/HomotopyContinuation.jl](https://github.com/JuliaHomotopyContinuation/HomotopyContinuation.jl) - A Julia package for solving systems of polynomials via homotopy continuation.
 - [caseykneale/VIMKiller](https://github.com/caseykneale/VIMKiller) - Exiting VIM is hard; sometimes we need to take drastic measures
 
 ## Jupyter Notebook 
@@ -2476,6 +2477,7 @@
 
 ## TeX 
 
+- [domenicozambella/creche](https://github.com/domenicozambella/creche) - A Crèche Course in Model Theory. Lecture notes for an introductory (under)graduate couse in model theory
 - [ryankeleti/ega](https://github.com/ryankeleti/ega) - amateur translation project of Grothendieck's EGA.
 - [semorrison/category-theory-2017](https://github.com/semorrison/category-theory-2017) - 
 - [gillescastel/lecture-notes](https://github.com/gillescastel/lecture-notes) - LaTeX code for some of my lecture notes
