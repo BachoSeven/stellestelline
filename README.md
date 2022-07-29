@@ -692,6 +692,7 @@
 
 ## CSS 
 
+- [NethServer/docs](https://github.com/NethServer/docs) - NethServer documentation
 - [williamckha/spicetify-fluent](https://github.com/williamckha/spicetify-fluent) - Spicetify theme inspired by Microsoft's Fluent Design
 - [susam/mathb](https://github.com/susam/mathb) - Math pastebin service with LaTeX and Markdown support that powers http://mathb.in/
 - [schnensch0/ziro](https://github.com/schnensch0/ziro) - spicetify theme inspired by zorin
@@ -1020,6 +1021,7 @@
 
 ## HolyC 
 
+- [minexew/Shrine](https://github.com/minexew/Shrine) - A TempleOS distro for heretics
 - [cia-foundation/TempleOS](https://github.com/cia-foundation/TempleOS) - Talk to God on up to 64 cores. Final snapshot of the Third Temple.
 
 ## Java 
@@ -1055,6 +1057,7 @@
 
 ## JavaScript 
 
+- [pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) - 
 - [brackets-cont/brackets](https://github.com/brackets-cont/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
 - [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
 - [Jelmerro/Vieb](https://github.com/Jelmerro/Vieb) - Vim Inspired Electron Browser - Vim bindings for the web by design
@@ -1591,6 +1594,7 @@
 
 ## Python 
 
+- [NethServer/dev](https://github.com/NethServer/dev) - NethServer issue tracker
 - [gyim/vim-boxdraw](https://github.com/gyim/vim-boxdraw) - An ASCII box drawing plugin for Vim
 - [lukefleed/auto-graph](https://github.com/lukefleed/auto-graph) - 
 - [cmang/durdraw](https://github.com/cmang/durdraw) - Animated Unicode, ANSI and ASCII Art Editor for Linux/Unix/macOS
@@ -1907,7 +1911,7 @@
 - [pop-os/pop](https://github.com/pop-os/pop) - A project for managing all Pop!_OS sources
 - [lsmb/udict](https://github.com/lsmb/udict) - Urban Dictionary CLI - written in Rust
 - [oknozor/stray](https://github.com/oknozor/stray) - A system tray for eww
-- [threadexio/zeus](https://github.com/threadexio/zeus) - 🐳 📦 Bringing docker containers to your AUR helper since 2022
+- [threadexio/zeus](https://github.com/threadexio/zeus) - 🐳 📦 Bringing containers to your AUR helper since 2022
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [nuta/nsh](https://github.com/nuta/nsh) - A command-line shell like fish, but POSIX compatible.
 - [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable
