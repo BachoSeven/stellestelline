@@ -829,6 +829,7 @@
 
 ## Go 
 
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage
 - [mayth/go-simple-upload-server](https://github.com/mayth/go-simple-upload-server) - Simple HTTP server to save artifacts
 - [doron-cohen/antidot](https://github.com/doron-cohen/antidot) - Cleans up your $HOME from those pesky dotfiles
@@ -2577,6 +2578,7 @@
 
 ## Vim script 
 
+- [JuliaEditorSupport/julia-vim](https://github.com/JuliaEditorSupport/julia-vim) - Vim support for Julia.
 - [hkopp/dotfiles](https://github.com/hkopp/dotfiles) - Config files
 - [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
 - [ionide/Ionide-vim](https://github.com/ionide/Ionide-vim) - F# Vim plugin based on FsAutoComplete and LSP protocol
