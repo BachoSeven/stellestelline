@@ -1290,7 +1290,7 @@
 - [fhill2/xplr.nvim](https://github.com/fhill2/xplr.nvim) - XPLR - msgpack - lua
 - [sayanarijit/command-mode.xplr](https://github.com/sayanarijit/command-mode.xplr) - The missing command mode for xplr
 - [nickguletskii/GLXOSD](https://github.com/nickguletskii/GLXOSD) - GLXOSD is an extensible on-screen display (OSD)/overlay for OpenGL applications running on Linux with X11 which aims to provide similar functionality to MSI Afterburner/RivaTuner OSD. It can show FPS,
-- [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github's Neovim and Terminals themes (Unofficial Community-driven)
+- [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github's Neovim and Terminals themes
 - [jbyuki/instant.nvim](https://github.com/jbyuki/instant.nvim) - collaborative editing in Neovim using built-in capabilities
 - [undefinedDarkness/rice](https://github.com/undefinedDarkness/rice) - Home Sweet Home
 - [prdanelli/dotfiles](https://github.com/prdanelli/dotfiles) - 
@@ -1379,6 +1379,7 @@
 ## Mathematica 
 
 - [gillescastel/masterthesis](https://github.com/gillescastel/masterthesis) - Master Thesis
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 
 ## Nim 
 
@@ -1777,7 +1778,6 @@
 - [Shougo/defx.nvim](https://github.com/Shougo/defx.nvim) - :file_folder: The dark powered file explorer implementation for neovim/Vim8
 - [mirukana/pixcat](https://github.com/mirukana/pixcat) - CLI and Python 3.6+ API to display images on a kitty terminal with optional resizing.
 - [GuardKenzie/miniplayer](https://github.com/GuardKenzie/miniplayer) - A curses based mpd client with basic functionality and album art.
-- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [newAM/monitorcontrol](https://github.com/newAM/monitorcontrol) - Python monitor controls using DDC-CI.
 - [haideralipunjabi/polybar-qbittorrent](https://github.com/haideralipunjabi/polybar-qbittorrent) - qBittorrent Module for Polybar
 - [keystroke3/redpaper](https://github.com/keystroke3/redpaper) - A tool to download and set desktop wallpapers from Reddit
@@ -2511,6 +2511,7 @@
 
 ## TypeScript 
 
+- [julia-vscode/julia-vscode](https://github.com/julia-vscode/julia-vscode) - Julia extension for Visual Studio Code
 - [CAAL/CAAL](https://github.com/CAAL/CAAL) - CAAL (Concurrency Workbench, Aalborg Edition) is a web-based tool for modelling, visualization and verification of concurrent processes expressed in the well-known CCS language (Calculus of Communicat
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [webosbrew/dev-manager-desktop](https://github.com/webosbrew/dev-manager-desktop) - Device/DevMode Manager for webOS TV
