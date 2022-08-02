@@ -1226,6 +1226,9 @@
 
 ## Julia 
 
+- [JuliaSymbolics/Metatheory.jl](https://github.com/JuliaSymbolics/Metatheory.jl) - General purpose algebraic metaprogramming and symbolic computation library for the Julia programming language: E-Graphs & equality saturation, term rewriting and more.
+- [tlienart/Franklin.jl](https://github.com/tlienart/Franklin.jl) - (yet another) static site generator. Simple, customisable, fast, maths with KaTeX, code evaluation, optional pre-rendering, in Julia.
+- [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 - [JuliaHomotopyContinuation/HomotopyContinuation.jl](https://github.com/JuliaHomotopyContinuation/HomotopyContinuation.jl) - A Julia package for solving systems of polynomials via homotopy continuation.
 - [caseykneale/VIMKiller](https://github.com/caseykneale/VIMKiller) - Exiting VIM is hard; sometimes we need to take drastic measures
 
@@ -1379,7 +1382,6 @@
 ## Mathematica 
 
 - [gillescastel/masterthesis](https://github.com/gillescastel/masterthesis) - Master Thesis
-- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 
 ## Nim 
 
@@ -1596,6 +1598,7 @@
 
 ## Python 
 
+- [Mathics3/mathics-core](https://github.com/Mathics3/mathics-core) - An open-source Mathematica. This repository contains the Python modules for WL Built-in functions, variables, core primitives, e.g. Symbol, a parser to create Expressions, and an evaluator to execute 
 - [NethServer/dev](https://github.com/NethServer/dev) - NethServer issue tracker
 - [gyim/vim-boxdraw](https://github.com/gyim/vim-boxdraw) - An ASCII box drawing plugin for Vim
 - [lukefleed/auto-graph](https://github.com/lukefleed/auto-graph) - 
@@ -1778,6 +1781,7 @@
 - [Shougo/defx.nvim](https://github.com/Shougo/defx.nvim) - :file_folder: The dark powered file explorer implementation for neovim/Vim8
 - [mirukana/pixcat](https://github.com/mirukana/pixcat) - CLI and Python 3.6+ API to display images on a kitty terminal with optional resizing.
 - [GuardKenzie/miniplayer](https://github.com/GuardKenzie/miniplayer) - A curses based mpd client with basic functionality and album art.
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [newAM/monitorcontrol](https://github.com/newAM/monitorcontrol) - Python monitor controls using DDC-CI.
 - [haideralipunjabi/polybar-qbittorrent](https://github.com/haideralipunjabi/polybar-qbittorrent) - qBittorrent Module for Polybar
 - [keystroke3/redpaper](https://github.com/keystroke3/redpaper) - A tool to download and set desktop wallpapers from Reddit
@@ -2474,6 +2478,7 @@
 
 ## Svelte 
 
+- [jc141x/rum](https://github.com/jc141x/rum) - 
 - [1ntEgr8/arss](https://github.com/1ntEgr8/arss) - An rss reader
 
 ## Swift 
@@ -2579,6 +2584,7 @@
 
 ## Vim script 
 
+- [zyedidia/julialint.vim](https://github.com/zyedidia/julialint.vim) - Built in Vim linter for Julia
 - [JuliaEditorSupport/julia-vim](https://github.com/JuliaEditorSupport/julia-vim) - Vim support for Julia.
 - [hkopp/dotfiles](https://github.com/hkopp/dotfiles) - Config files
 - [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
