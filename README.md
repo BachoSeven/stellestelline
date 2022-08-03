@@ -1910,6 +1910,7 @@
 
 ## Rust 
 
+- [rapiz1/catp](https://github.com/rapiz1/catp) - Print the output of a running process
 - [nitnelave/lldap](https://github.com/nitnelave/lldap) - Light LDAP implementation
 - [jfecher/ante](https://github.com/jfecher/ante) - A safe, easy systems language
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
