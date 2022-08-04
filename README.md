@@ -1293,7 +1293,7 @@
 - [fhill2/xplr.nvim](https://github.com/fhill2/xplr.nvim) - XPLR - msgpack - lua
 - [sayanarijit/command-mode.xplr](https://github.com/sayanarijit/command-mode.xplr) - The missing command mode for xplr
 - [nickguletskii/GLXOSD](https://github.com/nickguletskii/GLXOSD) - GLXOSD is an extensible on-screen display (OSD)/overlay for OpenGL applications running on Linux with X11 which aims to provide similar functionality to MSI Afterburner/RivaTuner OSD. It can show FPS,
-- [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github's Neovim and Terminals themes
+- [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github's Neovim themes
 - [jbyuki/instant.nvim](https://github.com/jbyuki/instant.nvim) - collaborative editing in Neovim using built-in capabilities
 - [undefinedDarkness/rice](https://github.com/undefinedDarkness/rice) - Home Sweet Home
 - [prdanelli/dotfiles](https://github.com/prdanelli/dotfiles) - 
