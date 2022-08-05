@@ -1910,6 +1910,7 @@
 
 ## Rust 
 
+- [SeaDve/Mousai](https://github.com/SeaDve/Mousai) - Identify songs in seconds
 - [rapiz1/catp](https://github.com/rapiz1/catp) - Print the output of a running process
 - [nitnelave/lldap](https://github.com/nitnelave/lldap) - Light LDAP implementation
 - [jfecher/ante](https://github.com/jfecher/ante) - A safe, easy systems language
