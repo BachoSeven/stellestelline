@@ -1720,7 +1720,7 @@
 - [andresch/trackfs](https://github.com/andresch/trackfs) - A FUSE filesystem that splits FLAC+CUE files into individual tracks
 - [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
 - [WoeUSB/WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) - WoeUSB-ng is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. This is a rewrite of original WoeUSB.
-- [pryme-svg/periodic-table-tui](https://github.com/pryme-svg/periodic-table-tui) - 
+- [wlmchen/periodic-table-tui](https://github.com/wlmchen/periodic-table-tui) - 
 - [bulletmark/edir](https://github.com/bulletmark/edir) - Program to rename and remove files and directories using your editor
 - [jamiemcg/Remarkable](https://github.com/jamiemcg/Remarkable) - Remarkable - The Markdown Editor for Linux http://remarkableapp.github.io
 - [jceb/vim-orgmode](https://github.com/jceb/vim-orgmode) - UNMAINTAINED looking for maintainers! Text outlining and task management for Vim based on Emacs' Org-Mode
