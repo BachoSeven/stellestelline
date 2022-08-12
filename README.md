@@ -829,6 +829,7 @@
 
 ## Go 
 
+- [aziis98/textml](https://github.com/aziis98/textml) - My personal textual markup language. Mostly a more structured alternative to Markdown
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage
 - [mayth/go-simple-upload-server](https://github.com/mayth/go-simple-upload-server) - Simple HTTP server to save artifacts
@@ -1092,7 +1093,7 @@
 - [Jelmerro/Garlmap](https://github.com/Jelmerro/Garlmap) - Garlmap is the Gapless Almighty Rule-based Logical Mpv Audio Player
 - [DistroBoard/DistroBoard](https://github.com/DistroBoard/DistroBoard) - A modern and opensource alternative to distrowatch.
 - [fosscord/fosscord-client](https://github.com/fosscord/fosscord-client) - Open source, themeable and extendable discord-compatible native fosscord client
-- [fosscord/fosscord](https://github.com/fosscord/fosscord) - Fosscord is a free open source selfhostable discord compatible communication platform
+- [fosscord/fosscord](https://github.com/fosscord/fosscord) - 📬 Fosscord is a free open source selfhostable discord compatible communication platform
 - [Novik/ruTorrent](https://github.com/Novik/ruTorrent) - Yet another web front-end for rTorrent
 - [WeebDev/chibisafe](https://github.com/WeebDev/chibisafe) - Blazing fast file uploader and awesome bunker written in node! 🚀
 - [karabaja4/mimejs](https://github.com/karabaja4/mimejs) - A replacement for xdg-open written in Node.js
@@ -1141,7 +1142,7 @@
 - [ericblade/xo](https://github.com/ericblade/xo) - XO - The Subsonic Commander
 - [santinic/how2](https://github.com/santinic/how2) - stackoverflow from the terminal
 - [jellyfin/jellyfin-tizen](https://github.com/jellyfin/jellyfin-tizen) - Jellyfin Samsung TV Client
-- [comfies/odko](https://github.com/comfies/odko) - a minimal graphical programming language
+- [comfies/odko](https://github.com/comfies/odko) - 🎫 a minimal graphical programming language
 - [gijsroge/tilt.js](https://github.com/gijsroge/tilt.js) - A tiny 60+fps parallax tilt hover effect for jQuery.
 - [acmeframework/page-qr](https://github.com/acmeframework/page-qr) - Chromium extension to generate a QR code for your current active tab
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
@@ -1243,6 +1244,8 @@
 
 ## Kotlin 
 
+- [revanced/revanced-cli](https://github.com/revanced/revanced-cli) - 💻 Command line application as an alternative to the ReVanced Manager
+- [revanced/revanced-manager](https://github.com/revanced/revanced-manager) - 💊 The official ReVanced Manager
 - [revanced/revanced-patches](https://github.com/revanced/revanced-patches) - 🧩 Official patches by ReVanced
 - [revanced/revanced-patcher](https://github.com/revanced/revanced-patcher) - 💉 Patcher used by ReVanced
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative YouTube front end, for Android.
@@ -1333,7 +1336,7 @@
 - [nvim-lua/completion-nvim](https://github.com/nvim-lua/completion-nvim) - A async completion framework aims to provide completion to neovim's built in LSP written in Lua
 - [po5/mpv_sponsorblock](https://github.com/po5/mpv_sponsorblock) - mpv script to skip sponsored segments of YouTube videos
 - [drahenprofi/dotfiles](https://github.com/drahenprofi/dotfiles) - Arch Linux dotfiles
-- [OliverLew/dotfiles](https://github.com/OliverLew/dotfiles) - Linux configuration files (dotfiles) and some useful scripts
+- [oliverlew/dotfiles](https://github.com/oliverlew/dotfiles) - Linux configuration files (dotfiles) and some useful scripts
 - [savq/paq-nvim](https://github.com/savq/paq-nvim) - 🌚  Neovim package manager
 - [b3nj5m1n/kommentary](https://github.com/b3nj5m1n/kommentary) - Neovim commenting plugin, written in lua.
 - [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim) - vim dashboard
@@ -2335,7 +2338,7 @@
 - [paoloap/zaread](https://github.com/paoloap/zaread) - A (very) lightweight MS Office file reader
 - [Bugswriter/tuxi](https://github.com/Bugswriter/tuxi) - Tuxi is a cli assistant. Get answers of your questions instantly.
 - [cpetrov/deft](https://github.com/cpetrov/deft) - A Linux loadable kernel module for the Elecom DEFT series finger operated trackballs (M-DT1DRBK, M-DT2DRBK, M-DT1URBK, M-DT2URBK)
-- [OliverLew/xdg-xmenu](https://github.com/OliverLew/xdg-xmenu) - A shell script to generate menu for xmenu
+- [oliverlew/xdg-xmenu](https://github.com/oliverlew/xdg-xmenu) - A shell script to generate menu for xmenu
 - [salman-abedin/amenu](https://github.com/salman-abedin/amenu) - Fuzzy Finder Dynamic GUI Menu
 - [tdukv/dotfiles-void](https://github.com/tdukv/dotfiles-void) - my voidlinux setup
 - [jandamm/zgenom](https://github.com/jandamm/zgenom) - A lightweight and fast plugin manager for ZSH
@@ -2518,6 +2521,7 @@
 
 ## TypeScript 
 
+- [michimani/chrome-tab-ex](https://github.com/michimani/chrome-tab-ex) - This is a Chrome extension that sorts and groups tabs.
 - [aziis98/art-phc-landing-page](https://github.com/aziis98/art-phc-landing-page) - This is the second version of the _wire art_ for the landing page of the new PHC website.
 - [julia-vscode/julia-vscode](https://github.com/julia-vscode/julia-vscode) - Julia extension for Visual Studio Code
 - [CAAL/CAAL](https://github.com/CAAL/CAAL) - CAAL (Concurrency Workbench, Aalborg Edition) is a web-based tool for modelling, visualization and verification of concurrent processes expressed in the well-known CCS language (Calculus of Communicat
