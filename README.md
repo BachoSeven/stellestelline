@@ -198,7 +198,7 @@
 - [file/file](https://github.com/file/file) - Read-only mirror of file CVS repository, updated every half hour. NOTE: do not make pull requests here, nor comment any commits, submit them usual way to bug tracker or to the mailing list. Maintainer
 - [ryanflannery/vitunes](https://github.com/ryanflannery/vitunes) - A curses media indexer and player for vi users
 - [ghaerr/microwindows](https://github.com/ghaerr/microwindows) - The Nano-X Window System
-- [gottaeat/apathy](https://github.com/gottaeat/apathy) - what
+- [gottaeat/apathy](https://github.com/gottaeat/apathy) - life aint shit but bitches and money
 - [Aalbus-linux/Aalbus](https://github.com/Aalbus-linux/Aalbus) - The master repository for the Aalbus distribution
 - [intel/sgx-software-enable](https://github.com/intel/sgx-software-enable) - 
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
@@ -2457,7 +2457,7 @@
 - [ispanos/anergos](https://github.com/ispanos/anergos) - Bootstarp script for my workstation, with a turnkey Archlinux install.
 - [xero/dotfiles](https://github.com/xero/dotfiles) - ▒ rice ░░  custom linux config files
 - [geokai/arch_config](https://github.com/geokai/arch_config) - Archlinux configuration setup based on Larbs
-- [adi1090x/rofi](https://github.com/adi1090x/rofi) - A large collection of Rofi based custom Menu, Applets, Launchers & Powermenus.
+- [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 - [kiedtl/fetchutils](https://github.com/kiedtl/fetchutils) - A collection of small shell utilities to fetch system information
 - [stark/Color-Scripts](https://github.com/stark/Color-Scripts) - User contributed color scripts
 - [pipeseroni/pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver
