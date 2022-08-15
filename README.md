@@ -40,6 +40,7 @@
 - [Jinja](#jinja)
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
+- [KakouneScript](#kakounescript)
 - [Kotlin](#kotlin)
 - [Lean](#lean)
 - [Less](#less)
@@ -131,6 +132,7 @@
 
 ## C 
 
+- [dccsillag/picom](https://github.com/dccsillag/picom) - A lightweight compositor for X11
 - [alols/xcape](https://github.com/alols/xcape) - Linux utility to configure modifier keys to act as other keys when pressed and released on their own.
 - [FT-Labs/phyOS-dwm](https://github.com/FT-Labs/phyOS-dwm) - wm for phyOS, alt + tab windows switching, png & icon supported status bar
 - [bakkeby/dwm-commented](https://github.com/bakkeby/dwm-commented) - A fork of dwm with comments explaining in detail how the window manager works
@@ -1244,6 +1246,10 @@
 - [MTG/essentia](https://github.com/MTG/essentia) - C++ library for audio and music analysis, description and synthesis, including Python bindings
 - [morrolinux/simple-ehm](https://github.com/morrolinux/simple-ehm) - A simple tool for a simple task: remove filler sounds ("ehm") from pre-recorded speeches. AI powered.
 
+## KakouneScript 
+
+- [alexherbo2/dotfiles](https://github.com/alexherbo2/dotfiles) - Personal configuration files
+
 ## Kotlin 
 
 - [revanced/revanced-cli](https://github.com/revanced/revanced-cli) - 💻 Command line application as an alternative to the ReVanced Manager
@@ -1396,7 +1402,6 @@
 ## Nix 
 
 - [PedroHLC/system-setup](https://github.com/PedroHLC/system-setup) - Recipe for creating my NixOS machines. (ZFS and Sway)
-- [alexherbo2/dotfiles](https://github.com/alexherbo2/dotfiles) - Personal configuration files
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
 
 ## OCaml 
