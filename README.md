@@ -132,6 +132,7 @@
 
 ## C 
 
+- [koreader/libk2pdfopt](https://github.com/koreader/libk2pdfopt) - k2pdfopt library for koreader, based on http://willus.com/k2pdfopt
 - [dccsillag/picom](https://github.com/dccsillag/picom) - A lightweight compositor for X11
 - [alols/xcape](https://github.com/alols/xcape) - Linux utility to configure modifier keys to act as other keys when pressed and released on their own.
 - [FT-Labs/phyOS-dwm](https://github.com/FT-Labs/phyOS-dwm) - wm for phyOS, alt + tab windows switching, png & icon supported status bar
@@ -1316,7 +1317,7 @@
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [notomo/gesture.nvim](https://github.com/notomo/gesture.nvim) - Mouse gesture plugin for neovim
 - [wooosh/dots](https://github.com/wooosh/dots) - 
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 20ms to 70ms
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms
 - [GoldsteinE/compe-latex-symbols](https://github.com/GoldsteinE/compe-latex-symbols) - Autocomplete LaTeX symbol into your text via nvim-compe
 - [hrsh7th/nvim-compe](https://github.com/hrsh7th/nvim-compe) - Auto completion Lua plugin for nvim
 - [folke/zen-mode.nvim](https://github.com/folke/zen-mode.nvim) - 🧘  Distraction-free coding for Neovim
@@ -2177,7 +2178,7 @@
 - [MiMillieuh/Photoshop-CC2022-Linux](https://github.com/MiMillieuh/Photoshop-CC2022-Linux) - Installer from Photoshop CC 2021 to 2022 on linux with a GUI
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
-- [M-Reimer/wine-lol](https://github.com/M-Reimer/wine-lol) - Patched wine-staging and glibc with fix needed to run League Of Legends
+- [M-Reimer/wine-lol](https://github.com/M-Reimer/wine-lol) - PKGBUILDs to package GloriousEggroll's LoL-patched wine version
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [mudler/linuxbundles](https://github.com/mudler/linuxbundles) - :penguin: Standalone, local-runnable binaries of popular linux distributions
 - [Maccraft123/Cadmium](https://github.com/Maccraft123/Cadmium) - 
