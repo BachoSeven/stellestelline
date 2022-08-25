@@ -83,8 +83,8 @@
 - [TypeScript](#typescript)
 - [V](#v)
 - [Vala](#vala)
+- [Vim Script](#vim-script)
 - [Vim Snippet](#vim-snippet)
-- [Vim script](#vim-script)
 - [Vue](#vue)
 - [Zig](#zig)
 - [sed](#sed)
@@ -110,6 +110,7 @@
 
 - [VitorVilela7/wide-snes](https://github.com/VitorVilela7/wide-snes) - Super Mario World (SNES) Widescreen Project
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
+- [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 
 ## AutoHotkey 
 
@@ -532,7 +533,6 @@
 - [fedarovich/qbittorrent-cli](https://github.com/fedarovich/qbittorrent-cli) - Command line interface for QBittorrent
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager for Windows
 - [zoeyfyi/TeX-Match](https://github.com/zoeyfyi/TeX-Match) - Search through over 1000 different LaTeX symbols by sketching. A desktop version of detexify.
-- [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 
@@ -792,7 +792,6 @@
 
 ## Dart 
 
-- [revanced/revanced-manager](https://github.com/revanced/revanced-manager) - 💊 The official ReVanced Manager
 - [jmshrv/finamp](https://github.com/jmshrv/finamp) - A Jellyfin music client for mobile
 - [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
 - [xournalpp/xournalpp_mobile](https://github.com/xournalpp/xournalpp_mobile) - Infinitely take notes, sketch and learn. Xournal++ Mobile is a port of Xournal++ files and features to various mobile platofrms and the web. Mirror of the Xournal++ Mobile repository on GitLab.
@@ -836,6 +835,7 @@
 
 ## Go 
 
+- [crunchy-labs/crunchy-cli](https://github.com/crunchy-labs/crunchy-cli) - 👇 A pure go written crunchyroll cli client
 - [Tnze/go-mc](https://github.com/Tnze/go-mc) - Go libraries of everything in Minecraft
 - [aziis98/textml](https://github.com/aziis98/textml) - My personal textual markup language. Mostly a more structured alternative to Markdown
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
@@ -1258,6 +1258,7 @@
 ## Kotlin 
 
 - [revanced/revanced-cli](https://github.com/revanced/revanced-cli) - 💻 Command line application as an alternative to the ReVanced Manager
+- [revanced/revanced-manager](https://github.com/revanced/revanced-manager) - 💊 The official ReVanced Manager
 - [revanced/revanced-patches](https://github.com/revanced/revanced-patches) - 🧩 Official patches by ReVanced
 - [revanced/revanced-patcher](https://github.com/revanced/revanced-patcher) - 💉 Patcher used by ReVanced
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative YouTube front end, for Android.
@@ -1432,6 +1433,7 @@
 
 ## Others 
 
+- [BachoSeven/stellestelline](https://github.com/BachoSeven/stellestelline) - 
 - [pop-os/beta](https://github.com/pop-os/beta) - Pop!_OS Beta
 - [dab2020/Guides](https://github.com/dab2020/Guides) - Some of my random guides
 - [bcbcarl/docker-hollywood](https://github.com/bcbcarl/docker-hollywood) - Fake A Hollywood Hacker Screen.
@@ -1614,6 +1616,7 @@
 
 ## Python 
 
+- [deter0/xborder](https://github.com/deter0/xborder) - Active window border replacement for window managers.
 - [Mathics3/mathics-core](https://github.com/Mathics3/mathics-core) - An open-source Mathematica. This repository contains the Python modules for WL Built-in functions, variables, core primitives, e.g. Symbol, a parser to create Expressions, and an evaluator to execute 
 - [NethServer/dev](https://github.com/NethServer/dev) - NethServer issue tracker
 - [gyim/vim-boxdraw](https://github.com/gyim/vim-boxdraw) - An ASCII box drawing plugin for Vim
@@ -1736,7 +1739,7 @@
 - [andresch/trackfs](https://github.com/andresch/trackfs) - A FUSE filesystem that splits FLAC+CUE files into individual tracks
 - [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
 - [WoeUSB/WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) - WoeUSB-ng is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. This is a rewrite of original WoeUSB.
-- [pryme-svg/periodic-table-tui](https://github.com/pryme-svg/periodic-table-tui) - 
+- [wlmchen/periodic-table-tui](https://github.com/wlmchen/periodic-table-tui) - 
 - [bulletmark/edir](https://github.com/bulletmark/edir) - Program to rename and remove files and directories using your editor
 - [jamiemcg/Remarkable](https://github.com/jamiemcg/Remarkable) - Remarkable - The Markdown Editor for Linux http://remarkableapp.github.io
 - [jceb/vim-orgmode](https://github.com/jceb/vim-orgmode) - UNMAINTAINED looking for maintainers! Text outlining and task management for Vim based on Emacs' Org-Mode
@@ -2244,9 +2247,9 @@
 - [mocaccinoOS/desktop](https://github.com/mocaccinoOS/desktop) - :computer: Mocaccino Desktop specs
 - [loiccoyle/audd-cli](https://github.com/loiccoyle/audd-cli) - 🎵 CLI music recognition using the AudD API
 - [RowanFeely/dotfiles](https://github.com/RowanFeely/dotfiles) - ▒ rice ░░  custom linux config files
-- [ThatGeekyWeeb/shapplet](https://github.com/ThatGeekyWeeb/shapplet) - coreutils/busybox applets (certain/some) written in pure POSIX sh
-- [ThatGeekyWeeb/shfire](https://github.com/ThatGeekyWeeb/shfire) - Making a discord client in POSIX sh, by jumping over the gateway cause it's useless, fuck your TOS
-- [ThatGeekyWeeb/psh](https://github.com/ThatGeekyWeeb/psh) - PurifiedSH or pSH is a simple sourceable script that replaces basic utils with puresh alternatives to make scripts more portable
+- [Mia-Rain/shapplet](https://github.com/Mia-Rain/shapplet) - coreutils/busybox applets (certain/some) written in pure POSIX sh
+- [Mia-Rain/shfire](https://github.com/Mia-Rain/shfire) - Making a discord client in POSIX sh, by jumping over the gateway cause it's useless, fuck your TOS
+- [Mia-Rain/psh](https://github.com/Mia-Rain/psh) - PurifiedSH or pSH is a simple sourceable script that replaces basic utils with puresh alternatives to make scripts more portable
 - [ArtiomSu/kensington-expert-trackball-linux-config](https://github.com/ArtiomSu/kensington-expert-trackball-linux-config) - 
 - [geminis3/simplyarch](https://github.com/geminis3/simplyarch) - The blazing fast ⚡ Arch Linux ⚡ installation script that puts you on control 🌟
 - [Smiley-McSmiles/jellyfin-cli](https://github.com/Smiley-McSmiles/jellyfin-cli) - This is a set of scripts to install and update the jellyfin-combined tar.gz
@@ -2594,14 +2597,7 @@
 - [Philip-Scott/wallpaperize](https://github.com/Philip-Scott/wallpaperize) - Beautify your oddly-sized wallpapers
 - [bboozzoo/mconnect](https://github.com/bboozzoo/mconnect) - mconnect - KDE Connect protocol implementation in Vala/C
 
-## Vim Snippet 
-
-- [ykonstant1/dotfiles](https://github.com/ykonstant1/dotfiles) - Collection of my custom vim themes and snippets
-- [sahasatvik/dotfiles](https://github.com/sahasatvik/dotfiles) - My configuration and theme files
-- [honza/vim-snippets](https://github.com/honza/vim-snippets) - vim-snipmate default snippets (Previously snipmate-snippets)
-- [gillescastel/latex-snippets](https://github.com/gillescastel/latex-snippets) - Vim + LaTeX snippets setup
-
-## Vim script 
+## Vim Script 
 
 - [zyedidia/julialint.vim](https://github.com/zyedidia/julialint.vim) - Built in Vim linter for Julia
 - [JuliaEditorSupport/julia-vim](https://github.com/JuliaEditorSupport/julia-vim) - Vim support for Julia.
@@ -2694,6 +2690,13 @@
 - [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more
 - [dbmrq/vim-ditto](https://github.com/dbmrq/vim-ditto) - :speak_no_evil: Stop repeating yourself
 - [camnw/lf-vim](https://github.com/camnw/lf-vim) - Vim syntax highlighting for lfrc
+
+## Vim Snippet 
+
+- [ykonstant1/dotfiles](https://github.com/ykonstant1/dotfiles) - Collection of my custom vim themes and snippets
+- [sahasatvik/dotfiles](https://github.com/sahasatvik/dotfiles) - My configuration and theme files
+- [honza/vim-snippets](https://github.com/honza/vim-snippets) - vim-snipmate default snippets (Previously snipmate-snippets)
+- [gillescastel/latex-snippets](https://github.com/gillescastel/latex-snippets) - Vim + LaTeX snippets setup
 
 ## Vue 
 
