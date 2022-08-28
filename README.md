@@ -242,7 +242,7 @@
 - [BannedPatriot/rtl8822bu](https://github.com/BannedPatriot/rtl8822bu) - 
 - [phillbush/xfiles](https://github.com/phillbush/xfiles) - X11 file manager (work in progress)
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
-- [johanmalm/jgmenu](https://github.com/johanmalm/jgmenu) - An X11 menu
+- [jgmenu/jgmenu](https://github.com/jgmenu/jgmenu) - An X11 menu
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [Audacium/audacium](https://github.com/Audacium/audacium) - Free and open-source audio editor
 - [Sneeds-Feed-and-Seed/SIMP](https://github.com/Sneeds-Feed-and-Seed/SIMP) - Sneed's Image Manipulation Program (Formerly Chuck's)
@@ -264,7 +264,7 @@
 - [Polochon-street/bliss](https://github.com/Polochon-street/bliss) - Bliss music library that can compute distance between songs
 - [werman/noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise
 - [drkhsh/slstatus](https://github.com/drkhsh/slstatus) - slstatus is a suckless status monitor for window managers that use WM_NAME (e.g. dwm) or stdin to fill the status bar - mirror from suckless
-- [Arisotura/melonDS](https://github.com/Arisotura/melonDS) - DS emulator, sorta
+- [melonDS-emu/melonDS](https://github.com/melonDS-emu/melonDS) - DS emulator, sorta
 - [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) - Lightweight CLI download accelerator
 - [vim/vim-history](https://github.com/vim/vim-history) - Very very old history of Vim (from v1.14 to v6.4)
 - [DeaDBeeF-Player/deadbeef](https://github.com/DeaDBeeF-Player/deadbeef) - DeaDBeeF Player
@@ -835,6 +835,7 @@
 
 ## Go 
 
+- [gorilla/feeds](https://github.com/gorilla/feeds) - golang rss/atom generator library
 - [crunchy-labs/crunchy-cli](https://github.com/crunchy-labs/crunchy-cli) - 👇 A pure go written crunchyroll cli client
 - [Tnze/go-mc](https://github.com/Tnze/go-mc) - Go libraries of everything in Minecraft
 - [aziis98/textml](https://github.com/aziis98/textml) - My personal textual markup language. Mostly a more structured alternative to Markdown
@@ -2535,6 +2536,7 @@
 
 ## TypeScript 
 
+- [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [michimani/chrome-tab-ex](https://github.com/michimani/chrome-tab-ex) - This is a Chrome extension that sorts and groups tabs.
 - [aziis98/art-phc-landing-page](https://github.com/aziis98/art-phc-landing-page) - This is the second version of the _wire art_ for the landing page of the new PHC website.
 - [julia-vscode/julia-vscode](https://github.com/julia-vscode/julia-vscode) - Julia extension for Visual Studio Code
