@@ -2506,6 +2506,7 @@
 
 ## TeX 
 
+- [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 - [thosgood/translations](https://github.com/thosgood/translations) - some maths papers in English
 - [domenicozambella/creche](https://github.com/domenicozambella/creche) - A Crèche Course in Model Theory. Lecture notes for an introductory (under)graduate couse in model theory
 - [ryankeleti/ega](https://github.com/ryankeleti/ega) - amateur translation project of Grothendieck's EGA.
