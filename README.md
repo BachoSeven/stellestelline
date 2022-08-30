@@ -1607,7 +1607,7 @@
 
 - [n1snt/Windows-Decrapifier](https://github.com/n1snt/Windows-Decrapifier) - A script to debloat Windows.
 - [dotnet/core](https://github.com/dotnet/core) - Home repository for .NET Core
-- [simeononsecurity/Windows-Optimize-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Debloat) - For those who seek to minimize their Windows 10 installs.
+- [simeononsecurity/Windows-Optimize-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Debloat) - For those who seek to minimize their Windows 10 and Windows 11 installs.
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 
 ## Processing 
