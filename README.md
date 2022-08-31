@@ -835,6 +835,7 @@
 
 ## Go 
 
+- [raitonoberu/lyricsapi](https://github.com/raitonoberu/lyricsapi) - Go package and server app for retrieving time-stamped lyrics from Spotify.
 - [gorilla/feeds](https://github.com/gorilla/feeds) - golang rss/atom generator library
 - [crunchy-labs/crunchy-cli](https://github.com/crunchy-labs/crunchy-cli) - 👇 A pure go written crunchyroll cli client
 - [Tnze/go-mc](https://github.com/Tnze/go-mc) - Go libraries of everything in Minecraft
@@ -1616,6 +1617,7 @@
 
 ## Python 
 
+- [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 🎁 a wrapper around all package managers
 - [deter0/xborder](https://github.com/deter0/xborder) - Active window border replacement for window managers.
 - [Mathics3/mathics-core](https://github.com/Mathics3/mathics-core) - An open-source Mathematica. This repository contains the Python modules for WL Built-in functions, variables, core primitives, e.g. Symbol, a parser to create Expressions, and an evaluator to execute 
 - [NethServer/dev](https://github.com/NethServer/dev) - NethServer issue tracker
