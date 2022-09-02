@@ -2163,6 +2163,7 @@
 
 ## Shell 
 
+- [crystal-linux/iso](https://github.com/crystal-linux/iso) - Build or download the Arch-based Crystal Linux iso.
 - [BachoSeven/aur](https://github.com/BachoSeven/aur) - My PKGBUILDS
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [wincent/vim-university](https://github.com/wincent/vim-university) - A curriculum for leveling up your Vim
