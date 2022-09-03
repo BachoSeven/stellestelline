@@ -132,6 +132,7 @@
 
 ## C 
 
+- [mjakeman/extension-manager](https://github.com/mjakeman/extension-manager) - A utility for browsing and installing GNOME Shell Extensions.
 - [mdbtools/mdbtools](https://github.com/mdbtools/mdbtools) - MDB Tools - Read Access databases on *nix
 - [koreader/libk2pdfopt](https://github.com/koreader/libk2pdfopt) - k2pdfopt library for koreader, based on http://willus.com/k2pdfopt
 - [dccsillag/picom](https://github.com/dccsillag/picom) - A lightweight compositor for X11
@@ -2508,6 +2509,7 @@
 
 ## TeX 
 
+- [gjgress/LibreMath](https://github.com/gjgress/LibreMath) - A project dedicated to making open-source learning resources for mathematics accessible
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 - [thosgood/translations](https://github.com/thosgood/translations) - some maths papers in English
 - [domenicozambella/creche](https://github.com/domenicozambella/creche) - A Crèche Course in Model Theory. Lecture notes for an introductory (under)graduate couse in model theory
