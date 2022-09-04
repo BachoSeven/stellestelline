@@ -375,7 +375,7 @@
 - [domsson/succade](https://github.com/domsson/succade) - Run, feed and style your Lemonbar with ease
 - [linuxwacom/libwacom](https://github.com/linuxwacom/libwacom) - libwacom is a tablet description library
 - [universal-ctags/ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
-- [LinusDierheimer/fastfetch](https://github.com/LinusDierheimer/fastfetch) - Like neofetch, but much faster because written in c. Only Linux.
+- [LinusDierheimer/fastfetch](https://github.com/LinusDierheimer/fastfetch) - Like neofetch, but much faster because written in C.
 - [tectonic-typesetting/tectonic-staging](https://github.com/tectonic-typesetting/tectonic-staging) - Staging files from the TeXLive repository for use in Tectonic.
 - [Wilnath/asetroot](https://github.com/Wilnath/asetroot) - A lightweight animated wallpaper program
 - [glouw/paperview](https://github.com/glouw/paperview) - A high performance X11 animated wallpaper setter
@@ -976,7 +976,7 @@
 - [arxiv-vanity/engrafo](https://github.com/arxiv-vanity/engrafo) - Convert LaTeX documents into beautiful responsive web pages using LaTeXML.
 - [RootMyTV/RootMyTV.github.io](https://github.com/RootMyTV/RootMyTV.github.io) - RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs.
 - [Animenosekai/freeWolframAlpha](https://github.com/Animenosekai/freeWolframAlpha) - Unlock/Receive FREE unlimited access to Wolfram|Alpha's full Step-by-step solutions.
-- [WolfreeAlpha/WolfreeAlpha.github.io](https://github.com/WolfreeAlpha/WolfreeAlpha.github.io) - All files in this directory are output from wolfree.sh. Running wolfree.sh should automatically generate all the files in this directory. The source code for wolfree.sh is available on this Gitea serv
+- [WolfreeAlpha/WolfreeAlpha.github.io](https://github.com/WolfreeAlpha/WolfreeAlpha.github.io) - All the files in this directory are created automatically using Docker.  Docker can read wolfree-dockerfile to produce all the files in this directory.  You can get Docker at https://www.docker.com/  
 - [alangpierce/TheProofIsTrivial](https://github.com/alangpierce/TheProofIsTrivial) - Math-themed single-serving site
 - [AdaptiveScale/lxdui](https://github.com/AdaptiveScale/lxdui) - LXDUI is a web UI for the native Linux container technology LXD/LXC
 - [phc-dm/content-poisson](https://github.com/phc-dm/content-poisson) - Tutti i contenuti inseriti in Poisson e.g. articoli, guide, ecc.
@@ -1295,7 +1295,7 @@
 
 - [Pocco81/auto-save.nvim](https://github.com/Pocco81/auto-save.nvim) - 🧶 Automatically save your changes in NeoVim
 - [seanstertm/Isaac-Regret-Pedestals](https://github.com/seanstertm/Isaac-Regret-Pedestals) - A git repo for my isaac mod
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Neovim plugin with collection of minimal, independent, and fast Lua modules dedicated to improve Neovim (version 0.5 and higher) experience
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 20+ independent Lua modules improving overall Neovim (version 0.5 and higher) experience with minimal effort
 - [kwakzalver/duckytype.nvim](https://github.com/kwakzalver/duckytype.nvim) - NeoVim plugin simulating monkeytype.com
 - [letoram/cat9](https://github.com/letoram/cat9) - A User shell for LASH
 - [jbyuki/nabla.nvim](https://github.com/jbyuki/nabla.nvim) - take your scientific notes :pencil2: in Neovim
@@ -2164,6 +2164,7 @@
 
 ## Shell 
 
+- [reegnz/jq-zsh-plugin](https://github.com/reegnz/jq-zsh-plugin) - jq zsh plugin
 - [crystal-linux/iso](https://github.com/crystal-linux/iso) - Build or download the Arch-based Crystal Linux iso.
 - [BachoSeven/aur](https://github.com/BachoSeven/aur) - My PKGBUILDS
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
@@ -2289,7 +2290,6 @@
 - [chaotic-aur/pkgbuild-chaotic-mirrorlist](https://github.com/chaotic-aur/pkgbuild-chaotic-mirrorlist) - ArchLinux PKGBUILD for "chaotic-mirrorlist"
 - [chaotic-aur/pkgbuild-chaotic-keyring](https://github.com/chaotic-aur/pkgbuild-chaotic-keyring) - ArchLinux PKGBUILD for "chaotic-keyring"
 - [k8ieone/arch-install](https://github.com/k8ieone/arch-install) - Install scripts for Arch Linux
-- [keystroke3/dotfiles](https://github.com/keystroke3/dotfiles) - My Linux settings and configs
 - [bfrg/gpg-guide](https://github.com/bfrg/gpg-guide) - Quick-start guide to GPG
 - [jzbor/mashup](https://github.com/jzbor/mashup) - Merely Another Shell Utility Project
 - [jstkdng/ungoogled-chromium-bin](https://github.com/jstkdng/ungoogled-chromium-bin) - Mirror from the now deleted ungoogled-chromium-bin AUR package
@@ -2630,6 +2630,7 @@
 - [felipec/vim-sanegx](https://github.com/felipec/vim-sanegx) - Makes gx work correctly.
 - [lifepillar/vim-gruvbox8](https://github.com/lifepillar/vim-gruvbox8) - A simplified and optimized Gruvbox colorscheme for Vim
 - [yangmillstheory/vim-snipe](https://github.com/yangmillstheory/vim-snipe) - 
+- [keystroke3/dotfiles](https://github.com/keystroke3/dotfiles) - My Linux settings and configs
 - [tyru/open-browser.vim](https://github.com/tyru/open-browser.vim) - Open URI with your favorite browser from your most favorite editor
 - [dhruvasagar/vim-dotoo](https://github.com/dhruvasagar/vim-dotoo) - Org-mode like task logging & time tracking in Vim
 - [sayanarijit/xplr.vim](https://github.com/sayanarijit/xplr.vim) - Fork of https://github.com/mcchrish/nnn.vim modified to work with xplr. Until xplr has its own plugin.
