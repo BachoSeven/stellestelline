@@ -837,6 +837,7 @@
 
 ## Go 
 
+- [warthog618/modem](https://github.com/warthog618/modem) - A Go driver for AT based modems
 - [blampe/goat](https://github.com/blampe/goat) - Render ASCII art as SVG diagrams
 - [raitonoberu/lyricsapi](https://github.com/raitonoberu/lyricsapi) - Go package and server app for retrieving time-stamped lyrics from Spotify.
 - [gorilla/feeds](https://github.com/gorilla/feeds) - golang rss/atom generator library
@@ -2013,7 +2014,7 @@
 - [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3
 - [ZeroX-DG/moon](https://github.com/ZeroX-DG/moon) - :earth_americas: :moon: A hobby web browser developed from scratch
 - [KSXGitHub/parallel-disk-usage](https://github.com/KSXGitHub/parallel-disk-usage) - Highly parallelized, blazing fast directory tree analyzer
-- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
+- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary in your terminal
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 - [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
@@ -2669,7 +2670,7 @@
 - [bennyyip/dot-vim](https://github.com/bennyyip/dot-vim) - 
 - [yukimemi/dotfiles](https://github.com/yukimemi/dotfiles) - my conf settings
 - [morhetz/gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim
-- [jdhao/better-escape.vim](https://github.com/jdhao/better-escape.vim) - A Vim/Neovim plugin for escaping insert mode without lagging.
+- [nvim-zh/better-escape.vim](https://github.com/nvim-zh/better-escape.vim) - A Vim/Neovim plugin for escaping insert mode without lagging.
 - [wfxr/minimap.vim](https://github.com/wfxr/minimap.vim) - 📡 Blazing fast minimap / scrollbar for vim, powered by code-minimap written in Rust.
 - [paradigm/dotfiles](https://github.com/paradigm/dotfiles) - Collection of configuration and settings files for Linux (and cygwin)
 - [mk12/vim-lean](https://github.com/mk12/vim-lean) - Lean Theorem Prover plugin for Vim.
