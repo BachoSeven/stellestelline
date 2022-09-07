@@ -741,7 +741,6 @@
 - [Rosmaninho/Zotero-Dark-Theme](https://github.com/Rosmaninho/Zotero-Dark-Theme) - userChrome.css file for a Zotero dark theme. Suggestions for improvements are welcome.
 - [Libera-Chat/libera-chat.github.io](https://github.com/Libera-Chat/libera-chat.github.io) - The website of Libera Chat, providing documentation and news
 - [kkYrusobad/kkYrusobad.github.io](https://github.com/kkYrusobad/kkYrusobad.github.io) - Material startpage/dashboard for home server!
-- [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [RuneAudio/Docs](https://github.com/RuneAudio/Docs) - Official documentation of the RuneAudio project.
 - [emanuelep57/Blue-tea](https://github.com/emanuelep57/Blue-tea) - Simple startpage with weather and to-do list features.
@@ -982,7 +981,7 @@
 - [arxiv-vanity/engrafo](https://github.com/arxiv-vanity/engrafo) - Convert LaTeX documents into beautiful responsive web pages using LaTeXML.
 - [RootMyTV/RootMyTV.github.io](https://github.com/RootMyTV/RootMyTV.github.io) - RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs.
 - [Animenosekai/freeWolframAlpha](https://github.com/Animenosekai/freeWolframAlpha) - Unlock/Receive FREE unlimited access to Wolfram|Alpha's full Step-by-step solutions.
-- [WolfreeAlpha/WolfreeAlpha.github.io](https://github.com/WolfreeAlpha/WolfreeAlpha.github.io) - All the files in this directory are created automatically using Docker.  Docker can read wolfree-dockerfile to produce all the files in this directory.  You can get Docker at https://www.docker.com/  
+- [WolfreeAlpha/WolfreeAlpha.github.io](https://github.com/WolfreeAlpha/WolfreeAlpha.github.io) - All the files in this directory are created automatically using Docker and Dockerfile.  Docker can read Dockerfile to produce all the files in this directory.  You can get Docker from the following we
 - [alangpierce/TheProofIsTrivial](https://github.com/alangpierce/TheProofIsTrivial) - Math-themed single-serving site
 - [AdaptiveScale/lxdui](https://github.com/AdaptiveScale/lxdui) - LXDUI is a web UI for the native Linux container technology LXD/LXC
 - [phc-dm/content-poisson](https://github.com/phc-dm/content-poisson) - Tutti i contenuti inseriti in Poisson e.g. articoli, guide, ecc.
@@ -1462,6 +1461,7 @@
 - [jnmcfly/awesome-startpage](https://github.com/jnmcfly/awesome-startpage) - This is a carefully compiled list of remarkable projects with the focus on startpages.
 - [TemporalAgent7/awesome-windows-privacy](https://github.com/TemporalAgent7/awesome-windows-privacy) - A list of awesome tools, documentation and scripts for better privacy on Microsoft Windows
 - [fiatjaf/awesome-loginless](https://github.com/fiatjaf/awesome-loginless) - an awesome list of internet services that don't require logins or registrations
+- [dothq/browser](https://github.com/dothq/browser) - The browser that fights for your privacy.
 - [yulunzhang/video-enhancement](https://github.com/yulunzhang/video-enhancement) - A list of resources for video enhancement, including video super-resolutio, interpolation, denoising, compression artifact removal et al..
 - [Digitalone1/EasyEffects-Presets](https://github.com/Digitalone1/EasyEffects-Presets) - Presets for EasyEffects and PulseEffects.
 - [ubports/ubuntu-touch](https://github.com/ubports/ubuntu-touch) - A simple and beautiful mobile OS for everyone! This repository is for Ubuntu Touch issue tracking. It does not contain any code used to create Ubuntu Touch.
@@ -1503,6 +1503,7 @@
 - [CuddleBear92/Hydrus-guides](https://github.com/CuddleBear92/Hydrus-guides) - 
 - [1Password/1password-teams-open-source](https://github.com/1Password/1password-teams-open-source) - Get a free 1Password Teams membership for your open source project
 - [comfies/tldrlfs](https://github.com/comfies/tldrlfs) - Too Long; Didn't Read Linux From Scratch
+- [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
 - [keystroke3/Tauon-themes](https://github.com/keystroke3/Tauon-themes) - A few of my own themes for Tauon Music Box: https://github.com/Taiko2k/TauonMusicBox.git
 - [VEGEMITEGOD/Tauon-Music-Box-theme-Stargazing](https://github.com/VEGEMITEGOD/Tauon-Music-Box-theme-Stargazing) - 
 - [google/bbr](https://github.com/google/bbr) - 
@@ -2558,7 +2559,6 @@
 - [RudeySH/lastfm-bulk-edit](https://github.com/RudeySH/lastfm-bulk-edit) - Bulk edit your scrobbles for any artist, album or track on Last.fm at once.
 - [jeffvli/sonixd](https://github.com/jeffvli/sonixd) - A full-featured Subsonic/Jellyfin compatible desktop music player
 - [PrettyCoffee/startpage](https://github.com/PrettyCoffee/startpage) - A React library which provides tools that help creating browser startpages in react.
-- [dothq/browser](https://github.com/dothq/browser) - The browser that fights for your privacy.
 - [xbrowsersync/api](https://github.com/xbrowsersync/api) - Server-side REST API that serves requests from xBrowserSync client apps
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
 - [imLinguin/jelly-desktop](https://github.com/imLinguin/jelly-desktop) - Simple community made desktop client for Jellyfin
