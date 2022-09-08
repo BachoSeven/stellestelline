@@ -41,7 +41,6 @@
 - [Jinja](#jinja)
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
-- [KakouneScript](#kakounescript)
 - [Kotlin](#kotlin)
 - [Lean](#lean)
 - [Less](#less)
@@ -1260,10 +1259,6 @@
 - [MTG/essentia](https://github.com/MTG/essentia) - C++ library for audio and music analysis, description and synthesis, including Python bindings
 - [morrolinux/simple-ehm](https://github.com/morrolinux/simple-ehm) - A simple tool for a simple task: remove filler sounds ("ehm") from pre-recorded speeches. AI powered.
 
-## KakouneScript 
-
-- [alexherbo2/dotfiles](https://github.com/alexherbo2/dotfiles) - Personal configuration files
-
 ## Kotlin 
 
 - [revanced/revanced-cli](https://github.com/revanced/revanced-cli) - 💻 Command line application as an alternative to the ReVanced Manager
@@ -1440,6 +1435,7 @@
 
 ## Others 
 
+- [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [BachoSeven/stellestelline](https://github.com/BachoSeven/stellestelline) - 
 - [pop-os/beta](https://github.com/pop-os/beta) - Pop!_OS Beta
 - [dab2020/Guides](https://github.com/dab2020/Guides) - Some of my random guides
@@ -2329,6 +2325,7 @@
 - [dylanaraps/pxltrm](https://github.com/dylanaraps/pxltrm) - 🖌️ pxltrm - [WIP] A pixel art editor inside the terminal
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
 - [jhuntwork/merelinux](https://github.com/jhuntwork/merelinux) - A lightweight Linux distribution using musl libc, pacman and s6
+- [alexherbo2/dotfiles](https://github.com/alexherbo2/dotfiles) - ~taupiqueur
 - [z3ntu/archhurd_packages](https://github.com/z3ntu/archhurd_packages) - Packages for Arch Hurd
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [zsh-vi-more/vi-motions](https://github.com/zsh-vi-more/vi-motions) - All the motions you could ask for and more for Zsh's vi mode.
