@@ -840,6 +840,7 @@
 
 ## Go 
 
+- [golang/oauth2](https://github.com/golang/oauth2) - Go OAuth2
 - [warthog618/modem](https://github.com/warthog618/modem) - A Go driver for AT based modems
 - [blampe/goat](https://github.com/blampe/goat) - Render ASCII art as SVG diagrams
 - [raitonoberu/lyricsapi](https://github.com/raitonoberu/lyricsapi) - Go package and server app for retrieving time-stamped lyrics from Spotify.
