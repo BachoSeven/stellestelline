@@ -105,6 +105,7 @@
 ## Adblock Filter List 
 
 - [easylist/easylist](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
+- [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
 
 ## Agda 
 
@@ -530,7 +531,7 @@
 - [yaronzz/Tidal-Media-Downloader-PRO](https://github.com/yaronzz/Tidal-Media-Downloader-PRO) - Download 'TIDAL' Music On Windows/Linux/MacOs (PYTHON/C#)
 - [BlitterStudio/MB_SubSonic](https://github.com/BlitterStudio/MB_SubSonic) - MusicBee SubSonic plugin
 - [gchudov/cuetools.net](https://github.com/gchudov/cuetools.net) - CD image processing suite with optimized lossless encoders in C#
-- [Difegue/Stylophone](https://github.com/Difegue/Stylophone) - MPD Client for the Universal Windows Platform, based on MpcNET.
+- [Difegue/Stylophone](https://github.com/Difegue/Stylophone) - A pretty cool™️MPD client in .NET. Based on MpcNET.
 - [mono/mono](https://github.com/mono/mono) - Mono open source ECMA CLI, C# and .NET implementation.
 - [mono/linux-packaging-msbuild](https://github.com/mono/linux-packaging-msbuild) - 
 - [ppy/osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
@@ -1077,6 +1078,7 @@
 
 ## JavaScript 
 
+- [manusa/electronim](https://github.com/manusa/electronim) - Electron based multi IM (Instant Messaging) client
 - [PrismarineJS/node-minecraft-protocol](https://github.com/PrismarineJS/node-minecraft-protocol) - Parse and serialize minecraft packets, plus authentication and encryption.
 - [pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) - 
 - [brackets-cont/brackets](https://github.com/brackets-cont/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
@@ -2248,7 +2250,6 @@
 - [NNBnh/dotfiles](https://github.com/NNBnh/dotfiles) - 📂 My personal Đotfiles (WIP)
 - [ipfs/ipget](https://github.com/ipfs/ipget) - Retrieve files over IPFS and save them locally.
 - [RichiH/vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
-- [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
 - [graysky2/pulseaudio-ctl](https://github.com/graysky2/pulseaudio-ctl) - Control pulseaudio volume from the shell or mapped to keyboard shortcuts. No need for alsa-utils.
 - [fehawen/bin](https://github.com/fehawen/bin) - Scripts et al.
 - [fehawen/dotfiles](https://github.com/fehawen/dotfiles) - A better $HOME.
