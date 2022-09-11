@@ -208,7 +208,7 @@
 - [file/file](https://github.com/file/file) - Read-only mirror of file CVS repository, updated every half hour. NOTE: do not make pull requests here, nor comment any commits, submit them usual way to bug tracker or to the mailing list. Maintainer
 - [ryanflannery/vitunes](https://github.com/ryanflannery/vitunes) - A curses media indexer and player for vi users
 - [ghaerr/microwindows](https://github.com/ghaerr/microwindows) - The Nano-X Window System
-- [gottaeat/apathy](https://github.com/gottaeat/apathy) - life aint shit but bitches and money
+- [gottaeat/apathy](https://github.com/gottaeat/apathy) - ...concerning the African American-ization of menthols, one among many of the central questions in the menthol drama remains unanswered: Did the tobacco industry consciously push menthol products on t
 - [Aalbus-linux/Aalbus](https://github.com/Aalbus-linux/Aalbus) - The master repository for the Aalbus distribution
 - [intel/sgx-software-enable](https://github.com/intel/sgx-software-enable) - 
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
@@ -982,7 +982,7 @@
 - [arxiv-vanity/engrafo](https://github.com/arxiv-vanity/engrafo) - Convert LaTeX documents into beautiful responsive web pages using LaTeXML.
 - [RootMyTV/RootMyTV.github.io](https://github.com/RootMyTV/RootMyTV.github.io) - RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs.
 - [Animenosekai/freeWolframAlpha](https://github.com/Animenosekai/freeWolframAlpha) - Unlock/Receive FREE unlimited access to Wolfram|Alpha's full Step-by-step solutions.
-- [WolfreeAlpha/WolfreeAlpha.github.io](https://github.com/WolfreeAlpha/WolfreeAlpha.github.io) - All the files in this directory are created automatically using Docker and Dockerfile.  Docker can read Dockerfile to produce all the files in this directory.  You can get Docker from the following we
+- [WolfreeAlpha/WolfreeAlpha.github.io](https://github.com/WolfreeAlpha/WolfreeAlpha.github.io) - All the files in this directory are created automatically using Docker and Dockerfile.  Docker can read Dockerfile to produce all the files in this directory.  You can get Docker from:  https://docs.d
 - [alangpierce/TheProofIsTrivial](https://github.com/alangpierce/TheProofIsTrivial) - Math-themed single-serving site
 - [AdaptiveScale/lxdui](https://github.com/AdaptiveScale/lxdui) - LXDUI is a web UI for the native Linux container technology LXD/LXC
 - [phc-dm/content-poisson](https://github.com/phc-dm/content-poisson) - Tutti i contenuti inseriti in Poisson e.g. articoli, guide, ecc.
@@ -1078,6 +1078,7 @@
 
 ## JavaScript 
 
+- [ahrm/chrome-absolver](https://github.com/ahrm/chrome-absolver) - Absolving web pages from the sins of the wretched web developers.
 - [manusa/electronim](https://github.com/manusa/electronim) - Electron based multi IM (Instant Messaging) client
 - [PrismarineJS/node-minecraft-protocol](https://github.com/PrismarineJS/node-minecraft-protocol) - Parse and serialize minecraft packets, plus authentication and encryption.
 - [pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) - 
@@ -1514,7 +1515,7 @@
 - [dylanaraps/clutter-home](https://github.com/dylanaraps/clutter-home) - clutter your home directory!
 - [woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) - :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
 - [firasuke/awesome](https://github.com/firasuke/awesome) - A curated list of awesome projects
-- [glaucuslinux/glaucus](https://github.com/glaucuslinux/glaucus) - An independent Linux® distribution built from scratch
+- [glaucuslinux/glaucus](https://github.com/glaucuslinux/glaucus) - An independent Linux® distribution designed from scratch for optimum performance
 - [dbostian/fbomb](https://github.com/dbostian/fbomb) - 
 - [z3ntu/archhurd_packages_binary](https://github.com/z3ntu/archhurd_packages_binary) - Packages for Arch Hurd (binaries)
 - [dezelin/movies](https://github.com/dezelin/movies) - movies
@@ -1624,6 +1625,7 @@
 
 ## Python 
 
+- [ahrm/sioyek-python-extensions](https://github.com/ahrm/sioyek-python-extensions) - Python wrapper and simple addons for sioyek PDF viewer
 - [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 🎁 a wrapper around all package managers
 - [deter0/xborder](https://github.com/deter0/xborder) - Active window border replacement for window managers.
 - [Mathics3/mathics-core](https://github.com/Mathics3/mathics-core) - An open-source Mathematica. This repository contains the Python modules for WL Built-in functions, variables, core primitives, e.g. Symbol, a parser to create Expressions, and an evaluator to execute 
@@ -1936,6 +1938,7 @@
 
 ## Rust 
 
+- [kdheepak/taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - `taskwarrior-tui`: A terminal user interface for taskwarrior
 - [SeaDve/Mousai](https://github.com/SeaDve/Mousai) - Identify songs in seconds
 - [rapiz1/catp](https://github.com/rapiz1/catp) - Print the output of a running process
 - [nitnelave/lldap](https://github.com/nitnelave/lldap) - Light LDAP implementation
