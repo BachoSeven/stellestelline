@@ -531,7 +531,7 @@
 - [yaronzz/Tidal-Media-Downloader-PRO](https://github.com/yaronzz/Tidal-Media-Downloader-PRO) - Download 'TIDAL' Music On Windows/Linux/MacOs (PYTHON/C#)
 - [BlitterStudio/MB_SubSonic](https://github.com/BlitterStudio/MB_SubSonic) - MusicBee SubSonic plugin
 - [gchudov/cuetools.net](https://github.com/gchudov/cuetools.net) - CD image processing suite with optimized lossless encoders in C#
-- [Difegue/Stylophone](https://github.com/Difegue/Stylophone) - A pretty cool™️MPD client in .NET. Based on MpcNET.
+- [Difegue/Stylophone](https://github.com/Difegue/Stylophone) - A pretty cool™️ MPD client in .NET. Based on MpcNET.
 - [mono/mono](https://github.com/mono/mono) - Mono open source ECMA CLI, C# and .NET implementation.
 - [mono/linux-packaging-msbuild](https://github.com/mono/linux-packaging-msbuild) - 
 - [ppy/osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
@@ -2172,6 +2172,7 @@
 
 ## Shell 
 
+- [archlinux/aur](https://github.com/archlinux/aur) - ⚠️⚠️Experimental aur.git mirror⚠️⚠️ (read-only mirror)
 - [reegnz/jq-zsh-plugin](https://github.com/reegnz/jq-zsh-plugin) - jq zsh plugin
 - [crystal-linux/iso](https://github.com/crystal-linux/iso) - Build or download the Arch-based Crystal Linux iso.
 - [BachoSeven/aur](https://github.com/BachoSeven/aur) - My PKGBUILDS
