@@ -2344,7 +2344,7 @@
 - [channel-42/wppfzf](https://github.com/channel-42/wppfzf) - Browse and download images from reddit
 - [e-zk/dotfiles](https://github.com/e-zk/dotfiles) - ~
 - [e-zk/shlog](https://github.com/e-zk/shlog) - a static blog generator in /bin/sh: rewrite pending
-- [rayes0/scripts](https://github.com/rayes0/scripts) - collection of miscellaneous scripts and small programs
+- [rayes0/scripts](https://github.com/rayes0/scripts) - collection of misc scripts and small programs
 - [yochananmarqos/pkgbuilds](https://github.com/yochananmarqos/pkgbuilds) - Personal PKGBUILDs
 - [Zayac-The-Engineer/lazywal-cli](https://github.com/Zayac-The-Engineer/lazywal-cli) - Animated wallpaper script around xwinwrap
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
