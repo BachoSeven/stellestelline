@@ -706,7 +706,6 @@
 - [thosgood/sga](https://github.com/thosgood/sga) - An English translation of the Séminaire de Géométrie Algébrique du Bois Marie
 - [NethServer/docs](https://github.com/NethServer/docs) - NethServer documentation
 - [williamckha/spicetify-fluent](https://github.com/williamckha/spicetify-fluent) - Spicetify theme inspired by Microsoft's Fluent Design
-- [susam/mathb](https://github.com/susam/mathb) - Math pastebin service with LaTeX and Markdown support that powers http://mathb.in/
 - [schnensch0/ziro](https://github.com/schnensch0/ziro) - spicetify theme inspired by zorin
 - [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [joeroe/risotto](https://github.com/joeroe/risotto) - A minimalist, responsive hugo theme inspired by terminal ricing aesthetics.
@@ -783,6 +782,7 @@
 
 ## Common Lisp 
 
+- [susam/mathb](https://github.com/susam/mathb) - Math pastebin service with LaTeX and Markdown support that powers http://mathb.in/
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's power-browser.
 
 ## Crystal 
@@ -2172,6 +2172,7 @@
 
 ## Shell 
 
+- [aziis98/bash-vcs](https://github.com/aziis98/bash-vcs) - An extremely simple version control system written in bash
 - [archlinux/aur](https://github.com/archlinux/aur) - ⚠️⚠️Experimental aur.git mirror⚠️⚠️ (read-only mirror)
 - [reegnz/jq-zsh-plugin](https://github.com/reegnz/jq-zsh-plugin) - jq zsh plugin
 - [crystal-linux/iso](https://github.com/crystal-linux/iso) - Build or download the Arch-based Crystal Linux iso.
