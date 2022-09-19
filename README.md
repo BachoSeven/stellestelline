@@ -1266,6 +1266,7 @@
 
 ## Kotlin 
 
+- [iamrasel/lunar-launcher](https://github.com/iamrasel/lunar-launcher) - Feature rich android home with minimal look.
 - [revanced/revanced-cli](https://github.com/revanced/revanced-cli) - 💻 Command line application as an alternative to the ReVanced Manager
 - [revanced/revanced-patches](https://github.com/revanced/revanced-patches) - 🧩 Official patches by ReVanced
 - [revanced/revanced-patcher](https://github.com/revanced/revanced-patcher) - 💉 Patcher used by ReVanced
@@ -1439,6 +1440,7 @@
 
 ## Others 
 
+- [kushaldas/lym](https://github.com/kushaldas/lym) - Linux command line for you and me
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [BachoSeven/stellestelline](https://github.com/BachoSeven/stellestelline) - 
 - [pop-os/beta](https://github.com/pop-os/beta) - Pop!_OS Beta
@@ -2656,7 +2658,7 @@
 - [Luxed/ayu-vim](https://github.com/Luxed/ayu-vim) - Modern theme for modern VIMs
 - [noahfrederick/vim-noctu](https://github.com/noahfrederick/vim-noctu) - A Vim color scheme for 16-color terminals
 - [changemewtf/no_plugins](https://github.com/changemewtf/no_plugins) - "Slides" and supplemental info from my August 3rd 2016 NYC Vim talk
-- [LinArcX/winny](https://github.com/LinArcX/winny) - tips and tricks to make windows less bloated and more productive
+- [LinArcX/winconf](https://github.com/LinArcX/winconf) - Tips & Tricks to make windows less bloated and more productive :)
 - [LinArcX/mpsl](https://github.com/LinArcX/mpsl) - minimal (n)vim plugins - status line(Under 200 LOC)
 - [LinArcX/mpbtl](https://github.com/LinArcX/mpbtl) - minimal (n)vim plugins - buffer tabline(Under 200 LOC)
 - [LinArcX/mpi](https://github.com/LinArcX/mpi) - minimal (n)vim plugins - icons (Under 200 LOC)
