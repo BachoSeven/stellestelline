@@ -669,7 +669,7 @@
 - [Asus-MSM8916/android_device_asus_msm8916-common](https://github.com/Asus-MSM8916/android_device_asus_msm8916-common) - 
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [PurritoBin/PurritoBin](https://github.com/PurritoBin/PurritoBin) - fast, minimalistic, encrypted command line paste-bin
-- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
+- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X (and other things, too)
 - [MasterQ32/kristall](https://github.com/MasterQ32/kristall) - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
 - [allencch/med](https://github.com/allencch/med) - Linux alternative game memory editor
 - [grappendorf/smarkant](https://github.com/grappendorf/smarkant) - Convert your IKEA Bekant table into an IoT device
@@ -782,7 +782,7 @@
 
 ## Common Lisp 
 
-- [susam/mathb](https://github.com/susam/mathb) - Math pastebin service with LaTeX and Markdown support that powers http://mathb.in/
+- [susam/mathb](https://github.com/susam/mathb) - Share mathematics snippets on the web
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's power-browser.
 
 ## Crystal 
@@ -817,7 +817,7 @@
 ## Emacs Lisp 
 
 - [susam/emfy](https://github.com/susam/emfy) - A dark and sleek Emacs setup for general purpose editing and programming
-- [thiderman/dotfiles](https://github.com/thiderman/dotfiles) - Heavy emacs customizations with a purple finish
+- [Olivia5k/dotfiles](https://github.com/Olivia5k/dotfiles) - Heavy emacs customizations with a purple finish
 - [jnykopp/emaccordion](https://github.com/jnykopp/emaccordion) - Control Emacs with MIDI
 - [jasonliang-dev/dotfiles](https://github.com/jasonliang-dev/dotfiles) - ~/.*
 
@@ -1164,7 +1164,7 @@
 - [ericblade/xo](https://github.com/ericblade/xo) - XO - The Subsonic Commander
 - [santinic/how2](https://github.com/santinic/how2) - stackoverflow from the terminal
 - [jellyfin/jellyfin-tizen](https://github.com/jellyfin/jellyfin-tizen) - Jellyfin Samsung TV Client
-- [comfies/odko](https://github.com/comfies/odko) - 🎫 a minimal graphical programming language
+- [mininmobile/odko](https://github.com/mininmobile/odko) - 🎫 a minimal graphical programming language
 - [gijsroge/tilt.js](https://github.com/gijsroge/tilt.js) - A tiny 60+fps parallax tilt hover effect for jQuery.
 - [acmeframework/page-qr](https://github.com/acmeframework/page-qr) - Chromium extension to generate a QR code for your current active tab
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
@@ -1440,6 +1440,7 @@
 
 ## Others 
 
+- [macbian-linux/macos-subsystem-for-linux](https://github.com/macbian-linux/macos-subsystem-for-linux) - Guide on how to use Qemu to create a similar effect to Windows Subsystem for Linux on macOS. Unfinished; contributions are welcome!
 - [kushaldas/lym](https://github.com/kushaldas/lym) - Linux command line for you and me
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [BachoSeven/stellestelline](https://github.com/BachoSeven/stellestelline) - 
@@ -1760,7 +1761,7 @@
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, offline capable and easy to setup.
 - [sdushantha/qr-filetransfer](https://github.com/sdushantha/qr-filetransfer) - Transfer files over WiFi between your computer and your smartphone from the terminal
 - [stuartlangridge/magnus](https://github.com/stuartlangridge/magnus) - A very simple screen magnifier for Ubuntu
-- [thiderman/doge](https://github.com/thiderman/doge) - wow very terminal doge
+- [Olivia5k/doge](https://github.com/Olivia5k/doge) - wow very terminal doge
 - [christgau/wsdd](https://github.com/christgau/wsdd) - A Web Service Discovery host daemon.
 - [seebye/ueberzug](https://github.com/seebye/ueberzug) - ueberzug is a command line util which allows to display images in combination with X11. The user is expected to have knowledge of theoretical computer science. https://github.com/seebye/ueberzug/wiki/
 - [idank/explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
