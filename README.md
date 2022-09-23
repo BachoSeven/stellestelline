@@ -137,6 +137,7 @@
 
 ## C 
 
+- [bakkeby/xban](https://github.com/bakkeby/xban) - Hides the X mouse cursor on keypress and reveals it again when the mouse cursor moves
 - [mjakeman/extension-manager](https://github.com/mjakeman/extension-manager) - A utility for browsing and installing GNOME Shell Extensions.
 - [mdbtools/mdbtools](https://github.com/mdbtools/mdbtools) - MDB Tools - Read Access databases on *nix
 - [koreader/libk2pdfopt](https://github.com/koreader/libk2pdfopt) - k2pdfopt library for koreader, based on http://willus.com/k2pdfopt
@@ -1521,7 +1522,6 @@
 - [glaucuslinux/glaucus](https://github.com/glaucuslinux/glaucus) - An independent Linux® distribution designed from scratch for optimum performance
 - [dbostian/fbomb](https://github.com/dbostian/fbomb) - 
 - [z3ntu/archhurd_packages_binary](https://github.com/z3ntu/archhurd_packages_binary) - Packages for Arch Hurd (binaries)
-- [dezelin/movies](https://github.com/dezelin/movies) - movies
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [alevchuk/vim-clutch](https://github.com/alevchuk/vim-clutch) - A hardware pedal for improved text editing in Vim
 - [qcasey/chromium-patches](https://github.com/qcasey/chromium-patches) - Patches to customize chromium, including GTK dark mode and an extension-less startpage
@@ -2193,7 +2193,7 @@
 - [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature-rich syntax highlighting for ZSH
 - [owl4ce/linucc224](https://github.com/owl4ce/linucc224) - :syringe: Easily patch your own Linux simplefb
 - [BachoSeven/dotfiles](https://github.com/BachoSeven/dotfiles) - rice repo
-- [cb-linux/breath](https://github.com/cb-linux/breath) - Linux for Chromebooks
+- [cb-linux/breath](https://github.com/cb-linux/breath) - Linux for Chromebooks (continuation/revival by Apacelus on https://eupnea-linux.github.io/)
 - [CyberShadow/aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
 - [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements.
 - [k-vernooy/dotfiles](https://github.com/k-vernooy/dotfiles) - An organizational repository for my dotfiles and scripts
