@@ -783,7 +783,7 @@
 
 ## Common Lisp 
 
-- [susam/mathb](https://github.com/susam/mathb) - Share mathematics snippets on the web
+- [susam/mathb](https://github.com/susam/mathb) - MathB.in - A Mathematics Pastebin Written in Common Lisp
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's power-browser.
 
 ## Crystal 
@@ -984,7 +984,6 @@
 - [arxiv-vanity/engrafo](https://github.com/arxiv-vanity/engrafo) - Convert LaTeX documents into beautiful responsive web pages using LaTeXML.
 - [RootMyTV/RootMyTV.github.io](https://github.com/RootMyTV/RootMyTV.github.io) - RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs.
 - [Animenosekai/freeWolframAlpha](https://github.com/Animenosekai/freeWolframAlpha) - Unlock/Receive FREE unlimited access to Wolfram|Alpha's full Step-by-step solutions.
-- [WolfreeAlpha/WolfreeAlpha.github.io](https://github.com/WolfreeAlpha/WolfreeAlpha.github.io) - All the files in this directory are created automatically using Docker and Dockerfile.  Docker can read Dockerfile to produce all the files in this directory.  You can get Docker from:  https://docs.d
 - [alangpierce/TheProofIsTrivial](https://github.com/alangpierce/TheProofIsTrivial) - Math-themed single-serving site
 - [AdaptiveScale/lxdui](https://github.com/AdaptiveScale/lxdui) - LXDUI is a web UI for the native Linux container technology LXD/LXC
 - [phc-dm/content-poisson](https://github.com/phc-dm/content-poisson) - Tutti i contenuti inseriti in Poisson e.g. articoli, guide, ecc.
