@@ -809,6 +809,7 @@
 
 ## Dockerfile 
 
+- [baethon/docker-goatcounter](https://github.com/baethon/docker-goatcounter) - Unofficial docker image for goatcounter
 - [iv-org/documentation](https://github.com/iv-org/documentation) - The official Invidious documentation
 - [dmpanch/radio](https://github.com/dmpanch/radio) - MPD + MPC + Telegram bot radio stack in Docker
 - [paulbismuth/nicotine-plus-docker](https://github.com/paulbismuth/nicotine-plus-docker) - 
@@ -843,6 +844,7 @@
 
 ## Go 
 
+- [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
 - [golang/oauth2](https://github.com/golang/oauth2) - Go OAuth2
 - [warthog618/modem](https://github.com/warthog618/modem) - A Go driver for AT based modems
 - [blampe/goat](https://github.com/blampe/goat) - Render ASCII art as SVG diagrams
@@ -2367,7 +2369,7 @@
 - [paoloap/zaread](https://github.com/paoloap/zaread) - A (very) lightweight MS Office file reader
 - [Bugswriter/tuxi](https://github.com/Bugswriter/tuxi) - Tuxi is a cli assistant. Get answers of your questions instantly.
 - [cpetrov/deft](https://github.com/cpetrov/deft) - A Linux loadable kernel module for the Elecom DEFT series finger operated trackballs (M-DT1DRBK, M-DT2DRBK, M-DT1URBK, M-DT2URBK)
-- [oliverlew/xdg-xmenu](https://github.com/oliverlew/xdg-xmenu) - A shell script to generate menu for xmenu
+- [oliverlew/xdg-xmenu](https://github.com/oliverlew/xdg-xmenu) - Generate menu for xmenu
 - [salman-abedin/amenu](https://github.com/salman-abedin/amenu) - Fuzzy Finder Dynamic GUI Menu
 - [tdukv/dotfiles-void](https://github.com/tdukv/dotfiles-void) - my voidlinux setup
 - [jandamm/zgenom](https://github.com/jandamm/zgenom) - A lightweight and fast plugin manager for ZSH
