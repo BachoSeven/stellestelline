@@ -143,7 +143,7 @@
 - [koreader/libk2pdfopt](https://github.com/koreader/libk2pdfopt) - k2pdfopt library for koreader, based on http://willus.com/k2pdfopt
 - [dccsillag/picom](https://github.com/dccsillag/picom) - A lightweight compositor for X11
 - [alols/xcape](https://github.com/alols/xcape) - Linux utility to configure modifier keys to act as other keys when pressed and released on their own.
-- [FT-Labs/phyOS-dwm](https://github.com/FT-Labs/phyOS-dwm) - wm for phyOS, alt + tab windows switching, png & icon supported status bar
+- [FT-Labs/pdwm](https://github.com/FT-Labs/pdwm) - full animation supported, easy configurable (uses shared library) dwm fork with a control center (pdwmc)
 - [bakkeby/dwm-commented](https://github.com/bakkeby/dwm-commented) - A fork of dwm with comments explaining in detail how the window manager works
 - [vacaboja/tg](https://github.com/vacaboja/tg) - A program for timing mechanical watches
 - [mini-rose/rose](https://github.com/mini-rose/rose) - Minimalist browser based on webkit2 and GTK4.
@@ -980,6 +980,7 @@
 
 ## HTML 
 
+- [rbrignall/numble](https://github.com/rbrignall/numble) - Wordle with maths-themed words
 - [boris-marinov/category-theory-illustrated](https://github.com/boris-marinov/category-theory-illustrated) - A book about category theory
 - [agrothendieck/agrothendieck.github.io](https://github.com/agrothendieck/agrothendieck.github.io) - THÈMES POUR UNE HARMONIE
 - [lilnasy/scribblyscrobbly](https://github.com/lilnasy/scribblyscrobbly) - a web page to tidy up apple music and spotify streaming history for last.fm
