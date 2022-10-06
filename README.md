@@ -1635,7 +1635,7 @@
 ## Python 
 
 - [ahrm/sioyek-python-extensions](https://github.com/ahrm/sioyek-python-extensions) - Python wrapper and simple addons for sioyek PDF viewer
-- [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 🎁 a wrapper around all package managers
+- [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 🎁 wraps all package managers with an unifying CLI
 - [deter0/xborder](https://github.com/deter0/xborder) - Active window border replacement for window managers.
 - [Mathics3/mathics-core](https://github.com/Mathics3/mathics-core) - An open-source Mathematica. This repository contains the Python modules for WL Built-in functions, variables, core primitives, e.g. Symbol, a parser to create Expressions, and an evaluator to execute 
 - [NethServer/dev](https://github.com/NethServer/dev) - NethServer issue tracker
@@ -2088,7 +2088,7 @@
 - [Wafelack/rdfm](https://github.com/Wafelack/rdfm) - RDFM - The Rusty DotFiles Manager
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [willdoescode/nat](https://github.com/willdoescode/nat) - `ls` alternative with useful info and a splash of color 🎨
-- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 Building a federated link aggregator in rust
+- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
 - [xymostech/XymosTeX](https://github.com/xymostech/XymosTeX) - A re-implementation of TeX in Rust to help me understand how it works and to eventually provide a debugging interface
 - [xou816/spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
 - [steganogram/stegano-rs](https://github.com/steganogram/stegano-rs) - A cross-platform command line tool for steganography focused on performance and simplicity written in rust-lang.
