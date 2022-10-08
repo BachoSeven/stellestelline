@@ -877,7 +877,7 @@
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / subsonic server API implementation
 - [raitonoberu/sptlrx](https://github.com/raitonoberu/sptlrx) - Timesynced lyrics in your terminal
 - [blrsn/zentile](https://github.com/blrsn/zentile) - Automatic Tiling for EWMH Compliant Window Managers
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting infrastructure, fully automated from empty disk to operating services.
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting infrastructure, fully automated from empty disk to operating services with a single command.
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [makeworld-the-better-one/amfora](https://github.com/makeworld-the-better-one/amfora) - A fancy terminal browser for the Gemini protocol.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -1474,7 +1474,7 @@
 - [yulunzhang/video-enhancement](https://github.com/yulunzhang/video-enhancement) - A list of resources for video enhancement, including video super-resolutio, interpolation, denoising, compression artifact removal et al..
 - [Digitalone1/EasyEffects-Presets](https://github.com/Digitalone1/EasyEffects-Presets) - Presets for EasyEffects and PulseEffects.
 - [ubports/ubuntu-touch](https://github.com/ubports/ubuntu-touch) - A simple and beautiful mobile OS for everyone! This repository is for Ubuntu Touch issue tracking. It does not contain any code used to create Ubuntu Touch.
-- [aynp/dracula-wallpapers](https://github.com/aynp/dracula-wallpapers) - tWallpapers based on the Dracula Theme
+- [aynp/dracula-wallpapers](https://github.com/aynp/dracula-wallpapers) - Wallpapers based on the Dracula Theme
 - [spencerwooo/linux-wallpapers](https://github.com/spencerwooo/linux-wallpapers) - Linux Wallpapers designed according to Google's Material Design Guidelines.
 - [macchrome/linchrome](https://github.com/macchrome/linchrome) - ungoogled chromium portablelinux
 - [uuupah/pain27_kb](https://github.com/uuupah/pain27_kb) - a 27 key keyboard that is guaranteed to make you vomit in your own mouth, or your money back
