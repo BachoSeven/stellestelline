@@ -1124,7 +1124,7 @@
 - [fosscord/fosscord-client](https://github.com/fosscord/fosscord-client) - Open source, themeable and extendable discord-compatible native fosscord client
 - [fosscord/fosscord](https://github.com/fosscord/fosscord) - 📬 Fosscord is a free open source selfhostable discord compatible communication platform
 - [Novik/ruTorrent](https://github.com/Novik/ruTorrent) - Yet another web front-end for rTorrent
-- [WeebDev/chibisafe](https://github.com/WeebDev/chibisafe) - Blazing fast file uploader and awesome bunker written in node! 🚀
+- [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file uploader and awesome bunker written in node! 🚀
 - [karabaja4/mimejs](https://github.com/karabaja4/mimejs) - A replacement for xdg-open written in Node.js
 - [cloudrac3r/cadencegq](https://github.com/cloudrac3r/cadencegq) - This used to be the code for my personal website, but I've since rewritten everything. The old code lives here as a relic of the past.
 - [sonnyp/Tangram](https://github.com/sonnyp/Tangram) - Browser for your pinned tabs
@@ -1346,7 +1346,7 @@
 - [Uni-qi/dotfiles](https://github.com/Uni-qi/dotfiles) - dots
 - [elianiva/dotfiles](https://github.com/elianiva/dotfiles) - .
 - [zlj-zz/nvim](https://github.com/zlj-zz/nvim) - This is my neovim, good vim configuration.
-- [marcothms/dots](https://github.com/marcothms/dots) - my main configuration files
+- [marcothms/dots](https://github.com/marcothms/dots) - my main configuration files for sway and gnome
 - [monaqa/dial.nvim](https://github.com/monaqa/dial.nvim) - enhanced increment/decrement plugin for Neovim.
 - [zegervdv/nrpattern.nvim](https://github.com/zegervdv/nrpattern.nvim) - Neovim plugin to expand incrementing/decrementing to more formats.
 - [glepnir/galaxyline.nvim](https://github.com/glepnir/galaxyline.nvim) - neovim statusline plugin written in lua
