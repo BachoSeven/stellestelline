@@ -1307,7 +1307,7 @@
 
 - [Pocco81/auto-save.nvim](https://github.com/Pocco81/auto-save.nvim) - 🧶 Automatically save your changes in NeoVim
 - [seanstertm/Isaac-Regret-Pedestals](https://github.com/seanstertm/Isaac-Regret-Pedestals) - A git repo for my isaac mod
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 20+ independent Lua modules improving overall Neovim (version 0.5 and higher) experience with minimal effort
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 20+ independent Lua modules improving overall Neovim (version 0.6 and higher) experience with minimal effort
 - [kwakzalver/duckytype.nvim](https://github.com/kwakzalver/duckytype.nvim) - NeoVim plugin simulating monkeytype.com
 - [letoram/cat9](https://github.com/letoram/cat9) - A User shell for LASH
 - [jbyuki/nabla.nvim](https://github.com/jbyuki/nabla.nvim) - take your scientific notes :pencil2: in Neovim
@@ -1688,7 +1688,7 @@
 - [ipython/xkcd-font](https://github.com/ipython/xkcd-font) - The xkcd font
 - [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) - The official terminal client for Zulip
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web app—powerful open source team chat
-- [Ahmed-Al-Balochi/LibreGaming](https://github.com/Ahmed-Al-Balochi/LibreGaming) - Python Program that downloads gaming required packages based on your Linux Distribution.
+- [ahmed-al-balochi/LibreGaming](https://github.com/ahmed-al-balochi/LibreGaming) - Python Program that downloads gaming required packages based on your Linux Distribution.
 - [stevearc/gkeep.nvim](https://github.com/stevearc/gkeep.nvim) - Google Keep integration for Neovim
 - [wchen342/ungoogled-chromium-building-scripts](https://github.com/wchen342/ungoogled-chromium-building-scripts) - Building scripts for ungoogled-chromium.
 - [retux-game/retux](https://github.com/retux-game/retux) - 
@@ -2440,6 +2440,7 @@
 - [ckardaris/ucollage](https://github.com/ckardaris/ucollage) - An extensible command line image viewer inspired by vim
 - [fl-w/dotfiles](https://github.com/fl-w/dotfiles) - La mia casa
 - [Silicasandwhich/Bibata_Cursor_Translucent](https://github.com/Silicasandwhich/Bibata_Cursor_Translucent) - Translucent Varient of the Material Based Cursor
+- [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Opensource, compact, and material designed cursor set.
 - [jamielinux/bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line
 - [Tecate/bitmap-fonts](https://github.com/Tecate/bitmap-fonts) - Monospaced bitmap fonts for X11, good for terminal use.
 - [build2/msvc-linux](https://github.com/build2/msvc-linux) - msvc as from-linux cross-compiler
@@ -2595,7 +2596,6 @@
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
 - [Xmader/musescore-downloader](https://github.com/Xmader/musescore-downloader) - Download sheet music (MSCZ, PDF, MusicXML, MIDI, MP3, download individual parts as PDF) from musescore.com for free, no login or Musescore Pro required | 免登录、免 Musescore Pro，免费下载 musescore.com 上的曲谱 | 
-- [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Opensource, compact, and material designed cursor set.
 - [remigallego/winampify](https://github.com/remigallego/winampify) - ⚡ A Spotify web client with an OS-looking interface and a reimplementation of the classic audio player Winamp.
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk) - Matrix SDK for React Javascript
