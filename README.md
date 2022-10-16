@@ -845,6 +845,7 @@
 
 ## Go 
 
+- [mholt/caddy-webdav](https://github.com/mholt/caddy-webdav) - WebDAV handler module for Caddy
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
 - [golang/oauth2](https://github.com/golang/oauth2) - Go OAuth2
@@ -1086,6 +1087,7 @@
 
 ## JavaScript 
 
+- [gillescastel/instant-reference](https://github.com/gillescastel/instant-reference) - Instant Pdf Referencing
 - [ahrm/chrome-absolver](https://github.com/ahrm/chrome-absolver) - Absolving web pages from the sins of the wretched web developers.
 - [manusa/electronim](https://github.com/manusa/electronim) - Electron based multi IM (Instant Messaging) client
 - [PrismarineJS/node-minecraft-protocol](https://github.com/PrismarineJS/node-minecraft-protocol) - Parse and serialize minecraft packets, plus authentication and encryption.
@@ -1611,6 +1613,7 @@
 
 ## Perl 
 
+- [liske/needrestart](https://github.com/liske/needrestart) - Restart daemons after library updates.
 - [bcrowell/when](https://github.com/bcrowell/when) - an extremely simple personal calendar program, aimed at the Unix geek who wants something minimalistic
 - [ddclient/ddclient](https://github.com/ddclient/ddclient) - This is the new home for ddclient. Ddclient is a Perl client used to update dynamic DNS entries for accounts on 'Dynamic DNS Network Services' free DNS service. It currently supports a lot of differen
 - [winterheart/broadcom-bt-firmware](https://github.com/winterheart/broadcom-bt-firmware) - Repository for various Broadcom Bluetooth firmware
@@ -2030,7 +2033,7 @@
 - [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3
 - [ZeroX-DG/moon](https://github.com/ZeroX-DG/moon) - :earth_americas: :moon: A hobby web browser developed from scratch
 - [KSXGitHub/parallel-disk-usage](https://github.com/KSXGitHub/parallel-disk-usage) - Highly parallelized, blazing fast directory tree analyzer
-- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary in your terminal
+- [o2sh/onefetch](https://github.com/o2sh/onefetch) - A command-line Git information tool
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 - [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
@@ -2181,6 +2184,7 @@
 
 ## Shell 
 
+- [K4zoku/nowm](https://github.com/K4zoku/nowm) - 🚫 Managing window without a window manager. (59 slocs)
 - [aziis98/bash-vcs](https://github.com/aziis98/bash-vcs) - An extremely simple version control system written in bash
 - [archlinux/aur](https://github.com/archlinux/aur) - ⚠️⚠️Experimental aur.git mirror⚠️⚠️ (read-only mirror)
 - [reegnz/jq-zsh-plugin](https://github.com/reegnz/jq-zsh-plugin) - jq zsh plugin
@@ -2441,7 +2445,7 @@
 - [ckardaris/ucollage](https://github.com/ckardaris/ucollage) - An extensible command line image viewer inspired by vim
 - [fl-w/dotfiles](https://github.com/fl-w/dotfiles) - La mia casa
 - [Silicasandwhich/Bibata_Cursor_Translucent](https://github.com/Silicasandwhich/Bibata_Cursor_Translucent) - Translucent Varient of the Material Based Cursor
-- [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Opensource, compact, and material designed cursor set.
+- [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Open source, compact, and material designed cursor set.
 - [jamielinux/bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line
 - [Tecate/bitmap-fonts](https://github.com/Tecate/bitmap-fonts) - Monospaced bitmap fonts for X11, good for terminal use.
 - [build2/msvc-linux](https://github.com/build2/msvc-linux) - msvc as from-linux cross-compiler
