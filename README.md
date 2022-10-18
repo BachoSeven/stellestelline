@@ -137,6 +137,7 @@
 
 ## C 
 
+- [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
 - [CamHenlin/FocusedEdit](https://github.com/CamHenlin/FocusedEdit) - Classic Macintosh (System 2.0 through 9.2.2) text editor with shared live editing on a modern computer, via serial port
 - [bakkeby/xban](https://github.com/bakkeby/xban) - Hides the X mouse cursor on keypress and reveals it again when the mouse cursor moves
 - [mjakeman/extension-manager](https://github.com/mjakeman/extension-manager) - A utility for browsing and installing GNOME Shell Extensions.
@@ -339,7 +340,7 @@
 - [dylanaraps/sowm](https://github.com/dylanaraps/sowm) - An itsy bitsy floating window manager (220~ sloc!).
 - [spbooth/xmountains](https://github.com/spbooth/xmountains) - This is my ancient X-windows sideways scrolling fractal landscape code
 - [juliusHuelsmann/st-history-vim](https://github.com/juliusHuelsmann/st-history-vim) - Development of the "vim patch" and  a minimalist "history patch" for the suckless simple terminal (st).
-- [alloca123/based-ssg](https://github.com/alloca123/based-ssg) - a very based, minimal, and flexible static site generator written in pure C89 with no external deps.
+- [alloca123/based-ssg](https://github.com/alloca123/based-ssg) - a very simple, minimal, and flexible static site generator written in pure C89 with no external deps.
 - [stivale/stivale](https://github.com/stivale/stivale) - The stivale boot protocols' specifications and headers.
 - [stivale/stivale2-barebones](https://github.com/stivale/stivale2-barebones) - A simple stivale2-compliant kernel and build system example/template.
 - [TomatOrg/TomatBoot](https://github.com/TomatOrg/TomatBoot) - A UEFI 64bit Bootloader
@@ -1235,7 +1236,7 @@
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Microsoft Teams for Linux client
 - [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build terminal dashboards using ascii/ansi art and javascript
 - [glowing-bear/glowing-bear](https://github.com/glowing-bear/glowing-bear) - A web client for WeeChat
-- [klaussinani/taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
+- [klaudiosinani/taskbook](https://github.com/klaudiosinani/taskbook) - Tasks, boards & notes for the command-line habitat
 - [manilarome/squareup](https://github.com/manilarome/squareup) - A sleek and modern startpage
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [aeyoll/soulseek-cli](https://github.com/aeyoll/soulseek-cli) - A Soulseek Cli client.
