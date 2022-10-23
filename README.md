@@ -272,7 +272,7 @@
 - [Polochon-street/leleleplayer](https://github.com/Polochon-street/leleleplayer) - 
 - [Polochon-street/bliss](https://github.com/Polochon-street/bliss) - Bliss music library that can compute distance between songs
 - [werman/noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise
-- [drkhsh/slstatus](https://github.com/drkhsh/slstatus) - slstatus is a suckless status monitor for window managers that use WM_NAME (e.g. dwm) or stdin to fill the status bar - mirror from suckless
+- [drkhsh/slstatus](https://github.com/drkhsh/slstatus) - mirror from suckless.org. send patches to hackers@suckless.org mailing list. NO PRs
 - [melonDS-emu/melonDS](https://github.com/melonDS-emu/melonDS) - DS emulator, sorta
 - [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) - Lightweight CLI download accelerator
 - [vim/vim-history](https://github.com/vim/vim-history) - Very very old history of Vim (from v1.14 to v6.4)
@@ -711,7 +711,6 @@
 - [NethServer/docs](https://github.com/NethServer/docs) - NethServer documentation
 - [williamckha/spicetify-fluent](https://github.com/williamckha/spicetify-fluent) - Spicetify theme inspired by Microsoft's Fluent Design
 - [schnensch0/ziro](https://github.com/schnensch0/ziro) - spicetify theme inspired by zorin
-- [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [joeroe/risotto](https://github.com/joeroe/risotto) - A minimalist, responsive hugo theme inspired by terminal ricing aesthetics.
 - [ChocolateBread799/startpage](https://github.com/ChocolateBread799/startpage) - https://chocolatebread799.github.io/startpage/
 - [walkxcode/homer-theme](https://github.com/walkxcode/homer-theme) - 🎨 A custom Homer theme!
@@ -1624,7 +1623,7 @@
 - [DamienRobert/vidir2](https://github.com/DamienRobert/vidir2) - An extension to vidir from moreutils allowing copy and editing of symlinks
 - [trapd00r/rmshit](https://github.com/trapd00r/rmshit) - Keep $HOME or other dir clean from unwanted tempfiles, configs and other crap you'll never use that's autocreated upon execution of bad behaving applications
 - [trizen/straw-viewer](https://github.com/trizen/straw-viewer) - **DEPRECATED** Use https://github.com/trizen/pipe-viewer instead.
-- [trizen/pipe-viewer](https://github.com/trizen/pipe-viewer) - A lightweight YouTube client for Linux (fork of straw-viewer)
+- [trizen/pipe-viewer](https://github.com/trizen/pipe-viewer) - A lightweight YouTube client for Linux, without requiring an API key.
 
 ## PowerShell 
 
@@ -1809,7 +1808,7 @@
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [fake-name/xA-Scraper](https://github.com/fake-name/xA-Scraper) - 
 - [aaronraimist/element-themes](https://github.com/aaronraimist/element-themes) - A place to share themes for Element (formerly Riot), PRs with new themes are welcome!
-- [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 An easy to use tool to change the mapping of your input device buttons.
+- [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [mhtghn/Luricifer](https://github.com/mhtghn/Luricifer) - A simple CLI tool to fetch lyrics from AZlyrics of the playing Spotify song
 - [mhinz/neovim-remote](https://github.com/mhinz/neovim-remote) - :ok_hand: Support for --remote and friends.
@@ -2151,6 +2150,7 @@
 ## SCSS 
 
 - [rozniak/xfce-winxp-tc](https://github.com/rozniak/xfce-winxp-tc) - Windows XP stuff for XFCE
+- [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [vinibiavatti1/TuiCss](https://github.com/vinibiavatti1/TuiCss) - Text-based user interface CSS library
 - [ungoogled-software/ungoogled-software.github.io](https://github.com/ungoogled-software/ungoogled-software.github.io) - Website for ungoogled-chromium
 - [prayag17/JellySkin](https://github.com/prayag17/JellySkin) - Vibrante/minimal Jellyfin CSS using custom Icons and more!!, created for Jellyfin web :film_strip:, can be used by just one line.
@@ -2184,6 +2184,7 @@
 
 ## Shell 
 
+- [Unipisa/dm-cups](https://github.com/Unipisa/dm-cups) - Backend CUPS con accounting integrato
 - [K4zoku/nowm](https://github.com/K4zoku/nowm) - 🚫 Managing window without a window manager. (59 slocs)
 - [aziis98/bash-vcs](https://github.com/aziis98/bash-vcs) - An extremely simple version control system written in bash
 - [archlinux/aur](https://github.com/archlinux/aur) - ⚠️⚠️Experimental aur.git mirror⚠️⚠️ (read-only mirror)
