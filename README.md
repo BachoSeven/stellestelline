@@ -1573,7 +1573,7 @@
 - [vizs/declutter-home](https://github.com/vizs/declutter-home) - declutter your home directory!
 - [usonianhorizon/vt-fnt](https://github.com/usonianhorizon/vt-fnt) - A collection of bitmap .FNT fonts created from various programming fonts, and to be used by FreeBSD's vt console terminal.
 - [nerdypepper/curie](https://github.com/nerdypepper/curie) - An upscaled version of scientifica.
-- [Ev1lbl0w/fortune-mod-billwurtz](https://github.com/Ev1lbl0w/fortune-mod-billwurtz) - A collection of quotes from bill wurtz, i guess...
+- [rsubtil/fortune-mod-billwurtz](https://github.com/rsubtil/fortune-mod-billwurtz) - A collection of quotes from bill wurtz, i guess...
 - [samhh/bangin](https://github.com/samhh/bangin) - bangin is a primitive, portable shell script which enables DuckDuckGo-like bangs.
 - [mihic/linux-intel-undervolt](https://github.com/mihic/linux-intel-undervolt) - Guide to linux undervolting for Haswell and never Intel CPUs
 - [tin-cat/commodore-pet-mini](https://github.com/tin-cat/commodore-pet-mini) - 3D models and additional files for the project Commodore PET Mini
@@ -2032,7 +2032,7 @@
 - [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3
 - [ZeroX-DG/moon](https://github.com/ZeroX-DG/moon) - :earth_americas: :moon: A hobby web browser developed from scratch
 - [KSXGitHub/parallel-disk-usage](https://github.com/KSXGitHub/parallel-disk-usage) - Highly parallelized, blazing fast directory tree analyzer
-- [o2sh/onefetch](https://github.com/o2sh/onefetch) - A command-line Git information tool
+- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 - [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
