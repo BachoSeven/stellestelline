@@ -1346,7 +1346,7 @@
 - [folke/zen-mode.nvim](https://github.com/folke/zen-mode.nvim) - 🧘  Distraction-free coding for Neovim
 - [Ansuel/tch-nginx-gui](https://github.com/Ansuel/tch-nginx-gui) - Modified file to apply to a stock technicolor GUI
 - [Pocco81/true-zen.nvim](https://github.com/Pocco81/true-zen.nvim) - 🦝 Clean and elegant distraction-free writing for NeoVim
-- [Uni-qi/dotfiles](https://github.com/Uni-qi/dotfiles) - dots
+- [nikh-str/dotfiles](https://github.com/nikh-str/dotfiles) - dots
 - [elianiva/dotfiles](https://github.com/elianiva/dotfiles) - .
 - [zlj-zz/nvim](https://github.com/zlj-zz/nvim) - This is my neovim, good vim configuration.
 - [marcothms/dots](https://github.com/marcothms/dots) - my main configuration files for sway and gnome
