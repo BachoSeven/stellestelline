@@ -271,6 +271,7 @@
 - [sloonz/rewritefs](https://github.com/sloonz/rewritefs) - A FUSE filesystem intended to be used like Apache mod_rewrite
 - [Polochon-street/leleleplayer](https://github.com/Polochon-street/leleleplayer) - 
 - [Polochon-street/bliss](https://github.com/Polochon-street/bliss) - Bliss music library that can compute distance between songs
+- [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [werman/noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise
 - [drkhsh/slstatus](https://github.com/drkhsh/slstatus) - mirror from suckless.org. send patches to hackers@suckless.org mailing list. NO PRs
 - [melonDS-emu/melonDS](https://github.com/melonDS-emu/melonDS) - DS emulator, sorta
@@ -391,6 +392,7 @@
 - [bakkeby/dwm-flexipatch](https://github.com/bakkeby/dwm-flexipatch) - A dwm build with preprocessor directives to decide which patches to include during build time
 - [sfauzia/dwm](https://github.com/sfauzia/dwm) - Configuration of the suckless window manager, dwm
 - [jordansissel/xdotool](https://github.com/jordansissel/xdotool) - fake keyboard/mouse input, window management, and more
+- [oliverlew/xdg-xmenu](https://github.com/oliverlew/xdg-xmenu) - Generate menu for xmenu
 - [save196/dwm](https://github.com/save196/dwm) - Save's custom build of dwm
 - [freundTech/bar](https://github.com/freundTech/bar) - bar ain't recursive - A lightweight xcb based bar. This is a fork that supports fontconfig
 - [daringer/asus-fan](https://github.com/daringer/asus-fan) - Kernel module to get/set (both) fan speed(s) on ASUS Zenbooks
@@ -656,7 +658,7 @@
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [HackerPoet/FractalSoundExplorer](https://github.com/HackerPoet/FractalSoundExplorer) - Explore fractals in an audio-visual sandbox
 - [fgheng/keysound](https://github.com/fgheng/keysound) - keysound is keyboard sound software for Linux
-- [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++17.
+- [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++20.
 - [user-none/KDocker](https://github.com/user-none/KDocker) - KDocker will help you dock any application into the system tray
 - [clangen/musikcube](https://github.com/clangen/musikcube) - a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++
 - [houmain/keymapper](https://github.com/houmain/keymapper) - A cross-platform context-aware key remapper.
@@ -2380,7 +2382,6 @@
 - [paoloap/zaread](https://github.com/paoloap/zaread) - A (very) lightweight MS Office file reader
 - [Bugswriter/tuxi](https://github.com/Bugswriter/tuxi) - Tuxi is a cli assistant. Get answers of your questions instantly.
 - [cpetrov/deft](https://github.com/cpetrov/deft) - A Linux loadable kernel module for the Elecom DEFT series finger operated trackballs (M-DT1DRBK, M-DT2DRBK, M-DT1URBK, M-DT2URBK)
-- [oliverlew/xdg-xmenu](https://github.com/oliverlew/xdg-xmenu) - Generate menu for xmenu
 - [salman-abedin/amenu](https://github.com/salman-abedin/amenu) - Fuzzy Finder Dynamic GUI Menu
 - [tdukv/dotfiles-void](https://github.com/tdukv/dotfiles-void) - my voidlinux setup
 - [jandamm/zgenom](https://github.com/jandamm/zgenom) - A lightweight and fast plugin manager for ZSH
@@ -2584,7 +2585,6 @@
 - [imLinguin/jelly-desktop](https://github.com/imLinguin/jelly-desktop) - Simple community made desktop client for Jellyfin
 - [aome510/article-md-cli](https://github.com/aome510/article-md-cli) - An CLI application to parse a web article into readable text.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
-- [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [tympanix/Electorrent](https://github.com/tympanix/Electorrent) - A remote control client for µTorrent, qBittorrent, rTorrent, Transmission, Synology & Deluge
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client applications (web, browser extension, desktop, and cli)
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
