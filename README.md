@@ -2610,7 +2610,7 @@
 - [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk) - Matrix SDK for React Javascript
 - [snobu/destreamer](https://github.com/snobu/destreamer) - Save Microsoft Stream videos for offline enjoyment.
 - [Guray00/destreamer-unipi](https://github.com/Guray00/destreamer-unipi) - Save Microsoft Stream videos for offline enjoyment. This is an UNIPI fork.
-- [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox, Thunderbird & others.
+- [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
 - [pop-os/shell](https://github.com/pop-os/shell) - Pop!_OS Shell
 - [obsfx/libgen-downloader](https://github.com/obsfx/libgen-downloader) - A simple tool to search and download ebooks from libgen via terminal user interface.
 
