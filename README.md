@@ -1350,7 +1350,7 @@
 - [nikh-str/dotfiles](https://github.com/nikh-str/dotfiles) - dots
 - [elianiva/dotfiles](https://github.com/elianiva/dotfiles) - .
 - [zlj-zz/nvim](https://github.com/zlj-zz/nvim) - This is my neovim, good vim configuration.
-- [marcothms/dots](https://github.com/marcothms/dots) - my main configuration files for sway and gnome
+- [marcothms/dots](https://github.com/marcothms/dots) - my main configuration files
 - [monaqa/dial.nvim](https://github.com/monaqa/dial.nvim) - enhanced increment/decrement plugin for Neovim.
 - [zegervdv/nrpattern.nvim](https://github.com/zegervdv/nrpattern.nvim) - Neovim plugin to expand incrementing/decrementing to more formats.
 - [glepnir/galaxyline.nvim](https://github.com/glepnir/galaxyline.nvim) - neovim statusline plugin written in lua
