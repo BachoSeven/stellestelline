@@ -1521,6 +1521,7 @@
 - [google/bbr](https://github.com/google/bbr) - 
 - [hexoctal/st-undercurl](https://github.com/hexoctal/st-undercurl) - A patch for ST (Simple Terminal) adding support for curly and colored underlines.
 - [Droogans/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
+- [seebye/ueberzug](https://github.com/seebye/ueberzug) - 
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
@@ -1771,7 +1772,6 @@
 - [stuartlangridge/magnus](https://github.com/stuartlangridge/magnus) - A very simple screen magnifier for Ubuntu
 - [Olivia5k/doge](https://github.com/Olivia5k/doge) - wow very terminal doge
 - [christgau/wsdd](https://github.com/christgau/wsdd) - A Web Service Discovery host daemon.
-- [seebye/ueberzug](https://github.com/seebye/ueberzug) - ueberzug is a command line util which allows to display images in combination with X11. The user is expected to have knowledge of theoretical computer science. https://github.com/seebye/ueberzug/wiki/
 - [idank/explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
 - [buckket/twtxt](https://github.com/buckket/twtxt) - Decentralised, minimalist microblogging service for hackers.
 - [qualious/dotfiles](https://github.com/qualious/dotfiles) - dotfiles from my setup
