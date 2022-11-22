@@ -502,7 +502,6 @@
 - [9wm/xss](https://github.com/9wm/xss) - 
 - [HarveyHunt/howm](https://github.com/HarveyHunt/howm) - A lightweight, X11 tiling window manager that behaves like vim
 - [karlstav/cava](https://github.com/karlstav/cava) - Console-based Audio Visualizer for Alsa
-- [shans10/dotfiles](https://github.com/shans10/dotfiles) - 
 - [carlini/printf-tac-toe](https://github.com/carlini/printf-tac-toe) - tic-tac-toe in a single call to printf
 - [gammu/gammu](https://github.com/gammu/gammu) - Gammu All Mobile Management Utilities
 - [himdel/hsetroot](https://github.com/himdel/hsetroot) - yet another wallpaper application
@@ -1382,6 +1381,7 @@
 - [JavaCafe01/dotfiles](https://github.com/JavaCafe01/dotfiles) - My desktop and WSL configuration files
 - [WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
 - [manilarome/the-glorious-dotfiles](https://github.com/manilarome/the-glorious-dotfiles) - A glorified personal dot files
+- [shans10/dotfiles](https://github.com/shans10/dotfiles) - 
 - [jgreco/mpv-youtube-quality](https://github.com/jgreco/mpv-youtube-quality) - A userscript for MPV that allows you to change youtube video quality (ytdl-format) on the fly
 - [kutsan/dotfiles](https://github.com/kutsan/dotfiles) - My dotfiles: Experimental, ongoing configuration files, development environment and scripts for various Unix-like systems, text-based command-line applications and interfaces.
 - [webgefrickel/dotfiles](https://github.com/webgefrickel/dotfiles) - A collection of my dotfiles. Lot's of Vim, Mutt, tmux and zsh stuff in here.
