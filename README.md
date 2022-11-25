@@ -1449,7 +1449,7 @@
 
 ## Others 
 
-- [macbian-linux/macos-subsystem-for-linux](https://github.com/macbian-linux/macos-subsystem-for-linux) - Guide on how to use Qemu to create a similar effect to Windows Subsystem for Linux on macOS. Unfinished; contributions are welcome!
+- [macbian-admin/macos-subsystem-for-linux](https://github.com/macbian-admin/macos-subsystem-for-linux) - Guide on how to use Qemu to create a similar effect to Windows Subsystem for Linux on macOS. Unfinished; contributions are welcome!
 - [kushaldas/lym](https://github.com/kushaldas/lym) - Linux command line for you and me
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [BachoSeven/stellestelline](https://github.com/BachoSeven/stellestelline) - 
@@ -1478,7 +1478,6 @@
 - [Digitalone1/EasyEffects-Presets](https://github.com/Digitalone1/EasyEffects-Presets) - Presets for EasyEffects and PulseEffects.
 - [ubports/ubuntu-touch](https://github.com/ubports/ubuntu-touch) - A simple and beautiful mobile OS for everyone! This repository is for Ubuntu Touch issue tracking. It does not contain any code used to create Ubuntu Touch.
 - [aynp/dracula-wallpapers](https://github.com/aynp/dracula-wallpapers) - Wallpapers based on the Dracula Theme
-- [spencerwooo/linux-wallpapers](https://github.com/spencerwooo/linux-wallpapers) - Linux Wallpapers designed according to Google's Material Design Guidelines.
 - [macchrome/linchrome](https://github.com/macchrome/linchrome) - ungoogled chromium portablelinux
 - [uuupah/pain27_kb](https://github.com/uuupah/pain27_kb) - a 27 key keyboard that is guaranteed to make you vomit in your own mouth, or your money back
 - [jellyfin/jellyfin-docs](https://github.com/jellyfin/jellyfin-docs) - Documentation for Jellyfin
@@ -1641,6 +1640,8 @@
 
 ## Python 
 
+- [TruncatedDinosour/arigram](https://github.com/TruncatedDinosour/arigram) - A fork of tg -- a hackable telegram TUI client
+- [mxmlnkn/ratarmount](https://github.com/mxmlnkn/ratarmount) - Random Access Tar Mount
 - [ahrm/sioyek-python-extensions](https://github.com/ahrm/sioyek-python-extensions) - Python wrapper and simple addons for sioyek PDF viewer
 - [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 🎁 wraps all package managers with an unifying CLI
 - [deter0/xborder](https://github.com/deter0/xborder) - Active window border replacement for window managers.
