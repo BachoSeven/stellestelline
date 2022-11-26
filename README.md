@@ -771,7 +771,7 @@
 - [linlinxza/Windows-7-Full-Theme-KDE-Plasma-only-](https://github.com/linlinxza/Windows-7-Full-Theme-KDE-Plasma-only-) - Here it is. A Full Windows 7 theme!
 - [nerdypepper/nerdypepper.github.io](https://github.com/nerdypepper/nerdypepper.github.io) - 
 - [RyanGreenup/cadmus](https://github.com/RyanGreenup/cadmus) - Shell Scripts to Facilitate Effective Note Taking
-- [thuanOwa/vimium_dark_theme](https://github.com/thuanOwa/vimium_dark_theme) - My custom CSS for vimium (dark theme)
+- [thuanowa/vimium_dark_theme](https://github.com/thuanowa/vimium_dark_theme) - My custom CSS for vimium (dark theme)
 - [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
 - [CharlieEtienne/material-github](https://github.com/CharlieEtienne/material-github) - A Material Dark Theme for GitHub
 - [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
