@@ -155,7 +155,6 @@
 - [flintlib/antic](https://github.com/flintlib/antic) - Algebraic Number Theory In C
 - [cdown/zcfan](https://github.com/cdown/zcfan) - A zero-configuration fan daemon for ThinkPads
 - [jbensmann/xmouseless](https://github.com/jbensmann/xmouseless) - A fast and simple way to control the mouse.
-- [murtaza-u/window_manager_tutorial](https://github.com/murtaza-u/window_manager_tutorial) - Tutorial series on building an X11 dynamic tiling window manager in C
 - [foutrelis/chromium-launcher](https://github.com/foutrelis/chromium-launcher) - Chromium launcher with support for custom user flags
 - [berdav/CVE-2021-4034](https://github.com/berdav/CVE-2021-4034) - CVE-2021-4034 1day
 - [Kratacoa/dotfiles](https://github.com/Kratacoa/dotfiles) - 🌠 please support breaking of copyright laws 🌠
@@ -501,7 +500,7 @@
 - [BogdanTheGeek/dwm-primcol](https://github.com/BogdanTheGeek/dwm-primcol) - A set of scripts that extract primary colours from a wallpaper and uses them as border/statusbar colours
 - [9wm/xss](https://github.com/9wm/xss) - 
 - [HarveyHunt/howm](https://github.com/HarveyHunt/howm) - A lightweight, X11 tiling window manager that behaves like vim
-- [karlstav/cava](https://github.com/karlstav/cava) - Console-based Audio Visualizer for Alsa
+- [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
 - [carlini/printf-tac-toe](https://github.com/carlini/printf-tac-toe) - tic-tac-toe in a single call to printf
 - [gammu/gammu](https://github.com/gammu/gammu) - Gammu All Mobile Management Utilities
 - [himdel/hsetroot](https://github.com/himdel/hsetroot) - yet another wallpaper application
@@ -855,7 +854,6 @@
 - [blampe/goat](https://github.com/blampe/goat) - Render ASCII art as SVG diagrams
 - [raitonoberu/lyricsapi](https://github.com/raitonoberu/lyricsapi) - Go package and server app for retrieving time-stamped lyrics from Spotify.
 - [gorilla/feeds](https://github.com/gorilla/feeds) - golang rss/atom generator library
-- [crunchy-labs/crunchy-cli](https://github.com/crunchy-labs/crunchy-cli) - 👇 A pure go written crunchyroll cli client
 - [Tnze/go-mc](https://github.com/Tnze/go-mc) - Go libraries of everything in Minecraft
 - [aziis98/textml](https://github.com/aziis98/textml) - My personal textual markup language. Mostly a more structured alternative to Markdown
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
@@ -1379,7 +1377,7 @@
 - [ellisonleao/glow.nvim](https://github.com/ellisonleao/glow.nvim) - A markdown preview directly in your neovim.
 - [ChrisTitusTech/TitusPi](https://github.com/ChrisTitusTech/TitusPi) - Custom CTT Pi based linux distro
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
-- [JavaCafe01/dotfiles](https://github.com/JavaCafe01/dotfiles) - My desktop and WSL configuration files
+- [JavaCafe01/dotfiles](https://github.com/JavaCafe01/dotfiles) - My NixOS configuration files
 - [WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
 - [manilarome/the-glorious-dotfiles](https://github.com/manilarome/the-glorious-dotfiles) - A glorified personal dot files
 - [shans10/dotfiles](https://github.com/shans10/dotfiles) - 
@@ -1456,6 +1454,7 @@
 - [BachoSeven/stellestelline](https://github.com/BachoSeven/stellestelline) - 
 - [pop-os/beta](https://github.com/pop-os/beta) - Pop!_OS Beta
 - [dab2020/Guides](https://github.com/dab2020/Guides) - Some of my random guides
+- [murtaza-u/window_manager_tutorial](https://github.com/murtaza-u/window_manager_tutorial) - Tutorial series on building an X11 dynamic tiling window manager in C
 - [bcbcarl/docker-hollywood](https://github.com/bcbcarl/docker-hollywood) - Fake A Hollywood Hacker Screen.
 - [phisch/phinger-cursors](https://github.com/phisch/phinger-cursors) - Most likely the most over engineered cursor theme.
 - [graysky2/kernel_compiler_patch](https://github.com/graysky2/kernel_compiler_patch) - Kernel patch enables compiler optimizations for additional CPUs.
@@ -1490,7 +1489,7 @@
 - [iridium-browser/iridium-browser](https://github.com/iridium-browser/iridium-browser) - Iridium Browser source code
 - [thepogsupreme/apo](https://github.com/thepogsupreme/apo) - Serene and grand wallpapers for the Mountain theme.
 - [unixwmbr/unixwmbr](https://github.com/unixwmbr/unixwmbr) - :computer: Official unixwmbr community repository.
-- [NNBnh/dotfiles](https://github.com/NNBnh/dotfiles) - 📂 My personal Đotfiles (WIP)
+- [NNBnh/dotfiles](https://github.com/NNBnh/dotfiles) - 📂 My personal Đotfiles
 - [owl4ce/hikari-x86_64](https://github.com/owl4ce/hikari-x86_64) - :bridge_at_night: Personal Linux kernel configuration (based on Xanmod patchset)
 - [shubham-cpp/void-pkg-templates](https://github.com/shubham-cpp/void-pkg-templates) - Custom templates for several packages that could be installed using xbps-src
 - [stickus/Anne-Pro-2-Color-Profiles](https://github.com/stickus/Anne-Pro-2-Color-Profiles) - A repo of color profiles for the Anne Pro 2 programmable 60% RGB keyboard
@@ -1955,6 +1954,7 @@
 
 - [TBS1996/speki](https://github.com/TBS1996/speki) - flashcard app in your terminal
 - [kdheepak/taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - `taskwarrior-tui`: A terminal user interface for taskwarrior
+- [crunchy-labs/crunchy-cli](https://github.com/crunchy-labs/crunchy-cli) - 👇 A pure Rust written crunchyroll cli client
 - [SeaDve/Mousai](https://github.com/SeaDve/Mousai) - Identify songs in seconds
 - [rapiz1/catp](https://github.com/rapiz1/catp) - Print the output of a running process
 - [nitnelave/lldap](https://github.com/nitnelave/lldap) - Light LDAP implementation
