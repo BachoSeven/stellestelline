@@ -598,7 +598,7 @@
 - [McYoloSwagHam/win3wm](https://github.com/McYoloSwagHam/win3wm) - A Tiling Window Manager for windows 10, Inspired by  i3wm
 - [supertuxkart/stk-code](https://github.com/supertuxkart/stk-code) - The code base of supertuxkart
 - [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
-- [AntiMicro/antimicro](https://github.com/AntiMicro/antimicro) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support
+- [AntiMicro/antimicro](https://github.com/AntiMicro/antimicro) - [NOT maintained anymore] Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support
 - [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - cross-platform music visualization. Open-source and Milkdrop-compatible
 - [ploopyco/classic-trackball](https://github.com/ploopyco/classic-trackball) - A trackball mouse. Mechanical files, PCBs, and firmware all included.
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
