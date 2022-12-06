@@ -211,7 +211,7 @@
 - [file/file](https://github.com/file/file) - Read-only mirror of file CVS repository, updated every half hour. NOTE: do not make pull requests here, nor comment any commits, submit them usual way to bug tracker or to the mailing list. Maintainer
 - [ryanflannery/vitunes](https://github.com/ryanflannery/vitunes) - A curses media indexer and player for vi users
 - [ghaerr/microwindows](https://github.com/ghaerr/microwindows) - The Nano-X Window System
-- [gottaeat/apathy](https://github.com/gottaeat/apathy) - ...concerning the African American-ization of menthols, one among many of the central questions in the menthol drama remains unanswered: Did the tobacco industry consciously push menthol products on t
+- [gottaeat/apathy](https://github.com/gottaeat/apathy) - an independent homegrown operating system featuring linux in its core, supplemented with musl libc and a standalone llvm suite.
 - [Aalbus-linux/Aalbus](https://github.com/Aalbus-linux/Aalbus) - The master repository for the Aalbus distribution
 - [intel/sgx-software-enable](https://github.com/intel/sgx-software-enable) - 
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
@@ -1005,7 +1005,7 @@
 - [FreeInit/freeinit.org](https://github.com/FreeInit/freeinit.org) - The FreeInit.org homepage
 - [timb-machine/linux-malware](https://github.com/timb-machine/linux-malware) - Tracking interesting Linux (and UNIX) malware. Send PRs
 - [MCotocel/startpage](https://github.com/MCotocel/startpage) - Custom startpage for Qutebrowser/Firefox
-- [grtcdr/linen](https://github.com/grtcdr/linen) - A light, calm and champagne-like colorscheme.
+- [grtcdr/linen](https://github.com/grtcdr/linen) - A light, calm and champagnesque colorscheme.
 - [matrix-org/matrix.org](https://github.com/matrix-org/matrix.org) - matrix.org public website
 - [hyperreal64/zsh-manual-mdbook](https://github.com/hyperreal64/zsh-manual-mdbook) - Mdbook for Zsh Manual
 - [comfies/comfi.es](https://github.com/comfies/comfi.es) - the /comfy/ website
@@ -1153,7 +1153,6 @@
 - [arikrupnik/ltcsync](https://github.com/arikrupnik/ltcsync) - Syncs media files using embedded timecode (LTC)
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [browserpass/browserpass-extension](https://github.com/browserpass/browserpass-extension) - Browserpass web extension
-- [wooosh/themewiki](https://github.com/wooosh/themewiki) - 
 - [evgeny-nadymov/telegram-react](https://github.com/evgeny-nadymov/telegram-react) - Experimental Telegram web client with tdlib, webassembly and react js under the hood
 - [BachoSeven/startpage](https://github.com/BachoSeven/startpage) - a cute little home for my browser
 - [RowanFeely/StarterPage](https://github.com/RowanFeely/StarterPage) - Homepage and useful links to fit my Nord environment
@@ -1695,8 +1694,8 @@
 - [xsmile/chromexup](https://github.com/xsmile/chromexup) - External extension updater for Chromium based browsers
 - [MissLav/LibreQuake](https://github.com/MissLav/LibreQuake) - A freesoftware quake one remake with art under the BSD license
 - [ipython/xkcd-font](https://github.com/ipython/xkcd-font) - The xkcd font
-- [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) - The official terminal client for Zulip
-- [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web app—powerful open source team chat
+- [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) - Official Zulip terminal client.
+- [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [ahmed-al-balochi/LibreGaming](https://github.com/ahmed-al-balochi/LibreGaming) - Python Program that downloads gaming required packages based on your Linux Distribution.
 - [stevearc/gkeep.nvim](https://github.com/stevearc/gkeep.nvim) - Google Keep integration for Neovim
 - [wchen342/ungoogled-chromium-building-scripts](https://github.com/wchen342/ungoogled-chromium-building-scripts) - Building scripts for ungoogled-chromium.
