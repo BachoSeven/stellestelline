@@ -1447,7 +1447,6 @@
 
 ## Others 
 
-- [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
 - [macbian-admin/macos-subsystem-for-linux](https://github.com/macbian-admin/macos-subsystem-for-linux) - Guide on how to use Qemu to create a similar effect to Windows Subsystem for Linux on macOS. Unfinished; contributions are welcome!
 - [kushaldas/lym](https://github.com/kushaldas/lym) - Linux command line for you and me
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
@@ -1480,7 +1479,7 @@
 - [aynp/dracula-wallpapers](https://github.com/aynp/dracula-wallpapers) - Wallpapers based on the Dracula Theme
 - [macchrome/linchrome](https://github.com/macchrome/linchrome) - ungoogled chromium portablelinux
 - [uuupah/pain27_kb](https://github.com/uuupah/pain27_kb) - a 27 key keyboard that is guaranteed to make you vomit in your own mouth, or your money back
-- [jellyfin/jellyfin-docs](https://github.com/jellyfin/jellyfin-docs) - Documentation for Jellyfin
+- [jellyfin-archive/jellyfin-docs](https://github.com/jellyfin-archive/jellyfin-docs) - Documentation for Jellyfin
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
 - [MaxGyver83/dwm-goback](https://github.com/MaxGyver83/dwm-goback) - Patch for dwm that enables going back to the previously focused tagset not restricted to the focused monitor
 - [Bonfire-GTK/newpirates](https://github.com/Bonfire-GTK/newpirates) - Teaching people how to torrent
@@ -2189,6 +2188,7 @@
 
 ## Shell 
 
+- [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
 - [Unipisa/dm-cups](https://github.com/Unipisa/dm-cups) - Backend CUPS con accounting integrato
 - [K4zoku/nowm](https://github.com/K4zoku/nowm) - 🚫 Managing window without a window manager. (59 slocs)
 - [aziis98/bash-vcs](https://github.com/aziis98/bash-vcs) - An extremely simple version control system written in bash
