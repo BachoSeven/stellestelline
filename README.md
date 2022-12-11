@@ -367,7 +367,7 @@
 - [huijunchen9260/tabbed-hjc](https://github.com/huijunchen9260/tabbed-hjc) - A missing tab layout for any windows manager / desktop environment
 - [kevinconway/remouseable](https://github.com/kevinconway/remouseable) - Use a reMarkable tablet as a mouse.
 - [LinusCDE/rmTabletDriver](https://github.com/LinusCDE/rmTabletDriver) - A userspace tablet driver on Linux for the reMarkable Paper Tablet
-- [jinfeihan57/p7zip](https://github.com/jinfeihan57/p7zip) - A new p7zip fork with additional codecs and improvements (forked from https://sourceforge.net/projects/sevenzip/ AND https://sourceforge.net/projects/p7zip/).
+- [flyfishzy/p7zip](https://github.com/flyfishzy/p7zip) - A new p7zip fork with additional codecs and improvements (forked from https://sourceforge.net/projects/sevenzip/ AND https://sourceforge.net/projects/p7zip/).
 - [troglobit/finit](https://github.com/troglobit/finit) - Fast init for Linux. Cookies included
 - [wmutils/opt](https://github.com/wmutils/opt) - optional addons to wmutils
 - [jcs/sdorfehs](https://github.com/jcs/sdorfehs) - A tiling window manager
@@ -706,6 +706,7 @@
 
 ## CSS 
 
+- [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna) - A minimal opinionated theme for Hugo
 - [thosgood/fga](https://github.com/thosgood/fga) - An English translation of Grothendieck's Fondements de la Géometrie Algébrique
 - [thosgood/sga](https://github.com/thosgood/sga) - An English translation of the Séminaire de Géométrie Algébrique du Bois Marie
 - [NethServer/docs](https://github.com/NethServer/docs) - NethServer documentation
@@ -1952,6 +1953,7 @@
 
 ## Rust 
 
+- [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [TBS1996/speki](https://github.com/TBS1996/speki) - flashcard app in your terminal
 - [kdheepak/taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - `taskwarrior-tui`: A terminal user interface for taskwarrior
 - [crunchy-labs/crunchy-cli](https://github.com/crunchy-labs/crunchy-cli) - 👇 A pure Rust written crunchyroll cli client
