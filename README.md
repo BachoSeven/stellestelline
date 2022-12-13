@@ -1221,7 +1221,6 @@
 - [goranmoomin/mathematica-key-generator](https://github.com/goranmoomin/mathematica-key-generator) - Key generator for Wolfram Mathematica 12.0
 - [mitsuhiko/idasen-control](https://github.com/mitsuhiko/idasen-control) - Lets you control IKEA IDÅSEN desks from the command line.
 - [varkor/quiver](https://github.com/varkor/quiver) - A modern commutative diagram editor for the web.
-- [toptal/keycodes](https://github.com/toptal/keycodes) - Easy visualizer for JavaScript KeyCodes
 - [stared/tagoverflow](https://github.com/stared/tagoverflow) - An interactive map of Stack Exchange tags for all sites.
 - [crsnbrt/keysim](https://github.com/crsnbrt/keysim) - design and test virtual 3d keyboards.
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
@@ -1795,7 +1794,7 @@
 - [Kamik423/cutie](https://github.com/Kamik423/cutie) - Command line User Tools for Input Easification
 - [XayOn/torrentmirror](https://github.com/XayOn/torrentmirror) - Torrentmirror python library and CLI access
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
-- [hbldh/bleak](https://github.com/hbldh/bleak) - Bluetooth Low Energy platform Agnostic Klient for Python
+- [hbldh/bleak](https://github.com/hbldh/bleak) - A cross platform Bluetooth Low Energy Client for Python using asyncio
 - [privacyone/breeze-core](https://github.com/privacyone/breeze-core) - 
 - [chubin/rate.sx](https://github.com/chubin/rate.sx) - :moneybag: curl cryptocurrencies exchange rates
 - [GideonWolfe/Chameleon](https://github.com/GideonWolfe/Chameleon) - 🦎 Theme your linux system to match any image
@@ -2607,6 +2606,7 @@
 - [esjeon/krohnkite](https://github.com/esjeon/krohnkite) - A dynamic tiling extension for KWin
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
+- [toptal/keycodes](https://github.com/toptal/keycodes) - Easy visualizer for JavaScript KeyCodes
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
 - [Xmader/musescore-downloader](https://github.com/Xmader/musescore-downloader) - Download sheet music (MSCZ, PDF, MusicXML, MIDI, MP3, download individual parts as PDF) from musescore.com for free, no login or Musescore Pro required | 免登录、免 Musescore Pro，免费下载 musescore.com 上的曲谱 | 
@@ -2689,7 +2689,7 @@
 - [voldikss/vim-floaterm](https://github.com/voldikss/vim-floaterm) - :star2: Terminal manager for (neo)vim
 - [HendrikPetertje/vimify](https://github.com/HendrikPetertje/vimify) - Spotify integration for vim
 - [xero/blaquemagick.vim](https://github.com/xero/blaquemagick.vim) - greyscale monochrome with a blue highlight vim colorscheme
-- [dstein64/vim-startuptime](https://github.com/dstein64/vim-startuptime) - ⏲️ A Vim plugin for profiling Vim's startup time.
+- [dstein64/vim-startuptime](https://github.com/dstein64/vim-startuptime) - ⏲️ A plugin for profiling Vim and Neovim startup time.
 - [m-pilia/vim-pkgbuild](https://github.com/m-pilia/vim-pkgbuild) - Vim plugin to edit PKGBUILD files
 - [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim
 - [edvb/catium.vim](https://github.com/edvb/catium.vim) - add an element of nyan cat to vim
