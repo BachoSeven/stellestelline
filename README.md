@@ -1952,6 +1952,7 @@
 
 ## Rust 
 
+- [jaspwr/LiA](https://github.com/jaspwr/LiA) - A transpiled superset of TeX for writing LaTeX.
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [TBS1996/speki](https://github.com/TBS1996/speki) - flashcard app in your terminal
 - [kdheepak/taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - `taskwarrior-tui`: A terminal user interface for taskwarrior
