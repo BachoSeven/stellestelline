@@ -615,7 +615,7 @@
 - [Beep6581/RawTherapee](https://github.com/Beep6581/RawTherapee) - A powerful cross-platform raw photo processing program
 - [MusicPlayerDaemon/mpdscribble](https://github.com/MusicPlayerDaemon/mpdscribble) - a MPD client which submits information about tracks being played to a scrobbler (e.g. last.fm)
 - [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the keyboard and mouse sharing tool
-- [tenacityteam/tenacity-legacy](https://github.com/tenacityteam/tenacity-legacy) - **Old repository, check GitHub organization**. Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating syste
+- [tenacityteam/tenacity-legacy](https://github.com/tenacityteam/tenacity-legacy) - THIS REPO IS NOT MAINTAINED ANYMORE. Please see https://codeberg.org/tenacityteam/tenacity for Tenacity, which is maintained.
 - [sandsmark/auracle](https://github.com/sandsmark/auracle) - A flexible command line client for Arch Linux's User Repository
 - [falconindy/auracle](https://github.com/falconindy/auracle) - A flexible command line client for Arch Linux's User Repository
 - [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator
@@ -1956,7 +1956,7 @@
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [TBS1996/speki](https://github.com/TBS1996/speki) - flashcard app in your terminal
 - [kdheepak/taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - `taskwarrior-tui`: A terminal user interface for taskwarrior
-- [crunchy-labs/crunchy-cli](https://github.com/crunchy-labs/crunchy-cli) - 👇 A pure Rust written crunchyroll cli client and downloader
+- [crunchy-labs/crunchy-cli](https://github.com/crunchy-labs/crunchy-cli) - 👇 A pure Rust written Crunchyroll cli client and downloader
 - [SeaDve/Mousai](https://github.com/SeaDve/Mousai) - Identify songs in seconds
 - [rapiz1/catp](https://github.com/rapiz1/catp) - Print the output of a running process
 - [nitnelave/lldap](https://github.com/nitnelave/lldap) - Light LDAP implementation
