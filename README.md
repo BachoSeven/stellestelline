@@ -2316,7 +2316,7 @@
 - [Frogging-Family/linux-tkg](https://github.com/Frogging-Family/linux-tkg) - linux-tkg custom kernels
 - [Jannik2099/gentoo-pinebookpro](https://github.com/Jannik2099/gentoo-pinebookpro) - A collection of scripts to prepare a Gentoo tarball for the pinebook pro
 - [dylanaraps/pash](https://github.com/dylanaraps/pash) - 🔒 A simple password manager using GPG written in POSIX sh.
-- [biox/pa](https://github.com/biox/pa) - A simple password manager using age written in POSIX sh
+- [biox/pa](https://github.com/biox/pa) - a simple password manager. encryption via age, written in portable posix shell
 - [0x29aNull/DarkVoidDots](https://github.com/0x29aNull/DarkVoidDots) - Configuration Files for Dark Void
 - [Hackplayers/4nonimizer](https://github.com/Hackplayers/4nonimizer) - A bash script for anonymizing the public IP used to browsing Internet, managing the connection to TOR network and to different VPNs providers (OpenVPN)
 - [chaotic-aur/pkgbuild-chaotic-mirrorlist](https://github.com/chaotic-aur/pkgbuild-chaotic-mirrorlist) - ArchLinux PKGBUILD for "chaotic-mirrorlist"
