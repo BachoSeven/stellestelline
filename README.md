@@ -1080,7 +1080,7 @@
 - [openboard-team/openboard](https://github.com/openboard-team/openboard) - 
 - [JavaCafe01/PdfViewer](https://github.com/JavaCafe01/PdfViewer) - A simple Pdf document viewer 💼 [DISCONTINUED]
 - [yeokm1/docs-to-pdf-converter](https://github.com/yeokm1/docs-to-pdf-converter) - A standalone Java library/command line tool that converts DOC, DOCX, PPT, PPTX and ODT documents to PDF files.
-- [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Traditional roguelike game with pixel-art graphics and simple interface
+- [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. Its based on the source code of Pixel Dung
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [Telegram-FOSS-Team/Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Unofficial, FOSS-friendly fork of the original Telegram client for Android
@@ -1183,6 +1183,7 @@
 - [jellyfin/jellyfin-webos](https://github.com/jellyfin/jellyfin-webos) - WebOS Client for Jellyfin
 - [GSConnect/gnome-shell-extension-gsconnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect) - KDE Connect implementation for GNOME
 - [aunetx/blur-my-shell](https://github.com/aunetx/blur-my-shell) - Extension that adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview
+- [WDaan/VueTorrent](https://github.com/WDaan/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [3raxton/spicetify-custom-apps-and-extensions](https://github.com/3raxton/spicetify-custom-apps-and-extensions) - A community-driven collection of custom apps for Spicetify (https://github.com/khanhas/spicetify-cli)
 - [lainchan/lainchan](https://github.com/lainchan/lainchan) - The version of vichan running on lainchan.org
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -2751,7 +2752,6 @@
 - [m0ngr31/jellyamp](https://github.com/m0ngr31/jellyamp) - Desktop client for listening to music from a Jellyfin server
 - [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) - A modern web client for Jellyfin based on Vue
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
-- [WDaan/VueTorrent](https://github.com/WDaan/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [LibreScore/LibreScore](https://github.com/LibreScore/LibreScore) - The open source (GPLv3), serverless, offline-first, and totally free alternative to musescore.com
 - [cbrasser/bashrc](https://github.com/cbrasser/bashrc) - Browser startpage emulating a unix terminal
 
