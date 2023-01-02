@@ -1061,7 +1061,7 @@
 - [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) - A fork of NewPipe with SponsorBlock functionality.
 - [CatogramX/CatogramX](https://github.com/CatogramX/CatogramX) - Catogram X source code.
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
-- [sultannamja/tauonremote_android](https://github.com/sultannamja/tauonremote_android) - Tauon Remote  & Stream Android Application, Remote & Stream Tauon Music Box on your Android Phone
+- [kimsultech/tauonremote_android](https://github.com/kimsultech/tauonremote_android) - Tauon Remote  & Stream Android Application, Remote & Stream Tauon Music Box on your Android Phone
 - [redsolver/skydroid](https://github.com/redsolver/skydroid) - A decentralized domain-based App Store for Android.
 - [NekoX-Dev/NekoX](https://github.com/NekoX-Dev/NekoX) - A third-party Telegram android app.
 - [Catogram/Catogram](https://github.com/Catogram/Catogram) - Experimental telegram client based on official Android sources
