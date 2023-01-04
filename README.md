@@ -1068,7 +1068,7 @@
 - [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance
 - [openairplay/open-airplay](https://github.com/openairplay/open-airplay) - A collection of libraries for Apple's AirPlay protocol
 - [dozingcat/Vector-Pinball](https://github.com/dozingcat/Vector-Pinball) - Pinball game for Android.
-- [ktgw0316/LightZone](https://github.com/ktgw0316/LightZone) - LightZone is a photo editor for Mac, Windows, and Linux.
+- [ktgw0316/LightZone-backup](https://github.com/ktgw0316/LightZone-backup) - LightZone is a photo editor for Mac, Windows, and Linux.
 - [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) - Digital logic design tool and simulator
 - [i2p/i2p.i2p](https://github.com/i2p/i2p.i2p) - I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is b
 - [frostwire/frostwire](https://github.com/frostwire/frostwire) - An easy to use Cloud Downloader, BitTorrent Client and Media Player. Search, Download, Play, Share
@@ -1088,6 +1088,7 @@
 
 ## JavaScript 
 
+- [lelylan/simple-oauth2](https://github.com/lelylan/simple-oauth2) - A simple Node.js client library for Oauth2
 - [gillescastel/instant-reference](https://github.com/gillescastel/instant-reference) - Instant Pdf Referencing
 - [ahrm/chrome-absolver](https://github.com/ahrm/chrome-absolver) - Absolving web pages from the sins of the wretched web developers.
 - [manusa/electronim](https://github.com/manusa/electronim) - Electron based multi IM (Instant Messaging) client
@@ -2657,7 +2658,7 @@
 - [wellle/context.vim](https://github.com/wellle/context.vim) - Vim plugin that shows the context of the currently visible buffer contents
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [FredKSchott/CoVim](https://github.com/FredKSchott/CoVim) - Collaborative Editing for Vim
-- [voidz7/dotfiles](https://github.com/voidz7/dotfiles) - :ramen:
+- [vovw/dotfiles](https://github.com/vovw/dotfiles) - :ramen:
 - [TeoDev1611/plugpac.vim](https://github.com/TeoDev1611/plugpac.vim) - Thin wrapper of minpac, provides vim-plug-like experience
 - [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter) - Vim plugin for intensely nerdy commenting powers
 - [mtwb47/dwmricer](https://github.com/mtwb47/dwmricer) - DWM Auto Install and Ricing Script
