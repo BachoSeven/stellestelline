@@ -391,7 +391,7 @@
 - [bakkeby/dwm-flexipatch](https://github.com/bakkeby/dwm-flexipatch) - A dwm build with preprocessor directives to decide which patches to include during build time
 - [sfauzia/dwm](https://github.com/sfauzia/dwm) - Configuration of the suckless window manager, dwm
 - [jordansissel/xdotool](https://github.com/jordansissel/xdotool) - fake keyboard/mouse input, window management, and more
-- [oliverlew/xdg-xmenu](https://github.com/oliverlew/xdg-xmenu) - Generate menu for xmenu
+- [xlucn/xdg-xmenu](https://github.com/xlucn/xdg-xmenu) - Generate menu for xmenu
 - [save196/dwm](https://github.com/save196/dwm) - Save's custom build of dwm
 - [freundTech/bar](https://github.com/freundTech/bar) - bar ain't recursive - A lightweight xcb based bar. This is a fork that supports fontconfig
 - [daringer/asus-fan](https://github.com/daringer/asus-fan) - Kernel module to get/set (both) fan speed(s) on ASUS Zenbooks
@@ -1367,7 +1367,7 @@
 - [nvim-lua/completion-nvim](https://github.com/nvim-lua/completion-nvim) - A async completion framework aims to provide completion to neovim's built in LSP written in Lua
 - [po5/mpv_sponsorblock](https://github.com/po5/mpv_sponsorblock) - mpv script to skip sponsored segments of YouTube videos
 - [drahenprofi/dotfiles](https://github.com/drahenprofi/dotfiles) - Arch Linux dotfiles
-- [oliverlew/dotfiles](https://github.com/oliverlew/dotfiles) - Linux configuration files (dotfiles) and some useful scripts
+- [xlucn/dotfiles](https://github.com/xlucn/dotfiles) - Linux configuration files (dotfiles) and some useful scripts
 - [savq/paq-nvim](https://github.com/savq/paq-nvim) - 🌚  Neovim package manager
 - [b3nj5m1n/kommentary](https://github.com/b3nj5m1n/kommentary) - Neovim commenting plugin, written in lua.
 - [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim) - vim dashboard
@@ -1728,6 +1728,7 @@
 - [thomasvs/morituri](https://github.com/thomasvs/morituri) - For those about to RIP - a Unix CD ripper preferring accuracy over speed
 - [jellyfin/jellycon](https://github.com/jellyfin/jellycon) - Kodi Addon for Jellyfin
 - [NoahCardoza/CaptchaHarvester](https://github.com/NoahCardoza/CaptchaHarvester) - Solve captchas yourself without having to pay for services like 2captcha for use in automated projects.
+- [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [d0c-s4vage/lookatme](https://github.com/d0c-s4vage/lookatme) - An interactive, terminal-based markdown presenter
 - [nschloe/spectro](https://github.com/nschloe/spectro) - :musical_note: Audio file analysis
 - [tmick0/ppg](https://github.com/tmick0/ppg) - Python pixel glitcher -- disturbs image data to create cool effects
@@ -1773,7 +1774,7 @@
 - [jceb/vim-orgmode](https://github.com/jceb/vim-orgmode) - UNMAINTAINED looking for maintainers! Text outlining and task management for Vim based on Emacs' Org-Mode
 - [muammar/mkchromecast](https://github.com/muammar/mkchromecast) - Cast macOS and Linux Audio/Video to your Google Cast and Sonos Devices
 - [Taiko2k/TauonMusicBox](https://github.com/Taiko2k/TauonMusicBox) - The desktop music player from the future! :city_sunset:
-- [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, offline capable and easy to setup.
+- [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 - [sdushantha/qr-filetransfer](https://github.com/sdushantha/qr-filetransfer) - Transfer files over WiFi between your computer and your smartphone from the terminal
 - [stuartlangridge/magnus](https://github.com/stuartlangridge/magnus) - A very simple screen magnifier for Ubuntu
 - [Olivia5k/doge](https://github.com/Olivia5k/doge) - wow very terminal doge
@@ -2592,7 +2593,6 @@
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
 - [imLinguin/jelly-desktop](https://github.com/imLinguin/jelly-desktop) - Simple community made desktop client for Jellyfin
 - [aome510/article-md-cli](https://github.com/aome510/article-md-cli) - An CLI application to parse a web article into readable text.
-- [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [tympanix/Electorrent](https://github.com/tympanix/Electorrent) - A remote control client for µTorrent, qBittorrent, rTorrent, Transmission, Synology & Deluge
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client applications (web, browser extension, desktop, and cli)
