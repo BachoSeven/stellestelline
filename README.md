@@ -250,7 +250,7 @@
 - [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 - [mocaccinoOS/mocaccino-micro](https://github.com/mocaccinoOS/mocaccino-micro) - :tophat: Mocaccino micro flavor. Micro LFS musl-based distro for embedded applications
 - [BannedPatriot/rtl8822bu](https://github.com/BannedPatriot/rtl8822bu) - 
-- [phillbush/xfiles](https://github.com/phillbush/xfiles) - X11 file manager (work in progress)
+- [phillbush/xfiles](https://github.com/phillbush/xfiles) - Configurable and simple file manager for X11
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [jgmenu/jgmenu](https://github.com/jgmenu/jgmenu) - An X11 menu
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
@@ -542,7 +542,7 @@
 - [ppy/osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
 - [hirschmann/nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl
 - [fedarovich/qbittorrent-cli](https://github.com/fedarovich/qbittorrent-cli) - Command line interface for QBittorrent
-- [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 - [zoeyfyi/TeX-Match](https://github.com/zoeyfyi/TeX-Match) - Search through over 1000 different LaTeX symbols by sketching. A desktop version of detexify.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
@@ -2577,6 +2577,7 @@
 
 ## TypeScript 
 
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [michimani/chrome-tab-ex](https://github.com/michimani/chrome-tab-ex) - This is a Chrome extension that sorts and groups tabs.
 - [aziis98/art-phc-landing-page](https://github.com/aziis98/art-phc-landing-page) - This is the second version of the _wire art_ for the landing page of the new PHC website.
