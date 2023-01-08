@@ -322,7 +322,7 @@
 - [RasPlex/OpenPHT](https://github.com/RasPlex/OpenPHT) - OpenPHT is a community driven fork of Plex Home Theater
 - [uditkarode/libxft-bgra](https://github.com/uditkarode/libxft-bgra) - A patched version of libxft that allows for colored emojis to be rendered in Suckless software (dmenu/st/whatever).
 - [werererer/japokwm](https://github.com/werererer/japokwm) - A wlroots and dwl based tiling wayland compositor based around creating layouts
-- [muennich/physlock](https://github.com/muennich/physlock) - Lightweight linux console locking tool
+- [xyb3rt/physlock](https://github.com/xyb3rt/physlock) - Lightweight linux console locking tool
 - [Rust-for-Linux/linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel.
 - [Netgear/wsdd2](https://github.com/Netgear/wsdd2) - WSD/LLMNR Discovery/Name Service Daemon
 - [kohler/gifsicle](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations
@@ -340,7 +340,6 @@
 - [dylanaraps/sowm](https://github.com/dylanaraps/sowm) - An itsy bitsy floating window manager (220~ sloc!).
 - [spbooth/xmountains](https://github.com/spbooth/xmountains) - This is my ancient X-windows sideways scrolling fractal landscape code
 - [juliusHuelsmann/st-history-vim](https://github.com/juliusHuelsmann/st-history-vim) - Development of the "vim patch" and  a minimalist "history patch" for the suckless simple terminal (st).
-- [alloca123/based-ssg](https://github.com/alloca123/based-ssg) - a very simple, minimal, and flexible static site generator written in pure C89 with no external deps.
 - [stivale/stivale](https://github.com/stivale/stivale) - The stivale boot protocols' specifications and headers.
 - [stivale/stivale2-barebones](https://github.com/stivale/stivale2-barebones) - A simple stivale2-compliant kernel and build system example/template.
 - [TomatOrg/TomatBoot](https://github.com/TomatOrg/TomatBoot) - A UEFI 64bit Bootloader
@@ -470,7 +469,7 @@
 - [thomazmoura/qmk_firmware](https://github.com/thomazmoura/qmk_firmware) - Port of QMK for the Anne Pro 2
 - [kitsunyan/intel-undervolt](https://github.com/kitsunyan/intel-undervolt) - Intel CPU undervolting and throttling configuration tool
 - [hoyon/mpv-mpris](https://github.com/hoyon/mpv-mpris) - MPRIS plugin for mpv
-- [muennich/sxiv](https://github.com/muennich/sxiv) - Simple X Image Viewer
+- [xyb3rt/sxiv](https://github.com/xyb3rt/sxiv) - Simple X Image Viewer
 - [ibhagwan/picom](https://github.com/ibhagwan/picom) - A lightweight compositor for X11 (previously a compton fork)
 - [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11
 - [willeccles/promptus](https://github.com/willeccles/promptus) - 🌵 Very quick shell prompt that supports multiple shells.
@@ -639,7 +638,7 @@
 - [CDrummond/cantata](https://github.com/CDrummond/cantata) - Qt5 Graphical MPD Client
 - [MaartenBaert/ssr](https://github.com/MaartenBaert/ssr) - SimpleScreenRecorder, a screen recorder for Linux
 - [KenjiTakahashi/newsoul](https://github.com/KenjiTakahashi/newsoul) - Museek+, a daemon/server based Soulseek client, resurrected.
-- [skiftOS/skift](https://github.com/skiftOS/skift) - 🥑 The delightful operating system.
+- [skift-org/skift](https://github.com/skift-org/skift) - 🥑 The delightful operating system.
 - [managarm/managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O
 - [MaurycyLiebner/enve](https://github.com/MaurycyLiebner/enve) - Flexible, user expandable 2D animation software for Linux and Windows.
 - [taganaka/SpeedTest](https://github.com/taganaka/SpeedTest) - Yet another unofficial speedtest.net client cli interface
