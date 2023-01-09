@@ -2421,7 +2421,7 @@
 - [bobafetthotmail/refind-theme-regular](https://github.com/bobafetthotmail/refind-theme-regular) - 
 - [NNBnh/bfetch](https://github.com/NNBnh/bfetch) - 📠 Dynamic fetch displayer that SuperB
 - [neeshy/lfimg](https://github.com/neeshy/lfimg) - lf + ueberzug
-- [cirala/lfimg](https://github.com/cirala/lfimg) - Image preview support for lf (list files) using Überzug
+- [thimc/lfimg](https://github.com/thimc/lfimg) - Image preview support for lf (list files) using Überzug
 - [Bugswriter/redyt](https://github.com/Bugswriter/redyt) - Search reddit with CLI
 - [paulodiovani/AUR-torrentflix](https://github.com/paulodiovani/AUR-torrentflix) - Nodejs cli app to search torrent sites and stream using peerflix (Arch Linux Package)
 - [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - A simple bash script to set wallpapers according to current time, using cron job scheduler.
