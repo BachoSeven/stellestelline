@@ -1521,7 +1521,7 @@
 - [hexoctal/st-undercurl](https://github.com/hexoctal/st-undercurl) - A patch for ST (Simple Terminal) adding support for curly and colored underlines.
 - [Droogans/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
 - [seebye/ueberzug](https://github.com/seebye/ueberzug) - 
-- [seebye/fmui](https://github.com/seebye/fmui) - fzf mpd user interface
+- [seebye/fmui](https://github.com/seebye/fmui) - 
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
@@ -1593,7 +1593,7 @@
 - [inaimathi/gtypist-single-space](https://github.com/inaimathi/gtypist-single-space) - GNU Typist lessons with the "two spaces after a sentence" garbage removed. You're welcome.
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [m-sameer/fossdroid](https://github.com/m-sameer/fossdroid) - 
-- [seebye/fzf-ueberzogen](https://github.com/seebye/fzf-ueberzogen) - Just a script which allows to use fzf with ueberzug
+- [seebye/fzf-ueberzogen](https://github.com/seebye/fzf-ueberzogen) - 
 - [rtlewis88/rtl88-Themes](https://github.com/rtlewis88/rtl88-Themes) - GTK, xfwm4, openbox-3, GNOME-Shell Themes, and Cinnamon themes
 - [lennonwoo/zathura-solarized](https://github.com/lennonwoo/zathura-solarized) - The solarized color theme for Zathura
 - [rubo77/rsync-homedir-excludes](https://github.com/rubo77/rsync-homedir-excludes) - 
