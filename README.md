@@ -548,6 +548,7 @@
 
 ## C++ 
 
+- [shaunharker/CHomP](https://github.com/shaunharker/CHomP) - CHomP -- Computation Homology Project software
 - [IMAGINARY/surfer-alggeo-gtk](https://github.com/IMAGINARY/surfer-alggeo-gtk) - Sources of SURFER 2008, which is written in C++ and GTK 2
 - [Singular/Singular](https://github.com/Singular/Singular) - sources for the Singular computer algebra system
 - [oxen-io/lokinet](https://github.com/oxen-io/lokinet) - Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
@@ -785,6 +786,7 @@
 
 ## Common Lisp 
 
+- [gheber/kenzo](https://github.com/gheber/kenzo) - A repackaged version of the Kenzo program by Francis Sergeraert and collaborators.
 - [susam/mathb](https://github.com/susam/mathb) - Share mathematics on the web with LaTeX and Markdown
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's power-browser.
 
@@ -2614,7 +2616,7 @@
 - [toptal/keycodes](https://github.com/toptal/keycodes) - Easy visualizer for JavaScript KeyCodes
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
-- [Xmader/musescore-downloader](https://github.com/Xmader/musescore-downloader) - Download sheet music (MSCZ, PDF, MusicXML, MIDI, MP3, download individual parts as PDF) from musescore.com for free, no login or Musescore Pro required | 免登录、免 Musescore Pro，免费下载 musescore.com 上的曲谱 | 
+- [Xmader/musescore-downloader](https://github.com/Xmader/musescore-downloader) - ⚠️ This repo has moved to https://github.com/LibreScore/dl-librescore ⚠️ | Download sheet music (MSCZ, PDF, MusicXML, MIDI, MP3, download individual parts as PDF) from musescore.com for free, no login
 - [remigallego/winampify](https://github.com/remigallego/winampify) - ⚡ A Spotify web client with an OS-looking interface and a reimplementation of the classic audio player Winamp.
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk) - Matrix SDK for React Javascript
