@@ -137,6 +137,7 @@
 
 ## C 
 
+- [merge/skulls](https://github.com/merge/skulls) - pre-built coreboot images and documentation on how to flash them for Thinkpad Laptops
 - [JohnEarnest/Decker](https://github.com/JohnEarnest/Decker) - A multimedia sketchpad
 - [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
 - [CamHenlin/FocusedEdit](https://github.com/CamHenlin/FocusedEdit) - Classic Macintosh (System 2.0 through 9.2.2) text editor with shared live editing on a modern computer, via serial port
@@ -1036,6 +1037,7 @@
 
 ## Haskell 
 
+- [mvr/at](https://github.com/mvr/at) - Effective Algebraic Topology in Haskell
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!
 - [ChrisPenner/void-space](https://github.com/ChrisPenner/void-space) - Well-Typed Typing Tutor where you Type Types... in space... yup, you heard me
@@ -2325,7 +2327,7 @@
 - [Hackplayers/4nonimizer](https://github.com/Hackplayers/4nonimizer) - A bash script for anonymizing the public IP used to browsing Internet, managing the connection to TOR network and to different VPNs providers (OpenVPN)
 - [chaotic-aur/pkgbuild-chaotic-mirrorlist](https://github.com/chaotic-aur/pkgbuild-chaotic-mirrorlist) - ArchLinux PKGBUILD for "chaotic-mirrorlist"
 - [chaotic-aur/pkgbuild-chaotic-keyring](https://github.com/chaotic-aur/pkgbuild-chaotic-keyring) - ArchLinux PKGBUILD for "chaotic-keyring"
-- [k8ieone/arch-install](https://github.com/k8ieone/arch-install) - Install scripts for Arch Linux
+- [a13xie/arch-install](https://github.com/a13xie/arch-install) - Install scripts for Arch Linux
 - [bfrg/gpg-guide](https://github.com/bfrg/gpg-guide) - Quick-start guide to GPG
 - [jzbor/mashup](https://github.com/jzbor/mashup) - Merely Another Shell Utility Project
 - [jstkdng/ungoogled-chromium-bin](https://github.com/jstkdng/ungoogled-chromium-bin) - Mirror from the now deleted ungoogled-chromium-bin AUR package
@@ -2431,7 +2433,7 @@
 - [mitchweaver/dots](https://github.com/mitchweaver/dots) - ⚫ ⚫ ⚫
 - [bresilla/dotfiles](https://github.com/bresilla/dotfiles) - 
 - [warpwm/lule_bash](https://github.com/warpwm/lule_bash) - Genretare all 255 colors from wallpapers
-- [Hayao0819/wfa](https://github.com/Hayao0819/wfa) - A simple AUR helper written in a shell script
+- [Fascode-Archive/wfa](https://github.com/Fascode-Archive/wfa) - A simple AUR helper written in a shell script
 - [migueravila/Dotfiles](https://github.com/migueravila/Dotfiles) - 🍙 Personal dotfiles repository.
 - [sgleizes/xsh](https://github.com/sgleizes/xsh) - A simple framework for shell configuration management.
 - [leofa/dotfiles-old](https://github.com/leofa/dotfiles-old) - @ ~/
