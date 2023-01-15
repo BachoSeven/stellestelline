@@ -158,7 +158,6 @@
 - [jbensmann/xmouseless](https://github.com/jbensmann/xmouseless) - A fast and simple way to control the mouse.
 - [foutrelis/chromium-launcher](https://github.com/foutrelis/chromium-launcher) - Chromium launcher with support for custom user flags
 - [berdav/CVE-2021-4034](https://github.com/berdav/CVE-2021-4034) - CVE-2021-4034 1day
-- [Kratacoa/dotfiles](https://github.com/Kratacoa/dotfiles) - 🌠 please support breaking of copyright laws 🌠
 - [FrameworkComputer/EmbeddedController](https://github.com/FrameworkComputer/EmbeddedController) - Embedded Controller firmware for the Framework Laptop
 - [morrownr/88x2bu-20210702](https://github.com/morrownr/88x2bu-20210702) - Linux Driver for USB WiFi Adapters that are based on the RTL8812BU and RTL8822BU Chipsets - v5.13.1
 - [xeome/compix](https://github.com/xeome/compix) - an X compositor based on axcomp which is based on xcompmgr
@@ -888,7 +887,7 @@
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [evan-buss/openbooks](https://github.com/evan-buss/openbooks) - Search and Download eBooks
 - [yuin/goldmark-meta](https://github.com/yuin/goldmark-meta) - A YAML metadata extension for the goldmark markdown parser.
-- [wader/fq](https://github.com/wader/fq) - jq for binary formats
+- [wader/fq](https://github.com/wader/fq) - jq for binary formats - Tool, language and decoders for working with binary data
 - [foxcpp/maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
 - [shazow/ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
@@ -1464,6 +1463,7 @@
 - [uzkbwza/viii](https://github.com/uzkbwza/viii) - a small bitmap font for coding
 - [JingOS-team/JingOS](https://github.com/JingOS-team/JingOS) - Awesome - JingOS - The World’s First Linux-based OS design for Tablets
 - [AsahiLinux/docs](https://github.com/AsahiLinux/docs) - Hardware and software docs / wiki
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [dmi3/blockdevspam](https://github.com/dmi3/blockdevspam) - 
 - [basings/selfhosted-music-overview](https://github.com/basings/selfhosted-music-overview) - A table listing software network services which can be hosted on your own servers
 - [ValveSoftware/SteamOS](https://github.com/ValveSoftware/SteamOS) - SteamOS community tracker
@@ -1496,7 +1496,6 @@
 - [owl4ce/hikari-x86_64](https://github.com/owl4ce/hikari-x86_64) - :bridge_at_night: Personal Linux kernel configuration (based on Xanmod patchset)
 - [shubham-cpp/void-pkg-templates](https://github.com/shubham-cpp/void-pkg-templates) - Custom templates for several packages that could be installed using xbps-src
 - [stickus/Anne-Pro-2-Color-Profiles](https://github.com/stickus/Anne-Pro-2-Color-Profiles) - A repo of color profiles for the Anne Pro 2 programmable 60% RGB keyboard
-- [tenacityteam/assets](https://github.com/tenacityteam/assets) - Repository for storing canonical versions of the Tenacity logos, art, and other assets.
 - [lfit/itpol](https://github.com/lfit/itpol) - Useful IT policies
 - [bayasdev/nvidia-gpu-off](https://github.com/bayasdev/nvidia-gpu-off) - The definitive guide to completely turn off your Nvidia dedicated GPU on Optimus laptops running Linux
 - [knassar702/awesome-linux-minimalism](https://github.com/knassar702/awesome-linux-minimalism) - awesome linux minimalism suggestions
@@ -2222,12 +2221,12 @@
 - [cb-linux/breath](https://github.com/cb-linux/breath) - Linux for Chromebooks (continuation/revival by Apacelus on https://eupnea-linux.github.io/)
 - [CyberShadow/aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
 - [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements.
+- [Kratacoa/dotfiles](https://github.com/Kratacoa/dotfiles) - 🌠 please support breaking of copyright laws 🌠
 - [k-vernooy/dotfiles](https://github.com/k-vernooy/dotfiles) - An organizational repository for my dotfiles and scripts
 - [rxyhn/tokyo](https://github.com/rxyhn/tokyo) - BSPWM - Aesthetic Dotfiles 🍚
 - [thomaseizinger/pkgbuilds](https://github.com/thomaseizinger/pkgbuilds) - A collection of personal AUR packages.
 - [MiMillieuh/Photoshop-CC2022-Linux](https://github.com/MiMillieuh/Photoshop-CC2022-Linux) - Installer from Photoshop CC 2021 to 2022 on linux with a GUI
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [notthebee/infra](https://github.com/notthebee/infra) - IaC for my Linux/Unix machines
 - [M-Reimer/wine-lol](https://github.com/M-Reimer/wine-lol) - PKGBUILDs to package GloriousEggroll's LoL-patched wine version
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
