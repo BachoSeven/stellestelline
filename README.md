@@ -759,7 +759,6 @@
 - [KraXen72/rosebox](https://github.com/KraXen72/rosebox) - a dark, eye-friendly color scheme similar to gruvbox
 - [koalaman/linuxatemyram.com](https://github.com/koalaman/linuxatemyram.com) - The contents on linuxatemyram.com
 - [sadparadiseinhell/tea-green](https://github.com/sadparadiseinhell/tea-green) - Simple startpage with weather and to-do list features.
-- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [salimundo/Pop-gruvbox](https://github.com/salimundo/Pop-gruvbox) - Gruvbox theme based on Pop OS compact theme for GTK 3.22
 - [briano1905/typings](https://github.com/briano1905/typings) - typings.gg is a sleek and modern typing test website. it support many custom themes
 - [mut-ex/minimal-functional-fox](https://github.com/mut-ex/minimal-functional-fox) - A minimal, yet functional Firefox userChrome configuration.
@@ -2438,6 +2437,7 @@
 - [leofa/dotfiles-old](https://github.com/leofa/dotfiles-old) - @ ~/
 - [GuidoFe/bash-cat-with-cat](https://github.com/GuidoFe/bash-cat-with-cat) - The classic cat command but with a cat
 - [etcusrvar/xdgize](https://github.com/etcusrvar/xdgize) - Generates minimal wrapper/shim shell scripts around external commands to "XDG"-ize them.
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
 - [graysky2/profile-cleaner](https://github.com/graysky2/profile-cleaner) - Simple script to vacuum and reindex sqlite databases used by Firefox and by Chrome/Chromium.
 - [lemniskett/archbox](https://github.com/lemniskett/archbox) - Easy to use Arch Linux chroot environment with some functionalities to integrate it with your existing Linux installation.
