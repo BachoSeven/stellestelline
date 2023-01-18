@@ -729,7 +729,6 @@
 - [AndrewBelt/WiTeX](https://github.com/AndrewBelt/WiTeX) - If Donald Knuth had designed Wikipedia
 - [SuzanneSoy/WiTeX](https://github.com/SuzanneSoy/WiTeX) - If Donald Knuth had designed Wikipedia
 - [pradyungn/dotfiles](https://github.com/pradyungn/dotfiles) - A collection of my Linux Dotfiles!
-- [mountain-theme/Mountain](https://github.com/mountain-theme/Mountain) - Neutral. Calm.
 - [3ximus/gruvbox-gtk](https://github.com/3ximus/gruvbox-gtk) - Gruvbox theme for gtk - created with oomox
 - [darch7/swaywm](https://github.com/darch7/swaywm) - 
 - [ernwsto/startpage](https://github.com/ernwsto/startpage) - my startpage
@@ -1332,6 +1331,7 @@
 - [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github's Neovim themes
 - [jbyuki/instant.nvim](https://github.com/jbyuki/instant.nvim) - collaborative editing in Neovim using built-in capabilities
 - [undefinedDarkness/rice](https://github.com/undefinedDarkness/rice) - Home Sweet Home
+- [mountain-theme/Mountain](https://github.com/mountain-theme/Mountain) - Neutral. Calm.
 - [prdanelli/dotfiles](https://github.com/prdanelli/dotfiles) - 
 - [sayanarijit/material-landscape2.xplr](https://github.com/sayanarijit/material-landscape2.xplr) - xplr theme - Material Landscape 2
 - [sayanarijit/material-landscape.xplr](https://github.com/sayanarijit/material-landscape.xplr) - xple theme - Material Landscape
@@ -2089,7 +2089,7 @@
 - [jam1garner/nail](https://github.com/jam1garner/nail) - A vim-inspired hex editor written in rust
 - [mathall/rim](https://github.com/mathall/rim) - Aspiring vim-like text editor
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
-- [Macchina-CLI/macchina](https://github.com/Macchina-CLI/macchina) - A system information frontend, with an (unhealthy) emphasis on performance.
+- [Macchina-CLI/macchina](https://github.com/Macchina-CLI/macchina) - A system information frontend with an emphasis on performance.
 - [r-darwish/alma](https://github.com/r-darwish/alma) - Create Arch Linux based bootable USB drives
 - [Kintaro/wtftw](https://github.com/Kintaro/wtftw) - Window Tiling For The Win. A tiling window manager written in Rust
 - [davidde/submod_rs](https://github.com/davidde/submod_rs) - Command line tool to modify .srt/.vtt subtitle files
