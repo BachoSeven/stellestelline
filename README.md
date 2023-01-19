@@ -758,6 +758,7 @@
 - [KraXen72/rosebox](https://github.com/KraXen72/rosebox) - a dark, eye-friendly color scheme similar to gruvbox
 - [koalaman/linuxatemyram.com](https://github.com/koalaman/linuxatemyram.com) - The contents on linuxatemyram.com
 - [sadparadiseinhell/tea-green](https://github.com/sadparadiseinhell/tea-green) - Simple startpage with weather and to-do list features.
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [salimundo/Pop-gruvbox](https://github.com/salimundo/Pop-gruvbox) - Gruvbox theme based on Pop OS compact theme for GTK 3.22
 - [briano1905/typings](https://github.com/briano1905/typings) - typings.gg is a sleek and modern typing test website. it support many custom themes
 - [mut-ex/minimal-functional-fox](https://github.com/mut-ex/minimal-functional-fox) - A minimal, yet functional Firefox userChrome configuration.
@@ -885,7 +886,7 @@
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [evan-buss/openbooks](https://github.com/evan-buss/openbooks) - Search and Download eBooks
 - [yuin/goldmark-meta](https://github.com/yuin/goldmark-meta) - A YAML metadata extension for the goldmark markdown parser.
-- [wader/fq](https://github.com/wader/fq) - jq for binary formats - Tool, language and decoders for working with binary data
+- [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [foxcpp/maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
 - [shazow/ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
@@ -1400,6 +1401,7 @@
 ## Makefile 
 
 - [abkro/android_device_lge_h815](https://github.com/abkro/android_device_lge_h815) - LG G4 (International)
+- [osresearch/heads](https://github.com/osresearch/heads) - A minimal Linux that runs as a coreboot or LinuxBoot ROM payload to provide a secure, flexible boot environment for laptops and servers.
 - [morrolinux/ChimeraDesk](https://github.com/morrolinux/ChimeraDesk) - Simple, fast and flexible DIY Remote Desktop software
 - [feroldi/ricing](https://github.com/feroldi/ricing) - a book about ricing unix-like systems
 - [Onmp314/hackedbox](https://github.com/Onmp314/hackedbox) - Hackedbox window manager (Blackbox 0.65.0 based) (ultimately) modified to compile on modern Linux.
@@ -1449,6 +1451,7 @@
 
 ## Others 
 
+- [Xaiter/Binding-of-Isaac](https://github.com/Xaiter/Binding-of-Isaac) - Decompiled with Flare.  Absolutely no copyrighted assets or material will be posted here.  We're just trying to figure out how the game works.
 - [macbian-admin/macos-subsystem-for-linux](https://github.com/macbian-admin/macos-subsystem-for-linux) - Guide on how to use Qemu to create a similar effect to Windows Subsystem for Linux on macOS. Unfinished; contributions are welcome!
 - [kushaldas/lym](https://github.com/kushaldas/lym) - Linux command line for you and me
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
@@ -2263,7 +2266,6 @@
 - [DAINRA/ungoogled-chromium-void](https://github.com/DAINRA/ungoogled-chromium-void) - Ungoogled Chromium template and builds for Void Linux
 - [fsquillace/junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs, without root privileges, upon any Linux distro
 - [justinyaodu/iscanimage](https://github.com/justinyaodu/iscanimage) - User-friendly command line program for operating scanner devices in Linux.
-- [osresearch/heads](https://github.com/osresearch/heads) - A minimal Linux that runs as a coreboot or LinuxBoot ROM payload to provide a secure, flexible boot environment for laptops and servers.
 - [kusky3/natype](https://github.com/kusky3/natype) - NATO phonetic alphabet cli test
 - [ptr1337/linux-cacule](https://github.com/ptr1337/linux-cacule) - Archlinux Kernel based on the Cacule Scheduler and with many improvements.
 - [KF-Art/ungoogled-chromium-void](https://github.com/KF-Art/ungoogled-chromium-void) - Void Linux repository for Ungoogled Chromium fork.
@@ -2437,7 +2439,6 @@
 - [leofa/dotfiles-old](https://github.com/leofa/dotfiles-old) - @ ~/
 - [GuidoFe/bash-cat-with-cat](https://github.com/GuidoFe/bash-cat-with-cat) - The classic cat command but with a cat
 - [etcusrvar/xdgize](https://github.com/etcusrvar/xdgize) - Generates minimal wrapper/shim shell scripts around external commands to "XDG"-ize them.
-- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
 - [graysky2/profile-cleaner](https://github.com/graysky2/profile-cleaner) - Simple script to vacuum and reindex sqlite databases used by Firefox and by Chrome/Chromium.
 - [lemniskett/archbox](https://github.com/lemniskett/archbox) - Easy to use Arch Linux chroot environment with some functionalities to integrate it with your existing Linux installation.
