@@ -1186,7 +1186,6 @@
 - [jellyfin/jellyfin-webos](https://github.com/jellyfin/jellyfin-webos) - WebOS Client for Jellyfin
 - [GSConnect/gnome-shell-extension-gsconnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect) - KDE Connect implementation for GNOME
 - [aunetx/blur-my-shell](https://github.com/aunetx/blur-my-shell) - Extension that adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview
-- [WDaan/VueTorrent](https://github.com/WDaan/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [3raxton/spicetify-custom-apps-and-extensions](https://github.com/3raxton/spicetify-custom-apps-and-extensions) - A community-driven collection of custom apps for Spicetify (https://github.com/khanhas/spicetify-cli)
 - [lainchan/lainchan](https://github.com/lainchan/lainchan) - The version of vichan running on lainchan.org
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -2077,7 +2076,7 @@
 - [wez/wzsh](https://github.com/wez/wzsh) - Wez's Shell
 - [Edu4rdSHL/blackarch-devtools](https://github.com/Edu4rdSHL/blackarch-devtools) - Development framework for the BlackArch Linux distribution.
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
-- [jhbabon/scout](https://github.com/jhbabon/scout) - Friendly fuzzy finder made in rust
+- [jhbabon/scout](https://github.com/jhbabon/scout) - Friendly fuzzy finder made with rust
 - [VixenUtils/Myxer](https://github.com/VixenUtils/Myxer) - A modern Volume Mixer for PulseAudio.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
 - [soywod/himalaya](https://github.com/soywod/himalaya) - Command-line interface for email management
@@ -2758,6 +2757,7 @@
 - [m0ngr31/jellyamp](https://github.com/m0ngr31/jellyamp) - Desktop client for listening to music from a Jellyfin server
 - [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) - A modern web client for Jellyfin based on Vue
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
+- [WDaan/VueTorrent](https://github.com/WDaan/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [LibreScore/LibreScore](https://github.com/LibreScore/LibreScore) - The open source (GPLv3), serverless, offline-first, and totally free alternative to musescore.com
 - [cbrasser/bashrc](https://github.com/cbrasser/bashrc) - Browser startpage emulating a unix terminal
 
