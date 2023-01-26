@@ -1620,7 +1620,6 @@
 ## Perl 
 
 - [liske/needrestart](https://github.com/liske/needrestart) - Restart daemons after library updates.
-- [bcrowell/when](https://github.com/bcrowell/when) - an extremely simple personal calendar program, aimed at the Unix geek who wants something minimalistic
 - [ddclient/ddclient](https://github.com/ddclient/ddclient) - This is the new home for ddclient. Ddclient is a Perl client used to update dynamic DNS entries for accounts on 'Dynamic DNS Network Services' free DNS service. It currently supports a lot of differen
 - [winterheart/broadcom-bt-firmware](https://github.com/winterheart/broadcom-bt-firmware) - Repository for various Broadcom Bluetooth firmware
 - [hamishcoleman/thinkpad-ec](https://github.com/hamishcoleman/thinkpad-ec) - Infrastructure for examining and patching Thinkpad embedded controller firmware
