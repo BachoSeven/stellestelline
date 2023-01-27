@@ -2694,7 +2694,7 @@
 - [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf :heart: vim
 - [dropwhile/dotconfigs](https://github.com/dropwhile/dotconfigs) - misc dot config files
 - [HiPhish/info.vim](https://github.com/HiPhish/info.vim) - Browse info files from Vim (mirror)
-- [voldikss/vim-floaterm](https://github.com/voldikss/vim-floaterm) - :star2: Terminal manager for (neo)vim
+- [voldikss/vim-floaterm](https://github.com/voldikss/vim-floaterm) - :computer: Terminal manager for (neo)vim
 - [HendrikPetertje/vimify](https://github.com/HendrikPetertje/vimify) - Spotify integration for vim
 - [xero/blaquemagick.vim](https://github.com/xero/blaquemagick.vim) - greyscale monochrome with a blue highlight vim colorscheme
 - [dstein64/vim-startuptime](https://github.com/dstein64/vim-startuptime) - ⏲️ A plugin for profiling Vim and Neovim startup time.
