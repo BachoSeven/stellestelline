@@ -554,7 +554,7 @@
 - [oxen-io/lokinet](https://github.com/oxen-io/lokinet) - Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [Vantskruv/wejoy](https://github.com/Vantskruv/wejoy) - Tool to read physical joystick devices, keyboards aswell, and create virtual joystick devices and output keyboard presses on a Linux system.
-- [textbrowser/biblioteq](https://github.com/textbrowser/biblioteq) - Professional archiving, cataloging, and library management suite. AMD, ARM, Alpha, Android, PowerPC, Sparc64, etc. Completed.
+- [textbrowser/biblioteq](https://github.com/textbrowser/biblioteq) - Archive and catalog the world. AMD, ARM, Alpha, Android, PowerPC, Sparc64, etc. Completed.
 - [ofloveandhate/bertini_real](https://github.com/ofloveandhate/bertini_real) - software for real algebraic sets
 - [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 - [leonmavr/zeitkatze](https://github.com/leonmavr/zeitkatze) - time cat -- literally. Available as AUR package
@@ -1060,6 +1060,7 @@
 
 ## Java 
 
+- [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
 - [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) - A fork of NewPipe with SponsorBlock functionality.
 - [CatogramX/CatogramX](https://github.com/CatogramX/CatogramX) - Catogram X source code.
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
@@ -1465,7 +1466,6 @@
 - [uzkbwza/viii](https://github.com/uzkbwza/viii) - a small bitmap font for coding
 - [JingOS-team/JingOS](https://github.com/JingOS-team/JingOS) - Awesome - JingOS - The World’s First Linux-based OS design for Tablets
 - [AsahiLinux/docs](https://github.com/AsahiLinux/docs) - Hardware and software docs / wiki
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [dmi3/blockdevspam](https://github.com/dmi3/blockdevspam) - 
 - [basings/selfhosted-music-overview](https://github.com/basings/selfhosted-music-overview) - A table listing software network services which can be hosted on your own servers
 - [ValveSoftware/SteamOS](https://github.com/ValveSoftware/SteamOS) - SteamOS community tracker
@@ -1742,7 +1742,7 @@
 - [Dniel97/RedSea](https://github.com/Dniel97/RedSea) - Music downloader for Tidal, revived, revived, revived and modded to download Dolby Atmos
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader) - Download 'TIDAL' Music On Windows/Linux/MacOs (PYTHON/C#)
-- [cegargo/pwy](https://github.com/cegargo/pwy) - :partly_sunny: A simple weather information tool.
+- [egargoc/pwy](https://github.com/egargoc/pwy) - :partly_sunny: A simple weather information tool.
 - [popey/sosumi-snap](https://github.com/popey/sosumi-snap) - 
 - [hchargois/gohufont](https://github.com/hchargois/gohufont) - A monospace bitmap font.
 - [ExposedCat/Meowgram](https://github.com/ExposedCat/Meowgram) - Telegram client written in GTK & Python
@@ -2591,6 +2591,7 @@
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [RudeySH/lastfm-bulk-edit](https://github.com/RudeySH/lastfm-bulk-edit) - Bulk edit your scrobbles for any artist, album or track on Last.fm at once.
 - [jeffvli/sonixd](https://github.com/jeffvli/sonixd) - A full-featured Subsonic/Jellyfin compatible desktop music player
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [PrettyCoffee/startpage](https://github.com/PrettyCoffee/startpage) - A React library which provides tools that help creating browser startpages in react.
 - [xbrowsersync/api](https://github.com/xbrowsersync/api) - Server-side REST API that serves requests from xBrowserSync client apps
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
