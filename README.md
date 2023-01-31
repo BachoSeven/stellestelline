@@ -945,7 +945,6 @@
 - [scotow/mego](https://github.com/scotow/mego) - A simple megadl wrapper with auto-retry and download list
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [gleich/ctree](https://github.com/gleich/ctree) - 🎄 A Christmas tree right from your terminal!
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [Rhymen/go-whatsapp](https://github.com/Rhymen/go-whatsapp) - WhatsApp Web API
 - [odeke-em/drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
 - [normen/whatscli](https://github.com/normen/whatscli) - A command line interface for WhatsApp
@@ -1020,6 +1019,7 @@
 - [maboroshin/qBittorrentDarktheme](https://github.com/maboroshin/qBittorrentDarktheme) - qBittorrent Dark theme
 - [skovati/startpage](https://github.com/skovati/startpage) - tree inspired startpage!
 - [alanrey6/startpage-az2](https://github.com/alanrey6/startpage-az2) - My second startpage
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [Stanley00/anne-pro2-layout-configurator](https://github.com/Stanley00/anne-pro2-layout-configurator) - Layout configurator for Anne Pro 2 keyboard
 - [rioastamal/tally-counter](https://github.com/rioastamal/tally-counter) - Super simple and fast tally counter. https://rioastamal.net/tally-counter/
 - [lokesh-krishna/dotfiles](https://github.com/lokesh-krishna/dotfiles) - My dotfiles
