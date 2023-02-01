@@ -552,7 +552,7 @@
 - [IMAGINARY/surfer-alggeo-gtk](https://github.com/IMAGINARY/surfer-alggeo-gtk) - Sources of SURFER 2008, which is written in C++ and GTK 2
 - [Singular/Singular](https://github.com/Singular/Singular) - sources for the Singular computer algebra system
 - [oxen-io/lokinet](https://github.com/oxen-io/lokinet) - Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [Vantskruv/wejoy](https://github.com/Vantskruv/wejoy) - Tool to read physical joystick devices, keyboards aswell, and create virtual joystick devices and output keyboard presses on a Linux system.
 - [textbrowser/biblioteq](https://github.com/textbrowser/biblioteq) - Archive and catalog the world. AMD, ARM, Alpha, Android, PowerPC, Sparc64, etc. Completed.
 - [ofloveandhate/bertini_real](https://github.com/ofloveandhate/bertini_real) - software for real algebraic sets
@@ -945,6 +945,7 @@
 - [scotow/mego](https://github.com/scotow/mego) - A simple megadl wrapper with auto-retry and download list
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [gleich/ctree](https://github.com/gleich/ctree) - 🎄 A Christmas tree right from your terminal!
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [Rhymen/go-whatsapp](https://github.com/Rhymen/go-whatsapp) - WhatsApp Web API
 - [odeke-em/drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
 - [normen/whatscli](https://github.com/normen/whatscli) - A command line interface for WhatsApp
@@ -1019,7 +1020,6 @@
 - [maboroshin/qBittorrentDarktheme](https://github.com/maboroshin/qBittorrentDarktheme) - qBittorrent Dark theme
 - [skovati/startpage](https://github.com/skovati/startpage) - tree inspired startpage!
 - [alanrey6/startpage-az2](https://github.com/alanrey6/startpage-az2) - My second startpage
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [Stanley00/anne-pro2-layout-configurator](https://github.com/Stanley00/anne-pro2-layout-configurator) - Layout configurator for Anne Pro 2 keyboard
 - [rioastamal/tally-counter](https://github.com/rioastamal/tally-counter) - Super simple and fast tally counter. https://rioastamal.net/tally-counter/
 - [lokesh-krishna/dotfiles](https://github.com/lokesh-krishna/dotfiles) - My dotfiles
@@ -1189,7 +1189,6 @@
 - [aunetx/blur-my-shell](https://github.com/aunetx/blur-my-shell) - Extension that adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview
 - [3raxton/spicetify-custom-apps-and-extensions](https://github.com/3raxton/spicetify-custom-apps-and-extensions) - A community-driven collection of custom apps for Spicetify (https://github.com/khanhas/spicetify-cli)
 - [lainchan/lainchan](https://github.com/lainchan/lainchan) - The version of vichan running on lainchan.org
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [pop-os/cosmic](https://github.com/pop-os/cosmic) - Computer Operating System Main Interface Components
 - [iamcco/vim-language-server](https://github.com/iamcco/vim-language-server) - VImScript language server, LSP for vim script
 - [JoseExposito/touche](https://github.com/JoseExposito/touche) - The desktop application to configure Touchégg
@@ -1407,6 +1406,7 @@
 - [feroldi/ricing](https://github.com/feroldi/ricing) - a book about ricing unix-like systems
 - [Onmp314/hackedbox](https://github.com/Onmp314/hackedbox) - Hackedbox window manager (Blackbox 0.65.0 based) (ultimately) modified to compile on modern Linux.
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [gilbertw1/telegram-gruvbox-theme](https://github.com/gilbertw1/telegram-gruvbox-theme) - Gruvbox theme for Telegram Desktop
 - [nbeaver/why-linux-is-better](https://github.com/nbeaver/why-linux-is-better) - Objective reasons to prefer Linux to Windows.
 - [budlabs/bwp](https://github.com/budlabs/bwp) - CLI wallpaper selector
@@ -1452,6 +1452,7 @@
 
 ## Others 
 
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 - [Xaiter/Binding-of-Isaac](https://github.com/Xaiter/Binding-of-Isaac) - Decompiled with Flare.  Absolutely no copyrighted assets or material will be posted here.  We're just trying to figure out how the game works.
 - [macbian-admin/macos-subsystem-for-linux](https://github.com/macbian-admin/macos-subsystem-for-linux) - Guide on how to use Qemu to create a similar effect to Windows Subsystem for Linux on macOS. Unfinished; contributions are welcome!
 - [kushaldas/lym](https://github.com/kushaldas/lym) - Linux command line for you and me
