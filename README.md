@@ -223,7 +223,6 @@
 - [tux4kids/t4kcommon](https://github.com/tux4kids/t4kcommon) - 
 - [tux4kids/tuxtype](https://github.com/tux4kids/tuxtype) - 
 - [DebianJoe/nullWM](https://github.com/DebianJoe/nullWM) - attempt at minimal window manager
-- [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 - [rizinorg/rizin](https://github.com/rizinorg/rizin) - UNIX-like reverse engineering framework and command-line toolset.
 - [ashish-yadav11/st](https://github.com/ashish-yadav11/st) - My fork of st with proper scrolling support, text reflow and a few other additions.
 - [Nooo37/pinsel](https://github.com/Nooo37/pinsel) - Minimal screenshot annotation tool with lua config
@@ -600,7 +599,7 @@
 - [supertuxkart/stk-code](https://github.com/supertuxkart/stk-code) - The code base of supertuxkart
 - [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
 - [AntiMicro/antimicro](https://github.com/AntiMicro/antimicro) - [NOT maintained anymore] Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support
-- [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - cross-platform music visualization. Open-source and Milkdrop-compatible
+- [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.
 - [ploopyco/classic-trackball](https://github.com/ploopyco/classic-trackball) - A trackball mouse. Mechanical files, PCBs, and firmware all included.
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [widelands/widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and d
@@ -848,6 +847,7 @@
 
 ## Go 
 
+- [antonmedv/llama](https://github.com/antonmedv/llama) - Terminal file manager
 - [aziis98/go-patbu](https://github.com/aziis98/go-patbu) - A Go library and CLI to manipulate paths
 - [mholt/caddy-webdav](https://github.com/mholt/caddy-webdav) - WebDAV handler module for Caddy
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
@@ -1091,6 +1091,7 @@
 
 ## JavaScript 
 
+- [aziis98/dashboard-2](https://github.com/aziis98/dashboard-2) - New dashboard to replace my browser blank page
 - [lelylan/simple-oauth2](https://github.com/lelylan/simple-oauth2) - A simple Node.js client library for Oauth2
 - [gillescastel/instant-reference](https://github.com/gillescastel/instant-reference) - Instant Pdf Referencing
 - [ahrm/chrome-absolver](https://github.com/ahrm/chrome-absolver) - Absolving web pages from the sins of the wretched web developers.
@@ -1128,7 +1129,6 @@
 - [lesspass/lesspass](https://github.com/lesspass/lesspass) - :key: stateless open source password manager
 - [Jelmerro/Garlmap](https://github.com/Jelmerro/Garlmap) - Garlmap is the Gapless Almighty Rule-based Logical Mpv Audio Player
 - [DistroBoard/DistroBoard](https://github.com/DistroBoard/DistroBoard) - A modern and opensource alternative to distrowatch.
-- [fosscord/fosscord-client](https://github.com/fosscord/fosscord-client) - Open source, themeable and extendable discord-compatible native fosscord client
 - [fosscord/fosscord](https://github.com/fosscord/fosscord) - 📬 Fosscord is a free open source selfhostable discord compatible communication platform
 - [Novik/ruTorrent](https://github.com/Novik/ruTorrent) - Yet another web front-end for rTorrent
 - [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file uploader and awesome bunker written in node! 🚀
@@ -1248,7 +1248,7 @@
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [sindresorhus/speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI
 - [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
-- [EliverLara/terminator-themes](https://github.com/EliverLara/terminator-themes) - :metal: The biggest collection of Terminator themes.
+- [EliverLara/terminator-themes](https://github.com/EliverLara/terminator-themes) - :metal: The biggest collection of themes for Terminator terminal.
 - [m4heshd/offlinebay](https://github.com/m4heshd/offlinebay) - Official repository of the project OfflineBay
 
 ## Jinja 
@@ -1437,6 +1437,7 @@
 
 ## Objective-C 
 
+- [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 - [AlexisMtzGasca/Ubuntu-2bwm](https://github.com/AlexisMtzGasca/Ubuntu-2bwm) - 
 
 ## Objective-C++ 
@@ -1755,7 +1756,6 @@
 - [Xpra-org/xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
 - [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
 - [kent-lee/deviantart-scraper](https://github.com/kent-lee/deviantart-scraper) - personal project for downloading artworks from DeviantArt
-- [mlvnt/mdvs](https://github.com/mlvnt/mdvs) - Download complete deviantart galleries
 - [hydrusnetwork/hydrus](https://github.com/hydrusnetwork/hydrus) - A personal booru-style media tagger that can import files and tags from your hard drive and popular websites. Content can be shared with other users via user-run servers.
 - [CuddleBear92/Hydrus-Presets-and-Scripts](https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts) - collection of presets and scripts for Hydrus
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
@@ -2594,6 +2594,7 @@
 - [jeffvli/sonixd](https://github.com/jeffvli/sonixd) - A full-featured Subsonic/Jellyfin compatible desktop music player
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [PrettyCoffee/startpage](https://github.com/PrettyCoffee/startpage) - A React library which provides tools that help creating browser startpages in react.
+- [fosscord/fosscord-client](https://github.com/fosscord/fosscord-client) - Open source, themeable and extendable discord-compatible native fosscord client
 - [xbrowsersync/api](https://github.com/xbrowsersync/api) - Server-side REST API that serves requests from xBrowserSync client apps
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
 - [imLinguin/jelly-desktop](https://github.com/imLinguin/jelly-desktop) - Simple community made desktop client for Jellyfin
