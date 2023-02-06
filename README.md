@@ -605,7 +605,7 @@
 - [widelands/widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and d
 - [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the for
 - [kraxarn/spotify-qt](https://github.com/kraxarn/spotify-qt) - Lightweight Spotify client using Qt
-- [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
+- [rui314/mold](https://github.com/rui314/mold) - Mold: A Modern Linker 🦠
 - [k4zmu2a/SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Decompilation of 3D Pinball for Windows – Space Cadet
 - [cpeditor/cpeditor](https://github.com/cpeditor/cpeditor) - The IDE for competitive programming :tada: | Fetch, Code, Compile, Run, Check, Submit :rocket:
 - [asherliu/cpu_bc](https://github.com/asherliu/cpu_bc) - Multi-thread Betweenness Centrality (BC) on CPU
@@ -1744,7 +1744,7 @@
 - [Dniel97/RedSea](https://github.com/Dniel97/RedSea) - Music downloader for Tidal, revived, revived, revived and modded to download Dolby Atmos
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader) - Download 'TIDAL' Music On Windows/Linux/MacOs (PYTHON/C#)
-- [egargoc/pwy](https://github.com/egargoc/pwy) - :partly_sunny: A simple weather information tool.
+- [egargocl/pwy](https://github.com/egargocl/pwy) - :partly_sunny: A simple weather information tool.
 - [popey/sosumi-snap](https://github.com/popey/sosumi-snap) - 
 - [hchargois/gohufont](https://github.com/hchargois/gohufont) - A monospace bitmap font.
 - [ExposedCat/Meowgram](https://github.com/ExposedCat/Meowgram) - Telegram client written in GTK & Python
@@ -2199,6 +2199,7 @@
 
 ## Shell 
 
+- [livialima/linuxupskillchallenge](https://github.com/livialima/linuxupskillchallenge) - Learn the skills required to sysadmin a remote Linux server from the commandline.
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
 - [Unipisa/dm-cups](https://github.com/Unipisa/dm-cups) - Backend CUPS con accounting integrato
 - [K4zoku/nowm](https://github.com/K4zoku/nowm) - 🚫 Managing window without a window manager. (59 slocs)
@@ -2495,7 +2496,7 @@
 - [archcraft-os/archcraft](https://github.com/archcraft-os/archcraft) - // Source : ISO
 - [thomas10-10/foo-Wallpaper-Feh-Gif](https://github.com/thomas10-10/foo-Wallpaper-Feh-Gif) - just a loop who set wallpaper for display gif,  support transparency
 - [BrodieRobertson/scripts](https://github.com/BrodieRobertson/scripts) - Messing around with shell scripting because it seems like fun, maybe you'll find something useful
-- [drincoxyz/pinentry-dmenu](https://github.com/drincoxyz/pinentry-dmenu) - 🔑 simple dmenu / GnuPG integration
+- [blittle3/pinentry-dmenu](https://github.com/blittle3/pinentry-dmenu) - 🔑 simple dmenu / GnuPG integration
 - [cdown/clipmenu](https://github.com/cdown/clipmenu) - Clipboard management using dmenu
 - [juacq97/dotfiles](https://github.com/juacq97/dotfiles) - Un respaldo de mis dotfiles más importantes en mi laptop
 - [softmoth/zsh-vim-mode](https://github.com/softmoth/zsh-vim-mode) - Friendly bindings for ZSH's vi mode
