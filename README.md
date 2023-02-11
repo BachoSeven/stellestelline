@@ -373,7 +373,7 @@
 - [muccc/scrollback](https://github.com/muccc/scrollback) - scrollback buffer program for terminals
 - [kohler/xwrits](https://github.com/kohler/xwrits) - Wrist break reminders for X windows
 - [deadpixi/mtm](https://github.com/deadpixi/mtm) - Perhaps the smallest useful terminal multiplexer in the world.
-- [siduck/st](https://github.com/siduck/st) - snazzy terminal (suckless + lightweight)
+- [siduck/st](https://github.com/siduck/st) - snazzy terminal (suckless + beautiful)
 - [officialcactar/colors](https://github.com/officialcactar/colors) - 
 - [corellium/linux-m1](https://github.com/corellium/linux-m1) - Linux kernel source tree
 - [prikhi/lightdm-mini-greeter](https://github.com/prikhi/lightdm-mini-greeter) - A Minimal, Configurable, Single-User GTK3 LightDM Greeter
@@ -402,7 +402,6 @@
 - [tats/w3m](https://github.com/tats/w3m) - Debian's w3m: WWW browsable pager
 - [OpenAnnePro/qmk_firmware](https://github.com/OpenAnnePro/qmk_firmware) - Port of QMK for the Anne Pro 2
 - [astrand/xclip](https://github.com/astrand/xclip) - Command line interface to the X11 clipboard
-- [Eeems-Org/oxide](https://github.com/Eeems-Org/oxide) - A desktop environment for the reMarkable tablet
 - [LukeSmithxyz/scroll](https://github.com/LukeSmithxyz/scroll) - Minor personal tweaks to suckless's scroll (for st)
 - [Cubified/ntwm](https://github.com/Cubified/ntwm) - A tiny, frameless, keyboard-driven tiling window manager with multimonitor support, written in ANSI C.
 - [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
@@ -665,6 +664,7 @@
 - [suratovvlad/libqdark](https://github.com/suratovvlad/libqdark) - Dark theme plugin for Qt applications. Choose the dark side of the style.
 - [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - [Unofficial] qBittorrent Enhanced, based on qBittorrent
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
+- [Eeems-Org/oxide](https://github.com/Eeems-Org/oxide) - A desktop environment for the reMarkable tablet
 - [ttalvitie/browservice](https://github.com/ttalvitie/browservice) - Browservice: Browse the modern web on historical browsers
 - [lightvector/KataGo](https://github.com/lightvector/KataGo) - GTP engine and self-play learning in Go
 - [osleg/gebaar-libinput-fork](https://github.com/osleg/gebaar-libinput-fork) - Gebaar, A Super Simple WM Independent Touchpad Gesture Daemon for libinput. Forked version with additional features.
@@ -1496,7 +1496,6 @@
 - [iridium-browser/iridium-browser](https://github.com/iridium-browser/iridium-browser) - Iridium Browser source code
 - [thepogsupreme/apo](https://github.com/thepogsupreme/apo) - Serene and grand wallpapers for the Mountain theme.
 - [unixwmbr/unixwmbr](https://github.com/unixwmbr/unixwmbr) - :computer: Official unixwmbr community repository.
-- [NNBnh/dotfiles](https://github.com/NNBnh/dotfiles) - 📂 My personal Đotfiles
 - [owl4ce/hikari-x86_64](https://github.com/owl4ce/hikari-x86_64) - :bridge_at_night: Personal Linux kernel configuration (based on Xanmod patchset)
 - [shubham-cpp/void-pkg-templates](https://github.com/shubham-cpp/void-pkg-templates) - Custom templates for several packages that could be installed using xbps-src
 - [stickus/Anne-Pro-2-Color-Profiles](https://github.com/stickus/Anne-Pro-2-Color-Profiles) - A repo of color profiles for the Anne Pro 2 programmable 60% RGB keyboard
@@ -1951,6 +1950,7 @@
 
 - [brotandgames/ciao](https://github.com/brotandgames/ciao) - HTTP checks & tests (private & public) monitoring - check the status of your URL
 - [gkovacs/pdfocr](https://github.com/gkovacs/pdfocr) - Adds text to PDF files using the cuneiform OCR software
+- [NNBnh/dotfiles](https://github.com/NNBnh/dotfiles) - 📂 My personal Đotfiles
 - [xofred/deviantart-gallery-downloader](https://github.com/xofred/deviantart-gallery-downloader) - fetch deviantart's images using mechanize
 - [MusicPlayerDaemon/website](https://github.com/MusicPlayerDaemon/website) - The MPD website
 - [sunaku/tamzen-font](https://github.com/sunaku/tamzen-font) - 💌 Bitmapped programming font, based on Tamsyn
