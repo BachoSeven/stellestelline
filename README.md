@@ -799,7 +799,7 @@
 
 ## Dart 
 
-- [revanced/revanced-manager](https://github.com/revanced/revanced-manager) - 💊 Android application to use ReVanced
+- [revanced/revanced-manager](https://github.com/revanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [agersant/polaris-android](https://github.com/agersant/polaris-android) - Android client for Polaris
 - [jmshrv/finamp](https://github.com/jmshrv/finamp) - A Jellyfin music client for mobile
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
@@ -846,6 +846,7 @@
 
 ## Go 
 
+- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [antonmedv/llama](https://github.com/antonmedv/llama) - Terminal file manager
 - [aziis98/go-patbu](https://github.com/aziis98/go-patbu) - A Go library and CLI to manipulate paths
 - [mholt/caddy-webdav](https://github.com/mholt/caddy-webdav) - WebDAV handler module for Caddy
@@ -1266,6 +1267,7 @@
 
 ## Jupyter Notebook 
 
+- [lukefleed/small-worlds](https://github.com/lukefleed/small-worlds) - Spatial Networks and small words: an experimental study on real-world datasets
 - [greenelab/scihub](https://github.com/greenelab/scihub) - Source code and data analyses for the Sci-Hub Coverage Study
 - [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFI
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
@@ -1401,6 +1403,7 @@
 
 ## Makefile 
 
+- [budRich/pkg-listn](https://github.com/budRich/pkg-listn) - manage linux packages with textfiles
 - [abkro/android_device_lge_h815](https://github.com/abkro/android_device_lge_h815) - LG G4 (International)
 - [osresearch/heads](https://github.com/osresearch/heads) - A minimal Linux that runs as a coreboot or LinuxBoot ROM payload to provide a secure, flexible boot environment for laptops and servers.
 - [morrolinux/ChimeraDesk](https://github.com/morrolinux/ChimeraDesk) - Simple, fast and flexible DIY Remote Desktop software
@@ -1645,7 +1648,7 @@
 
 ## Python 
 
-- [jaymody/picoGPT](https://github.com/jaymody/picoGPT) - An unnecessarily tiny and minimal implementation of GPT-2 in NumPy.
+- [jaymody/picoGPT](https://github.com/jaymody/picoGPT) - An unnecessarily tiny implementation of GPT-2 in NumPy.
 - [pdfernhout/PlantStudio](https://github.com/pdfernhout/PlantStudio) - The PlantStudio Botanical Illustration Software is a tool for creating 3D plant models (including through breeding them in an evolutionary way).
 - [TruncatedDinosour/arigram](https://github.com/TruncatedDinosour/arigram) - A fork of tg -- a hackable telegram TUI client
 - [mxmlnkn/ratarmount](https://github.com/mxmlnkn/ratarmount) - Random Access Tar Mount
