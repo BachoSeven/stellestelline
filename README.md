@@ -1500,7 +1500,7 @@
 - [iridium-browser/iridium-browser](https://github.com/iridium-browser/iridium-browser) - Iridium Browser source code
 - [thepogsupreme/apo](https://github.com/thepogsupreme/apo) - Serene and grand wallpapers for the Mountain theme.
 - [unixwmbr/unixwmbr](https://github.com/unixwmbr/unixwmbr) - :computer: Official unixwmbr community repository.
-- [owl4ce/hikari-x86_64](https://github.com/owl4ce/hikari-x86_64) - :bridge_at_night: Personal Linux kernel configuration (based on Xanmod patchset)
+- [owl4ce/hikari-x86_64](https://github.com/owl4ce/hikari-x86_64) - Personal Linux kernel configuration (based on Xanmod patchset)
 - [shubham-cpp/void-pkg-templates](https://github.com/shubham-cpp/void-pkg-templates) - Custom templates for several packages that could be installed using xbps-src
 - [stickus/Anne-Pro-2-Color-Profiles](https://github.com/stickus/Anne-Pro-2-Color-Profiles) - A repo of color profiles for the Anne Pro 2 programmable 60% RGB keyboard
 - [lfit/itpol](https://github.com/lfit/itpol) - Useful IT policies
@@ -2225,7 +2225,7 @@
 - [fusionneur/ethernally](https://github.com/fusionneur/ethernally) - Your scrcpy companion for Android wireless screen mirroring
 - [romkatv/zsh-bench](https://github.com/romkatv/zsh-bench) - Benchmark for interactive Zsh
 - [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature-rich syntax highlighting for ZSH
-- [owl4ce/linucc224](https://github.com/owl4ce/linucc224) - :syringe: Easily patch your own Linux simplefb
+- [owl4ce/linucc224](https://github.com/owl4ce/linucc224) - Easily patch your own Linux simplefb
 - [BachoSeven/dotfiles](https://github.com/BachoSeven/dotfiles) - rice repo
 - [cb-linux/breath](https://github.com/cb-linux/breath) - Linux for Chromebooks (continuation/revival by Apacelus on https://eupnea-linux.github.io/)
 - [CyberShadow/aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
