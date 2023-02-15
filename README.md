@@ -857,7 +857,7 @@
 - [blampe/goat](https://github.com/blampe/goat) - Render ASCII art as SVG diagrams
 - [raitonoberu/lyricsapi](https://github.com/raitonoberu/lyricsapi) - Go package and server app for retrieving time-stamped lyrics from Spotify.
 - [gorilla/feeds](https://github.com/gorilla/feeds) - golang rss/atom generator library
-- [Tnze/go-mc](https://github.com/Tnze/go-mc) - Go libraries of everything in Minecraft
+- [Tnze/go-mc](https://github.com/Tnze/go-mc) - Collection of Go libraries for Minecraft
 - [aziis98/textml](https://github.com/aziis98/textml) - My personal textual markup language. Mostly a more structured alternative to Markdown
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage
