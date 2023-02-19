@@ -2386,7 +2386,6 @@
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 - [PandaFoss/baph](https://github.com/PandaFoss/baph) - baph - Basic AUR Package Helper
 - [archlinuxcn/repo](https://github.com/archlinuxcn/repo) - Arch Linux CN Repository
-- [neeshy/lfyt](https://github.com/neeshy/lfyt) - lf + youtube-dl
 - [chimay/scripts](https://github.com/chimay/scripts) - Useful scripts
 - [Aztek1337/Elecom_trackball_huge_button_map](https://github.com/Aztek1337/Elecom_trackball_huge_button_map) - A BASH script to help quickly map the Elecom TrackBall Huge
 - [Rasukarusan/shellnium](https://github.com/Rasukarusan/shellnium) - :dizzy: Selenium Webdriver for Bash (or Zsh).
