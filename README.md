@@ -846,6 +846,7 @@
 
 ## Go 
 
+- [aziis98/template-go-vitejs](https://github.com/aziis98/template-go-vitejs) - My personal template for building web server using Go and ViteJS
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [antonmedv/llama](https://github.com/antonmedv/llama) - Terminal file manager
 - [aziis98/go-patbu](https://github.com/aziis98/go-patbu) - A Go library and CLI to manipulate paths
@@ -2556,6 +2557,7 @@
 
 ## TeX 
 
+- [le-pap/Topologia-Algebrica-A](https://github.com/le-pap/Topologia-Algebrica-A) - Appunti del Corso
 - [diego-unipi/Algebra-1](https://github.com/diego-unipi/Algebra-1) - Appunti del corso di Algebra 1 2022-23
 - [gjgress/LibreMath](https://github.com/gjgress/LibreMath) - A project dedicated to making open-source learning resources for mathematics accessible
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
