@@ -884,7 +884,7 @@
 - [blrsn/zentile](https://github.com/blrsn/zentile) - Automatic Tiling for EWMH Compliant Window Managers
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
-- [makeworld-the-better-one/amfora](https://github.com/makeworld-the-better-one/amfora) - A fancy terminal browser for the Gemini protocol.
+- [makew0rld/amfora](https://github.com/makew0rld/amfora) - A fancy terminal browser for the Gemini protocol.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [evan-buss/openbooks](https://github.com/evan-buss/openbooks) - Search and Download eBooks
 - [yuin/goldmark-meta](https://github.com/yuin/goldmark-meta) - A YAML metadata extension for the goldmark markdown parser.
