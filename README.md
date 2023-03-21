@@ -150,6 +150,7 @@
 - [FT-Labs/pdwm](https://github.com/FT-Labs/pdwm) - full animation supported, easy configurable (uses shared library) dwm fork with a control center (pdwmc)
 - [bakkeby/dwm-commented](https://github.com/bakkeby/dwm-commented) - A fork of dwm with comments explaining in detail how the window manager works
 - [vacaboja/tg](https://github.com/vacaboja/tg) - A program for timing mechanical watches
+- [mini-rose/rose](https://github.com/mini-rose/rose) - Minimalist browser based on webkit2.
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
 - [CommanderRag/xbox-controller-emulator-linux](https://github.com/CommanderRag/xbox-controller-emulator-linux) - 
 - [flintlib/antic](https://github.com/flintlib/antic) - Algebraic Number Theory In C
@@ -1103,7 +1104,6 @@
 - [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
 - [Jelmerro/Vieb](https://github.com/Jelmerro/Vieb) - Vim Inspired Electron Browser - Vim bindings for the web by design
 - [aziis98/ext-open-pdf](https://github.com/aziis98/ext-open-pdf) - Chrome extension for openning a pdf in Evince
-- [mini-rose/rose](https://github.com/mini-rose/rose) - Minimalist browser based on webkit2.
 - [cinnyapp/cinny-desktop](https://github.com/cinnyapp/cinny-desktop) - Yet another matrix client for desktop
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK e-book reader
