@@ -1220,7 +1220,6 @@
 - [sadparadiseinhell/null](https://github.com/sadparadiseinhell/null) - Another one simple startpage.
 - [mafintosh/peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client for node.js
 - [ItzBlitz98/torrentflix](https://github.com/ItzBlitz98/torrentflix) - Nodejs cli app to search torrent sites and stream using peerflix
-- [vector-im/hydrogen-web](https://github.com/vector-im/hydrogen-web) - Lightweight matrix client with legacy and mobile browser support
 - [alanrey6/startpage-az](https://github.com/alanrey6/startpage-az) - Basic start page inspired by stpg.tk
 - [goranmoomin/mathematica-key-generator](https://github.com/goranmoomin/mathematica-key-generator) - Key generator for Wolfram Mathematica 12.0
 - [mitsuhiko/idasen-control](https://github.com/mitsuhiko/idasen-control) - Lets you control IKEA IDÅSEN desks from the command line.
@@ -2044,7 +2043,7 @@
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [flukejones/asusctl](https://github.com/flukejones/asusctl) - Daemon and tools to control your ASUS ROG laptop. Supersedes rog-core.
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
-- [arzg/vim-strand](https://github.com/arzg/vim-strand) - A barebones Vim plugin manger written in Rust
+- [lunacookies/vim-strand](https://github.com/lunacookies/vim-strand) - A barebones Vim plugin manger written in Rust
 - [DanilaMihailov/vim-tips-wiki](https://github.com/DanilaMihailov/vim-tips-wiki) - 1500+ tips downloaded from Vim Tips Wiki, parsed and formatted to look and work like native Vim help files
 - [samvel1024/kbct](https://github.com/samvel1024/kbct) - Keyboard keycode mapping utility for Linux supporting layered configuration
 - [KarsMulder/evsieve](https://github.com/KarsMulder/evsieve) - A utility for mapping events from Linux event devices.
@@ -2622,6 +2621,7 @@
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [deltachat/deltachat-desktop](https://github.com/deltachat/deltachat-desktop) - Email-based instant messaging for Desktop.
 - [oxen-io/session-desktop](https://github.com/oxen-io/session-desktop) - Session Desktop - Onion routing based messenger
+- [vector-im/hydrogen-web](https://github.com/vector-im/hydrogen-web) - Lightweight matrix client with legacy and mobile browser support
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [esjeon/krohnkite](https://github.com/esjeon/krohnkite) - A dynamic tiling extension for KWin
