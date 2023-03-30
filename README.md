@@ -773,7 +773,7 @@
 - [thuanowa/vimium_dark_theme](https://github.com/thuanowa/vimium_dark_theme) - My custom CSS for vimium (dark theme)
 - [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
 - [CharlieEtienne/material-github](https://github.com/CharlieEtienne/material-github) - A Material Dark Theme for GitHub
-- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: 𝐀esthetic 𝐎penbox𝐖𝐌 𝐄nvironment
+- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
 - [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/spicetify-cli
 
 ## CoffeeScript 
@@ -1398,7 +1398,6 @@
 - [lukefleed/lab-didattico](https://github.com/lukefleed/lab-didattico) - Esercizi svolti di Laboratorio Didattico di Matematica Computazionale [2020/2021]
 - [elvilio/Laboratorio-Didattico-di-Matematica-Computazionale](https://github.com/elvilio/Laboratorio-Didattico-di-Matematica-Computazionale) - 
 - [isantosruiz/inequalityplot](https://github.com/isantosruiz/inequalityplot) - Plot inequalities in 2-D space
-- [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 
 ## Macaulay2 
 
@@ -2631,6 +2630,7 @@
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
 - [Xmader/musescore-downloader](https://github.com/Xmader/musescore-downloader) - ⚠️ This repo has moved to https://github.com/LibreScore/dl-librescore ⚠️ | Download sheet music (MSCZ, PDF, MusicXML, MIDI, MP3, download individual parts as PDF) from musescore.com for free, no login
 - [remigallego/winampify](https://github.com/remigallego/winampify) - ⚡ A Spotify web client with an OS-looking interface and a reimplementation of the classic audio player Winamp.
+- [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk) - Matrix SDK for React Javascript
 - [snobu/destreamer](https://github.com/snobu/destreamer) - Save Microsoft Stream videos for offline enjoyment.
 - [Guray00/destreamer-unipi](https://github.com/Guray00/destreamer-unipi) - Save Microsoft Stream videos for offline enjoyment. This is an UNIPI fork.
