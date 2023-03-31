@@ -1131,7 +1131,7 @@
 - [lesspass/lesspass](https://github.com/lesspass/lesspass) - :key: stateless open source password manager
 - [Jelmerro/Garlmap](https://github.com/Jelmerro/Garlmap) - Garlmap is the Gapless Almighty Rule-based Logical Mpv Audio Player
 - [DistroBoard/DistroBoard](https://github.com/DistroBoard/DistroBoard) - A modern and opensource alternative to distrowatch.
-- [fosscord/fosscord](https://github.com/fosscord/fosscord) - 📬 Fosscord is a free open source selfhostable discord compatible communication platform
+- [spacebarchat/spacebarchat](https://github.com/spacebarchat/spacebarchat) - 📬 Spacebar is a free open source selfhostable discord compatible communication platform
 - [Novik/ruTorrent](https://github.com/Novik/ruTorrent) - Yet another web front-end for rTorrent
 - [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file uploader and awesome bunker written in node! 🚀
 - [karabaja4/mimejs](https://github.com/karabaja4/mimejs) - A replacement for xdg-open written in Node.js
@@ -1976,7 +1976,7 @@
 - [crunchy-labs/crunchy-cli](https://github.com/crunchy-labs/crunchy-cli) - 👇 A pure Rust written Crunchyroll cli client and downloader
 - [SeaDve/Mousai](https://github.com/SeaDve/Mousai) - Identify songs in seconds
 - [rapiz1/catp](https://github.com/rapiz1/catp) - Print the output of a running process
-- [nitnelave/lldap](https://github.com/nitnelave/lldap) - Light LDAP implementation
+- [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
 - [jfecher/ante](https://github.com/jfecher/ante) - A safe, easy systems language
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
 - [pop-os/pop](https://github.com/pop-os/pop) - A project for managing all Pop!_OS sources
@@ -2250,7 +2250,7 @@
 - [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - My desktop configuration files.
 - [JLErvin/dotfiles](https://github.com/JLErvin/dotfiles) - Configuration files for arch linux and macOS
 - [BachoSeven/mimi](https://github.com/BachoSeven/mimi) - a better xdg-open - an active fork
-- [kusky3/consoom](https://github.com/kusky3/consoom) - blazing fast plebbit consooming
+- [mariorossi77/consoom](https://github.com/mariorossi77/consoom) - blazing fast plebbit consooming
 - [axyl-os/axyl-iso](https://github.com/axyl-os/axyl-iso) - Axyl is a Linux distro centered on tiling window managers. Choose from i3, bspwm, dwm and more.
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [MunifTanjim/zed](https://github.com/MunifTanjim/zed) - ZSH Plugin Manager
@@ -2273,7 +2273,7 @@
 - [DAINRA/ungoogled-chromium-void](https://github.com/DAINRA/ungoogled-chromium-void) - Ungoogled Chromium template and builds for Void Linux
 - [fsquillace/junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs, without root privileges, on top of any other Linux distro.
 - [justinyaodu/iscanimage](https://github.com/justinyaodu/iscanimage) - User-friendly command line program for operating scanner devices in Linux.
-- [kusky3/natype](https://github.com/kusky3/natype) - NATO phonetic alphabet cli test
+- [mariorossi77/natype](https://github.com/mariorossi77/natype) - NATO phonetic alphabet cli test
 - [ptr1337/linux-cacule](https://github.com/ptr1337/linux-cacule) - Archlinux Kernel based on the Cacule Scheduler and with many improvements.
 - [KF-Art/ungoogled-chromium-void](https://github.com/KF-Art/ungoogled-chromium-void) - Void Linux repository for Ungoogled Chromium fork.
 - [steadfasterX/SALT](https://github.com/steadfasterX/SALT) - SALT - [S]teadfasterX [A]ll-in-one [L]G [T]ool ( https://bit.do/SALTatXDA )
@@ -2420,7 +2420,7 @@
 - [windwp/rofi-color-picker](https://github.com/windwp/rofi-color-picker) - 
 - [Barbaross93/Nebula](https://github.com/Barbaross93/Nebula) - Desktop setup
 - [sdushantha/tmpsms](https://github.com/sdushantha/tmpsms) - A temporary SMS utility right from your terminal written in POSIX sh
-- [kusky3/bookmenu](https://github.com/kusky3/bookmenu) - Browse and download ebooks from your terminal.
+- [mariorossi77/bookmenu](https://github.com/mariorossi77/bookmenu) - Browse and download ebooks from your terminal.
 - [pbrisbin/dotfiles](https://github.com/pbrisbin/dotfiles) - My main configuration files
 - [mlvzk/discocss](https://github.com/mlvzk/discocss) - A tiny Discord css-injector for Linux and MacOS.
 - [lemnos/theme.sh](https://github.com/lemnos/theme.sh) - A script which lets you set your $terminal theme.
@@ -2600,7 +2600,7 @@
 - [jeffvli/sonixd](https://github.com/jeffvli/sonixd) - A full-featured Subsonic/Jellyfin compatible desktop music player
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [PrettyCoffee/startpage](https://github.com/PrettyCoffee/startpage) - A React library which provides tools that help creating browser startpages in react.
-- [fosscord/fosscord-client](https://github.com/fosscord/fosscord-client) - Open source, themeable and extendable discord-compatible native fosscord client
+- [spacebarchat/client](https://github.com/spacebarchat/client) - Open source, themeable and extendable discord-compatible native Spacebar client
 - [xbrowsersync/api](https://github.com/xbrowsersync/api) - Server-side REST API that serves requests from xBrowserSync client apps
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
 - [imLinguin/jelly-desktop](https://github.com/imLinguin/jelly-desktop) - Simple community made desktop client for Jellyfin
