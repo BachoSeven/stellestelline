@@ -1457,6 +1457,7 @@
 
 ## Others 
 
+- [noctuid/evil-guide](https://github.com/noctuid/evil-guide) - Draft of a guide for using emacs with evil
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 - [Xaiter/Binding-of-Isaac](https://github.com/Xaiter/Binding-of-Isaac) - Decompiled with Flare.  Absolutely no copyrighted assets or material will be posted here.  We're just trying to figure out how the game works.
 - [macbian-admin/macos-subsystem-for-linux](https://github.com/macbian-admin/macos-subsystem-for-linux) - Guide on how to use Qemu to create a similar effect to Windows Subsystem for Linux on macOS. Unfinished; contributions are welcome!
