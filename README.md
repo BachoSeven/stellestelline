@@ -821,6 +821,7 @@
 
 ## Emacs Lisp 
 
+- [osnr/dotfiles](https://github.com/osnr/dotfiles) - :clipboard: dotfiles.
 - [susam/emfy](https://github.com/susam/emfy) - A dark and sleek Emacs setup for general purpose editing and programming
 - [Olivia5k/dotfiles](https://github.com/Olivia5k/dotfiles) - Heavy emacs customizations with a purple finish
 - [jnykopp/emaccordion](https://github.com/jnykopp/emaccordion) - Control Emacs with MIDI
@@ -988,6 +989,7 @@
 
 ## HTML 
 
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [rbrignall/numble](https://github.com/rbrignall/numble) - Wordle with maths-themed words
 - [abuseofnotation/category-theory-illustrated](https://github.com/abuseofnotation/category-theory-illustrated) - A book about category theory
 - [agrothendieck/agrothendieck.github.io](https://github.com/agrothendieck/agrothendieck.github.io) - THÈMES POUR UNE HARMONIE
@@ -1344,7 +1346,7 @@
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [notomo/gesture.nvim](https://github.com/notomo/gesture.nvim) - Mouse gesture plugin for neovim
 - [wooosh/dots](https://github.com/wooosh/dots) - 
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [GoldsteinE/compe-latex-symbols](https://github.com/GoldsteinE/compe-latex-symbols) - Autocomplete LaTeX symbol into your text via nvim-compe
 - [hrsh7th/nvim-compe](https://github.com/hrsh7th/nvim-compe) - Auto completion Lua plugin for nvim
 - [folke/zen-mode.nvim](https://github.com/folke/zen-mode.nvim) - 🧘  Distraction-free coding for Neovim
