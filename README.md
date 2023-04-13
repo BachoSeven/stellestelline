@@ -1391,7 +1391,7 @@
 - [ellisonleao/glow.nvim](https://github.com/ellisonleao/glow.nvim) - A markdown preview directly in your neovim.
 - [ChrisTitusTech/TitusPi](https://github.com/ChrisTitusTech/TitusPi) - Custom CTT Pi based linux distro
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
-- [JavaCafe01/awesome](https://github.com/JavaCafe01/awesome) - My AwesomeWM configuration files
+- [JavaCafe01/awesome](https://github.com/JavaCafe01/awesome) - configuration files for AwesomeWM
 - [WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
 - [manilarome/the-glorious-dotfiles](https://github.com/manilarome/the-glorious-dotfiles) - A glorified personal dot files
 - [jgreco/mpv-youtube-quality](https://github.com/jgreco/mpv-youtube-quality) - A userscript for MPV that allows you to change youtube video quality (ytdl-format) on the fly
