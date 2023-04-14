@@ -934,7 +934,7 @@
 - [jan25/termracer](https://github.com/jan25/termracer) - Practise your typing skills from within your terminal
 - [irevenko/koneko](https://github.com/irevenko/koneko) - 🐈🌐 nyaa.si terminal BitTorrent tracker
 - [mautrix/whatsapp](https://github.com/mautrix/whatsapp) - A Matrix-WhatsApp puppeting bridge
-- [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌺 The flower shell. A comfy and nice little shell for Lua fans!
+- [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌓 The Moon-powered shell! A comfy and extensible shell for Lua fans! 🌺 ✨
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [notsatan/auto-sub](https://github.com/notsatan/auto-sub) - A simple command-line application to process multiple media file at once, attaching subtitles, chapters, tags, attachments, etc. to the media files.
 - [enjuus/sps](https://github.com/enjuus/sps) - spotify cli for the official client via dbus
@@ -1554,7 +1554,6 @@
 - [qcasey/chromium-patches](https://github.com/qcasey/chromium-patches) - Patches to customize chromium, including GTK dark mode and an extension-less startpage
 - [0x29aNull/DarkVoid](https://github.com/0x29aNull/DarkVoid) - 
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
-- [officialcactar/dwm-singularborders](https://github.com/officialcactar/dwm-singularborders) - 
 - [tkkcc/libinput_patch](https://github.com/tkkcc/libinput_patch) - libinput scroll patch, discrete deltaY multiplier
 - [brickbots/aball](https://github.com/brickbots/aball) - A Ball - Buttonless trackball for all
 - [domsson/fetch-all-the-things](https://github.com/domsson/fetch-all-the-things) - A list of *nix fetch utilities
