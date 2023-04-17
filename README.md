@@ -2083,7 +2083,7 @@
 - [nelsonjchen/speedtest-rs](https://github.com/nelsonjchen/speedtest-rs) - speedtest-cli in Rust.
 - [xlmnxp/blue-recorder](https://github.com/xlmnxp/blue-recorder) - Simple Screen Recorder written in Rust based on Green Recorder
 - [RustemB/oxiide](https://github.com/RustemB/oxiide) - Lib for WM creation with Elm-like arch
-- [melix99/telegrand](https://github.com/melix99/telegrand) - A Telegram client for GNOME
+- [melix99/telegrand](https://github.com/melix99/telegrand) - Chat over Telegram on a modern and elegant client
 - [neXromancers/hacksaw](https://github.com/neXromancers/hacksaw) - hacksaw (Select Operation)
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [pop-os/keyboard-configurator](https://github.com/pop-os/keyboard-configurator) - Keyboard configuration UI
@@ -2745,7 +2745,6 @@
 - [junegunn/goyo.vim](https://github.com/junegunn/goyo.vim) - :tulip: Distraction-free writing in Vim
 - [junegunn/limelight.vim](https://github.com/junegunn/limelight.vim) - :flashlight: All the world's indeed a stage and we are merely players
 - [GideonWolfe/vim.reaper](https://github.com/GideonWolfe/vim.reaper) - 💀 A Hackable, Fully Featured, Rice Friendly Neovim Configuration
-- [alexherbo2/kakoune.vim](https://github.com/alexherbo2/kakoune.vim) - Kakoune integration for Vim and Neovim
 - [atidyshirt/MacOS-Dotfiles](https://github.com/atidyshirt/MacOS-Dotfiles) - 
 - [jamessan/vim-gnupg](https://github.com/jamessan/vim-gnupg) - This script implements transparent editing of gpg encrypted files.
 - [ptzz/lf.vim](https://github.com/ptzz/lf.vim) - Lf integration in vim and neovim
