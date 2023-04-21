@@ -2548,7 +2548,7 @@
 
 ## Svelte 
 
-- [jc141x/rum](https://github.com/jc141x/rum) - 
+- [jc141x/rum](https://github.com/jc141x/rum) - Due to a change in focus to our RSS feed, the ultimate goal of this project is made pointless and development was dead eitherway.
 - [1ntEgr8/arss](https://github.com/1ntEgr8/arss) - An rss reader
 
 ## Swift 
