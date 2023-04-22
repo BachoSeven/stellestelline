@@ -902,7 +902,7 @@
 - [tulir/mauview](https://github.com/tulir/mauview) - A Go TUI library based on tcell.
 - [liamg/darktile](https://github.com/liamg/darktile) - :waning_crescent_moon: Darktile is a GPU rendered terminal emulator designed for tiling window managers.
 - [rkoesters/xkcd-gtk](https://github.com/rkoesters/xkcd-gtk) - Comic Sticks (xkcd-gtk) is a simple xkcd comic viewer written in Go using GTK+3
-- [knipferrc/fm](https://github.com/knipferrc/fm) - A terminal based file manager
+- [mistakenelf/fm](https://github.com/mistakenelf/fm) - A terminal based file manager
 - [demostanis/gimmeasearx](https://github.com/demostanis/gimmeasearx) - Find a random searx instance
 - [athdesk/cacheman](https://github.com/athdesk/cacheman) - Tiny pacman caching server
 - [ipfs-search/ipfs-search](https://github.com/ipfs-search/ipfs-search) - Search engine for the Interplanetary Filesystem.
