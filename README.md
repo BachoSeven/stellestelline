@@ -966,7 +966,7 @@
 - [tryffel/jellycli](https://github.com/tryffel/jellycli) - Jellyfin terminal client
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [tulir/gomuks](https://github.com/tulir/gomuks) - A terminal based Matrix client written in Go.
-- [Stargarth/Goblocks](https://github.com/Stargarth/Goblocks) - Status bar for dwm
+- [Ldaxar/Goblocks](https://github.com/Ldaxar/Goblocks) - Status bar for dwm
 - [Rican7/define](https://github.com/Rican7/define) - A command-line dictionary (thesaurus) app, with access to multiple sources, written in Go.
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [bastengao/gncdu](https://github.com/bastengao/gncdu) - Implements NCurses Disk Usage(ncdu) with golang
