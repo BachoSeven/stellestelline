@@ -626,6 +626,7 @@
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
 - [MayaPosch/NymphCast](https://github.com/MayaPosch/NymphCast) - Audio and video casting system with support for custom applications.
 - [sonic-visualiser/sonic-visualiser](https://github.com/sonic-visualiser/sonic-visualiser) - Visualisation, analysis, and annotation of music audio recordings
+- [MTG/essentia](https://github.com/MTG/essentia) - C++ library for audio and music analysis, description and synthesis, including Python bindings
 - [gerbera/gerbera](https://github.com/gerbera/gerbera) - UPnP Media Server for 2023: Stream your digital media through your home network and consume it on all kinds of UPnP supporting devices 📱💻📺
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [raboof/nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool
@@ -1270,7 +1271,6 @@
 - [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFI
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
 - [fexed/Notes](https://github.com/fexed/Notes) - LaTeX notes from various courses (mainly from UniPi)
-- [MTG/essentia](https://github.com/MTG/essentia) - C++ library for audio and music analysis, description and synthesis, including Python bindings
 - [morrolinux/simple-ehm](https://github.com/morrolinux/simple-ehm) - A simple tool for a simple task: remove filler sounds ("ehm") from pre-recorded speeches. AI powered.
 
 ## KakouneScript 
