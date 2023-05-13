@@ -155,7 +155,7 @@
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
 - [CommanderRag/xbox-controller-emulator-linux](https://github.com/CommanderRag/xbox-controller-emulator-linux) - 
 - [flintlib/antic](https://github.com/flintlib/antic) - Algebraic Number Theory In C
-- [cdown/zcfan](https://github.com/cdown/zcfan) - A zero-configuration fan daemon for ThinkPads
+- [cdown/zcfan](https://github.com/cdown/zcfan) - A zero-configuration fan daemon for ThinkPads.
 - [jbensmann/xmouseless](https://github.com/jbensmann/xmouseless) - A fast and simple way to control the mouse.
 - [foutrelis/chromium-launcher](https://github.com/foutrelis/chromium-launcher) - Chromium launcher with support for custom user flags
 - [berdav/CVE-2021-4034](https://github.com/berdav/CVE-2021-4034) - CVE-2021-4034 1day
@@ -1440,6 +1440,7 @@
 
 - [PedroHLC/system-setup](https://github.com/PedroHLC/system-setup) - Recipe for creating my NixOS machines. (ZFS and Sway)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
+- [donovanglover/dotfiles](https://github.com/donovanglover/dotfiles) - My dotfiles for vim, fish, bspwm, and more. Includes full support for HiDPI.
 
 ## OCaml 
 
@@ -2512,7 +2513,6 @@
 - [htr3n/zsh-config](https://github.com/htr3n/zsh-config) - Faster and enjoyable ZSH (maybe) !!!
 - [rgomezcasas/dotfiles](https://github.com/rgomezcasas/dotfiles) - :penguin: Simple, fast, productivity-increaser dotfiles
 - [budlabs/typiskt](https://github.com/budlabs/typiskt) - touchtyping training in the terminal
-- [donovanglover/dotfiles](https://github.com/donovanglover/dotfiles) - My dotfiles for vim, fish, bspwm, and more. Includes full support for HiDPI.
 - [kaihendry/dotfiles](https://github.com/kaihendry/dotfiles) - Home directory with an absurd amount of tweaks
 - [ech1/torbridge](https://github.com/ech1/torbridge) - 
 - [b3nj5m1n/dotfiles](https://github.com/b3nj5m1n/dotfiles) - 
