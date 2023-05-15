@@ -1269,7 +1269,6 @@
 
 - [greenelab/scihub](https://github.com/greenelab/scihub) - Source code and data analyses for the Sci-Hub Coverage Study
 - [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFI
-- [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
 - [fexed/Notes](https://github.com/fexed/Notes) - LaTeX notes from various courses (mainly from UniPi)
 - [morrolinux/simple-ehm](https://github.com/morrolinux/simple-ehm) - A simple tool for a simple task: remove filler sounds ("ehm") from pre-recorded speeches. AI powered.
 
@@ -1711,6 +1710,7 @@
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
 - [aitjcize/cppman](https://github.com/aitjcize/cppman) - C++ 98/11/14 manual pages for Linux/MacOS
 - [JCGdev/Newpipe-CSV-Fixer](https://github.com/JCGdev/Newpipe-CSV-Fixer) - Convert your subscriptions csv file into a valid json for Newpipe!
+- [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
 - [Fran314/SmashDataCollectorPython](https://github.com/Fran314/SmashDataCollectorPython) - A script to automatically collect stats from Super Smash Bros. Ultimate competitive and casual matches
 - [cjnaz/xbsjsonedit](https://github.com/cjnaz/xbsjsonedit) - A basic editor for xBrowserSync json backup files
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
@@ -2062,7 +2062,7 @@
 - [osa1/tiny](https://github.com/osa1/tiny) - A terminal IRC client
 - [Polochon-street/bliss-rs](https://github.com/Polochon-street/bliss-rs) - A song analysis library for making playlists
 - [Polochon-street/blissify-rs](https://github.com/Polochon-street/blissify-rs) - bliss bindings for MPD.
-- [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3
+- [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
 - [ZeroX-DG/moon](https://github.com/ZeroX-DG/moon) - :earth_americas: :moon: A hobby web browser developed from scratch
 - [KSXGitHub/parallel-disk-usage](https://github.com/KSXGitHub/parallel-disk-usage) - Highly parallelized, blazing fast directory tree analyzer
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
@@ -2085,7 +2085,7 @@
 - [nelsonjchen/speedtest-rs](https://github.com/nelsonjchen/speedtest-rs) - speedtest-cli in Rust.
 - [xlmnxp/blue-recorder](https://github.com/xlmnxp/blue-recorder) - Simple Screen Recorder written in Rust based on Green Recorder
 - [RustemB/oxiide](https://github.com/RustemB/oxiide) - Lib for WM creation with Elm-like arch
-- [marhkb/telegrand](https://github.com/marhkb/telegrand) - Chat over Telegram on a modern and elegant client
+- [paper-plane-developers/paper-plane](https://github.com/paper-plane-developers/paper-plane) - Chat over Telegram on a modern and elegant client
 - [neXromancers/hacksaw](https://github.com/neXromancers/hacksaw) - hacksaw (Select Operation)
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [pop-os/keyboard-configurator](https://github.com/pop-os/keyboard-configurator) - Keyboard configuration UI
