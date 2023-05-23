@@ -376,7 +376,6 @@
 - [kohler/xwrits](https://github.com/kohler/xwrits) - Wrist break reminders for X windows
 - [deadpixi/mtm](https://github.com/deadpixi/mtm) - Perhaps the smallest useful terminal multiplexer in the world.
 - [siduck/st](https://github.com/siduck/st) - snazzy terminal (suckless + beautiful)
-- [officialcactar/colors](https://github.com/officialcactar/colors) - 
 - [corellium/linux-m1](https://github.com/corellium/linux-m1) - Linux kernel source tree
 - [prikhi/lightdm-mini-greeter](https://github.com/prikhi/lightdm-mini-greeter) - A Minimal, Configurable, Single-User GTK3 LightDM Greeter
 - [szatanjl/dwm](https://github.com/szatanjl/dwm) - Window manager
@@ -884,7 +883,7 @@
 - [diamondburned/gotktrix](https://github.com/diamondburned/gotktrix) - Matrix client in Go and GTK4
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / subsonic server API implementation
-- [raitonoberu/sptlrx](https://github.com/raitonoberu/sptlrx) - Timesynced lyrics in your terminal
+- [raitonoberu/sptlrx](https://github.com/raitonoberu/sptlrx) - Synchronized lyrics in your terminal
 - [blrsn/zentile](https://github.com/blrsn/zentile) - Automatic Tiling for EWMH Compliant Window Managers
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
