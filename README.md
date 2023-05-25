@@ -329,7 +329,6 @@
 - [cdown/clipnotify](https://github.com/cdown/clipnotify) - Notify on new X clipboard events
 - [sigmike/autocutsel](https://github.com/sigmike/autocutsel) - automated xcutsel
 - [phillbush/xmenu](https://github.com/phillbush/xmenu) - a x11 menu utility
-- [MandelbrotOS/MandelbrotOS](https://github.com/MandelbrotOS/MandelbrotOS) - A community driven OS by the youth
 - [rickyrockrat/parcellite](https://github.com/rickyrockrat/parcellite) - 
 - [CristianHenzel/ClipIt](https://github.com/CristianHenzel/ClipIt) - ClipIt clipboard manager for GTK+
 - [SpencerApel/sxvv](https://github.com/SpencerApel/sxvv) - Simple X Video Viewer or sxvv is a simple thumbnail viewer of videos given from standard input and once selected, plays in your favorite video player
