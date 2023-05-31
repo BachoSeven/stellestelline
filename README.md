@@ -1434,7 +1434,7 @@
 ## Nix 
 
 - [PedroHLC/system-setup](https://github.com/PedroHLC/system-setup) - Recipe for creating my NixOS machines. (ZFS and Sway)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [donovanglover/dotfiles](https://github.com/donovanglover/dotfiles) - My dotfiles for vim, fish, bspwm, and more. Includes full support for HiDPI.
 
 ## OCaml 
