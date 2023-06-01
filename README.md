@@ -1337,6 +1337,7 @@
 - [jbyuki/instant.nvim](https://github.com/jbyuki/instant.nvim) - collaborative editing in Neovim using built-in capabilities
 - [undefinedDarkness/rice](https://github.com/undefinedDarkness/rice) - Home Sweet Home
 - [mountain-theme/Mountain](https://github.com/mountain-theme/Mountain) - Neutral. Calm.
+- [vovw/dotfiles](https://github.com/vovw/dotfiles) - :ramen:
 - [prdanelli/dotfiles](https://github.com/prdanelli/dotfiles) - 
 - [NNBnh/dotfiles](https://github.com/NNBnh/dotfiles) - 📂 My personal Đotfiles
 - [sayanarijit/material-landscape2.xplr](https://github.com/sayanarijit/material-landscape2.xplr) - xplr theme - Material Landscape 2
@@ -1379,7 +1380,7 @@
 - [savq/paq-nvim](https://github.com/savq/paq-nvim) - 🌚  Neovim package manager
 - [b3nj5m1n/kommentary](https://github.com/b3nj5m1n/kommentary) - Neovim commenting plugin, written in lua.
 - [nvimdev/dashboard-nvim](https://github.com/nvimdev/dashboard-nvim) - vim dashboard
-- [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview) - 📜📶 A Neovim plugin that displays interactive vertical scrollbars.
+- [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview) - 📜📶 A Neovim plugin that displays interactive vertical scrollbars and signs.
 - [karosamu/dotfiles](https://github.com/karosamu/dotfiles) - My dotfiles repo
 - [wis/mpvSockets](https://github.com/wis/mpvSockets) - creates one IPC socket per mpv instance
 - [letoram/durden](https://github.com/letoram/durden) - Desktop Environment for Arcan
@@ -2186,7 +2187,7 @@
 - [phocus/gtk](https://github.com/phocus/gtk) - From scratch, clean and opinionated GTK3 implementation of the phocus color scheme.
 - [elkowar/gtk](https://github.com/elkowar/gtk) - 
 - [pop-os/gtk-theme](https://github.com/pop-os/gtk-theme) - System76 Pop GTK+ Theme
-- [okarin001/Onepunch](https://github.com/okarin001/Onepunch) - for spicetify-theme
+- [TheFermi0n/Onepunch](https://github.com/TheFermi0n/Onepunch) - for spicetify-theme
 - [KraXen72/rosebox](https://github.com/KraXen72/rosebox) - a dark, eye-friendly color scheme similar to gruvbox
 - [b-01/startpage](https://github.com/b-01/startpage) - Simple HTML Startpage that displays the time, date, a searchbar and customizable (plus hideable) cards.
 - [jmattheis/gruvbox-dark-gtk](https://github.com/jmattheis/gruvbox-dark-gtk) - A colorless gruvbox dark theme for GTK 2.0 and 3.0.
@@ -2214,6 +2215,7 @@
 
 ## Shell 
 
+- [dougy147/scitopdf](https://github.com/dougy147/scitopdf) - bash script to quickly fetch, download and open scientific papers from Sci-Hub's database.
 - [livialima/linuxupskillchallenge](https://github.com/livialima/linuxupskillchallenge) - Learn the skills required to sysadmin a remote Linux server from the commandline.
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
 - [Unipisa/dm-cups](https://github.com/Unipisa/dm-cups) - Backend CUPS con accounting integrato
@@ -2554,6 +2556,7 @@
 
 ## TeX 
 
+- [anishathalye/gemini](https://github.com/anishathalye/gemini) - Gemini is a modern LaTex beamerposter theme 🖼
 - [le-pap/Notes-on-Category-Theory](https://github.com/le-pap/Notes-on-Category-Theory) - Self study notes about abelian categories and their derived categories.
 - [le-pap/Topologia-Algebrica-A](https://github.com/le-pap/Topologia-Algebrica-A) - Appunti del Corso
 - [diego-unipi/Algebra-1](https://github.com/diego-unipi/Algebra-1) - Appunti del corso di Algebra 1 2022-23
@@ -2589,6 +2592,7 @@
 
 ## TypeScript 
 
+- [LibreScore/dl-librescore](https://github.com/LibreScore/dl-librescore) - Download sheet music
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [michimani/chrome-tab-ex](https://github.com/michimani/chrome-tab-ex) - This is a Chrome extension that sorts and groups tabs.
@@ -2676,7 +2680,6 @@
 - [wellle/context.vim](https://github.com/wellle/context.vim) - Vim plugin that shows the context of the currently visible buffer contents
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [FredKSchott/CoVim](https://github.com/FredKSchott/CoVim) - Collaborative Editing for Vim
-- [vovw/dotfiles](https://github.com/vovw/dotfiles) - :ramen:
 - [TeoDev1611/plugpac.vim](https://github.com/TeoDev1611/plugpac.vim) - Thin wrapper of minpac, provides vim-plug-like experience
 - [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter) - Vim plugin for intensely nerdy commenting powers
 - [mtwb47/dwmricer](https://github.com/mtwb47/dwmricer) - DWM Auto Install and Ricing Script
