@@ -1543,7 +1543,7 @@
 - [dylanaraps/clutter-home](https://github.com/dylanaraps/clutter-home) - clutter your home directory!
 - [woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) - :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
 - [firasuke/awesome](https://github.com/firasuke/awesome) - A curated list of awesome projects
-- [glaucuslinux/glaucus](https://github.com/glaucuslinux/glaucus) - An independent Linux® distribution designed from scratch for optimum performance
+- [glaucuslinux/glaucus](https://github.com/glaucuslinux/glaucus) - A simple and lightweight Linux® distribution based on musl libc and toybox
 - [dbostian/fbomb](https://github.com/dbostian/fbomb) - 
 - [z3ntu/archhurd_packages_binary](https://github.com/z3ntu/archhurd_packages_binary) - Packages for Arch Hurd (binaries)
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
