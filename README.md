@@ -225,7 +225,7 @@
 - [tux4kids/tuxtype](https://github.com/tux4kids/tuxtype) - 
 - [DebianJoe/nullWM](https://github.com/DebianJoe/nullWM) - attempt at minimal window manager
 - [rizinorg/rizin](https://github.com/rizinorg/rizin) - UNIX-like reverse engineering framework and command-line toolset.
-- [ashish-yadav11/st](https://github.com/ashish-yadav11/st) - My fork of st with proper scrolling support, text reflow and a few other additions.
+- [ashish-yadav11/st](https://github.com/ashish-yadav11/st) - My fork of the suckless terminal with proper scrolling support, text reflow and a few other additions.
 - [Nooo37/pinsel](https://github.com/Nooo37/pinsel) - Minimal screenshot annotation tool with lua config
 - [OpenBoardView/OpenBoardView](https://github.com/OpenBoardView/OpenBoardView) - View .brd files
 - [OpenPrinting/cups](https://github.com/OpenPrinting/cups) - OpenPrinting CUPS Sources
@@ -802,6 +802,7 @@
 - [revanced/revanced-manager](https://github.com/revanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [agersant/polaris-android](https://github.com/agersant/polaris-android) - Android client for Polaris
 - [jmshrv/finamp](https://github.com/jmshrv/finamp) - A Jellyfin music client for mobile
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
 - [xournalpp/xournalpp_mobile](https://github.com/xournalpp/xournalpp_mobile) - Infinitely take notes, sketch and learn. Xournal++ Mobile is a port of Xournal++ files and features to various mobile platofrms and the web. Mirror of the Xournal++ Mobile repository on GitLab.
 - [dahliaOS/pangolin_desktop](https://github.com/dahliaOS/pangolin_desktop) - Pangolin Desktop UI shell, designed for dahliaOS, written in Flutter.
@@ -1297,6 +1298,7 @@
 
 ## Lean 
 
+- [leanprover-community/mathlib4](https://github.com/leanprover-community/mathlib4) - Work in progress mathlib port for lean 4
 - [ramonfmir/lean-scheme](https://github.com/ramonfmir/lean-scheme) - Schemes in Lean (v2)
 - [leanprover-community/mathlib](https://github.com/leanprover-community/mathlib) - Lean mathematical components library
 - [ImperialCollegeLondon/formalising-mathematics-2022](https://github.com/ImperialCollegeLondon/formalising-mathematics-2022) - Lean material for Kevin Buzzard's Jan-Mar 2022 course on formalising mathematics.
@@ -1654,6 +1656,7 @@
 
 ## Python 
 
+- [nexus-stc/stc](https://github.com/nexus-stc/stc) - 
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [lukefleed/small-worlds](https://github.com/lukefleed/small-worlds) - Spatial Networks and small words: an experimental study on real-world datasets
 - [jaymody/picoGPT](https://github.com/jaymody/picoGPT) - An unnecessarily tiny implementation of GPT-2 in NumPy.
@@ -1790,7 +1793,7 @@
 - [jamiemcg/Remarkable](https://github.com/jamiemcg/Remarkable) - Remarkable - The Markdown Editor for Linux http://remarkableapp.github.io
 - [jceb/vim-orgmode](https://github.com/jceb/vim-orgmode) - Text outlining and task management for Vim based on Emacs' Org-Mode
 - [muammar/mkchromecast](https://github.com/muammar/mkchromecast) - Cast macOS and Linux Audio/Video to your Google Cast and Sonos Devices
-- [Taiko2k/TauonMusicBox](https://github.com/Taiko2k/TauonMusicBox) - The desktop music player from the future! :city_sunset:
+- [Taiko2k/TauonMusicBox](https://github.com/Taiko2k/TauonMusicBox) - The desktop music player of today! (its the future now) :city_sunrise:
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 - [sdushantha/qr-filetransfer](https://github.com/sdushantha/qr-filetransfer) - Transfer files over WiFi between your computer and your smartphone from the terminal
 - [stuartlangridge/magnus](https://github.com/stuartlangridge/magnus) - A very simple screen magnifier for Ubuntu
@@ -2012,7 +2015,6 @@
 - [TheRawMeatball/meme-cli](https://github.com/TheRawMeatball/meme-cli) - Because the world needed this I decided.
 - [Tarnadas/smmdb-client](https://github.com/Tarnadas/smmdb-client) - 
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
 - [svenstaro/memefs](https://github.com/svenstaro/memefs) - Mount your memes using FUSE
 - [redox-os/orbtk](https://github.com/redox-os/orbtk) - The Rust UI-Toolkit.
