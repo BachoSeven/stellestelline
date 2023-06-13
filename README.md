@@ -1133,7 +1133,6 @@
 - [Jelmerro/Garlmap](https://github.com/Jelmerro/Garlmap) - Garlmap is the Gapless Almighty Rule-based Logical Mpv Audio Player
 - [DistroBoard/DistroBoard](https://github.com/DistroBoard/DistroBoard) - A modern and opensource alternative to distrowatch.
 - [Novik/ruTorrent](https://github.com/Novik/ruTorrent) - Yet another web front-end for rTorrent
-- [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file uploader and awesome bunker written in node! 🚀
 - [karabaja4/mimejs](https://github.com/karabaja4/mimejs) - A replacement for xdg-open written in Node.js
 - [cloudrac3r/cadencegq](https://github.com/cloudrac3r/cadencegq) - This used to be the code for my personal website, but I've since rewritten everything. The old code lives here as a relic of the past.
 - [sonnyp/Tangram](https://github.com/sonnyp/Tangram) - Browser for your pinned tabs
@@ -1312,7 +1311,7 @@
 
 ## Lua 
 
-- [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - Neovim plugin for interacting with OpenAI GPT-3 chatbot, providing an easy interface for exploring GPT-3 and NLP.
+- [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API
 - [Pocco81/auto-save.nvim](https://github.com/Pocco81/auto-save.nvim) - 🧶 Automatically save your changes in NeoVim
 - [seanstertm/Isaac-Regret-Pedestals](https://github.com/seanstertm/Isaac-Regret-Pedestals) - A git repo for my isaac mod
 - [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 30+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
@@ -2549,7 +2548,7 @@
 
 ## Svelte 
 
-- [jc141x/rum](https://github.com/jc141x/rum) - Due to a change in focus to our RSS feed, the ultimate goal of this project is made pointless and development was dead eitherway.
+- [jc141x/rum](https://github.com/jc141x/rum) - Due to a change in focus to our RSS feed, the ultimate goal of this project is made pointless and development was dead either way.
 - [1ntEgr8/arss](https://github.com/1ntEgr8/arss) - An rss reader
 
 ## Swift 
@@ -2769,6 +2768,7 @@
 - [tamland/airsonic-refix](https://github.com/tamland/airsonic-refix) - Modern UI for Airsonic / Subsonic
 - [taurheim/scrobblify](https://github.com/taurheim/scrobblify) - Retroactively scrobble from spotify to last.fm (specifically meant for new accounts)
 - [shroudedcode/refined-prime-video](https://github.com/shroudedcode/refined-prime-video) - 🍿 ​ A browser extension that adds small tweaks and useful new features to Amazon Prime Video
+- [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file uploader and awesome bunker written in node! 🚀
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [CzBiX/qb-web](https://github.com/CzBiX/qb-web) - A qBittorrent Web UI, write in TypeScript+Vue.
 - [m0ngr31/jellyamp](https://github.com/m0ngr31/jellyamp) - Desktop client for listening to music from a Jellyfin server
