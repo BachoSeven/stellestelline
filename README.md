@@ -1660,6 +1660,7 @@
 - [lukefleed/small-worlds](https://github.com/lukefleed/small-worlds) - Spatial Networks and small words: an experimental study on real-world datasets
 - [jaymody/picoGPT](https://github.com/jaymody/picoGPT) - An unnecessarily tiny implementation of GPT-2 in NumPy.
 - [pdfernhout/PlantStudio](https://github.com/pdfernhout/PlantStudio) - The PlantStudio Botanical Illustration Software is a tool for creating 3D plant models (including through breeding them in an evolutionary way).
+- [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
 - [TruncatedDinosour/arigram](https://github.com/TruncatedDinosour/arigram) - A fork of tg -- a hackable telegram TUI client
 - [mxmlnkn/ratarmount](https://github.com/mxmlnkn/ratarmount) - Random Access Tar Mount
 - [ahrm/sioyek-python-extensions](https://github.com/ahrm/sioyek-python-extensions) - Python wrapper and simple addons for sioyek PDF viewer
@@ -2218,7 +2219,6 @@
 
 - [dougy147/scitopdf](https://github.com/dougy147/scitopdf) - bash script to quickly fetch, download and open scientific papers from Sci-Hub's database.
 - [livialima/linuxupskillchallenge](https://github.com/livialima/linuxupskillchallenge) - Learn the skills required to sysadmin a remote Linux server from the commandline.
-- [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
 - [Unipisa/dm-cups](https://github.com/Unipisa/dm-cups) - Backend CUPS con accounting integrato
 - [K4zoku/nowm](https://github.com/K4zoku/nowm) - 🚫 Managing window without a window manager. (59 slocs)
 - [aziis98/bash-vcs](https://github.com/aziis98/bash-vcs) - An extremely simple version control system written in bash
