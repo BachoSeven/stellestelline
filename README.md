@@ -249,7 +249,7 @@
 - [yatli/sumatrapdf](https://github.com/yatli/sumatrapdf) - SumatraPDF reader
 - [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 - [mocaccinoOS/mocaccino-micro](https://github.com/mocaccinoOS/mocaccino-micro) - :tophat: Mocaccino micro flavor. Micro LFS musl-based distro for embedded applications
-- [BannedPatriot/rtl8822bu](https://github.com/BannedPatriot/rtl8822bu) - 
+- [dv-anomaly/rtl8822bu](https://github.com/dv-anomaly/rtl8822bu) - 
 - [phillbush/xfiles](https://github.com/phillbush/xfiles) - Configurable and simple file manager for X11
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [jgmenu/jgmenu](https://github.com/jgmenu/jgmenu) - An X11 menu
@@ -1354,7 +1354,6 @@
 - [folke/zen-mode.nvim](https://github.com/folke/zen-mode.nvim) - 🧘  Distraction-free coding for Neovim
 - [Ansuel/tch-nginx-gui](https://github.com/Ansuel/tch-nginx-gui) - Modified file to apply to a stock technicolor GUI
 - [Pocco81/true-zen.nvim](https://github.com/Pocco81/true-zen.nvim) - 🦝 Clean and elegant distraction-free writing for NeoVim
-- [nikh-str/dotfiles](https://github.com/nikh-str/dotfiles) - dots
 - [elianiva/dotfiles](https://github.com/elianiva/dotfiles) - .
 - [zlj-zz/nvim](https://github.com/zlj-zz/nvim) - This is my neovim, good vim configuration.
 - [marcothms/dots](https://github.com/marcothms/dots) - my main configuration files
@@ -1437,7 +1436,7 @@
 
 - [PedroHLC/system-setup](https://github.com/PedroHLC/system-setup) - Recipe for creating my NixOS machines. (ZFS and Sway)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
-- [donovanglover/dotfiles](https://github.com/donovanglover/dotfiles) - My dotfiles for vim, fish, bspwm, and more. Includes full support for HiDPI.
+- [donovanglover/nix-config](https://github.com/donovanglover/nix-config) - My NixOS configuration with Nix Flakes, Home Manager, Stylix, and Hyprland.
 
 ## OCaml 
 
@@ -2316,7 +2315,7 @@
 - [a-schaefers/i3-wm-gruvbox-theme](https://github.com/a-schaefers/i3-wm-gruvbox-theme) - An i3-wm gruvbox theme implementation
 - [tremby/imgur.sh](https://github.com/tremby/imgur.sh) - Bart's Imgur uploader bash script
 - [zlatinb/muwire-pkg](https://github.com/zlatinb/muwire-pkg) - MuWire Packaging Project
-- [terminalforlife/Extra](https://github.com/terminalforlife/Extra) - Projects written in Bourne Shell and BASH.
+- [terminalforlife/ShellProjects](https://github.com/terminalforlife/ShellProjects) - Projects written in Bourne Shell and BASH.
 - [linux-surface/linux-surface](https://github.com/linux-surface/linux-surface) - Linux Kernel for Surface Devices
 - [tamago324/compe-zsh](https://github.com/tamago324/compe-zsh) - zsh completion source for nvim-compe
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
