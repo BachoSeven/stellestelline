@@ -588,7 +588,6 @@
 - [hank/dsf2flac](https://github.com/hank/dsf2flac) - Code for converting DSF to FLAC files
 - [Sound-Linux-More/sacd](https://github.com/Sound-Linux-More/sacd) - Converts SACD image files, Philips DSDIFF and Sony DSF files to 24-bit high resolution wave files. Handles both DST and DSD streams. https://launchpad.net/sacd
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
-- [linuxenko/chkservice](https://github.com/linuxenko/chkservice) - Systemd units manager with ncurses, terminal interface
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [kernc/logkeys](https://github.com/kernc/logkeys) - :memo: :keyboard: A GNU/Linux keylogger that works!
 - [Martchus/tageditor](https://github.com/Martchus/tageditor) - A tag editor with Qt GUI and command-line interface supporting MP4/M4A/AAC (iTunes), ID3, Vorbis, Opus, FLAC and Matroska
@@ -2315,7 +2314,7 @@
 - [a-schaefers/i3-wm-gruvbox-theme](https://github.com/a-schaefers/i3-wm-gruvbox-theme) - An i3-wm gruvbox theme implementation
 - [tremby/imgur.sh](https://github.com/tremby/imgur.sh) - Bart's Imgur uploader bash script
 - [zlatinb/muwire-pkg](https://github.com/zlatinb/muwire-pkg) - MuWire Packaging Project
-- [terminalforlife/ShellProjects](https://github.com/terminalforlife/ShellProjects) - Projects written in Bourne Shell and BASH.
+- [terminalforlife/ShellProjects](https://github.com/terminalforlife/ShellProjects) - Projects written in POSIX shell and BASH.
 - [linux-surface/linux-surface](https://github.com/linux-surface/linux-surface) - Linux Kernel for Surface Devices
 - [tamago324/compe-zsh](https://github.com/tamago324/compe-zsh) - zsh completion source for nvim-compe
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
@@ -2389,7 +2388,7 @@
 - [e-zk/shlog](https://github.com/e-zk/shlog) - a static blog generator in /bin/sh: rewrite pending
 - [rayes0/scripts](https://github.com/rayes0/scripts) - collection of misc small programs
 - [yochananmarqos/pkgbuilds](https://github.com/yochananmarqos/pkgbuilds) - Personal PKGBUILDs
-- [Zayac-The-Engineer/lazywal-cli](https://github.com/Zayac-The-Engineer/lazywal-cli) - Animated wallpaper script around xwinwrap
+- [FabricatorZayac/lazywal-cli](https://github.com/FabricatorZayac/lazywal-cli) - Animated wallpaper script around xwinwrap
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 - [PandaFoss/baph](https://github.com/PandaFoss/baph) - baph - Basic AUR Package Helper
 - [archlinuxcn/repo](https://github.com/archlinuxcn/repo) - Arch Linux CN Repository
