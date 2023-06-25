@@ -388,7 +388,7 @@
 - [bakkeby/dwm-flexipatch](https://github.com/bakkeby/dwm-flexipatch) - A dwm build with preprocessor directives to decide which patches to include during build time
 - [sfauzia/dwm](https://github.com/sfauzia/dwm) - Configuration of the suckless window manager, dwm
 - [jordansissel/xdotool](https://github.com/jordansissel/xdotool) - fake keyboard/mouse input, window management, and more
-- [xlucn/xdg-xmenu](https://github.com/xlucn/xdg-xmenu) - Generate menu for xmenu
+- [xlucn/xdg-xmenu](https://github.com/xlucn/xdg-xmenu) - Minimal app menu with xmenu
 - [save196/dwm](https://github.com/save196/dwm) - Save's custom build of dwm
 - [freundTech/bar](https://github.com/freundTech/bar) - bar ain't recursive - A lightweight xcb based bar. This is a fork that supports fontconfig
 - [daringer/asus-fan](https://github.com/daringer/asus-fan) - Kernel module to get/set (both) fan speed(s) on ASUS Zenbooks
