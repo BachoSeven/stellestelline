@@ -1974,6 +1974,7 @@
 
 ## Rust 
 
+- [Fran314/bbup-rs](https://github.com/Fran314/bbup-rs) - 
 - [queer/boxxy](https://github.com/queer/boxxy) - boxxy puts bad Linux applications in a box with only their files.
 - [kpcyrd/spotify-launcher](https://github.com/kpcyrd/spotify-launcher) - Client for spotify's apt repository in Rust for Arch Linux
 - [jaspwr/LiA](https://github.com/jaspwr/LiA) - A transpiled superset of TeX for writing LaTeX.
@@ -2029,7 +2030,7 @@
 - [Arnavion/matrix-client-rs](https://github.com/Arnavion/matrix-client-rs) - TUI Matrix client in Rust.
 - [sioodmy/todo](https://github.com/sioodmy/todo) - Simple todo cli program written in rust
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
-- [jenra-uwu/uwutalk](https://github.com/jenra-uwu/uwutalk) - Matrix client.
+- [aura-aurora/uwutalk](https://github.com/aura-aurora/uwutalk) - Matrix client.
 - [AusCyberman/dotfile-sync](https://github.com/AusCyberman/dotfile-sync) - Syncing dotfiles or other symlinks easily
 - [Smithay/wayland-rs](https://github.com/Smithay/wayland-rs) - Rust implementation of the wayland protocol (client and server).
 - [Canop/lfs](https://github.com/Canop/lfs) - A linux utility to get information on filesystems, like df but better
