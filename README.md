@@ -120,6 +120,7 @@
 
 ## AutoHotkey 
 
+- [fenwar/ahk-caps-ctrl-esc](https://github.com/fenwar/ahk-caps-ctrl-esc) - Autohotkey script that maps Capslock to Esc *and* Ctrl
 - [fuhsjr00/bug.n](https://github.com/fuhsjr00/bug.n) - Tiling Window Manager for Windows
 
 ## AutoIt 
@@ -2609,6 +2610,7 @@
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [PrettyCoffee/startpage](https://github.com/PrettyCoffee/startpage) - A React library which provides tools that help creating browser startpages in react.
 - [spacebarchat/client](https://github.com/spacebarchat/client) - Open source, themeable and extendable discord-compatible native Spacebar client
+- [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file uploader and awesome bunker written in node! 🚀
 - [xbrowsersync/api](https://github.com/xbrowsersync/api) - Server-side REST API that serves requests from xBrowserSync client apps
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
 - [imLinguin/jelly-desktop](https://github.com/imLinguin/jelly-desktop) - Simple community made desktop client for Jellyfin
@@ -2767,7 +2769,6 @@
 - [tamland/airsonic-refix](https://github.com/tamland/airsonic-refix) - Modern UI for Airsonic / Subsonic
 - [taurheim/scrobblify](https://github.com/taurheim/scrobblify) - Retroactively scrobble from spotify to last.fm (specifically meant for new accounts)
 - [shroudedcode/refined-prime-video](https://github.com/shroudedcode/refined-prime-video) - 🍿 ​ A browser extension that adds small tweaks and useful new features to Amazon Prime Video
-- [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file uploader and awesome bunker written in node! 🚀
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [CzBiX/qb-web](https://github.com/CzBiX/qb-web) - A qBittorrent Web UI, write in TypeScript+Vue.
 - [m0ngr31/jellyamp](https://github.com/m0ngr31/jellyamp) - Desktop client for listening to music from a Jellyfin server
