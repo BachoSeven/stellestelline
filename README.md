@@ -706,6 +706,7 @@
 
 ## CSS 
 
+- [nimaipatel/dotfiles](https://github.com/nimaipatel/dotfiles) - Λ dotfiles for (Arch) GNU/Linux
 - [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna) - A minimal opinionated theme for Hugo
 - [thosgood/fga](https://github.com/thosgood/fga) - An English translation of Grothendieck's Fondements de la Géometrie Algébrique
 - [thosgood/sga](https://github.com/thosgood/sga) - An English translation of the Séminaire de Géométrie Algébrique du Bois Marie
@@ -2219,6 +2220,7 @@
 
 ## Shell 
 
+- [rifazn/dark-toggle](https://github.com/rifazn/dark-toggle) - A small POSIX compliant shell script that toggles between the dark and light variants of a GTK theme.
 - [dougy147/scitopdf](https://github.com/dougy147/scitopdf) - bash script to quickly fetch, download and open scientific papers from Sci-Hub's database.
 - [livialima/linuxupskillchallenge](https://github.com/livialima/linuxupskillchallenge) - Learn the skills required to sysadmin a remote Linux server from the commandline.
 - [Unipisa/dm-cups](https://github.com/Unipisa/dm-cups) - Backend CUPS con accounting integrato
