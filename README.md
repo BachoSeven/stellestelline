@@ -2523,7 +2523,7 @@
 - [DanielFGray/fzf-scripts](https://github.com/DanielFGray/fzf-scripts) - a collection of scripts that rely on https://github.com/junegunn/fzf
 - [deepjyoti30/dots](https://github.com/deepjyoti30/dots) - My dotfiles
 - [ispanos/anergos](https://github.com/ispanos/anergos) - Bootstarp script for my workstation, with a turnkey Archlinux install.
-- [xero/dotfiles](https://github.com/xero/dotfiles) - ▒ rice ░░  custom linux config files
+- [xero/dotfiles](https://github.com/xero/dotfiles) - rice 🍚 custom linux config files. as seen on r/unixporn #noricenolife neovim cultist. perpetual wip
 - [geokai/arch_config](https://github.com/geokai/arch_config) - Archlinux configuration setup based on Larbs
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 - [kiedtl/fetchutils](https://github.com/kiedtl/fetchutils) - A collection of small shell utilities to fetch system information
