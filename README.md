@@ -2036,7 +2036,7 @@
 - [aura-aurora/uwutalk](https://github.com/aura-aurora/uwutalk) - Matrix client.
 - [AusCyberman/dotfile-sync](https://github.com/AusCyberman/dotfile-sync) - Syncing dotfiles or other symlinks easily
 - [Smithay/wayland-rs](https://github.com/Smithay/wayland-rs) - Rust implementation of the wayland protocol (client and server).
-- [Canop/lfs](https://github.com/Canop/lfs) - A linux utility to get information on filesystems, like df but better
+- [Canop/dysk](https://github.com/Canop/dysk) - A linux utility to get information on filesystems, like df but better
 - [nrc/r4cppp](https://github.com/nrc/r4cppp) - Rust for C++ programmers
 - [pop-os/tiler](https://github.com/pop-os/tiler) - Generic tiling window manager library in Rust
 - [kpcyrd/pacman-bintrans](https://github.com/kpcyrd/pacman-bintrans) - Experimental binary transparency for pacman with sigstore and rekor
