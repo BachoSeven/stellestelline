@@ -1097,7 +1097,6 @@
 
 - [Unipisa/dm-manager](https://github.com/Unipisa/dm-manager) - gestione informazioni amministrative di dipartimento
 - [aziis98/dashboard-2](https://github.com/aziis98/dashboard-2) - New dashboard to replace my browser blank page
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [lelylan/simple-oauth2](https://github.com/lelylan/simple-oauth2) - A simple Node.js client library for Oauth2
 - [gillescastel/instant-reference](https://github.com/gillescastel/instant-reference) - Instant Pdf Referencing
 - [ahrm/chrome-absolver](https://github.com/ahrm/chrome-absolver) - Absolving web pages from the sins of the wretched web developers.
@@ -2597,6 +2596,7 @@
 ## TypeScript 
 
 - [LibreScore/dl-librescore](https://github.com/LibreScore/dl-librescore) - Download sheet music
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [michimani/chrome-tab-ex](https://github.com/michimani/chrome-tab-ex) - This is a Chrome extension that sorts and groups tabs.
 - [aziis98/art-phc-landing-page](https://github.com/aziis98/art-phc-landing-page) - This is the second version of the _wire art_ for the landing page of the new PHC website.
