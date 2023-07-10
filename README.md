@@ -502,7 +502,7 @@
 - [carlini/printf-tac-toe](https://github.com/carlini/printf-tac-toe) - tic-tac-toe in a single call to printf
 - [gammu/gammu](https://github.com/gammu/gammu) - Gammu All Mobile Management Utilities
 - [himdel/hsetroot](https://github.com/himdel/hsetroot) - yet another wallpaper application
-- [ujjwal96/xwinwrap](https://github.com/ujjwal96/xwinwrap) - My fork of xwinwrap. Xwinwrap allows you to stick most of the apps to your desktop background.
+- [r00tdaemon/xwinwrap](https://github.com/r00tdaemon/xwinwrap) - My fork of xwinwrap. Xwinwrap allows you to stick most of the apps to your desktop background.
 - [lfos/calcurse](https://github.com/lfos/calcurse) - A text-based calendar and scheduling application
 - [mitchweaver/suckless](https://github.com/mitchweaver/suckless) - 🇸 Collection of http://suckless.org tools I use and my modifications for them.
 - [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
@@ -546,6 +546,7 @@
 
 ## C++ 
 
+- [jstkdng/ueberzugpp](https://github.com/jstkdng/ueberzugpp) - Drop in replacement for ueberzug written in C++
 - [shaunharker/CHomP](https://github.com/shaunharker/CHomP) - CHomP -- Computation Homology Project software
 - [IMAGINARY/surfer-alggeo-gtk](https://github.com/IMAGINARY/surfer-alggeo-gtk) - Sources of SURFER 2008, which is written in C++ and GTK 2
 - [Singular/Singular](https://github.com/Singular/Singular) - sources for the Singular computer algebra system
@@ -1085,7 +1086,7 @@
 - [dkanada/gelli](https://github.com/dkanada/gelli) - Native Music Player for Jellyfin
 - [UniversalMediaServer/UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer) - A DLNA, UPnP and HTTP(S) Media Server.
 - [openboard-team/openboard](https://github.com/openboard-team/openboard) - 
-- [javacafe01/PdfViewer](https://github.com/javacafe01/PdfViewer) - A simple Pdf document viewer 💼 [DISCONTINUED]
+- [javacafe01/PdfViewer](https://github.com/javacafe01/PdfViewer) - A simple Pdf document viewer 💼
 - [yeokm1/docs-to-pdf-converter](https://github.com/yeokm1/docs-to-pdf-converter) - A standalone Java library/command line tool that converts DOC, DOCX, PPT, PPTX and ODT documents to PDF files.
 - [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. Its based on the source code of Pixel Dung
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
