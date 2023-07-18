@@ -1570,6 +1570,7 @@
 - [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
 - [hbtlabs/chromium-white-flash-fix](https://github.com/hbtlabs/chromium-white-flash-fix) - [deprecated (issue fixed)] chromium google-chrome white flash bug fix
 - [astsu777/wallpapers](https://github.com/astsu777/wallpapers) - My wallpapers
+- [chaotic-aur/packages](https://github.com/chaotic-aur/packages) - The packages Mason, what do they mean? (Package requests and bug reports here) 📑
 - [rsaihe/gruvbox-material-kitty](https://github.com/rsaihe/gruvbox-material-kitty) - A port of @sainnhe's Gruvbox Material theme for Kitty.
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 - [pagopa/io](https://github.com/pagopa/io) - Repository principale di IO: offre una mappa di informazioni e risorse per orientarsi nel progetto
@@ -2437,7 +2438,6 @@
 - [mlvzk/discocss](https://github.com/mlvzk/discocss) - A tiny Discord css-injector for Linux and MacOS.
 - [lemnos/theme.sh](https://github.com/lemnos/theme.sh) - A script which lets you set your $terminal theme.
 - [odilonscoelho/dots](https://github.com/odilonscoelho/dots) - Meus scripts
-- [chaotic-aur/packages](https://github.com/chaotic-aur/packages) - The packages Mason, what do they mean? (Package requests and bug reports here) 📑
 - [uriel1998/vindauga](https://github.com/uriel1998/vindauga) - Download and display album art or display embedded (or folder-based) album art using a bash script; a largely rewritten fork of kunst
 - [bobafetthotmail/refind-theme-regular](https://github.com/bobafetthotmail/refind-theme-regular) - 
 - [NNBnh/bfetch](https://github.com/NNBnh/bfetch) - 📠 Dynamic fetch displayer that SuperB
@@ -2596,6 +2596,7 @@
 
 ## TypeScript 
 
+- [benlikescode/geohub](https://github.com/benlikescode/geohub) - I created my own version of the geography guessing game Geoguessr
 - [LibreScore/dl-librescore](https://github.com/LibreScore/dl-librescore) - Download sheet music
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
