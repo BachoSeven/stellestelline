@@ -848,6 +848,7 @@
 
 ## Go 
 
+- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [zyedidia/knit](https://github.com/zyedidia/knit) - A simple and flexible build tool using Lua, similar to make/mk.
 - [aziis98/template-go-vitejs](https://github.com/aziis98/template-go-vitejs) - My personal template for building web server using Go and ViteJS
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
@@ -1635,7 +1636,7 @@
 
 - [duncs/clusterssh](https://github.com/duncs/clusterssh) - Cluster SSH - Cluster Admin Via SSH
 - [liske/needrestart](https://github.com/liske/needrestart) - Restart daemons after library updates.
-- [ddclient/ddclient](https://github.com/ddclient/ddclient) - This is the new home for ddclient. Ddclient is a Perl client used to update dynamic DNS entries for accounts on 'Dynamic DNS Network Services' free DNS service. It currently supports a lot of differen
+- [ddclient/ddclient](https://github.com/ddclient/ddclient) - Ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.
 - [winterheart/broadcom-bt-firmware](https://github.com/winterheart/broadcom-bt-firmware) - Repository for various Broadcom Bluetooth firmware
 - [hamishcoleman/thinkpad-ec](https://github.com/hamishcoleman/thinkpad-ec) - Infrastructure for examining and patching Thinkpad embedded controller firmware
 - [sandsmark/asciiquarium](https://github.com/sandsmark/asciiquarium) - Enjoy the mysteries of the sea from the safety of your own terminal!
