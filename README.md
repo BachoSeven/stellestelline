@@ -1666,7 +1666,7 @@
 - [pdfernhout/PlantStudio](https://github.com/pdfernhout/PlantStudio) - The PlantStudio Botanical Illustration Software is a tool for creating 3D plant models (including through breeding them in an evolutionary way).
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
 - [TruncatedDinosour/arigram](https://github.com/TruncatedDinosour/arigram) - A fork of tg -- a hackable telegram TUI client
-- [mxmlnkn/ratarmount](https://github.com/mxmlnkn/ratarmount) - Fast FUSE filesystem and library for large TAR, RAR, ZIP, GZ, BZ2, XZ, ZSTD archives
+- [mxmlnkn/ratarmount](https://github.com/mxmlnkn/ratarmount) - Access large archives as a filesystem efficiently, e.g., TAR, RAR, ZIP, GZ, BZ2, XZ, ZSTD archives
 - [ahrm/sioyek-python-extensions](https://github.com/ahrm/sioyek-python-extensions) - Python wrapper and simple addons for sioyek PDF viewer
 - [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 🎁 wraps all package managers with a unifying CLI
 - [deter0/xborder](https://github.com/deter0/xborder) - Active window border replacement for window managers.
