@@ -1659,7 +1659,7 @@
 
 ## Python 
 
-- [nexus-stc/stc](https://github.com/nexus-stc/stc) - 
+- [nexus-stc/stc](https://github.com/nexus-stc/stc) - Distributed free search engine and AI tools that grant access to knowledge
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [lukefleed/small-worlds](https://github.com/lukefleed/small-worlds) - Spatial Networks and small words: an experimental study on real-world datasets
 - [jaymody/picoGPT](https://github.com/jaymody/picoGPT) - An unnecessarily tiny implementation of GPT-2 in NumPy.
