@@ -101,6 +101,7 @@
 ## ActionScript 
 
 - [TerryCavanagh/boscaceoil](https://github.com/TerryCavanagh/boscaceoil) - A simple music making program
+- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [TerryCavanagh/VVVVVV](https://github.com/TerryCavanagh/VVVVVV) - The source code to VVVVVV! http://thelettervsixtim.es/
 
 ## Adblock Filter List 
@@ -139,6 +140,7 @@
 
 ## C 
 
+- [HunterNise/Progetto-Fibonacci](https://github.com/HunterNise/Progetto-Fibonacci) - 
 - [merge/skulls](https://github.com/merge/skulls) - pre-built coreboot images and documentation on how to flash them for Thinkpad Laptops
 - [JohnEarnest/Decker](https://github.com/JohnEarnest/Decker) - A multimedia sketchpad
 - [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
@@ -823,7 +825,7 @@
 ## Emacs Lisp 
 
 - [osnr/dotfiles](https://github.com/osnr/dotfiles) - :clipboard: dotfiles.
-- [susam/emfy](https://github.com/susam/emfy) - A dark and sleek Emacs setup for general purpose editing and programming
+- [susam/emfy](https://github.com/susam/emfy) - Tiny init.el for beginners to quickly set up vanilla Emacs
 - [Olivia5k/dotfiles](https://github.com/Olivia5k/dotfiles) - Heavy emacs customizations with a purple finish
 - [jnykopp/emaccordion](https://github.com/jnykopp/emaccordion) - Control Emacs with MIDI
 - [jasonliang-dev/dotfiles](https://github.com/jasonliang-dev/dotfiles) - ~/.*
@@ -1381,7 +1383,6 @@
 - [nvim-lua/completion-nvim](https://github.com/nvim-lua/completion-nvim) - A async completion framework aims to provide completion to neovim's built in LSP written in Lua
 - [po5/mpv_sponsorblock](https://github.com/po5/mpv_sponsorblock) - mpv script to skip sponsored segments of YouTube videos
 - [drahenprofi/dotfiles](https://github.com/drahenprofi/dotfiles) - Arch Linux dotfiles
-- [tdukv/dotfiles-void](https://github.com/tdukv/dotfiles-void) - my voidlinux setup
 - [xlucn/dotfiles](https://github.com/xlucn/dotfiles) - Linux configuration files (dotfiles) and some useful scripts
 - [savq/paq-nvim](https://github.com/savq/paq-nvim) - 🌚  Neovim package manager
 - [b3nj5m1n/kommentary](https://github.com/b3nj5m1n/kommentary) - Neovim commenting plugin, written in lua.
@@ -2111,7 +2112,6 @@
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [gigitux/youpforwhatsapp](https://github.com/gigitux/youpforwhatsapp) - A simple wrapper written in rust and gtk-rs for whatsapp web
 - [orhun/menyoki](https://github.com/orhun/menyoki) - Screen{shot,cast} and perform ImageOps on the command line 🌱 🏞️
-- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [MustafaSalih1993/tai](https://github.com/MustafaSalih1993/tai) - tai (Terminal Ascii Images) tool to convert images to text written in Rust
 - [jam1garner/nail](https://github.com/jam1garner/nail) - A vim-inspired hex editor written in rust
 - [mathall/rim](https://github.com/mathall/rim) - Aspiring vim-like text editor
@@ -2416,6 +2416,7 @@
 - [Bugswriter/tuxi](https://github.com/Bugswriter/tuxi) - Tuxi is a cli assistant. Get answers of your questions instantly.
 - [cpetrov/deft](https://github.com/cpetrov/deft) - A Linux loadable kernel module for the Elecom DEFT series finger operated trackballs (M-DT1DRBK, M-DT2DRBK, M-DT1URBK, M-DT2URBK)
 - [salman-abedin/amenu](https://github.com/salman-abedin/amenu) - Fuzzy Finder Dynamic GUI Menu
+- [tdukv/dotfiles-void](https://github.com/tdukv/dotfiles-void) - my voidlinux setup
 - [jandamm/zgenom](https://github.com/jandamm/zgenom) - A lightweight and fast plugin manager for ZSH
 - [sdushantha/fontpreview](https://github.com/sdushantha/fontpreview) - Highly customizable and minimal font previewer written in bash
 - [sdushantha/farge](https://github.com/sdushantha/farge) - Click on a pixel on your screen and show its color value
