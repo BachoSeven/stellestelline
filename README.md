@@ -140,7 +140,7 @@
 
 ## C 
 
-- [HunterNise/Progetto-Fibonacci](https://github.com/HunterNise/Progetto-Fibonacci) - 
+- [HunterNise/Progetto-Fibonacci](https://github.com/HunterNise/Progetto-Fibonacci) - a project on the algorithms of the Liber Abaci by Fibonacci
 - [merge/skulls](https://github.com/merge/skulls) - pre-built coreboot images and documentation on how to flash them for Thinkpad Laptops
 - [JohnEarnest/Decker](https://github.com/JohnEarnest/Decker) - A multimedia sketchpad
 - [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
