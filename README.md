@@ -364,7 +364,7 @@
 - [xianyi/OpenBLAS](https://github.com/xianyi/OpenBLAS) - OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.
 - [koreaneggroll/shell](https://github.com/koreaneggroll/shell) - a shell written in C
 - [dfuehrer/dwmblocks](https://github.com/dfuehrer/dwmblocks) - My status bar: my build of the modular dwmblocks
-- [khuedoan/slock](https://github.com/khuedoan/slock) - Suckless simple X display locker fork with transparency effect
+- [khuedoan/slock](https://github.com/khuedoan/slock) - Suckless simple X display locker fork with transparency effect (deprecated, I've switched to Wayland)
 - [aario/slock-blur](https://github.com/aario/slock-blur) - Super fast and highly stable blur version of the simplest screen locker slock
 - [huijunchen9260/tabbed-hjc](https://github.com/huijunchen9260/tabbed-hjc) - A missing tab layout for any windows manager / desktop environment
 - [kevinconway/remouseable](https://github.com/kevinconway/remouseable) - Use a reMarkable tablet as a mouse.
@@ -881,7 +881,7 @@
 - [xyproto/kal](https://github.com/xyproto/kal) - :card_index: Utility with red days and flag flying days + calendar package for Go
 - [xyproto/interfaces](https://github.com/xyproto/interfaces) - :mate: List all network interfaces
 - [xyproto/wallutils](https://github.com/xyproto/wallutils) - :city_sunset: Utilities for handling monitors, resolutions, wallpapers and timed wallpapers
-- [xyproto/orbiton](https://github.com/xyproto/orbiton) - Fast & configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycl
+- [xyproto/orbiton](https://github.com/xyproto/orbiton) - Fast and config-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles wh
 - [mrusme/reader](https://github.com/mrusme/reader) - reader is for your command line what the “readability” view is for modern browsers: A lightweight tool offering better readability of web pages on the CLI.
 - [quantumsheep/sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH
 - [diamondburned/gotktrix](https://github.com/diamondburned/gotktrix) - Matrix client in Go and GTK4
