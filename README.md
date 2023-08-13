@@ -924,7 +924,7 @@
 - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
 - [wildeyedskies/stmp](https://github.com/wildeyedskies/stmp) - subsonic terminal music player
 - [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [yktoo/ymuse](https://github.com/yktoo/ymuse) - GTK client for Music Player Daemon (MPD) written in Go
 - [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS
@@ -1071,7 +1071,7 @@
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
 - [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) - A fork of NewPipe with SponsorBlock functionality.
 - [CatogramX/CatogramX](https://github.com/CatogramX/CatogramX) - Catogram X source code.
-- [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
+- [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 - [kimsultech/tauonremote_android](https://github.com/kimsultech/tauonremote_android) - Tauon Remote  & Stream Android Application, Remote & Stream Tauon Music Box on your Android Phone
 - [redsolver/skydroid](https://github.com/redsolver/skydroid) - A decentralized domain-based App Store for Android.
 - [NekoX-Dev/NekoX](https://github.com/NekoX-Dev/NekoX) - A third-party Telegram android app.
@@ -2103,7 +2103,7 @@
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [jhbabon/scout](https://github.com/jhbabon/scout) - Friendly fuzzy finder made with rust
 - [VixenUtils/Myxer](https://github.com/VixenUtils/Myxer) - A modern Volume Mixer for PulseAudio.
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage your emails.
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [Soft/xcolor](https://github.com/Soft/xcolor) - Lightweight color picker for X11
