@@ -23,6 +23,7 @@
 - [Common Lisp](#common-lisp)
 - [Crystal](#crystal)
 - [D](#d)
+- [DIGITAL Command Language](#digital-command-language)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Emacs Lisp](#emacs-lisp)
@@ -800,6 +801,10 @@
 
 - [yt-dlp/SponSkrub](https://github.com/yt-dlp/SponSkrub) - Strip advertisements from downloaded YouTube videos
 - [seeschloss/soulfind](https://github.com/seeschloss/soulfind) - Soulfind is a Soulseek server, written in D
+
+## DIGITAL Command Language 
+
+- [github/dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent unti
 
 ## Dart 
 
@@ -1588,7 +1593,6 @@
 - [andirueckel/undefined-medium](https://github.com/andirueckel/undefined-medium) - undefined medium — a free and open-source monospace typeface with 400+ characters
 - [UgurcanAkkok/AreWeRustYet](https://github.com/UgurcanAkkok/AreWeRustYet) - Awesome list of "Are We *thing* Yet" for Rust
 - [AndydeCleyre/archbuilder_telegram-desktop-userfonts](https://github.com/AndydeCleyre/archbuilder_telegram-desktop-userfonts) - 
-- [github/dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent unti
 - [helloSystem/hello](https://github.com/helloSystem/hello) - Desktop system for creators with a focus on simplicity, elegance, and usability. Based on FreeBSD. Less, but better!
 - [unixstickers/foss-swag-designs](https://github.com/unixstickers/foss-swag-designs) - Curated list of SWAG designs on unix, linux, programming and open source
 - [narunlifescience/Clementine-Custom-Icon-Sets](https://github.com/narunlifescience/Clementine-Custom-Icon-Sets) - :tangerine: Custom icon sets for Clementine music player
@@ -2513,7 +2517,7 @@
 - [archcraft-os/archcraft](https://github.com/archcraft-os/archcraft) - // Source : ISO
 - [thomas10-10/foo-Wallpaper-Feh-Gif](https://github.com/thomas10-10/foo-Wallpaper-Feh-Gif) - just a loop who set wallpaper for display gif,  support transparency
 - [BrodieRobertson/scripts](https://github.com/BrodieRobertson/scripts) - Messing around with shell scripting because it seems like fun, maybe you'll find something useful
-- [blittle3/pinentry-dmenu](https://github.com/blittle3/pinentry-dmenu) - 🔑 simple dmenu / GnuPG integration
+- [inco-cc/pinentry-dmenu](https://github.com/inco-cc/pinentry-dmenu) - 🔑 simple dmenu / GnuPG integration
 - [cdown/clipmenu](https://github.com/cdown/clipmenu) - Clipboard management using dmenu
 - [juacq97/dotfiles](https://github.com/juacq97/dotfiles) - Un respaldo de mis dotfiles más importantes en mi laptop
 - [softmoth/zsh-vim-mode](https://github.com/softmoth/zsh-vim-mode) - Friendly bindings for ZSH's vi mode
