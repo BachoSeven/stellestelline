@@ -1164,7 +1164,7 @@
 - [murdos/musicbrainz-userscripts](https://github.com/murdos/musicbrainz-userscripts) - Collection of userscripts for MusicBrainz, by various authors
 - [keepassxreboot/keepassxc-browser](https://github.com/keepassxreboot/keepassxc-browser) - KeePassXC Browser Extension
 - [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
-- [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
+- [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
 - [webtorrent/instant.io](https://github.com/webtorrent/instant.io) - 🚀 Streaming file transfer over WebTorrent (torrents on the web)
 - [nadimkobeissi/appleprivacyletter](https://github.com/nadimkobeissi/appleprivacyletter) - An open letter against Apple's new privacy-invasive client-side content scanning.
 - [emps/Lossless-Audio-Checker-GUI](https://github.com/emps/Lossless-Audio-Checker-GUI) - Lossless Audio Checker detects upscaling, upsampling and transcoding in lossless musical tracks.
@@ -1305,7 +1305,7 @@
 - [tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher) - Minimal AF launcher for Android with daily new wallpaper.
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
 - [ubergeek42/weechat-android](https://github.com/ubergeek42/weechat-android) - Simple Weechat-Relay Android Client
-- [lposidon/posidonLauncher](https://github.com/lposidon/posidonLauncher) - a one-page homescreen with a news feed (discontinued)
+- [zaguragit/posidonLauncher](https://github.com/zaguragit/posidonLauncher) - a one-page homescreen with a news feed (discontinued)
 
 ## Lean 
 
