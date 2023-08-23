@@ -722,7 +722,7 @@
 - [ChocolateBread799/startpage](https://github.com/ChocolateBread799/startpage) - https://chocolatebread799.github.io/startpage/
 - [walkxcode/homer-theme](https://github.com/walkxcode/homer-theme) - 🎨 A custom Homer theme!
 - [LambadaCorez/custom_css_jellyfin](https://github.com/LambadaCorez/custom_css_jellyfin) - Plug n' Play CSS templates for Jellyfin!
-- [GilbN/theme.park](https://github.com/GilbN/theme.park) - A collection of themes/skins for 50 selfhosted apps!
+- [ThemeParkTycoon/theme.park](https://github.com/ThemeParkTycoon/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 - [prayag17/Jellyfin-Icons](https://github.com/prayag17/Jellyfin-Icons) - Change Jellyfin default icons to a different style
 - [CTalvio/Ultrachromic](https://github.com/CTalvio/Ultrachromic) - The final form, the true evolution of the chromic theme saga!
 - [CTalvio/Kaleidochromic](https://github.com/CTalvio/Kaleidochromic) - A more colorful custom theme for Jellyfin mediaserver created using CSS overrides
@@ -1289,7 +1289,7 @@
 
 - [OmGodse/Notally](https://github.com/OmGodse/Notally) - A beautiful notes app
 - [iamrasel/lunar-launcher](https://github.com/iamrasel/lunar-launcher) - Feature rich android home with minimal look.
-- [ReVanced/revanced-cli](https://github.com/ReVanced/revanced-cli) - 💻 Command line application as an alternative to the ReVanced Manager
+- [ReVanced/revanced-cli](https://github.com/ReVanced/revanced-cli) - 💻 Command line application to use ReVanced
 - [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
 - [ReVanced/revanced-patcher](https://github.com/ReVanced/revanced-patcher) - 💉 ReVanced Patcher used to patch Android applications
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
@@ -1358,6 +1358,7 @@
 - [sayanarijit/material-landscape.xplr](https://github.com/sayanarijit/material-landscape.xplr) - xple theme - Material Landscape
 - [prncss-xyz/icons.xplr](https://github.com/prncss-xyz/icons.xplr) - icon theme for xplr file manager
 - [sayanarijit/.files](https://github.com/sayanarijit/.files) - Just some files for my personal use
+- [nipunravisara/dots](https://github.com/nipunravisara/dots) - My personalized workstation configurations
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [notomo/gesture.nvim](https://github.com/notomo/gesture.nvim) - Mouse gesture plugin for neovim
 - [wooosh/dots](https://github.com/wooosh/dots) - 
@@ -1425,7 +1426,6 @@
 - [morrolinux/ChimeraDesk](https://github.com/morrolinux/ChimeraDesk) - Simple, fast and flexible DIY Remote Desktop software
 - [feroldi/ricing](https://github.com/feroldi/ricing) - a book about ricing unix-like systems
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [gilbertw1/telegram-gruvbox-theme](https://github.com/gilbertw1/telegram-gruvbox-theme) - Gruvbox theme for Telegram Desktop
 - [nbeaver/why-linux-is-better](https://github.com/nbeaver/why-linux-is-better) - Objective reasons to prefer Linux to Windows.
 - [budlabs/bwp](https://github.com/budlabs/bwp) - CLI wallpaper selector
@@ -1547,6 +1547,7 @@
 - [google/bbr](https://github.com/google/bbr) - 
 - [hexoctal/st-undercurl](https://github.com/hexoctal/st-undercurl) - A patch for ST (Simple Terminal) adding support for curly and colored underlines.
 - [Droogans/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [seebye/ueberzug](https://github.com/seebye/ueberzug) - 
 - [seebye/fmui](https://github.com/seebye/fmui) - 
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
@@ -2200,6 +2201,7 @@
 - [phocus/gtk](https://github.com/phocus/gtk) - From scratch, clean and opinionated GTK3 implementation of the phocus color scheme.
 - [elkowar/gtk](https://github.com/elkowar/gtk) - 
 - [pop-os/gtk-theme](https://github.com/pop-os/gtk-theme) - System76 Pop GTK+ Theme
+- [adi1090x/widgets](https://github.com/adi1090x/widgets) - Few widgets for Eww, Elkowar’s Wacky Widgets.
 - [TheFermi0n/Onepunch](https://github.com/TheFermi0n/Onepunch) - for spicetify-theme
 - [KraXen72/rosebox](https://github.com/KraXen72/rosebox) - a dark, eye-friendly color scheme similar to gruvbox
 - [b-01/startpage](https://github.com/b-01/startpage) - Simple HTML Startpage that displays the time, date, a searchbar and customizable (plus hideable) cards.
@@ -2314,7 +2316,6 @@
 - [graysky2/pulseaudio-ctl](https://github.com/graysky2/pulseaudio-ctl) - Control pulseaudio volume from the shell or mapped to keyboard shortcuts. No need for alsa-utils.
 - [fehawen/bin](https://github.com/fehawen/bin) - Scripts et al.
 - [fehawen/dotfiles](https://github.com/fehawen/dotfiles) - A better $HOME.
-- [nipunravisara/dots](https://github.com/nipunravisara/dots) - My workstation configurations and .dotfiles.
 - [mocaccinoOS/desktop](https://github.com/mocaccinoOS/desktop) - :computer: Mocaccino Desktop specs
 - [loiccoyle/audd-cli](https://github.com/loiccoyle/audd-cli) - 🎵 CLI music recognition using the AudD API
 - [RowanFeely/dotfiles](https://github.com/RowanFeely/dotfiles) - ▒ rice ░░  custom linux config files
@@ -2332,7 +2333,6 @@
 - [tamago324/compe-zsh](https://github.com/tamago324/compe-zsh) - zsh completion source for nvim-compe
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
 - [ChocolateBread799/macintosh](https://github.com/ChocolateBread799/macintosh) - 
-- [adi1090x/widgets](https://github.com/adi1090x/widgets) - Few widgets for Eww, Elkowar’s Wacky Widgets.
 - [pystardust/waldl](https://github.com/pystardust/waldl) - Browse and download wallhaven.cc using sxiv
 - [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
@@ -2510,7 +2510,7 @@
 - [felipesaa/A-vim-like-firefox-like-configuration-for-w3m](https://github.com/felipesaa/A-vim-like-firefox-like-configuration-for-w3m) - A configuration and documentation for w3m
 - [dylanaraps/shfm](https://github.com/dylanaraps/shfm) - file manager written in posix shell
 - [joestandring/dwm-bar](https://github.com/joestandring/dwm-bar) - A modular statusbar for dwm
-- [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A hugh collection (80+) of plymouth themes ported from android bootanimations
+- [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A huge collection (80+) of plymouth themes ported from android bootanimations
 - [comfies/bed](https://github.com/comfies/bed) - bash only text editor
 - [sdushantha/kunst](https://github.com/sdushantha/kunst) - Download and display album art or display embedded album art
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
