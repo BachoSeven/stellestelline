@@ -1358,7 +1358,6 @@
 - [sayanarijit/material-landscape.xplr](https://github.com/sayanarijit/material-landscape.xplr) - xple theme - Material Landscape
 - [prncss-xyz/icons.xplr](https://github.com/prncss-xyz/icons.xplr) - icon theme for xplr file manager
 - [sayanarijit/.files](https://github.com/sayanarijit/.files) - Just some files for my personal use
-- [nipunravisara/dots](https://github.com/nipunravisara/dots) - My personalized workstation configurations
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [notomo/gesture.nvim](https://github.com/notomo/gesture.nvim) - Mouse gesture plugin for neovim
 - [wooosh/dots](https://github.com/wooosh/dots) - 
@@ -1629,6 +1628,7 @@
 
 ## PHP 
 
+- [Unipisa/dm-wordpress](https://github.com/Unipisa/dm-wordpress) - 
 - [OPSnet/Logchecker](https://github.com/OPSnet/Logchecker) - Logchecker for parsing and scoring logs coming from CD ripping programs
 - [pomf/pomf](https://github.com/pomf/pomf) - Pomf is a simple lightweight file host with support for drop, paste, click and API uploading.
 - [spotweb/spotweb](https://github.com/spotweb/spotweb) - Decentralized community
@@ -1726,7 +1726,6 @@
 - [Fran314/SmashDataCollectorPython](https://github.com/Fran314/SmashDataCollectorPython) - A script to automatically collect stats from Super Smash Bros. Ultimate competitive and casual matches
 - [cjnaz/xbsjsonedit](https://github.com/cjnaz/xbsjsonedit) - A basic editor for xBrowserSync json backup files
 - [xsmile/chromexup](https://github.com/xsmile/chromexup) - External extension updater for Chromium based browsers
-- [MissLavender-LQ/LibreQuake](https://github.com/MissLavender-LQ/LibreQuake) - A freesoftware quake one remake with art under the BSD license
 - [ipython/xkcd-font](https://github.com/ipython/xkcd-font) - The xkcd font
 - [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) - Official Zulip terminal client.
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
@@ -2290,6 +2289,7 @@
 - [alonswartz/trackpoint](https://github.com/alonswartz/trackpoint) - How to integrate a trackpoint in a mechanical keyboard
 - [Fmstrat/winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 - [titzer/virgil](https://github.com/titzer/virgil) - A fast and lightweight native programming language
+- [MissLavender-LQ/LibreQuake](https://github.com/MissLavender-LQ/LibreQuake) - A freesoftware quake one remake with art under the BSD license
 - [ungoogled-software/ungoogled-chromium-portablelinux](https://github.com/ungoogled-software/ungoogled-chromium-portablelinux) - Portable Linux packaging for ungoogled-chromium
 - [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
 - [graysky2/profile-sync-daemon](https://github.com/graysky2/profile-sync-daemon) - Symlinks and syncs browser profile dirs to RAM thus reducing HDD/SDD calls and speeding-up browsers.
