@@ -2346,7 +2346,6 @@
 - [ThatOneCalculator/NerdFetch](https://github.com/ThatOneCalculator/NerdFetch) - A POSIX *nix fetch script using Nerdfonts
 - [jitsi-contrib/jitas](https://github.com/jitsi-contrib/jitas) - Jitsi Assistant
 - [Kron4ek/Conty](https://github.com/Kron4ek/Conty) - Easy to use unprivileged Linux container packed into a single portable executable
-- [VoidCupboard/My_Eww_Scripts](https://github.com/VoidCupboard/My_Eww_Scripts) - Eww Scripts To Make Your Desktop Beautiful !
 - [Frogging-Family/linux-tkg](https://github.com/Frogging-Family/linux-tkg) - linux-tkg custom kernels
 - [Jannik2099/gentoo-pinebookpro](https://github.com/Jannik2099/gentoo-pinebookpro) - A collection of scripts to prepare a Gentoo tarball for the pinebook pro
 - [dylanaraps/pash](https://github.com/dylanaraps/pash) - 🔒 A simple password manager using GPG written in POSIX sh.
