@@ -1618,7 +1618,6 @@
 - [DenverCoder1/latex-gboard-dictionary](https://github.com/DenverCoder1/latex-gboard-dictionary) - ⌨ Importable dictionary for typing math symbols more easily on your Android phone by using keyboard shortcuts inspired by LaTeX
 - [mattling9/Keycap-And-Legend-CAD-Models](https://github.com/mattling9/Keycap-And-Legend-CAD-Models) - CAD models for both the keycap and the legend. This removes the need to add the legends in post render.
 - [inaimathi/gtypist-single-space](https://github.com/inaimathi/gtypist-single-space) - GNU Typist lessons with the "two spaces after a sentence" garbage removed. You're welcome.
-- [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [m-sameer/fossdroid](https://github.com/m-sameer/fossdroid) - 
 - [seebye/fzf-ueberzogen](https://github.com/seebye/fzf-ueberzogen) - 
 - [rtlewis88/rtl88-Themes](https://github.com/rtlewis88/rtl88-Themes) - GTK, xfwm4, openbox-3, GNOME-Shell Themes, and Cinnamon themes
@@ -2109,7 +2108,7 @@
 - [jhbabon/scout](https://github.com/jhbabon/scout) - Friendly fuzzy finder made with rust
 - [VixenUtils/Myxer](https://github.com/VixenUtils/Myxer) - A modern Volume Mixer for PulseAudio.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
-- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage your emails.
+- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage emails.
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [Soft/xcolor](https://github.com/Soft/xcolor) - Lightweight color picker for X11
 - [latex-lsp/texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX
@@ -2747,7 +2746,7 @@
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [907th/vim-auto-save](https://github.com/907th/vim-auto-save) - A Vim plugin which saves files to disk automatically.
 - [andymass/vim-matchup](https://github.com/andymass/vim-matchup) - vim match-up: even better % :facepunch: navigate and highlight matching words :facepunch: modern matchit and matchparen.  Supports both vim and neovim + tree-sitter.
-- [McSinyx/vim-octave](https://github.com/McSinyx/vim-octave) - Octave syntax and indentation support for Vim
+- [gnu-octave/vim-octave](https://github.com/gnu-octave/vim-octave) - Octave syntax and indentation support for Vim
 - [lambdalisue/battery.vim](https://github.com/lambdalisue/battery.vim) - Show battery information on statusline/tabline of Neovim/Vim
 - [ghifarit53/tokyonight-vim](https://github.com/ghifarit53/tokyonight-vim) - A clean, dark vim colorscheme that celebrates the lights of downtown Tokyo at night, based on a VSCode theme by @enkia with the same name [Archived because I'm no longer using this]
 - [mhinz/vim-startify](https://github.com/mhinz/vim-startify) - :link: The fancy start screen for Vim.
