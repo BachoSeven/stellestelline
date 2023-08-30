@@ -1618,6 +1618,7 @@
 - [DenverCoder1/latex-gboard-dictionary](https://github.com/DenverCoder1/latex-gboard-dictionary) - ⌨ Importable dictionary for typing math symbols more easily on your Android phone by using keyboard shortcuts inspired by LaTeX
 - [mattling9/Keycap-And-Legend-CAD-Models](https://github.com/mattling9/Keycap-And-Legend-CAD-Models) - CAD models for both the keycap and the legend. This removes the need to add the legends in post render.
 - [inaimathi/gtypist-single-space](https://github.com/inaimathi/gtypist-single-space) - GNU Typist lessons with the "two spaces after a sentence" garbage removed. You're welcome.
+- [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [m-sameer/fossdroid](https://github.com/m-sameer/fossdroid) - 
 - [seebye/fzf-ueberzogen](https://github.com/seebye/fzf-ueberzogen) - 
 - [rtlewis88/rtl88-Themes](https://github.com/rtlewis88/rtl88-Themes) - GTK, xfwm4, openbox-3, GNOME-Shell Themes, and Cinnamon themes
