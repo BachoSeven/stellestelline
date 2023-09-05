@@ -745,6 +745,7 @@
 - [Etesam913/slick-fox](https://github.com/Etesam913/slick-fox) - :fox_face: A firefox config that has rounded tabs and a url bar that can disappear when not selected on. It works with any theme.
 - [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox) - An opinionated set of configurations for firefox.
 - [Rosmaninho/Zotero-Dark-Theme](https://github.com/Rosmaninho/Zotero-Dark-Theme) - userChrome.css file for a Zotero dark theme. Suggestions for improvements are welcome.
+- [matrix-org/matrix.org](https://github.com/matrix-org/matrix.org) - matrix.org public website
 - [Libera-Chat/libera-chat.github.io](https://github.com/Libera-Chat/libera-chat.github.io) - The website of Libera Chat, providing documentation and news
 - [kkYrusobad/kkYrusobad.github.io](https://github.com/kkYrusobad/kkYrusobad.github.io) - Material startpage/dashboard for home server!
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
@@ -1022,7 +1023,6 @@
 - [timb-machine/linux-malware](https://github.com/timb-machine/linux-malware) - Tracking interesting Linux (and UNIX) malware. Send PRs
 - [MCotocel/startpage](https://github.com/MCotocel/startpage) - Custom startpage for Qutebrowser/Firefox
 - [grtcdr/linen](https://github.com/grtcdr/linen) - A light, calm and champagnesque colorscheme.
-- [matrix-org/matrix.org](https://github.com/matrix-org/matrix.org) - matrix.org public website
 - [hyperreal64/zsh-manual-mdbook](https://github.com/hyperreal64/zsh-manual-mdbook) - Mdbook for Zsh Manual
 - [comfies/comfi.es](https://github.com/comfies/comfi.es) - the /comfy/ website
 - [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
