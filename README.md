@@ -2567,6 +2567,7 @@
 
 ## TeX 
 
+- [suchow/Dissertate](https://github.com/suchow/Dissertate) - Beautiful LaTeX dissertation templates.
 - [wg030/jlcode](https://github.com/wg030/jlcode) - A latex package for displaying Julia code using the listings package. The package supports pdftex, luatex and xetex for compilation.
 - [habi/latex](https://github.com/habi/latex) - Some LaTeX code snippets I've hacked together over the years.
 - [anishathalye/gemini](https://github.com/anishathalye/gemini) - Gemini is a modern LaTex beamerposter theme 🖼
