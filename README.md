@@ -543,7 +543,7 @@
 - [ppy/osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
 - [hirschmann/nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl
 - [fedarovich/qbittorrent-cli](https://github.com/fedarovich/qbittorrent-cli) - Command line interface for QBittorrent
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
 - [zoeyfyi/TeX-Match](https://github.com/zoeyfyi/TeX-Match) - Search through over 1000 different LaTeX symbols by sketching. A desktop version of detexify.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
@@ -1305,7 +1305,7 @@
 - [tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher) - Minimal AF launcher for Android with daily new wallpaper.
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
 - [ubergeek42/weechat-android](https://github.com/ubergeek42/weechat-android) - Simple Weechat-Relay Android Client
-- [zaguragit/posidonLauncher](https://github.com/zaguragit/posidonLauncher) - a one-page homescreen with a news feed (discontinued)
+- [lposidon/posidonLauncher](https://github.com/lposidon/posidonLauncher) - a one-page homescreen with a news feed (discontinued)
 
 ## Lean 
 
@@ -1386,7 +1386,6 @@
 - [ojroques/nvim-bufdel](https://github.com/ojroques/nvim-bufdel) - A Neovim plugin to improve buffer deletion
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [nvim-lua/completion-nvim](https://github.com/nvim-lua/completion-nvim) - A async completion framework aims to provide completion to neovim's built in LSP written in Lua
-- [po5/mpv_sponsorblock](https://github.com/po5/mpv_sponsorblock) - mpv script to skip sponsored segments of YouTube videos
 - [drahenprofi/dotfiles](https://github.com/drahenprofi/dotfiles) - Arch Linux dotfiles
 - [xlucn/dotfiles](https://github.com/xlucn/dotfiles) - Linux configuration files (dotfiles) and some useful scripts
 - [savq/paq-nvim](https://github.com/savq/paq-nvim) - 🌚  Neovim package manager
@@ -2598,7 +2597,7 @@
 - [drago-96/appunti](https://github.com/drago-96/appunti) - Appunti di corsi che ho seguito
 - [vEnhance/napkin](https://github.com/vEnhance/napkin) - An Infinitely Large Napkin
 - [xujustinj/Extended-Essay](https://github.com/xujustinj/Extended-Essay) - A Mathematics IB DP Extended Essay on the Ulam spiral.
-- [dirompante/esercizi_laboratorio](https://github.com/dirompante/esercizi_laboratorio) - Raccolta di esercizi svolti da me
+- [davidegori/esercizi_laboratorio](https://github.com/davidegori/esercizi_laboratorio) - Raccolta di esercizi svolti da me
 - [WtfJoke/tectonic-docker](https://github.com/WtfJoke/tectonic-docker) - A tiny docker image for tectonic latex engine with a primed cache
 - [stacks/stacks-project](https://github.com/stacks/stacks-project) - Repository for the Stacks Project
 - [lervag/vimtex](https://github.com/lervag/vimtex) - VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
