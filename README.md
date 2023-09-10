@@ -1247,7 +1247,7 @@
 - [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build terminal dashboards using ascii/ansi art and javascript
 - [glowing-bear/glowing-bear](https://github.com/glowing-bear/glowing-bear) - A web client for WeeChat
 - [klaudiosinani/taskbook](https://github.com/klaudiosinani/taskbook) - Tasks, boards & notes for the command-line habitat
-- [manilarome/squareup](https://github.com/manilarome/squareup) - A sleek and modern startpage
+- [eromatiya/squareup](https://github.com/eromatiya/squareup) - A sleek and modern startpage
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [aeyoll/soulseek-cli](https://github.com/aeyoll/soulseek-cli) - A Soulseek Cli client.
 - [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating.
@@ -1399,7 +1399,7 @@
 - [ChrisTitusTech/TitusPi](https://github.com/ChrisTitusTech/TitusPi) - Custom CTT Pi based linux distro
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
-- [manilarome/the-glorious-dotfiles](https://github.com/manilarome/the-glorious-dotfiles) - A glorified personal dot files
+- [eromatiya/the-glorious-dotfiles](https://github.com/eromatiya/the-glorious-dotfiles) - A glorified personal dot files
 - [jgreco/mpv-youtube-quality](https://github.com/jgreco/mpv-youtube-quality) - A userscript for MPV that allows you to change youtube video quality (ytdl-format) on the fly
 - [kutsan/dotfiles](https://github.com/kutsan/dotfiles) - My dotfiles: Experimental, ongoing configuration files, development environment and scripts for various Unix-like systems, text-based command-line applications and interfaces.
 - [neg-serg/dotfiles](https://github.com/neg-serg/dotfiles) - My configs with whistles and bells
@@ -1541,7 +1541,6 @@
 - [comfies/tldrlfs](https://github.com/comfies/tldrlfs) - Too Long; Didn't Read Linux From Scratch
 - [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
 - [keystroke3/Tauon-themes](https://github.com/keystroke3/Tauon-themes) - A few of my own themes for Tauon Music Box: https://github.com/Taiko2k/TauonMusicBox.git
-- [VEGEMITEGOD/Tauon-Music-Box-theme-Stargazing](https://github.com/VEGEMITEGOD/Tauon-Music-Box-theme-Stargazing) - 
 - [google/bbr](https://github.com/google/bbr) - 
 - [hexoctal/st-undercurl](https://github.com/hexoctal/st-undercurl) - A patch for ST (Simple Terminal) adding support for curly and colored underlines.
 - [Droogans/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
