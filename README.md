@@ -1386,6 +1386,7 @@
 - [ojroques/nvim-bufdel](https://github.com/ojroques/nvim-bufdel) - A Neovim plugin to improve buffer deletion
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [nvim-lua/completion-nvim](https://github.com/nvim-lua/completion-nvim) - A async completion framework aims to provide completion to neovim's built in LSP written in Lua
+- [po5/mpv_sponsorblock](https://github.com/po5/mpv_sponsorblock) - mpv script to skip sponsored segments of YouTube videos
 - [drahenprofi/dotfiles](https://github.com/drahenprofi/dotfiles) - Arch Linux dotfiles
 - [xlucn/dotfiles](https://github.com/xlucn/dotfiles) - Linux configuration files (dotfiles) and some useful scripts
 - [savq/paq-nvim](https://github.com/savq/paq-nvim) - 🌚  Neovim package manager
