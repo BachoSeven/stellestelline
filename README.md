@@ -363,7 +363,7 @@
 - [btpd/btpd](https://github.com/btpd/btpd) - ⚡ The BitTorrent Protocol Daemon
 - [zsh-users/zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository.
 - [xianyi/OpenBLAS](https://github.com/xianyi/OpenBLAS) - OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.
-- [koreaneggroll/shell](https://github.com/koreaneggroll/shell) - a shell written in C
+- [Arin-Grigoras/shell](https://github.com/Arin-Grigoras/shell) - a shell written in C
 - [dfuehrer/dwmblocks](https://github.com/dfuehrer/dwmblocks) - My status bar: my build of the modular dwmblocks
 - [khuedoan/slock](https://github.com/khuedoan/slock) - Suckless simple X display locker fork with transparency effect (deprecated, I've switched to Wayland)
 - [aario/slock-blur](https://github.com/aario/slock-blur) - Super fast and highly stable blur version of the simplest screen locker slock
@@ -2032,7 +2032,7 @@
 - [svenstaro/memefs](https://github.com/svenstaro/memefs) - Mount your memes using FUSE
 - [redox-os/orbtk](https://github.com/redox-os/orbtk) - The Rust UI-Toolkit.
 - [max-niederman/ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test.
-- [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression for your terminal
+- [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
 - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
 - [Morganamilo/paccat](https://github.com/Morganamilo/paccat) - Print pacman package files
 - [HEnquist/camilladsp](https://github.com/HEnquist/camilladsp) - A flexible cross-platform IIR and FIR engine for crossovers, room correction etc.
