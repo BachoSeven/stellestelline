@@ -187,7 +187,7 @@
 - [saivert/ddb_misc_headerbar_GTK3](https://github.com/saivert/ddb_misc_headerbar_GTK3) - Adds a headerbar to your DeaDBeeF.
 - [bakkeby/dusk](https://github.com/bakkeby/dusk) - Just another fork of dwm
 - [fabiensanglard/chocolate_duke3D](https://github.com/fabiensanglard/chocolate_duke3D) - chocolate Duke Nukem,3D
-- [Kameldieb/terminal_minecraft](https://github.com/Kameldieb/terminal_minecraft) - 
+- [moritzbroe/terminal_minecraft](https://github.com/moritzbroe/terminal_minecraft) - 
 - [RinCat/RTL88x2BU-Linux-Driver](https://github.com/RinCat/RTL88x2BU-Linux-Driver) - Realtek RTL88x2BU WiFi USB Driver for Linux
 - [WayneD/rsync](https://github.com/WayneD/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
 - [bbidulock/adwm](https://github.com/bbidulock/adwm) - advanced dynamic window manager
@@ -353,7 +353,7 @@
 - [takase1121/xwinwrap](https://github.com/takase1121/xwinwrap) - My fork of xwinwrap. Xwinwrap allows you to stick most of the apps to your desktop background.
 - [jzbor/moonwm](https://github.com/jzbor/moonwm) - My own outstandingly named Window Manager
 - [phillbush/shod-old](https://github.com/phillbush/shod-old) - hybrid (floating and tiling) tabbed window manager
-- [theFr1nge/dotfiles](https://github.com/theFr1nge/dotfiles) - Welcome to my dungeon. Here, I keep all my configuration files in case I have a stroke and lose all my memory. You're very welcome to explore and use anything in this repository. Have fun!
+- [qm0mp/dotfiles](https://github.com/qm0mp/dotfiles) - Welcome to my dungeon. Here, I keep all my configuration files in case I have a stroke and lose all my memory. You're very welcome to explore and use anything in this repository. Have fun!
 - [arieboven/slock](https://github.com/arieboven/slock) - My custom slock build
 - [emersion/mrsh](https://github.com/emersion/mrsh) - A minimal POSIX shell
 - [Genghius/vuim](https://github.com/Genghius/vuim) - Vi Un-IMproved
@@ -831,7 +831,7 @@
 ## Emacs Lisp 
 
 - [osnr/dotfiles](https://github.com/osnr/dotfiles) - :clipboard: dotfiles.
-- [susam/emfy](https://github.com/susam/emfy) - Tiny init.el for beginners to quickly set up vanilla Emacs
+- [susam/emfy](https://github.com/susam/emfy) - A dark and sleek Emacs setup for general purpose editing and programming
 - [Olivia5k/dotfiles](https://github.com/Olivia5k/dotfiles) - Heavy emacs customizations with a purple finish
 - [jnykopp/emaccordion](https://github.com/jnykopp/emaccordion) - Control Emacs with MIDI
 - [jasonliang-dev/dotfiles](https://github.com/jasonliang-dev/dotfiles) - ~/.*
@@ -905,7 +905,7 @@
 - [foxcpp/maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
 - [shazow/ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
-- [harness/drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
+- [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [jezek/xgb](https://github.com/jezek/xgb) - The X Go Binding is a low-level API to communicate with the X server. It is modeled on XCB and supports many X extensions.
@@ -2406,7 +2406,7 @@
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 - [PandaFoss/baph](https://github.com/PandaFoss/baph) - baph - Basic AUR Package Helper
 - [archlinuxcn/repo](https://github.com/archlinuxcn/repo) - Arch Linux CN Repository
-- [chimay/scripts](https://github.com/chimay/scripts) - Useful scripts
+- [chimay/scripts](https://github.com/chimay/scripts) - Scripts & snippets
 - [Aztek1337/Elecom_trackball_huge_button_map](https://github.com/Aztek1337/Elecom_trackball_huge_button_map) - A BASH script to help quickly map the Elecom TrackBall Huge
 - [Rasukarusan/shellnium](https://github.com/Rasukarusan/shellnium) - :dizzy: Selenium Webdriver for Bash (or Zsh).
 - [ganifladi/lyrics-cli](https://github.com/ganifladi/lyrics-cli) - 
