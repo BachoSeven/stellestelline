@@ -1334,7 +1334,7 @@
 - [jbyuki/nabla.nvim](https://github.com/jbyuki/nabla.nvim) - take your scientific notes :pencil2: in Neovim
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
 - [brainfucksec/neovim-lua](https://github.com/brainfucksec/neovim-lua) - Neovim KISS configuration with Lua
-- [angelofallars/dotfiles](https://github.com/angelofallars/dotfiles) - 🦀 My dotfiles on Artix Linux. Neovim | tmux | KDE Plasma
+- [angelofallars/dotfiles](https://github.com/angelofallars/dotfiles) - 🦀 My dotfiles on Artix Linux. Neovim | tmux | Hyprland
 - [is0n/fm-nvim](https://github.com/is0n/fm-nvim) - 🗂 Neovim plugin that lets you use your favorite terminal file managers (and fuzzy finders) from within Neovim.
 - [lmburns/dotfiles](https://github.com/lmburns/dotfiles) - Dotfiles for Arch Linux - neovim, zsh
 - [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim) - Neovim motions on speed!
