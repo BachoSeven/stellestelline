@@ -1017,7 +1017,7 @@
 - [ritheshkumar95/im2latex-tensorflow](https://github.com/ritheshkumar95/im2latex-tensorflow) - Tensorflow implementation of the HarvardNLP paper - What You Get Is What You See: A Visual Markup Decompiler (https://arxiv.org/pdf/1609.04938v1.pdf)
 - [kencx/startpage](https://github.com/kencx/startpage) - Custom browser startpage
 - [planetmath/00_General](https://github.com/planetmath/00_General) - 
-- [antcc/dotfiles](https://github.com/antcc/dotfiles) - Configuration files for Arch Linux.
+- [antcc/dotfiles-old-XPS](https://github.com/antcc/dotfiles-old-XPS) - Configuration files for Arch Linux.
 - [easychen/not-only-fans](https://github.com/easychen/not-only-fans) - an open source, self-hosted digital content subscription platform like `onlyfans.com`  with  cryptocurrency payment
 - [FreeInit/freeinit.org](https://github.com/FreeInit/freeinit.org) - The FreeInit.org homepage
 - [timb-machine/linux-malware](https://github.com/timb-machine/linux-malware) - Tracking interesting Linux (and UNIX) malware. Send PRs
