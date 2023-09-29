@@ -354,7 +354,7 @@
 - [takase1121/xwinwrap](https://github.com/takase1121/xwinwrap) - My fork of xwinwrap. Xwinwrap allows you to stick most of the apps to your desktop background.
 - [jzbor/moonwm](https://github.com/jzbor/moonwm) - My own outstandingly named Window Manager
 - [phillbush/shod-old](https://github.com/phillbush/shod-old) - hybrid (floating and tiling) tabbed window manager
-- [qm0mp/dotfiles](https://github.com/qm0mp/dotfiles) - Welcome to my dungeon. Here, I keep all my configuration files in case I have a stroke and lose all my memory. You're very welcome to explore and use anything in this repository. Have fun!
+- [arg3t/dotfiles](https://github.com/arg3t/dotfiles) - Welcome to my dungeon. Here, I keep all my configuration files in case I have a stroke and lose all my memory. You're very welcome to explore and use anything in this repository. Have fun!
 - [arieboven/slock](https://github.com/arieboven/slock) - My custom slock build
 - [emersion/mrsh](https://github.com/emersion/mrsh) - A minimal POSIX shell
 - [Genghius/vuim](https://github.com/Genghius/vuim) - Vi Un-IMproved
@@ -1049,6 +1049,7 @@
 
 ## Haskell 
 
+- [rzk-lang/rzk](https://github.com/rzk-lang/rzk) - An experimental proof assistant based on a type theory for synthetic ∞-categories.
 - [mvr/at](https://github.com/mvr/at) - Effective Algebraic Topology in Haskell
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!
@@ -1269,6 +1270,7 @@
 
 ## Julia 
 
+- [kleinhenz/SlurmClusterManager.jl](https://github.com/kleinhenz/SlurmClusterManager.jl) - julia package for running code on slurm clusters
 - [JuliaSymbolics/Metatheory.jl](https://github.com/JuliaSymbolics/Metatheory.jl) - General purpose algebraic metaprogramming and symbolic computation library for the Julia programming language: E-Graphs & equality saturation, term rewriting and more.
 - [tlienart/Franklin.jl](https://github.com/tlienart/Franklin.jl) - (yet another) static site generator. Simple, customisable, fast, maths with KaTeX, code evaluation, optional pre-rendering, in Julia.
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
@@ -1370,7 +1372,6 @@
 - [pocco81/true-zen.nvim](https://github.com/pocco81/true-zen.nvim) - 🦝 Clean and elegant distraction-free writing for NeoVim
 - [elianiva/dotfiles](https://github.com/elianiva/dotfiles) - .
 - [zlj-zz/nvim](https://github.com/zlj-zz/nvim) - This is my neovim, good vim configuration.
-- [marcothms/dots](https://github.com/marcothms/dots) - my main configuration files
 - [monaqa/dial.nvim](https://github.com/monaqa/dial.nvim) - enhanced increment/decrement plugin for Neovim.
 - [zegervdv/nrpattern.nvim](https://github.com/zegervdv/nrpattern.nvim) - Neovim plugin to expand incrementing/decrementing to more formats.
 - [nvimdev/galaxyline.nvim](https://github.com/nvimdev/galaxyline.nvim) - neovim statusline plugin written in lua
@@ -2710,6 +2711,7 @@
 - [sayanarijit/xplr.vim](https://github.com/sayanarijit/xplr.vim) - Fork of https://github.com/mcchrish/nnn.vim modified to work with xplr. Until xplr has its own plugin.
 - [chrisbra/Colorizer](https://github.com/chrisbra/Colorizer) - color hex codes and color names
 - [lahwaacz/dotfiles](https://github.com/lahwaacz/dotfiles) - Personal configuration for my Arch Linux systems
+- [marcothms/dots](https://github.com/marcothms/dots) - my main configuration files
 - [leanprover/lean.vim](https://github.com/leanprover/lean.vim) - 
 - [AndrewRadev/splitjoin.vim](https://github.com/AndrewRadev/splitjoin.vim) - Switch between single-line and multiline forms of code
 - [rbtnn/vim-mario](https://github.com/rbtnn/vim-mario) - Mario on Vim
