@@ -722,7 +722,7 @@
 - [ChocolateBread799/startpage](https://github.com/ChocolateBread799/startpage) - https://chocolatebread799.github.io/startpage/
 - [walkxcode/homer-theme](https://github.com/walkxcode/homer-theme) - 🎨 A custom Homer theme!
 - [LambadaCorez/custom_css_jellyfin](https://github.com/LambadaCorez/custom_css_jellyfin) - Plug n' Play CSS templates for Jellyfin!
-- [ThemeParkTycoon/theme.park](https://github.com/ThemeParkTycoon/theme.park) - A collection of themes/skins for 50 selfhosted apps!
+- [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 - [prayag17/Jellyfin-Icons](https://github.com/prayag17/Jellyfin-Icons) - Change Jellyfin default icons to a different style
 - [CTalvio/Ultrachromic](https://github.com/CTalvio/Ultrachromic) - The final form, the true evolution of the chromic theme saga!
 - [CTalvio/Kaleidochromic](https://github.com/CTalvio/Kaleidochromic) - A more colorful custom theme for Jellyfin mediaserver created using CSS overrides
@@ -1097,7 +1097,7 @@
 - [openboard-team/openboard](https://github.com/openboard-team/openboard) - 
 - [javacafe01/PdfViewer](https://github.com/javacafe01/PdfViewer) - A simple Pdf document viewer 💼
 - [yeokm1/docs-to-pdf-converter](https://github.com/yeokm1/docs-to-pdf-converter) - A standalone Java library/command line tool that converts DOC, DOCX, PPT, PPTX and ODT documents to PDF files.
-- [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. Its based on the source code of Pixel Dung
+- [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dun
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [Telegram-FOSS-Team/Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Unofficial, FOSS-friendly fork of the original Telegram client for Android
