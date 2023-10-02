@@ -1312,6 +1312,7 @@
 
 ## Lean 
 
+- [aziis98/lean-codespace](https://github.com/aziis98/lean-codespace) - Questa repository contiene un semplice progetto in Lean che può essere lanciato con un click su GitHub CodeSpaces
 - [leanprover-community/mathlib4](https://github.com/leanprover-community/mathlib4) - The math library of Lean 4
 - [ramonfmir/lean-scheme](https://github.com/ramonfmir/lean-scheme) - Schemes in Lean (v2)
 - [leanprover-community/mathlib](https://github.com/leanprover-community/mathlib) - Lean mathematical components library
@@ -2233,6 +2234,7 @@
 
 ## Shell 
 
+- [Bladtman242/potato](https://github.com/Bladtman242/potato) - A pomodoro timer for the shell
 - [rifazn/dark-toggle](https://github.com/rifazn/dark-toggle) - A small POSIX compliant shell script that toggles between the dark and light variants of a GTK theme.
 - [dougy147/scitopdf](https://github.com/dougy147/scitopdf) - bash script to quickly fetch, download and open scientific papers from Sci-Hub's database.
 - [livialima/linuxupskillchallenge](https://github.com/livialima/linuxupskillchallenge) - Learn the skills required to sysadmin a remote Linux server from the commandline.
