@@ -1223,7 +1223,7 @@
 - [ray-lothian/UserAgent-Switcher](https://github.com/ray-lothian/UserAgent-Switcher) - A User-Agent spoofer browser extension that is highly configurable
 - [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes) - Mechvibes
 - [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - A chrome extension for suspending all tabs to free up memory, based on the original TGS 7.1.6, without tracking. Find more information about that on https://gioxx.org/tms
-- [artemave/translate_onhover](https://github.com/artemave/translate_onhover) - Google Chrome translation extension
+- [artemave/translate_onhover](https://github.com/artemave/translate_onhover) - Browser translation extension
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [darksun-misc/piratebay-db-dump](https://github.com/darksun-misc/piratebay-db-dump) - A CSV file with all torrent infohashes and names from thepiratebay.org on the moment of 2019-Sep-14. You can lookup the content you need by the name and download the data by inserting the infohash int
 - [alextrv/enhanced-h264ify](https://github.com/alextrv/enhanced-h264ify) - A Firefox/Chrome extension that blocks video codecs you have chosen on YouTube
