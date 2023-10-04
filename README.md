@@ -2146,7 +2146,7 @@
 - [keyboard-slayer/runas](https://github.com/keyboard-slayer/runas) - An alternative to sudo and doas written in Rust
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [sassman/t-rec-rs](https://github.com/sassman/t-rec-rs) - Blazingly fast terminal recorder that generates animated gif images for the web written in rust
-- [deltachat/deltachat-core-rust](https://github.com/deltachat/deltachat-core-rust) - Delta Chat Rust Core library, used by Android/iOS/desktop apps, bindings and bots
+- [deltachat/deltachat-core-rust](https://github.com/deltachat/deltachat-core-rust) - Delta Chat Rust Core library, used by Android/iOS/desktop apps, bindings and bots 📧
 - [SabrinaJewson/aspotify](https://github.com/SabrinaJewson/aspotify) - Deprecated in favour of rspotify: https://github.com/ramsayleung/rspotify
 - [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
 - [PorkSausages/tfex-rs](https://github.com/PorkSausages/tfex-rs) - A simple terminal UI file manager
