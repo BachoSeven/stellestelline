@@ -432,7 +432,6 @@
 - [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
 - [sigpipe/urlview](https://github.com/sigpipe/urlview) - Extract URLs from a text file and allow the user to select via a menu
 - [cpressey/ncurses_programs](https://github.com/cpressey/ncurses_programs) - git-ification/cleanup of the source code for "NCURSES Programming HOWTO".
-- [runrin/tt](https://github.com/runrin/tt) - Practicing touch typing, and monitor your typing speed using your own text files
 - [torrinfail/dwmblocks](https://github.com/torrinfail/dwmblocks) - Modular status bar for dwm written in c.
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [mohabaks/dotfiles](https://github.com/mohabaks/dotfiles) - :computer:  workstation/laptop configs.
