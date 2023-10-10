@@ -1386,6 +1386,7 @@
 - [nvim-tree/nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) - lua `fork` of vim-web-devicons for neovim
 - [tjdevries/config_manager](https://github.com/tjdevries/config_manager) - My configuration files and tools
 - [ojroques/nvim-bufdel](https://github.com/ojroques/nvim-bufdel) - A Neovim plugin to improve buffer deletion
+- [mxdevmanuel/dotfiles](https://github.com/mxdevmanuel/dotfiles) - My personal set of dotfiles (Managed with Stow)
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [nvim-lua/completion-nvim](https://github.com/nvim-lua/completion-nvim) - A async completion framework aims to provide completion to neovim's built in LSP written in Lua
 - [po5/mpv_sponsorblock](https://github.com/po5/mpv_sponsorblock) - mpv script to skip sponsored segments of YouTube videos
@@ -2415,7 +2416,6 @@
 - [ganifladi/lyrics-cli](https://github.com/ganifladi/lyrics-cli) - 
 - [fuzzybritches0/pinephone](https://github.com/fuzzybritches0/pinephone) - Pinephone bash Scripts for SMS, VOICE-CALL and more
 - [wimpysworld/antsy-alien-attack](https://github.com/wimpysworld/antsy-alien-attack) - A game, written in Bash, that is a somewhat retro-a-like shoot 'em up. Hopefully.
-- [mxdevmanuel/dotfiles](https://github.com/mxdevmanuel/dotfiles) - My personal set of dotfiles (Managed with Stow)
 - [doronbehar/dotfiles](https://github.com/doronbehar/dotfiles) - My Dotfiles - tmux, vim, bash, zsh with powerline and git
 - [ful1e5/XCursor-pro](https://github.com/ful1e5/XCursor-pro) - Modern XCursors.
 - [pystardust/sbar](https://github.com/pystardust/sbar) - Simple dwm bar script with variable timing and signalling in posix
