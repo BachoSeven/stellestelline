@@ -774,7 +774,7 @@
 - [linlinxza/Windows-7-Full-Theme-KDE-Plasma-only-](https://github.com/linlinxza/Windows-7-Full-Theme-KDE-Plasma-only-) - Here it is. A Full Windows 7 theme!
 - [nerdypepper/nerdypepper.github.io](https://github.com/nerdypepper/nerdypepper.github.io) - 
 - [RyanGreenup/cadmus](https://github.com/RyanGreenup/cadmus) - Shell Scripts to Facilitate Effective Note Taking
-- [thuanowa/vimium_dark_theme](https://github.com/thuanowa/vimium_dark_theme) - My custom CSS for vimium (dark theme)
+- [ongedit/vimium_dark_theme](https://github.com/ongedit/vimium_dark_theme) - My custom CSS for vimium (dark theme)
 - [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
 - [CharlieEtienne/material-github](https://github.com/CharlieEtienne/material-github) - A Material Dark Theme for GitHub
 - [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
@@ -1454,6 +1454,7 @@
 - [PedroHLC/system-setup](https://github.com/PedroHLC/system-setup) - Recipe for creating my NixOS machines. (ZFS and Sway)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [donovanglover/nix-config](https://github.com/donovanglover/nix-config) - My NixOS configuration with Nix Flakes, Home Manager, Stylix, and Hyprland.
+- [b3nj5m1n/dotfiles](https://github.com/b3nj5m1n/dotfiles) - 
 
 ## OCaml 
 
@@ -2253,7 +2254,7 @@
 - [zone-linux/zone-iso](https://github.com/zone-linux/zone-iso) - + ISO Source Documents from Lab X-18; Located under Dark Valley
 - [ThePoorPilot/Unofficial-Spotify](https://github.com/ThePoorPilot/Unofficial-Spotify) - Unofficial up-to-date linux Spotify package derived from the Snap Package.
 - [vaporup/ssh-tools](https://github.com/vaporup/ssh-tools) - Making SSH more convenient
-- [fusionneur/ethernally](https://github.com/fusionneur/ethernally) - Your scrcpy companion for Android wireless screen mirroring
+- [Uj947nXmRqV2nRaWshKtHzTvckUUpD/ethernally](https://github.com/Uj947nXmRqV2nRaWshKtHzTvckUUpD/ethernally) - Your scrcpy companion for Android wireless screen mirroring
 - [romkatv/zsh-bench](https://github.com/romkatv/zsh-bench) - Benchmark for interactive Zsh
 - [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature-rich syntax highlighting for ZSH
 - [BachoSeven/dotfiles](https://github.com/BachoSeven/dotfiles) - rice repo
@@ -2531,7 +2532,6 @@
 - [budlabs/typiskt](https://github.com/budlabs/typiskt) - touchtyping training in the terminal
 - [kaihendry/dotfiles](https://github.com/kaihendry/dotfiles) - Home directory with an absurd amount of tweaks
 - [ech1/torbridge](https://github.com/ech1/torbridge) - 
-- [b3nj5m1n/dotfiles](https://github.com/b3nj5m1n/dotfiles) - 
 - [DanielFGray/fzf-scripts](https://github.com/DanielFGray/fzf-scripts) - a collection of scripts that rely on https://github.com/junegunn/fzf
 - [deepjyoti30/dots](https://github.com/deepjyoti30/dots) - My dotfiles
 - [ispanos/anergos](https://github.com/ispanos/anergos) - Bootstarp script for my workstation, with a turnkey Archlinux install.
