@@ -747,7 +747,6 @@
 - [matrix-org/matrix.org](https://github.com/matrix-org/matrix.org) - matrix.org public website
 - [Libera-Chat/libera-chat.github.io](https://github.com/Libera-Chat/libera-chat.github.io) - The website of Libera Chat, providing documentation and news
 - [kkYrusobad/kkYrusobad.github.io](https://github.com/kkYrusobad/kkYrusobad.github.io) - Material startpage/dashboard for home server!
-- [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [RuneAudio/Docs](https://github.com/RuneAudio/Docs) - Official documentation of the RuneAudio project.
 - [emanuelep57/Blue-tea](https://github.com/emanuelep57/Blue-tea) - Simple startpage with weather and to-do list features.
 - [obliviousofcraps/mf-dots](https://github.com/obliviousofcraps/mf-dots) - These are some of my ridiculously shit dotfiles that I use in my unproductive daily life.
@@ -987,7 +986,7 @@
 - [adtac/relevant-xkcd](https://github.com/adtac/relevant-xkcd) - There's always a relevant XKCD.
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
-- [ambientsound/pms](https://github.com/ambientsound/pms) - Practical Music Search is an interactive Vim-like console client for the Music Player Daemon.
+- [kimtore/pms](https://github.com/kimtore/pms) - Practical Music Search is an interactive Vim-like console client for the Music Player Daemon.
 - [ciehanski/libgen-cli](https://github.com/ciehanski/libgen-cli) - A CLI tool to access the Library Genesis dataset; written in Go.
 
 ## Groovy 
@@ -1025,6 +1024,7 @@
 - [grtcdr/linen](https://github.com/grtcdr/linen) - A light, calm and champagnesque colorscheme.
 - [hyperreal64/zsh-manual-mdbook](https://github.com/hyperreal64/zsh-manual-mdbook) - Mdbook for Zsh Manual
 - [comfies/comfi.es](https://github.com/comfies/comfi.es) - the /comfy/ website
+- [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
 - [bedrocklinux/bedrocklinux-website](https://github.com/bedrocklinux/bedrocklinux-website) - This tracks website development for Bedrock Linux
 - [jasolisdev/.dotfiles](https://github.com/jasolisdev/.dotfiles) - 
