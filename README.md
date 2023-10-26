@@ -2611,6 +2611,7 @@
 
 ## TypeScript 
 
+- [Paper-Proof/paperproof](https://github.com/Paper-Proof/paperproof) - Lean theorem proving interface which feels like pen-and-paper proofs.
 - [benlikescode/geohub](https://github.com/benlikescode/geohub) - Free, open source geoguessr alternative
 - [LibreScore/dl-librescore](https://github.com/LibreScore/dl-librescore) - Download sheet music
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
