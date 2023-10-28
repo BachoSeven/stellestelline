@@ -196,7 +196,7 @@
 - [mupen64plus/mupen64plus-core](https://github.com/mupen64plus/mupen64plus-core) - Core module of the Mupen64Plus project
 - [FeralInteractive/gamemode](https://github.com/FeralInteractive/gamemode) - Optimise Linux system performance on demand
 - [afify/sfm](https://github.com/afify/sfm) - simple file manager
-- [UtkarshVerma/dwmblocks-async](https://github.com/UtkarshVerma/dwmblocks-async) - My custom build of dwmblocks which updates blocks asynchronously.
+- [UtkarshVerma/dwmblocks-async](https://github.com/UtkarshVerma/dwmblocks-async) - An efficient, lean, and asynchronous variant status feed generator for dwm.
 - [adafruit/Adafruit_Learning_System_Guides](https://github.com/adafruit/Adafruit_Learning_System_Guides) - Programs and scripts to display "inline" in Adafruit Learning System guides
 - [bmc0/dsp](https://github.com/bmc0/dsp) - An audio processing program with an interactive mode.
 - [mackstann/tinywm](https://github.com/mackstann/tinywm) - The tiniest window manager.
