@@ -711,7 +711,6 @@
 ## CSS 
 
 - [nimaipatel/dotfiles](https://github.com/nimaipatel/dotfiles) - Λ dotfiles for (Arch) GNU/Linux
-- [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna) - A minimal opinionated theme for Hugo
 - [thosgood/fga](https://github.com/thosgood/fga) - An English translation of Grothendieck's Fondements de la Géometrie Algébrique
 - [thosgood/sga](https://github.com/thosgood/sga) - An English translation of the Séminaire de Géométrie Algébrique du Bois Marie
 - [NethServer/docs](https://github.com/NethServer/docs) - NethServer documentation
@@ -1000,6 +999,7 @@
 ## HTML 
 
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna) - A minimal opinionated theme for Hugo
 - [rbrignall/numble](https://github.com/rbrignall/numble) - Wordle with maths-themed words
 - [abuseofnotation/category-theory-illustrated](https://github.com/abuseofnotation/category-theory-illustrated) - A book about category theory
 - [agrothendieck/agrothendieck.github.io](https://github.com/agrothendieck/agrothendieck.github.io) - THÈMES POUR UNE HARMONIE
