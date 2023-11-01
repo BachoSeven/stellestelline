@@ -1052,7 +1052,7 @@
 - [rzk-lang/rzk](https://github.com/rzk-lang/rzk) - An experimental proof assistant based on a type theory for synthetic ∞-categories.
 - [mvr/at](https://github.com/mvr/at) - Effective Algebraic Topology in Haskell
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
-- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [ChrisPenner/void-space](https://github.com/ChrisPenner/void-space) - Well-Typed Typing Tutor where you Type Types... in space... yup, you heard me
 - [pasqu4le/clifm](https://github.com/pasqu4le/clifm) - Command Line Interface File Manager
 - [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
@@ -1672,7 +1672,6 @@
 ## Python 
 
 - [Santi-hr/UNI-T-Thermal-Utilities](https://github.com/Santi-hr/UNI-T-Thermal-Utilities) - Small script to extract raw temperature data from UNI-T thermal camera images.
-- [nexus-stc/stc](https://github.com/nexus-stc/stc) - Distributed free search engine and AI tools that grant access to knowledge
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [lukefleed/small-worlds](https://github.com/lukefleed/small-worlds) - Spatial Networks and small words: an experimental study on real-world datasets
 - [jaymody/picoGPT](https://github.com/jaymody/picoGPT) - An unnecessarily tiny implementation of GPT-2 in NumPy.
@@ -1886,7 +1885,7 @@
 - [bugnano/rnr](https://github.com/bugnano/rnr) - The RNR File Manager (RNR's Not Ranger)
 - [njhofmann/arXivist](https://github.com/njhofmann/arXivist) - Command line interface for managing papers from arXiv on a local machine.
 - [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client
-- [rhyst/idasen-controller](https://github.com/rhyst/idasen-controller) - A Python script to control the Ikea IDÅSEN, a rebranded Linak standing desk.
+- [rhyst/linak-controller](https://github.com/rhyst/linak-controller) - A Python script to control Linak standing desks.
 - [newAM/idasen](https://github.com/newAM/idasen) - Python API and CLI for the ikea IDÅSEN desk.
 - [wustho/epr](https://github.com/wustho/epr) - CLI Epub Reader
 - [robol/wacom-manager](https://github.com/robol/wacom-manager) - Configuration GUI for Wacom tablets under Linux
@@ -2613,6 +2612,7 @@
 
 - [Paper-Proof/paperproof](https://github.com/Paper-Proof/paperproof) - Lean theorem proving interface which feels like pen-and-paper proofs.
 - [benlikescode/geohub](https://github.com/benlikescode/geohub) - Free, open source geoguessr alternative
+- [nexus-stc/stc](https://github.com/nexus-stc/stc) - Distributed free search engine and AI tools that grant access to knowledge
 - [LibreScore/dl-librescore](https://github.com/LibreScore/dl-librescore) - Download sheet music
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
