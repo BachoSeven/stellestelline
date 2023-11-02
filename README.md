@@ -1425,7 +1425,7 @@
 
 - [budRich/pkg-listn](https://github.com/budRich/pkg-listn) - manage linux packages with textfiles
 - [abkro/android_device_lge_h815](https://github.com/abkro/android_device_lge_h815) - LG G4 (International)
-- [osresearch/heads](https://github.com/osresearch/heads) - A minimal Linux that runs as a coreboot or LinuxBoot ROM payload to provide a secure, flexible boot environment for laptops and servers.
+- [linuxboot/heads](https://github.com/linuxboot/heads) - A minimal Linux that runs as a coreboot or LinuxBoot ROM payload to provide a secure, flexible boot environment for laptops and servers.
 - [morrolinux/ChimeraDesk](https://github.com/morrolinux/ChimeraDesk) - Simple, fast and flexible DIY Remote Desktop software
 - [feroldi/ricing](https://github.com/feroldi/ricing) - a book about ricing unix-like systems
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
