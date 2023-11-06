@@ -1121,7 +1121,6 @@
 - [aziis98/ext-open-pdf](https://github.com/aziis98/ext-open-pdf) - Chrome extension for openning a pdf in Evince
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - Read e-books in style
-- [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [typeintandem/nvim](https://github.com/typeintandem/nvim) - Repository for the Tandem NeoVim Plugin
 - [aziis98/github-stars](https://github.com/aziis98/github-stars) - chrome extension to display github stars in repo links
@@ -1677,7 +1676,7 @@
 - [jaymody/picoGPT](https://github.com/jaymody/picoGPT) - An unnecessarily tiny implementation of GPT-2 in NumPy.
 - [pdfernhout/PlantStudio](https://github.com/pdfernhout/PlantStudio) - The PlantStudio Botanical Illustration Software is a tool for creating 3D plant models (including through breeding them in an evolutionary way).
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
-- [TruncatedDinosour/arigram](https://github.com/TruncatedDinosour/arigram) - A fork of tg -- a hackable telegram TUI client
+- [TruncatedDinoSour/arigram](https://github.com/TruncatedDinoSour/arigram) - A fork of tg -- a hackable telegram TUI client
 - [mxmlnkn/ratarmount](https://github.com/mxmlnkn/ratarmount) - Access large archives as a filesystem efficiently, e.g., TAR, RAR, ZIP, GZ, BZ2, XZ, ZSTD archives
 - [ahrm/sioyek-python-extensions](https://github.com/ahrm/sioyek-python-extensions) - Python wrapper and simple addons for sioyek PDF viewer
 - [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 🎁 wraps all package managers with a unifying CLI
@@ -2621,6 +2620,7 @@
 - [julia-vscode/julia-vscode](https://github.com/julia-vscode/julia-vscode) - Julia extension for Visual Studio Code
 - [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
 - [CAAL/CAAL](https://github.com/CAAL/CAAL) - CAAL (Concurrency Workbench, Aalborg Edition) is a web-based tool for modelling, visualization and verification of concurrent processes expressed in the well-known CCS language (Calculus of Communicat
+- [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [webosbrew/dev-manager-desktop](https://github.com/webosbrew/dev-manager-desktop) - Device/DevMode Manager for webOS TV
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
