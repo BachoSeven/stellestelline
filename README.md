@@ -196,7 +196,7 @@
 - [mupen64plus/mupen64plus-core](https://github.com/mupen64plus/mupen64plus-core) - Core module of the Mupen64Plus project
 - [FeralInteractive/gamemode](https://github.com/FeralInteractive/gamemode) - Optimise Linux system performance on demand
 - [afify/sfm](https://github.com/afify/sfm) - simple file manager
-- [UtkarshVerma/dwmblocks-async](https://github.com/UtkarshVerma/dwmblocks-async) - An efficient, lean, and asynchronous variant status feed generator for dwm.
+- [UtkarshVerma/dwmblocks-async](https://github.com/UtkarshVerma/dwmblocks-async) - An efficient, lean, and asynchronous status feed generator for dwm.
 - [adafruit/Adafruit_Learning_System_Guides](https://github.com/adafruit/Adafruit_Learning_System_Guides) - Programs and scripts to display "inline" in Adafruit Learning System guides
 - [bmc0/dsp](https://github.com/bmc0/dsp) - An audio processing program with an interactive mode.
 - [mackstann/tinywm](https://github.com/mackstann/tinywm) - The tiniest window manager.
@@ -853,6 +853,7 @@
 
 ## Go 
 
+- [ddvk/rmfakecloud](https://github.com/ddvk/rmfakecloud) - host your own cloud for the remarkable
 - [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [zyedidia/knit](https://github.com/zyedidia/knit) - A simple and flexible build tool using Lua, similar to make/mk.
@@ -1600,7 +1601,7 @@
 - [unixstickers/foss-swag-designs](https://github.com/unixstickers/foss-swag-designs) - Curated list of SWAG designs on unix, linux, programming and open source
 - [narunlifescience/Clementine-Custom-Icon-Sets](https://github.com/narunlifescience/Clementine-Custom-Icon-Sets) - :tangerine: Custom icon sets for Clementine music player
 - [jkup/awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) - A delightful list of personal tech blogs
-- [vizs/declutter-home](https://github.com/vizs/declutter-home) - declutter your home directory!
+- [9viz/declutter-home](https://github.com/9viz/declutter-home) - declutter your home directory!
 - [usonianhorizon/vt-fnt](https://github.com/usonianhorizon/vt-fnt) - A collection of bitmap .FNT fonts created from various programming fonts, and to be used by FreeBSD's vt console terminal.
 - [nerdypepper/curie](https://github.com/nerdypepper/curie) - An upscaled version of scientifica.
 - [rsubtil/fortune-mod-billwurtz](https://github.com/rsubtil/fortune-mod-billwurtz) - A collection of quotes from bill wurtz, i guess...
