@@ -1855,7 +1855,6 @@
 - [mhinz/neovim-remote](https://github.com/mhinz/neovim-remote) - :ok_hand: Support for --remote and friends.
 - [karlch/vimiv-qt](https://github.com/karlch/vimiv-qt) - An image viewer with vim-like keybindings
 - [karlch/vimiv](https://github.com/karlch/vimiv) - An image viewer with vim-like keybindings.
-- [lahwaacz/Scripts](https://github.com/lahwaacz/Scripts) - 
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
 - [chenyanzz/hosts_add_github](https://github.com/chenyanzz/hosts_add_github) - add github's hosts into Win.Hosts
 - [ZhiyuanLck/vim-lf](https://github.com/ZhiyuanLck/vim-lf) - A lf-like/ranger-like file manager for vim.
@@ -2423,6 +2422,7 @@
 - [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, Hyprland, kitty, kakoune, zsh and more + scripted installation guide
 - [paoloap/zaread](https://github.com/paoloap/zaread) - A (very) lightweight MS Office file reader
 - [Bugswriter/tuxi](https://github.com/Bugswriter/tuxi) - Tuxi is a cli assistant. Get answers of your questions instantly.
+- [lahwaacz/Scripts](https://github.com/lahwaacz/Scripts) - 
 - [cpetrov/deft](https://github.com/cpetrov/deft) - A Linux loadable kernel module for the Elecom DEFT series finger operated trackballs (M-DT1DRBK, M-DT2DRBK, M-DT1URBK, M-DT2URBK)
 - [salman-abedin/amenu](https://github.com/salman-abedin/amenu) - Fuzzy Finder Dynamic GUI Menu
 - [tdukv/dotfiles-void](https://github.com/tdukv/dotfiles-void) - my voidlinux setup
