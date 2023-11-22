@@ -2477,7 +2477,7 @@
 - [make-github-pseudonymous-again/gifify](https://github.com/make-github-pseudonymous-again/gifify) - :rainbow: Convert videos to GIFs
 - [z0rc/dotfiles](https://github.com/z0rc/dotfiles) - Personal configuration for zsh, vim, tmux and other tools
 - [chipsenkbeil/zsh-notes](https://github.com/chipsenkbeil/zsh-notes) - Plugin extracted from my zshrc to provide a quick notes editing experience in zsh.
-- [AladW/aurutils](https://github.com/AladW/aurutils) - Helper tools for the AUR.
+- [aurutils/aurutils](https://github.com/aurutils/aurutils) - Helper tools for the AUR.
 - [xero/glitchlock](https://github.com/xero/glitchlock) - a glitch art themed randomized lockscreen for linux
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [jeffinshadow/i3-dotfiles](https://github.com/jeffinshadow/i3-dotfiles) - “ With wisdom comes the desire for simplicity.” Brendon Burchard.
