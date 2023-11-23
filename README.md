@@ -80,7 +80,6 @@
 - [Shell](#shell)
 - [Stylus](#stylus)
 - [Svelte](#svelte)
-- [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [V](#v)
@@ -2038,6 +2037,7 @@
 - [redox-os/orbtk](https://github.com/redox-os/orbtk) - The Rust UI-Toolkit.
 - [max-niederman/ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test.
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
+- [cooklang/CookCLI](https://github.com/cooklang/CookCLI) - macOS and Linux command line program which provides a suite of tools to create shopping lists and maintain recipes.
 - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
 - [Morganamilo/paccat](https://github.com/Morganamilo/paccat) - Print pacman package files
 - [HEnquist/camilladsp](https://github.com/HEnquist/camilladsp) - A flexible cross-platform IIR and FIR engine for crossovers, room correction etc.
@@ -2563,10 +2563,6 @@
 ## Svelte 
 
 - [1ntEgr8/arss](https://github.com/1ntEgr8/arss) - An rss reader
-
-## Swift 
-
-- [cooklang/CookCLI](https://github.com/cooklang/CookCLI) - macOS and Linux command line program which provides a suite of tools to create shopping lists and maintain recipes.
 
 ## TeX 
 
