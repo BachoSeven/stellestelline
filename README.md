@@ -2061,7 +2061,7 @@
 - [musikid/fancy](https://github.com/musikid/fancy) - Control your laptop fans with a fancy ( ͡° ͜ʖ ͡°) software (compatible with NBFC).
 - [sagudev/lac](https://github.com/sagudev/lac) - Lossless Audio Checker
 - [Icelk/clipcat](https://github.com/Icelk/clipcat) - clipcat is a clipboard manager written in Rust Programming Language.
-- [xrelkd/clipcat](https://github.com/xrelkd/clipcat) - clipcat is a clipboard manager written in Rust Programming Language.
+- [xrelkd/clipcat](https://github.com/xrelkd/clipcat) - Clipcat is a clipboard manager written in Rust Programming Language.
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [sayanarijit/mind](https://github.com/sayanarijit/mind) - A productive mind has an empty stack
