@@ -763,7 +763,7 @@
 - [briano1905/typings](https://github.com/briano1905/typings) - typings.gg is a sleek and modern typing test website. it support many custom themes
 - [mut-ex/minimal-functional-fox](https://github.com/mut-ex/minimal-functional-fox) - A minimal, yet functional Firefox userChrome configuration.
 - [TheGreatMcPain/gruvbox-material-gtk](https://github.com/TheGreatMcPain/gruvbox-material-gtk) - Gruvbox Material for GTK, Gnome, Cinnamon, XFCE, Unity, Plank and Icons
-- [6gk/polka](https://github.com/6gk/polka) - 🐢 dotless files  (sponsored by https://git.io/kiwmi)
+- [eepykate/polka](https://github.com/eepykate/polka) - 🐢 dotless files  (sponsored by https://git.io/kiwmi)
 - [egoist/hack](https://github.com/egoist/hack) - ⛷ Dead simple CSS framework.
 - [Paul-Houser/StartTree](https://github.com/Paul-Houser/StartTree) - A terminal-style home page replicating the tree command .
 - [FilipLitwora/pywal-discord](https://github.com/FilipLitwora/pywal-discord) - 🎨 A script that dynamically generates discord theme based on the current wal colorscheme
@@ -890,7 +890,7 @@
 - [quantumsheep/sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH
 - [diamondburned/gotktrix](https://github.com/diamondburned/gotktrix) - Matrix client in Go and GTK4
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
-- [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / subsonic server API implementation
+- [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / free-software subsonic server API implementation
 - [raitonoberu/sptlrx](https://github.com/raitonoberu/sptlrx) - Synchronized lyrics in your terminal
 - [blrsn/zentile](https://github.com/blrsn/zentile) - Automatic Tiling for EWMH Compliant Window Managers
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
@@ -1279,7 +1279,7 @@
 ## Jupyter Notebook 
 
 - [greenelab/scihub](https://github.com/greenelab/scihub) - Source code and data analyses for the Sci-Hub Coverage Study
-- [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFI
+- [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artif
 - [fexed/Notes](https://github.com/fexed/Notes) - LaTeX notes from various courses (mainly from UniPi)
 - [morrolinux/simple-ehm](https://github.com/morrolinux/simple-ehm) - A simple tool for a simple task: remove filler sounds ("ehm") from pre-recorded speeches. AI powered.
 
@@ -1304,7 +1304,7 @@
 - [dkter/aaaaa](https://github.com/dkter/aaaaa) - a minimalist keyboard
 - [TeamVanced/VancedManager](https://github.com/TeamVanced/VancedManager) - Vanced Installer
 - [allgood/OpenNoteScanner](https://github.com/allgood/OpenNoteScanner) - Android application for scanning and manipulating handwritten notes and documents.
-- [tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher) - Minimal AF launcher for Android, to help you reduce your screen time.
+- [tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher) - Minimal AF launcher for Android. Reduce your screen time by half.
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
 - [ubergeek42/weechat-android](https://github.com/ubergeek42/weechat-android) - Simple Weechat-Relay Android Client
 - [lposidon/posidonLauncher](https://github.com/lposidon/posidonLauncher) - a one-page homescreen with a news feed (discontinued)
@@ -1685,7 +1685,7 @@
 - [NethServer/dev](https://github.com/NethServer/dev) - NethServer issue tracker
 - [gyim/vim-boxdraw](https://github.com/gyim/vim-boxdraw) - An ASCII box drawing plugin for Vim
 - [lukefleed/auto-graph](https://github.com/lukefleed/auto-graph) - 
-- [cmang/durdraw](https://github.com/cmang/durdraw) - Versatile Unicode, ANSI & ASCII Art text editor for drawing in the Linux/Unix/macOS terminal, with animation, 256 color ANSI support and custom themes
+- [cmang/durdraw](https://github.com/cmang/durdraw) - Versatile ASCII and ANSI Art text editor for drawing in the Linux/Unix/macOS terminal, with animation, 256 color ANSI support, Unicode and CP437, and custom themes
 - [MichaelStott/SimplexSolver](https://github.com/MichaelStott/SimplexSolver) - Python script that solves standard linear programs with the Simplex algorithm and outputs step-by-step LaTeX instructions.
 - [vmavromatis/absolutely-proprietary](https://github.com/vmavromatis/absolutely-proprietary) - Proprietary package detector for arch-based distros. Compares your installed packages against Parabola's package blacklist and then prints your Stallman Freedom Index (free/total).
 - [Chia-Network/chia-blockchain](https://github.com/Chia-Network/chia-blockchain) - Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)
@@ -2495,12 +2495,12 @@
 - [MatMoul/archdi](https://github.com/MatMoul/archdi) - Arch Linux Desktop Installer : tutorial installer
 - [MatMoul/archfi](https://github.com/MatMoul/archfi) - Arch Linux Fast Installer : tutorial installer
 - [joepvd/tty-solarized](https://github.com/joepvd/tty-solarized) - Solarized theme for the tty
-- [6gk/editor](https://github.com/6gk/editor) - 
+- [eepykate/editor](https://github.com/eepykate/editor) - 
 - [kutsan/zsh-system-clipboard](https://github.com/kutsan/zsh-system-clipboard) - System clipboard key bindings for Zsh Line Editor with vi mode. It is similar to what `set clipboard=unnamed` does for vim.
 - [sdushantha/tmpmail](https://github.com/sdushantha/tmpmail) - A temporary email right from your terminal written in POSIX sh
 - [BanchouBoo/stain](https://github.com/BanchouBoo/stain) - A collection of POSIX sh scripts for manipulating hex colors
 - [dylanaraps/fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
-- [6gk/fet.sh](https://github.com/6gk/fet.sh) - 🐢 a fetch written in posix shell without any external commands  (sponsored by https://git.io/kiwmi)
+- [eepykate/fet.sh](https://github.com/eepykate/fet.sh) - 🐢 a fetch written in posix shell without any external commands  (sponsored by https://git.io/kiwmi)
 - [nagy135/subtube](https://github.com/nagy135/subtube) - youtube viewing script that allows you to watch your subscribed videos with help of sxiv image viewer
 - [willeccles/dotfiles](https://github.com/willeccles/dotfiles) - 🏡 Home is where the dots are
 - [willeccles/cpm](https://github.com/willeccles/cpm) - 🌵 A wrapper for package managers to make them consistent for those of us who are lazy.
