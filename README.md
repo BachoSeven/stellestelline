@@ -345,7 +345,6 @@
 - [spbooth/xmountains](https://github.com/spbooth/xmountains) - This is my ancient X-windows sideways scrolling fractal landscape code
 - [juliusHuelsmann/st-history-vim](https://github.com/juliusHuelsmann/st-history-vim) - Development of the "vim patch" and  a minimalist "history patch" for the suckless simple terminal (st).
 - [stivale/stivale](https://github.com/stivale/stivale) - The stivale boot protocols' specifications and headers.
-- [stivale/stivale2-barebones](https://github.com/stivale/stivale2-barebones) - A simple stivale2-compliant kernel and build system example/template.
 - [TomatOrg/TomatBoot](https://github.com/TomatOrg/TomatBoot) - A UEFI 64bit Bootloader
 - [limine-bootloader/limine](https://github.com/limine-bootloader/limine) - Modern, advanced, portable, multiprotocol bootloader.
 - [gnuplot/gnuplot](https://github.com/gnuplot/gnuplot) - Unofficial mirror of gnuplot's git repository. Please don't open pull requests here, go to https://sourceforge.net/p/gnuplot/gnuplot-main/merge-requests/ instead.
