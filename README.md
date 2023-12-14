@@ -1312,6 +1312,7 @@
 
 ## Lean 
 
+- [mariainesdff/ideles-journal](https://github.com/mariainesdff/ideles-journal) - 
 - [aziis98/lean-codespace](https://github.com/aziis98/lean-codespace) - Questa repository contiene un semplice progetto in Lean che può essere lanciato con un click su GitHub CodeSpaces
 - [leanprover-community/mathlib4](https://github.com/leanprover-community/mathlib4) - The math library of Lean 4
 - [ramonfmir/lean-scheme](https://github.com/ramonfmir/lean-scheme) - Schemes in Lean (v2)
@@ -2439,7 +2440,7 @@
 - [dylanaraps/torque](https://github.com/dylanaraps/torque) - 🚂 A TUI client for transmission written in pure bash.
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [ddvk/remarkable-hacks](https://github.com/ddvk/remarkable-hacks) - additional functionality via binary patching
-- [BelkaDev/Mustream](https://github.com/BelkaDev/Mustream) - A script to play Spotify music through the command line.
+- [BelkaDev/Mustream](https://github.com/BelkaDev/Mustream) - A script to play Spotify music via the command line.
 - [mmskv/dotfiles](https://github.com/mmskv/dotfiles) - dots for my Linux setup
 - [sadparadiseinhell/dotfiles](https://github.com/sadparadiseinhell/dotfiles) - Dotfiles
 - [archlinux/svntogit-community](https://github.com/archlinux/svntogit-community) - Automatic import of svn 'community' repo (read-only mirror)
