@@ -2050,7 +2050,7 @@
 - [Arnavion/matrix-client-rs](https://github.com/Arnavion/matrix-client-rs) - TUI Matrix client in Rust.
 - [sioodmy/todo](https://github.com/sioodmy/todo) - Simple todo cli program written in rust
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
-- [aura-aurora/uwutalk](https://github.com/aura-aurora/uwutalk) - Matrix client.
+- [melody-notpond/uwutalk](https://github.com/melody-notpond/uwutalk) - Matrix client.
 - [AusCyberman/dotfile-sync](https://github.com/AusCyberman/dotfile-sync) - Syncing dotfiles or other symlinks easily
 - [Smithay/wayland-rs](https://github.com/Smithay/wayland-rs) - Rust implementation of the wayland protocol (client and server).
 - [Canop/dysk](https://github.com/Canop/dysk) - A linux utility to get information on filesystems, like df but better
