@@ -873,7 +873,7 @@
 - [Tnze/go-mc](https://github.com/Tnze/go-mc) - Collection of Go libraries for Minecraft
 - [aziis98/textml](https://github.com/aziis98/textml) - My personal textual markup language. Mostly a more structured alternative to Markdown
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
-- [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI
+- [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
 - [mayth/go-simple-upload-server](https://github.com/mayth/go-simple-upload-server) - Simple HTTP server to save artifacts
 - [doron-cohen/antidot](https://github.com/doron-cohen/antidot) - Cleans up your $HOME from those pesky dotfiles
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cozy typing speed tester in terminal
@@ -1688,7 +1688,7 @@
 - [NethServer/dev](https://github.com/NethServer/dev) - NethServer issue tracker
 - [gyim/vim-boxdraw](https://github.com/gyim/vim-boxdraw) - An ASCII box drawing plugin for Vim
 - [lukefleed/auto-graph](https://github.com/lukefleed/auto-graph) - 
-- [cmang/durdraw](https://github.com/cmang/durdraw) - Versatile ASCII and ANSI Art text editor for drawing in the Linux/Unix/macOS terminal, with animation, 16 and 256 color, Unicode and CP437, and customizable themes
+- [cmang/durdraw](https://github.com/cmang/durdraw) - Versatile ASCII and ANSI Art text editor for drawing in the Linux/Unix/macOS terminal, with animation, 256 and 16 colors, Unicode and CP437, and customizable themes
 - [MichaelStott/SimplexSolver](https://github.com/MichaelStott/SimplexSolver) - Python script that solves standard linear programs with the Simplex algorithm and outputs step-by-step LaTeX instructions.
 - [vmavromatis/absolutely-proprietary](https://github.com/vmavromatis/absolutely-proprietary) - Proprietary package detector for arch-based distros. Compares your installed packages against Parabola's package blacklist and then prints your Stallman Freedom Index (free/total).
 - [Chia-Network/chia-blockchain](https://github.com/Chia-Network/chia-blockchain) - Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)
