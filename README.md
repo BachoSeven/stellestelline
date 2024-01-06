@@ -999,6 +999,7 @@
 
 ## HTML 
 
+- [gerby-project/gerby-website](https://github.com/gerby-project/gerby-website) - Tag-based webview of LaTeX documents
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna) - A minimal opinionated theme for Hugo
 - [rbrignall/numble](https://github.com/rbrignall/numble) - Wordle with maths-themed words
@@ -2313,7 +2314,6 @@
 - [ptr1337/linux-cacule](https://github.com/ptr1337/linux-cacule) - Archlinux Kernel based on the Cacule Scheduler and with many improvements.
 - [KF-Art/ungoogled-chromium-void](https://github.com/KF-Art/ungoogled-chromium-void) - Void Linux repository for Ungoogled Chromium fork.
 - [steadfasterX/SALT](https://github.com/steadfasterX/SALT) - SALT - [S]teadfasterX [A]ll-in-one [L]G [T]ool
-- [SaschaWessel/lgtv](https://github.com/SaschaWessel/lgtv) - A command line webOS remote for LGTVs
 - [spxak1/weywot](https://github.com/spxak1/weywot) - My notes on using Pop!_OS
 - [sayan01/scripts](https://github.com/sayan01/scripts) - scripts
 - [codingtony/udev-monitor-hotplug](https://github.com/codingtony/udev-monitor-hotplug) - Script that get triggered when monitors are plugged in or out in Linux
@@ -2366,7 +2366,7 @@
 - [Hackplayers/4nonimizer](https://github.com/Hackplayers/4nonimizer) - A bash script for anonymizing the public IP used to browsing Internet, managing the connection to TOR network and to different VPNs providers (OpenVPN)
 - [chaotic-aur/pkgbuild-chaotic-mirrorlist](https://github.com/chaotic-aur/pkgbuild-chaotic-mirrorlist) - ArchLinux PKGBUILD for "chaotic-mirrorlist"
 - [chaotic-aur/pkgbuild-chaotic-keyring](https://github.com/chaotic-aur/pkgbuild-chaotic-keyring) - ArchLinux PKGBUILD for "chaotic-keyring"
-- [a13xie/arch-install](https://github.com/a13xie/arch-install) - Install scripts for Arch Linux
+- [k8ieone/arch-install](https://github.com/k8ieone/arch-install) - Install scripts for Arch Linux
 - [bfrg/gpg-guide](https://github.com/bfrg/gpg-guide) - Quick-start guide to GPG
 - [jzbor/mashup](https://github.com/jzbor/mashup) - Merely Another Shell Utility Project
 - [jstkdng/ungoogled-chromium-bin](https://github.com/jstkdng/ungoogled-chromium-bin) - Mirror from the now deleted ungoogled-chromium-bin AUR package
