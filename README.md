@@ -895,7 +895,6 @@
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / free-software subsonic server API implementation
 - [raitonoberu/sptlrx](https://github.com/raitonoberu/sptlrx) - Synchronized lyrics in your terminal
 - [blrsn/zentile](https://github.com/blrsn/zentile) - Automatic Tiling for EWMH Compliant Window Managers
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [makew0rld/amfora](https://github.com/makew0rld/amfora) - A fancy terminal browser for the Gemini protocol.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -1000,6 +999,7 @@
 
 ## HTML 
 
+- [MarginaliaSearch/MarginaliaSearch](https://github.com/MarginaliaSearch/MarginaliaSearch) - Internet search engine for text-oriented websites. Indexing the small, old and weird web.
 - [gerby-project/gerby-website](https://github.com/gerby-project/gerby-website) - Tag-based webview of LaTeX documents
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna) - A minimal opinionated theme for Hugo
@@ -1595,7 +1595,7 @@
 - [chaotic-aur/packages](https://github.com/chaotic-aur/packages) - The packages Mason, what do they mean? (Package requests and bug reports here) 📑
 - [rsaihe/gruvbox-material-kitty](https://github.com/rsaihe/gruvbox-material-kitty) - A port of @sainnhe's Gruvbox Material theme for Kitty.
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
-- [pagopa/io](https://github.com/pagopa/io) - Repository principale di IO: offre una mappa di informazioni e risorse per orientarsi nel progetto
+- [pagopa-archive/io](https://github.com/pagopa-archive/io) - Repository principale di IO: offre una mappa di informazioni e risorse per orientarsi nel progetto
 - [Francesco149/gopher](https://github.com/Francesco149/gopher) - new gopherspace, will be mostly programming/tech writeups
 - [Icelk/xsnow-comp-patch](https://github.com/Icelk/xsnow-comp-patch) - Compositor-friendly patch for Xsnow
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
@@ -1711,6 +1711,7 @@
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [agent255/clspotify](https://github.com/agent255/clspotify) - Spotify song downloader without injecting into the windows client
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
 - [nix-gui/nix-gui](https://github.com/nix-gui/nix-gui) - Use NixOS Without Coding
 - [Sulius/Spotify-to-LastFM-Converter](https://github.com/Sulius/Spotify-to-LastFM-Converter) - Let's you import your Spotify history .json-file into Universal Scrobbler.
 - [webosbrew/apps-repo](https://github.com/webosbrew/apps-repo) - Central repo for webOS Homebrew apps
