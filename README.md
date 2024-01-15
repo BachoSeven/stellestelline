@@ -1313,13 +1313,14 @@
 - [dkter/aaaaa](https://github.com/dkter/aaaaa) - a minimalist keyboard
 - [TeamVanced/VancedManager](https://github.com/TeamVanced/VancedManager) - Vanced Installer
 - [allgood/OpenNoteScanner](https://github.com/allgood/OpenNoteScanner) - Android application for scanning and manipulating handwritten notes and documents.
-- [tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher) - Minimal AF Launcher for Android. Helps you reduce your screen time. Looks good.
+- [tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher) - Minimal AF Launcher for Android. Reduce your screen time. Daily wallpapers.
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
 - [ubergeek42/weechat-android](https://github.com/ubergeek42/weechat-android) - Simple Weechat-Relay Android Client
 - [lposidon/posidonLauncher](https://github.com/lposidon/posidonLauncher) - a one-page homescreen with a news feed (discontinued)
 
 ## Lean 
 
+- [leanprover-community/sphere-eversion](https://github.com/leanprover-community/sphere-eversion) - Formalization of the existence of sphere eversions
 - [digama0/lean4lean](https://github.com/digama0/lean4lean) - Lean 4 kernel / 'external checker' written in Lean 4
 - [mariainesdff/ideles-journal](https://github.com/mariainesdff/ideles-journal) - 
 - [aziis98/lean-codespace](https://github.com/aziis98/lean-codespace) - Questa repository contiene un semplice progetto in Lean che può essere lanciato con un click su GitHub CodeSpaces
@@ -1397,6 +1398,7 @@
 - [nvim-tree/nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) - lua `fork` of vim-web-devicons for neovim
 - [tjdevries/config_manager](https://github.com/tjdevries/config_manager) - My configuration files and tools
 - [ojroques/nvim-bufdel](https://github.com/ojroques/nvim-bufdel) - A Neovim plugin to improve buffer deletion
+- [LinArcX/winconf](https://github.com/LinArcX/winconf) - Tips & Tricks to make windows less bloated and more productive :)
 - [mxdevmanuel/dotfiles](https://github.com/mxdevmanuel/dotfiles) - My personal set of dotfiles (Managed with Stow)
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [nvim-lua/completion-nvim](https://github.com/nvim-lua/completion-nvim) - A async completion framework aims to provide completion to neovim's built in LSP written in Lua
@@ -1525,7 +1527,7 @@
 - [aynp/dracula-wallpapers](https://github.com/aynp/dracula-wallpapers) - Wallpapers based on the Dracula Theme
 - [macchrome/linchrome](https://github.com/macchrome/linchrome) - ungoogled chromium portablelinux
 - [jellyfin-archive/jellyfin-docs](https://github.com/jellyfin-archive/jellyfin-docs) - Documentation for Jellyfin
-- [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
+- [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command-line tools for manipulating structured text data
 - [MaxGyver83/dwm-goback](https://github.com/MaxGyver83/dwm-goback) - Patch for dwm that enables going back to the previously focused tagset not restricted to the focused monitor
 - [Bonfire-GTK/newpirates](https://github.com/Bonfire-GTK/newpirates) - Teaching people how to torrent
 - [SonixQMK/Mechanical-Keyboard-Database](https://github.com/SonixQMK/Mechanical-Keyboard-Database) - A Mechanical Keyboard Database
@@ -1682,6 +1684,7 @@
 
 ## Python 
 
+- [oskarsh/Yin-Yang](https://github.com/oskarsh/Yin-Yang) - Auto Nightmode for KDE, Gnome, Budgie, VSCode, Atom and more
 - [hhannine/superpaper](https://github.com/hhannine/superpaper) - A cross-platform multi monitor wallpaper manager.
 - [Santi-hr/UNI-T-Thermal-Utilities](https://github.com/Santi-hr/UNI-T-Thermal-Utilities) - Small script to extract raw temperature data from UNI-T thermal camera images.
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
@@ -2433,7 +2436,7 @@
 - [doronbehar/dotfiles](https://github.com/doronbehar/dotfiles) - My Dotfiles - tmux, vim, bash, zsh with powerline and git
 - [ful1e5/XCursor-pro](https://github.com/ful1e5/XCursor-pro) - Modern XCursors.
 - [pystardust/sbar](https://github.com/pystardust/sbar) - Simple dwm bar script with variable timing and signalling in posix
-- [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, Hyprland, kitty, kakoune, zsh and more + scripted installation guide
+- [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, Hyprland, kitty, kakoune, zsh and more
 - [paoloap/zaread](https://github.com/paoloap/zaread) - A (very) lightweight MS Office file reader
 - [Bugswriter/tuxi](https://github.com/Bugswriter/tuxi) - Tuxi is a cli assistant. Get answers of your questions instantly.
 - [lahwaacz/Scripts](https://github.com/lahwaacz/Scripts) - 
@@ -2627,7 +2630,7 @@
 - [benlikescode/geohub](https://github.com/benlikescode/geohub) - Free, open source geoguessr alternative
 - [nexus-stc/stc](https://github.com/nexus-stc/stc) - Distributed free search engine and AI tools that grant access to knowledge
 - [LibreScore/dl-librescore](https://github.com/LibreScore/dl-librescore) - Download sheet music
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas SDK.
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [michimani/chrome-tab-ex](https://github.com/michimani/chrome-tab-ex) - This is a Chrome extension that sorts and groups tabs.
 - [aziis98/art-phc-landing-page](https://github.com/aziis98/art-phc-landing-page) - This is the second version of the _wire art_ for the landing page of the new PHC website.
@@ -2739,7 +2742,6 @@
 - [Luxed/ayu-vim](https://github.com/Luxed/ayu-vim) - Modern theme for modern VIMs
 - [noahfrederick/vim-noctu](https://github.com/noahfrederick/vim-noctu) - A Vim color scheme for 16-color terminals
 - [changemewtf/no_plugins](https://github.com/changemewtf/no_plugins) - "Slides" and supplemental info from my August 3rd 2016 NYC Vim talk
-- [LinArcX/winconf](https://github.com/LinArcX/winconf) - Tips & Tricks to make windows less bloated and more productive :)
 - [LinArcX/mpsl](https://github.com/LinArcX/mpsl) - minimal (n)vim plugins - status line(Under 200 LOC)
 - [LinArcX/mpbtl](https://github.com/LinArcX/mpbtl) - minimal (n)vim plugins - buffer tabline(Under 200 LOC)
 - [LinArcX/mpi](https://github.com/LinArcX/mpi) - minimal (n)vim plugins - icons (Under 200 LOC)
