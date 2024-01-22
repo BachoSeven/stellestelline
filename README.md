@@ -1423,6 +1423,7 @@
 
 ## MATLAB 
 
+- [darkcrystal24/heuristic_endomorphisms](https://github.com/darkcrystal24/heuristic_endomorphisms) - Heuristic determination of endomorphism rings of curves
 - [simmaco99/SimplessoPrimale](https://github.com/simmaco99/SimplessoPrimale) - Algoritmo del Simplesso Primale
 - [lukefleed/lab-didattico](https://github.com/lukefleed/lab-didattico) - Esercizi svolti di Laboratorio Didattico di Matematica Computazionale [2020/2021]
 - [elvilio/Laboratorio-Didattico-di-Matematica-Computazionale](https://github.com/elvilio/Laboratorio-Didattico-di-Matematica-Computazionale) - 
