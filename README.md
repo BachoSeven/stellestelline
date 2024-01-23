@@ -1736,7 +1736,7 @@
 - [jellyfin/mopidy-jellyfin](https://github.com/jellyfin/mopidy-jellyfin) - Jellyfin Extension for Mopidy
 - [flathub/com.spotify.Client](https://github.com/flathub/com.spotify.Client) - 
 - [larmedina75/pulseaudio-equalizer-ladspa](https://github.com/larmedina75/pulseaudio-equalizer-ladspa) - Pulseaudio LADSPA Equalizer
-- [gabomdq/SDL_GameControllerDB](https://github.com/gabomdq/SDL_GameControllerDB) - A community sourced database of game controller mappings to be used with SDL2 Game Controller functionality
+- [mdqinc/SDL_GameControllerDB](https://github.com/mdqinc/SDL_GameControllerDB) - A community sourced database of game controller mappings to be used with SDL2 Game Controller functionality
 - [baskerville/diana](https://github.com/baskerville/diana) - A command line interface to the aria2 daemon
 - [yixuanzhou/image2latex](https://github.com/yixuanzhou/image2latex) - A tool to convert math equation images to LaTeX markup
 - [blueOkiris/bgrm](https://github.com/blueOkiris/bgrm) - Virtual webcam that takes real webcam footage and replaces the background in order to have Virtual Backgrounds in MS Teams for Linux where the feature is unimplemented.
