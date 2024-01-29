@@ -2221,6 +2221,7 @@
 
 ## SCSS 
 
+- [phc-dm/seminarietti-website](https://github.com/phc-dm/seminarietti-website) - Piccolo sito in Astro per i Seminarietti del PHC
 - [rozniak/xfce-winxp-tc](https://github.com/rozniak/xfce-winxp-tc) - Windows XP stuff for XFCE
 - [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [vinibiavatti1/TuiCss](https://github.com/vinibiavatti1/TuiCss) - Text-based user interface CSS library
@@ -2548,7 +2549,7 @@
 - [BrodieRobertson/scripts](https://github.com/BrodieRobertson/scripts) - Messing around with shell scripting because it seems like fun, maybe you'll find something useful
 - [inco-cc/pinentry-dmenu](https://github.com/inco-cc/pinentry-dmenu) - 🔑 simple dmenu / GnuPG integration
 - [cdown/clipmenu](https://github.com/cdown/clipmenu) - Clipboard management using dmenu
-- [juacq97/dotfiles](https://github.com/juacq97/dotfiles) - Un respaldo de mis dotfiles más importantes en mi laptop
+- [juacq97/dotfilesOlds](https://github.com/juacq97/dotfilesOlds) - Un respaldo de mis dotfiles más importantes en mi laptop
 - [softmoth/zsh-vim-mode](https://github.com/softmoth/zsh-vim-mode) - Friendly bindings for ZSH's vi mode
 - [htr3n/zsh-config](https://github.com/htr3n/zsh-config) - Faster and enjoyable ZSH (maybe) !!!
 - [rgomezcasas/dotfiles](https://github.com/rgomezcasas/dotfiles) - :penguin: Simple, fast, productivity-increaser dotfiles
