@@ -547,6 +547,7 @@
 
 ## C++ 
 
+- [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficientl
 - [lean-dojo/LeanCopilot](https://github.com/lean-dojo/LeanCopilot) - LLMs as Copilots for Theorem Proving in Lean
 - [jstkdng/ueberzugpp](https://github.com/jstkdng/ueberzugpp) - Drop in replacement for ueberzug written in C++
 - [shaunharker/CHomP](https://github.com/shaunharker/CHomP) - CHomP -- Computation Homology Project software
@@ -1077,6 +1078,7 @@
 
 ## Java 
 
+- [zigazajc007/Passky](https://github.com/zigazajc007/Passky) - The best authentication plugin
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Ultra Easy to Set Up and Maintain.
 - [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) - A fork of NewPipe with SponsorBlock functionality.
@@ -1321,6 +1323,7 @@
 
 ## Lean 
 
+- [AlexKontorovich/PrimeNumberTheoremAnd](https://github.com/AlexKontorovich/PrimeNumberTheoremAnd) - blueprint for prime number theorem and more
 - [leanprover-community/sphere-eversion](https://github.com/leanprover-community/sphere-eversion) - Formalization of the existence of sphere eversions
 - [digama0/lean4lean](https://github.com/digama0/lean4lean) - Lean 4 kernel / 'external checker' written in Lean 4
 - [mariainesdff/ideles-journal](https://github.com/mariainesdff/ideles-journal) - 
@@ -1496,6 +1499,7 @@
 
 ## Others 
 
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [noctuid/evil-guide](https://github.com/noctuid/evil-guide) - Draft of a guide for using emacs with evil
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 - [Xaiter/Binding-of-Isaac](https://github.com/Xaiter/Binding-of-Isaac) - Decompiled with Flare.  Absolutely no copyrighted assets or material will be posted here.  We're just trying to figure out how the game works.
