@@ -206,7 +206,6 @@
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [sacd-ripper/sacd-ripper](https://github.com/sacd-ripper/sacd-ripper) - SACD ripping software using a PS3
 - [nsxiv/nsxiv](https://github.com/nsxiv/nsxiv) - Read-only mirror of Neo Simple X Image Viewer
-- [GiacomoLaw/Keylogger](https://github.com/GiacomoLaw/Keylogger) - A simple keylogger for Windows, Linux and Mac
 - [J-Lentz/iwgtk](https://github.com/J-Lentz/iwgtk) - Lightweight wireless networking GUI (front-end for iwd)
 - [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
@@ -592,6 +591,7 @@
 - [hank/dsf2flac](https://github.com/hank/dsf2flac) - Code for converting DSF to FLAC files
 - [Sound-Linux-More/sacd](https://github.com/Sound-Linux-More/sacd) - Converts SACD image files, Philips DSDIFF and Sony DSF files to 24-bit high resolution wave files. Handles both DST and DSD streams. https://launchpad.net/sacd
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
+- [GiacomoLaw/Keylogger](https://github.com/GiacomoLaw/Keylogger) - A simple keylogger for Windows, Linux and Mac
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [kernc/logkeys](https://github.com/kernc/logkeys) - :memo: :keyboard: A GNU/Linux keylogger that works!
 - [Martchus/tageditor](https://github.com/Martchus/tageditor) - A tag editor with Qt GUI and command-line interface supporting MP4/M4A/AAC (iTunes), ID3, Vorbis, Opus, FLAC and Matroska
@@ -1570,7 +1570,7 @@
 - [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
 - [keystroke3/Tauon-themes](https://github.com/keystroke3/Tauon-themes) - A few of my own themes for Tauon Music Box: https://github.com/Taiko2k/TauonMusicBox.git
 - [google/bbr](https://github.com/google/bbr) - 
-- [vyuun/st-undercurl](https://github.com/vyuun/st-undercurl) - A patch for ST (Simple Terminal) adding support for curly and colored underlines.
+- [derriche-massinissa/st-undercurl](https://github.com/derriche-massinissa/st-undercurl) - A patch for ST (Simple Terminal) adding support for curly and colored underlines.
 - [Droogans/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [seebye/ueberzug](https://github.com/seebye/ueberzug) - 
