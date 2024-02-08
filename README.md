@@ -39,7 +39,6 @@
 - [HolyC](#holyc)
 - [Java](#java)
 - [JavaScript](#javascript)
-- [Jinja](#jinja)
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Just](#just)
@@ -1270,10 +1269,6 @@
 - [EliverLara/terminator-themes](https://github.com/EliverLara/terminator-themes) - :metal: The biggest collection of themes for Terminator terminal.
 - [m4heshd/offlinebay](https://github.com/m4heshd/offlinebay) - Official repository of the project OfflineBay
 
-## Jinja 
-
-- [slashbeast/conf-mgmt](https://github.com/slashbeast/conf-mgmt) - Configuration management for Gentoo workstations
-
 ## Julia 
 
 - [Arpeggeo/julia-distributed-computing](https://github.com/Arpeggeo/julia-distributed-computing) - The ultimate guide to distributed computing in Julia
@@ -1684,7 +1679,7 @@
 ## PowerShell 
 
 - [n1snt/Windows-Debloater](https://github.com/n1snt/Windows-Debloater) - A script to debloat Windows.
-- [dotnet/core](https://github.com/dotnet/core) - Home repository for .NET Core
+- [dotnet/core](https://github.com/dotnet/core) - .NET news, announcements, releases notes, and more!
 - [simeononsecurity/Windows-Optimize-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Debloat) - Optimize and debloat Windows 10 and Windows 11 deployments according to best practices for maximum performance and privacy. The ultimate script for enhancing your Windows experience.
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 
