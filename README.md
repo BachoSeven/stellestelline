@@ -514,7 +514,7 @@
 - [SHOEGAZEssb/Last.fm-Scrubbler-WPF](https://github.com/SHOEGAZEssb/Last.fm-Scrubbler-WPF) - Manual Last.fm scrobbling for when a service (or you!) failed to scrobble.
 - [jesseward/jellyfin-plugin-lastfm](https://github.com/jesseward/jellyfin-plugin-lastfm) - LastFM plugin for the Jellyfin media system. Fork of the Emby Last.FM plug-in
 - [Radarr/Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users.
-- [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with a focus for manga and the goal of being a full solution for all your reading needs. Setup your own server and share your readi
+- [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
 - [jackBonadies/SeekerAndroid](https://github.com/jackBonadies/SeekerAndroid) - Android client for the Soulseek peer-to-peer network
 - [jellyfin/jellyfin-plugin-bookshelf](https://github.com/jellyfin/jellyfin-plugin-bookshelf) - 
 - [NoelFB/Celeste](https://github.com/NoelFB/Celeste) - Celeste Bugs & Issue Tracker + some Source Code
