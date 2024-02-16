@@ -1176,7 +1176,6 @@
 - [nadimkobeissi/appleprivacyletter](https://github.com/nadimkobeissi/appleprivacyletter) - An open letter against Apple's new privacy-invasive client-side content scanning.
 - [emps/Lossless-Audio-Checker-GUI](https://github.com/emps/Lossless-Audio-Checker-GUI) - Lossless Audio Checker detects upscaling, upsampling and transcoding in lossless musical tracks.
 - [arikrupnik/ltcsync](https://github.com/arikrupnik/ltcsync) - Syncs media files using embedded timecode (LTC)
-- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [browserpass/browserpass-extension](https://github.com/browserpass/browserpass-extension) - Browserpass web extension
 - [evgeny-nadymov/telegram-react](https://github.com/evgeny-nadymov/telegram-react) - Experimental Telegram web client with tdlib, webassembly and react js under the hood
 - [BachoSeven/startpage](https://github.com/BachoSeven/startpage) - a cute little home for my browser
@@ -1679,7 +1678,7 @@
 ## PowerShell 
 
 - [n1snt/Windows-Debloater](https://github.com/n1snt/Windows-Debloater) - A script to debloat Windows.
-- [dotnet/core](https://github.com/dotnet/core) - .NET news, announcements, releases notes, and more!
+- [dotnet/core](https://github.com/dotnet/core) - .NET news, announcements, release notes, and more!
 - [simeononsecurity/Windows-Optimize-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Debloat) - Optimize and debloat Windows 10 and Windows 11 deployments according to best practices for maximum performance and privacy. The ultimate script for enhancing your Windows experience.
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 
@@ -2658,6 +2657,7 @@
 - [xbrowsersync/api](https://github.com/xbrowsersync/api) - Server-side REST API that serves requests from xBrowserSync client apps
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
 - [imLinguin/jelly-desktop](https://github.com/imLinguin/jelly-desktop) - Simple community made desktop client for Jellyfin
+- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [aome510/article-md-cli](https://github.com/aome510/article-md-cli) - An CLI application to parse a web article into readable text.
 - [holtwick/briefing](https://github.com/holtwick/briefing) - 🔮 Secure direct video group chat
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
@@ -2738,7 +2738,7 @@
 - [sayanarijit/xplr.vim](https://github.com/sayanarijit/xplr.vim) - Fork of https://github.com/mcchrish/nnn.vim modified to work with xplr. Until xplr has its own plugin.
 - [chrisbra/Colorizer](https://github.com/chrisbra/Colorizer) - color hex codes and color names
 - [lahwaacz/dotfiles](https://github.com/lahwaacz/dotfiles) - Personal configuration for my Arch Linux systems
-- [marcothms/dots](https://github.com/marcothms/dots) - my main configuration files
+- [marcothms/dots](https://github.com/marcothms/dots) - My configurations
 - [leanprover/lean.vim](https://github.com/leanprover/lean.vim) - 
 - [AndrewRadev/splitjoin.vim](https://github.com/AndrewRadev/splitjoin.vim) - Switch between single-line and multiline forms of code
 - [rbtnn/vim-mario](https://github.com/rbtnn/vim-mario) - Mario on Vim
