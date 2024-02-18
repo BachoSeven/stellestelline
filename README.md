@@ -83,6 +83,7 @@
 - [Svelte](#svelte)
 - [TeX](#tex)
 - [TypeScript](#typescript)
+- [Typst](#typst)
 - [V](#v)
 - [Vala](#vala)
 - [Vim Script](#vim-script)
@@ -2494,7 +2495,7 @@
 - [etcusrvar/xdgize](https://github.com/etcusrvar/xdgize) - Generates minimal wrapper/shim shell scripts around external commands to "XDG"-ize them.
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
 - [graysky2/profile-cleaner](https://github.com/graysky2/profile-cleaner) - Simple script to vacuum and reindex sqlite databases used by Firefox and by Chrome/Chromium.
-- [lemniskett/archbox](https://github.com/lemniskett/archbox) - Easy to use Arch Linux chroot environment with some functionalities to integrate it with your existing Linux installation.
+- [lemniskett/archbox](https://github.com/lemniskett/archbox) - Easy to use Arch Linux chroot environment with some functionalities to integrate it with your existing Linux installation. Mirror of https://momodev.lemniskett.moe/lemniskett/archbox
 - [foldback/shiki](https://github.com/foldback/shiki) - Shiki ~ Wikipedia 🌐 on your Terminal
 - [make-github-pseudonymous-again/dotfiles](https://github.com/make-github-pseudonymous-again/dotfiles) - :wrench: ~/. dotfiles for Arch Linux
 - [helixarch/debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
@@ -2692,6 +2693,10 @@
 - [pop-os/shell](https://github.com/pop-os/shell) - Pop!_OS Shell
 - [obsfx/libgen-downloader](https://github.com/obsfx/libgen-downloader) - A simple tool to search and download ebooks from libgen via terminal user interface.
 
+## Typst 
+
+- [marcothms/dots](https://github.com/marcothms/dots) - My configurations
+
 ## V 
 
 - [cotowali/cotowali](https://github.com/cotowali/cotowali) - A statically typed scripting language that transpile into POSIX sh
@@ -2738,7 +2743,6 @@
 - [sayanarijit/xplr.vim](https://github.com/sayanarijit/xplr.vim) - Fork of https://github.com/mcchrish/nnn.vim modified to work with xplr. Until xplr has its own plugin.
 - [chrisbra/Colorizer](https://github.com/chrisbra/Colorizer) - color hex codes and color names
 - [lahwaacz/dotfiles](https://github.com/lahwaacz/dotfiles) - Personal configuration for my Arch Linux systems
-- [marcothms/dots](https://github.com/marcothms/dots) - My configurations
 - [leanprover/lean.vim](https://github.com/leanprover/lean.vim) - 
 - [AndrewRadev/splitjoin.vim](https://github.com/AndrewRadev/splitjoin.vim) - Switch between single-line and multiline forms of code
 - [rbtnn/vim-mario](https://github.com/rbtnn/vim-mario) - Mario on Vim
