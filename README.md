@@ -1553,7 +1553,7 @@
 - [jakeday/linux-surface](https://github.com/jakeday/linux-surface) - Linux Kernel for Surface Devices
 - [PF4Public/ungoogled-chromium-bin](https://github.com/PF4Public/ungoogled-chromium-bin) - Binary releases of ungoogled-chromium
 - [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
-- [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine
+- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [zX3no/ncmpcpp-windows](https://github.com/zX3no/ncmpcpp-windows) - Guide for ncmpcpp on windows.
 - [beucismis/awesome-fetch](https://github.com/beucismis/awesome-fetch) - Command-line fetch tools for system/other information
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
