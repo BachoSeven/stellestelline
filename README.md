@@ -1349,7 +1349,7 @@
 - [angelofallars/dotfiles](https://github.com/angelofallars/dotfiles) - 🦀 My dotfiles on Artix Linux. Neovim | tmux | Hyprland
 - [is0n/fm-nvim](https://github.com/is0n/fm-nvim) - 🗂 Neovim plugin that lets you use your favorite terminal file managers (and fuzzy finders) from within Neovim.
 - [lmburns/dotfiles](https://github.com/lmburns/dotfiles) - Dotfiles for Arch Linux - neovim, zsh
-- [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim) - Neovim motions on speed!
+- [hadronized/hop.nvim](https://github.com/hadronized/hop.nvim) - Neovim motions on speed!
 - [harvardnlp/im2markup](https://github.com/harvardnlp/im2markup) - Neural model for converting Image-to-Markup (by Yuntian Deng yuntiandeng.com)
 - [ChocolateBread799/dotfiles](https://github.com/ChocolateBread799/dotfiles) - My Awesomewm dotfile
 - [alesan99/mari0_ae](https://github.com/alesan99/mari0_ae) - Mari0: Alesan99's Entities
