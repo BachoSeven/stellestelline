@@ -67,6 +67,7 @@
 - [Processing](#processing)
 - [Python](#python)
 - [QML](#qml)
+- [R](#r)
 - [Raku](#raku)
 - [ReScript](#rescript)
 - [Reason](#reason)
@@ -711,7 +712,6 @@
 
 - [nimaipatel/dotfiles](https://github.com/nimaipatel/dotfiles) - Λ dotfiles for (Arch) GNU/Linux
 - [thosgood/fga](https://github.com/thosgood/fga) - An English translation of Grothendieck's Fondements de la Géometrie Algébrique
-- [thosgood/sga](https://github.com/thosgood/sga) - An English translation of the Séminaire de Géométrie Algébrique du Bois Marie
 - [NethServer/docs](https://github.com/NethServer/docs) - NethServer documentation
 - [williamckha/spicetify-fluent](https://github.com/williamckha/spicetify-fluent) - Spicetify theme inspired by Microsoft's Fluent Design
 - [schnensch0/ziro](https://github.com/schnensch0/ziro) - spicetify theme inspired by zorin
@@ -1417,7 +1417,7 @@
 - [jgreco/mpv-youtube-quality](https://github.com/jgreco/mpv-youtube-quality) - A userscript for MPV that allows you to change youtube video quality (ytdl-format) on the fly
 - [kutsan/dotfiles](https://github.com/kutsan/dotfiles) - My dotfiles: Experimental, ongoing configuration files, development environment and scripts for various Unix-like systems, text-based command-line applications and interfaces.
 - [neg-serg/arch-dotfiles](https://github.com/neg-serg/arch-dotfiles) - My old config for archlinux
-- [webgefrickel/dotfiles](https://github.com/webgefrickel/dotfiles) - A collection of my dotfiles. Lot's of Vim, Mutt, tmux and zsh stuff in here.
+- [webgefrickel/dotfiles](https://github.com/webgefrickel/dotfiles) - A collection of my dotfiles. Lot's of NeoVim, Mutt and zsh stuff in here.
 
 ## MATLAB 
 
@@ -1977,6 +1977,10 @@
 - [khanhas/zshelf](https://github.com/khanhas/zshelf) - reMarkable app: Browse and download books from Z-Library
 - [mirukana/mirage](https://github.com/mirukana/mirage) - A fancy, customizable, keyboard-operable Qt/QML & Python Matrix chat client for encrypted and decentralized communication.
 - [PedroHLC/niemeyer](https://github.com/PedroHLC/niemeyer) - An ArchLinux GUI installer that focuses on generating a customizable mkrootfs script.
+
+## R 
+
+- [thosgood/sga](https://github.com/thosgood/sga) - An English translation of the Séminaire de Géométrie Algébrique du Bois Marie
 
 ## Raku 
 
