@@ -620,7 +620,6 @@
 - [tenacityteam/tenacity-legacy](https://github.com/tenacityteam/tenacity-legacy) - THIS REPO IS NOT MAINTAINED ANYMORE. Please see https://codeberg.org/tenacityteam/tenacity for Tenacity, which is maintained.
 - [sandsmark/auracle](https://github.com/sandsmark/auracle) - A flexible command line client for Arch Linux's User Repository
 - [falconindy/auracle](https://github.com/falconindy/auracle) - A flexible command line client for Arch Linux's User Repository
-- [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch emulator
 - [derat/xsettingsd](https://github.com/derat/xsettingsd) - Moved to codeberg.org/derat/xsettingsd
 - [alexkay/spek](https://github.com/alexkay/spek) - Acoustic spectrum analyser
 - [RetroShare/RetroShare](https://github.com/RetroShare/RetroShare) - RetroShare is a Free and Open Source cross-platform, Friend-2-Friend and secure decentralised communication platform.
