@@ -67,7 +67,6 @@
 - [Processing](#processing)
 - [Python](#python)
 - [QML](#qml)
-- [R](#r)
 - [Raku](#raku)
 - [ReScript](#rescript)
 - [Reason](#reason)
@@ -90,6 +89,7 @@
 - [Vim Script](#vim-script)
 - [Vim Snippet](#vim-snippet)
 - [Vue](#vue)
+- [XSLT](#xslt)
 - [Zig](#zig)
 - [sed](#sed)
 
@@ -1976,10 +1976,6 @@
 - [mirukana/mirage](https://github.com/mirukana/mirage) - A fancy, customizable, keyboard-operable Qt/QML & Python Matrix chat client for encrypted and decentralized communication.
 - [PedroHLC/niemeyer](https://github.com/PedroHLC/niemeyer) - An ArchLinux GUI installer that focuses on generating a customizable mkrootfs script.
 
-## R 
-
-- [thosgood/sga](https://github.com/thosgood/sga) - An English translation of the Séminaire de Géométrie Algébrique du Bois Marie
-
 ## Raku 
 
 - [rakudo/rakudo](https://github.com/rakudo/rakudo) - 🦋 Rakudo – Raku on MoarVM, JVM, and JS
@@ -2315,7 +2311,7 @@
 - [denysvitali/covid-cert-analysis](https://github.com/denysvitali/covid-cert-analysis) - 
 - [n0tsteve/glorious-dots](https://github.com/n0tsteve/glorious-dots) - My personal dotfiles
 - [tadly/hideIt.sh](https://github.com/tadly/hideIt.sh) - Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
-- [dreemurrs-embedded/Pine64-Arch](https://github.com/dreemurrs-embedded/Pine64-Arch) - PKGBUILD for running Arch Linux on PinePhone/PineTab.
+- [dreemurrs-embedded/Pine64-Arch](https://github.com/dreemurrs-embedded/Pine64-Arch) - :penguin: Arch Linux ARM for your PinePhone/Pro and PineTab/2
 - [hboetes/muzshic](https://github.com/hboetes/muzshic) - Since I couldn't find the ideal music playlist manager, I created my own scripts
 - [XelphLinux/xelph-iso](https://github.com/XelphLinux/xelph-iso) - Moving soon to - https://gitlab.xelphlinux.com
 - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
@@ -2828,6 +2824,10 @@
 - [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [LibreScore/LibreScore](https://github.com/LibreScore/LibreScore) - The open source (GPLv3), serverless (IPFS-based), offline-first, and totally free alternative to musescore.com
 - [cbrasser/bashrc](https://github.com/cbrasser/bashrc) - Browser startpage emulating a unix terminal
+
+## XSLT 
+
+- [thosgood/sga](https://github.com/thosgood/sga) - An English translation of the Séminaire de Géométrie Algébrique du Bois Marie
 
 ## Zig 
 
