@@ -808,7 +808,6 @@
 - [agersant/polaris-android](https://github.com/agersant/polaris-android) - Android client for Polaris
 - [jmshrv/finamp](https://github.com/jmshrv/finamp) - A Jellyfin music client for mobile
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
-- [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
 - [xournalpp/xournalpp_mobile](https://github.com/xournalpp/xournalpp_mobile) - Infinitely take notes, sketch and learn. Xournal++ Mobile is a port of Xournal++ files and features to various mobile platofrms and the web. Mirror of the Xournal++ Mobile repository on GitLab.
 - [dahliaOS/pangolin_desktop](https://github.com/dahliaOS/pangolin_desktop) - Pangolin Desktop UI shell, designed for dahliaOS, written in Flutter.
 - [bgwastu/librebook](https://github.com/bgwastu/librebook) - A minimal front-end library genesis client, built with Flutter
