@@ -405,7 +405,7 @@
 - [b3nj5m1n/lemonblocks](https://github.com/b3nj5m1n/lemonblocks) - A status bar generator for lemonbar, inspired by i3blocks and dwmblocks.
 - [p-gen/smenu](https://github.com/p-gen/smenu) - smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile CLI selection tool for interactive or scripting use.
 - [tats/w3m](https://github.com/tats/w3m) - Debian's w3m: WWW browsable pager
-- [OpenAnnePro/qmk_firmware](https://github.com/OpenAnnePro/qmk_firmware) - Port of QMK for the Anne Pro 2
+- [OpenAnnePro/qmk_firmware](https://github.com/OpenAnnePro/qmk_firmware) - This has since been merged back to mainline QMK. Please use qmk/qmk_firmware
 - [astrand/xclip](https://github.com/astrand/xclip) - Command line interface to the X11 clipboard
 - [LukeSmithxyz/scroll](https://github.com/LukeSmithxyz/scroll) - Minor personal tweaks to suckless's scroll (for st)
 - [Cubified/ntwm](https://github.com/Cubified/ntwm) - A tiny, frameless, keyboard-driven tiling window manager with multimonitor support, written in ANSI C.
@@ -709,7 +709,7 @@
 
 ## CSS 
 
-- [nimaipatel/dotfiles](https://github.com/nimaipatel/dotfiles) - Λ dotfiles for (Arch) GNU/Linux
+- [nimaipatel/arch-dotfiles](https://github.com/nimaipatel/arch-dotfiles) - Λ dotfiles for (Arch) GNU/Linux
 - [thosgood/fga](https://github.com/thosgood/fga) - An English translation of Grothendieck's Fondements de la Géometrie Algébrique
 - [NethServer/docs](https://github.com/NethServer/docs) - NethServer documentation
 - [williamckha/spicetify-fluent](https://github.com/williamckha/spicetify-fluent) - Spicetify theme inspired by Microsoft's Fluent Design
