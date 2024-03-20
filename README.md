@@ -159,7 +159,7 @@
 - [mini-rose/rose-browser](https://github.com/mini-rose/rose-browser) - Minimalist browser based on webkit2.
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
 - [CommanderRag/xbox-controller-emulator-linux](https://github.com/CommanderRag/xbox-controller-emulator-linux) - 
-- [flintlib/antic](https://github.com/flintlib/antic) - Algebraic Number Theory In C
+- [flintlib/antic](https://github.com/flintlib/antic) - Antic has been merged into FLINT -- use https://github.com/flintlib/flint/ instead
 - [cdown/zcfan](https://github.com/cdown/zcfan) - A zero-configuration fan daemon for ThinkPads.
 - [jbensmann/xmouseless](https://github.com/jbensmann/xmouseless) - A fast and simple way to control the mouse.
 - [foutrelis/chromium-launcher](https://github.com/foutrelis/chromium-launcher) - Chromium launcher with support for custom user flags
@@ -1765,7 +1765,7 @@
 - [darlinghq/darling-docker](https://github.com/darlinghq/darling-docker) - Dockerfile for Darling
 - [schlafwandler/ghidra_SavePatch](https://github.com/schlafwandler/ghidra_SavePatch) - A Ghidra script to save small patches back to the executable file
 - [ungoogled-software/ungoogled-chromium-windows](https://github.com/ungoogled-software/ungoogled-chromium-windows) - Windows packaging for ungoogled-chromium
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [Davidy22/SkunkBooth](https://github.com/Davidy22/SkunkBooth) - Text based command line webcam photobooth app
 - [jumper149/blugon](https://github.com/jumper149/blugon) - simple and configurable Blue Light Filter for X
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
