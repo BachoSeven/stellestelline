@@ -2009,6 +2009,8 @@
 
 ## Rust 
 
+- [Smithay/smithay](https://github.com/Smithay/smithay) - A smithy for rusty wayland compositors
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [JuliaLang/juliaup](https://github.com/JuliaLang/juliaup) - Julia installer and version multiplexer
 - [nik012003/ripdrag](https://github.com/nik012003/ripdrag) - Drag and Drop utilty written in Rust and GTK4
 - [Fran314/bbup-rs](https://github.com/Fran314/bbup-rs) - 
