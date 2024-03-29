@@ -83,7 +83,6 @@
 - [Svelte](#svelte)
 - [TeX](#tex)
 - [TypeScript](#typescript)
-- [Typst](#typst)
 - [V](#v)
 - [Vala](#vala)
 - [Vim Script](#vim-script)
@@ -710,6 +709,7 @@
 
 ## CSS 
 
+- [kirel/detexify](https://github.com/kirel/detexify) - Latex Symbol Classifier Web Frontend
 - [nimaipatel/arch-dotfiles](https://github.com/nimaipatel/arch-dotfiles) - Λ dotfiles for (Arch) GNU/Linux
 - [thosgood/fga](https://github.com/thosgood/fga) - An English translation of Grothendieck's Fondements de la Géometrie Algébrique
 - [NethServer/docs](https://github.com/NethServer/docs) - NethServer documentation
@@ -1050,6 +1050,7 @@
 
 ## Haskell 
 
+- [kirel/detexify-hs-backend](https://github.com/kirel/detexify-hs-backend) - Detexify Backend written in Haskell
 - [rzk-lang/rzk](https://github.com/rzk-lang/rzk) - An experimental proof assistant based on a type theory for synthetic ∞-categories.
 - [mvr/at](https://github.com/mvr/at) - Effective Algebraic Topology in Haskell
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
@@ -1518,6 +1519,7 @@
 - [phc-dm/forum](https://github.com/phc-dm/forum) - Forum di domande-risposta open soruce con wiki integrata (In cerca di una vero nome)
 - [NNBnh/bangs4all](https://github.com/NNBnh/bangs4all) - 
 - [jnmcfly/awesome-startpage](https://github.com/jnmcfly/awesome-startpage) - This is a carefully compiled list of remarkable projects with the focus on startpages.
+- [n0tsteve/Genshin-Map-Helper](https://github.com/n0tsteve/Genshin-Map-Helper) - Best genshin software for map research, full legit helper without analogues.
 - [spacebarchat/spacebarchat](https://github.com/spacebarchat/spacebarchat) - 📬 Spacebar is a free open source selfhostable discord compatible communication platform
 - [TemporalAgent7/awesome-windows-privacy](https://github.com/TemporalAgent7/awesome-windows-privacy) - A list of awesome tools, documentation and scripts for better privacy on Microsoft Windows
 - [fiatjaf/awesome-loginless](https://github.com/fiatjaf/awesome-loginless) - an awesome list of internet services that don't require logins or registrations
@@ -2009,6 +2011,7 @@
 
 ## Rust 
 
+- [aarmn/negahban](https://github.com/aarmn/negahban) - 🧐 A simple file watcher, based on `notify`, designed to be fast, easy-to-use and async friendly
 - [Smithay/smithay](https://github.com/Smithay/smithay) - A smithy for rusty wayland compositors
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [JuliaLang/juliaup](https://github.com/JuliaLang/juliaup) - Julia installer and version multiplexer
@@ -2311,7 +2314,6 @@
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [MunifTanjim/zed](https://github.com/MunifTanjim/zed) - ZSH Plugin Manager
 - [denysvitali/covid-cert-analysis](https://github.com/denysvitali/covid-cert-analysis) - 
-- [n0tsteve/glorious-dots](https://github.com/n0tsteve/glorious-dots) - My personal dotfiles
 - [tadly/hideIt.sh](https://github.com/tadly/hideIt.sh) - Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
 - [dreemurrs-embedded/Pine64-Arch](https://github.com/dreemurrs-embedded/Pine64-Arch) - :penguin: Arch Linux ARM for your PinePhone/Pro and PineTab/2
 - [hboetes/muzshic](https://github.com/hboetes/muzshic) - Since I couldn't find the ideal music playlist manager, I created my own scripts
@@ -2417,6 +2419,7 @@
 - [dylanaraps/pxltrm](https://github.com/dylanaraps/pxltrm) - 🖌️ pxltrm - [WIP] A pixel art editor inside the terminal
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
 - [jhuntwork/merelinux](https://github.com/jhuntwork/merelinux) - A lightweight Linux distribution using musl libc, pacman and s6
+- [marcothms/dots](https://github.com/marcothms/dots) - My configurations
 - [z3ntu/archhurd_packages](https://github.com/z3ntu/archhurd_packages) - Packages for Arch Hurd
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [zsh-vi-more/vi-motions](https://github.com/zsh-vi-more/vi-motions) - All the motions you could ask for and more for Zsh's vi mode.
@@ -2693,10 +2696,6 @@
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
 - [pop-os/shell](https://github.com/pop-os/shell) - Pop!_OS Shell
 - [obsfx/libgen-downloader](https://github.com/obsfx/libgen-downloader) - A simple tool to search and download ebooks from libgen via terminal user interface.
-
-## Typst 
-
-- [marcothms/dots](https://github.com/marcothms/dots) - My configurations
 
 ## V 
 
