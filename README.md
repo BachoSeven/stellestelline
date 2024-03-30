@@ -141,6 +141,7 @@
 
 ## C 
 
+- [Notselwyn/CVE-2024-1086](https://github.com/Notselwyn/CVE-2024-1086) - Universal local privilege escalation Proof-of-Concept exploit for CVE-2024-1086, working on most Linux kernels between v5.14 and v6.6, including Debian, Ubuntu, and KernelCTF. The success rate is 99.4
 - [HunterNise/Progetto-Fibonacci](https://github.com/HunterNise/Progetto-Fibonacci) - a project on the algorithms of the Liber Abaci by Fibonacci
 - [merge/skulls](https://github.com/merge/skulls) - pre-built coreboot images and documentation on how to flash them for Thinkpad Laptops
 - [JohnEarnest/Decker](https://github.com/JohnEarnest/Decker) - A multimedia sketchpad
@@ -676,7 +677,7 @@
 - [Asus-MSM8916/android_device_asus_msm8916-common](https://github.com/Asus-MSM8916/android_device_asus_msm8916-common) - 
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [PurritoBin/PurritoBin](https://github.com/PurritoBin/PurritoBin) - fast, minimalistic, encrypted command line paste-bin
-- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
+- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland (sort of), and other things, too
 - [MasterQ32/kristall](https://github.com/MasterQ32/kristall) - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
 - [allencch/med](https://github.com/allencch/med) - Linux alternative game memory editor
 - [grappendorf/smarkant](https://github.com/grappendorf/smarkant) - Convert your IKEA Bekant table into an IoT device
@@ -1067,6 +1068,7 @@
 - [fosskers/aura](https://github.com/fosskers/aura) - A secure, multilingual package manager for Arch Linux and the AUR.
 - [lettier/gifcurry](https://github.com/lettier/gifcurry) - 😎 The open-source, Haskell-built video editor for GIF makers.
 - [ehamberg/9m](https://github.com/ehamberg/9m) - 9m Unicode URL Shortener
+- [rightsreserved/byz4ntine](https://github.com/rightsreserved/byz4ntine) - my config files
 - [vimus/vimus](https://github.com/vimus/vimus) - An MPD client with vim-like key bindings, written in Haskell
 
 ## HolyC 
@@ -2536,7 +2538,6 @@
 - [mastern2k3/taskbook-zsh-plugin](https://github.com/mastern2k3/taskbook-zsh-plugin) - A zsh plugin that auto-completes task numbers for taskbook
 - [filiparag/wikiman](https://github.com/filiparag/wikiman) - Wikiman is an offline search engine for manual pages, Arch Wiki, Gentoo Wiki and other documentation.
 - [phisch/giph](https://github.com/phisch/giph) - simple video (gif, webm, mp4) recorder
-- [rightsreserved/byz4ntine](https://github.com/rightsreserved/byz4ntine) - my config files
 - [YerinAlexey/miniplug](https://github.com/YerinAlexey/miniplug) - :sunflower: Minimalistic plugin manager for ZSH (mirror)
 - [salman-abedin/magpie](https://github.com/salman-abedin/magpie) - Dotfiles of my minimal Unix system geared for media, programming & writing
 - [ValdikSS/windows2usb](https://github.com/ValdikSS/windows2usb) - Windows 7/8/8.1/10/11 ISO to Flash Drive burning utility for Linux (MBR/GPT, BIOS/UEFI, FAT32/NTFS)
