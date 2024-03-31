@@ -1020,9 +1020,7 @@
 - [planetmath/00_General](https://github.com/planetmath/00_General) - 
 - [antcc/dotfiles-old-XPS](https://github.com/antcc/dotfiles-old-XPS) - Configuration files for Arch Linux.
 - [easychen/not-only-fans](https://github.com/easychen/not-only-fans) - an open source, self-hosted digital content subscription platform like `onlyfans.com`  with  cryptocurrency payment
-- [FreeInit/freeinit.org](https://github.com/FreeInit/freeinit.org) - The FreeInit.org homepage
 - [timb-machine/linux-malware](https://github.com/timb-machine/linux-malware) - Tracking interesting Linux (and UNIX) malware. Send PRs
-- [MCotocel/startpage](https://github.com/MCotocel/startpage) - Custom startpage for Qutebrowser/Firefox
 - [grtcdr/linen](https://github.com/grtcdr/linen) - A light, calm and champagnesque colorscheme.
 - [hyperreal64/zsh-manual-mdbook](https://github.com/hyperreal64/zsh-manual-mdbook) - Mdbook for Zsh Manual
 - [comfies/comfi.es](https://github.com/comfies/comfi.es) - the /comfy/ website
