@@ -1561,7 +1561,7 @@
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [thaiducdung255/vieb-conf](https://github.com/thaiducdung255/vieb-conf) - personal configs for vieb
 - [CuddleBear92/Hydrus-guides](https://github.com/CuddleBear92/Hydrus-guides) - 
-- [1Password/for-open-source](https://github.com/1Password/for-open-source) - Get a free 1Password Teams membership for your open source project
+- [1Password/for-open-source](https://github.com/1Password/for-open-source) - Get a 1Password Teams account for free to support your open source initiatives!
 - [comfies/tldrlfs](https://github.com/comfies/tldrlfs) - Too Long; Didn't Read Linux From Scratch
 - [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
 - [keystroke3/Tauon-themes](https://github.com/keystroke3/Tauon-themes) - A few of my own themes for Tauon Music Box: https://github.com/Taiko2k/TauonMusicBox.git
