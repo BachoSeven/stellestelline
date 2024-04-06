@@ -190,7 +190,7 @@
 - [fabiensanglard/chocolate_duke3D](https://github.com/fabiensanglard/chocolate_duke3D) - chocolate Duke Nukem,3D
 - [moritzbroe/terminal_minecraft](https://github.com/moritzbroe/terminal_minecraft) - 
 - [RinCat/RTL88x2BU-Linux-Driver](https://github.com/RinCat/RTL88x2BU-Linux-Driver) - Realtek RTL88x2BU WiFi USB Driver for Linux
-- [WayneD/rsync](https://github.com/WayneD/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
+- [RsyncProject/rsync](https://github.com/RsyncProject/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
 - [bbidulock/adwm](https://github.com/bbidulock/adwm) - advanced dynamic window manager
 - [kejpies/bruh](https://github.com/kejpies/bruh) - bruh sound, but as a program
 - [astsam/rtl8812au](https://github.com/astsam/rtl8812au) - RTL8812AU/21AU and RTL8814AU driver with monitor mode and frame injection
