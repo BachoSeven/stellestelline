@@ -492,6 +492,7 @@
 - [addy-dclxvi/almighty-dotfiles](https://github.com/addy-dclxvi/almighty-dotfiles) - A dump repository of my dotfiles since the first time I learned ricing. So everything is really messy here.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [conformal/spectrwm](https://github.com/conformal/spectrwm) - A small dynamic tiling window manager for X11.
+- [cdown/clipmenu](https://github.com/cdown/clipmenu) - Clipboard management using dmenu
 - [Kharacternyk/pacwall](https://github.com/Kharacternyk/pacwall) - A live wallpaper that shows the dependency graph and status of installed packages.
 - [sebastiencs/ls-icons](https://github.com/sebastiencs/ls-icons) - ls command with files icons
 - [Riverhac/WRK-1.2](https://github.com/Riverhac/WRK-1.2) - Windows Research Kernel
@@ -2552,7 +2553,6 @@
 - [thomas10-10/foo-Wallpaper-Feh-Gif](https://github.com/thomas10-10/foo-Wallpaper-Feh-Gif) - just a loop who set wallpaper for display gif,  support transparency
 - [BrodieRobertson/scripts](https://github.com/BrodieRobertson/scripts) - Messing around with shell scripting because it seems like fun, maybe you'll find something useful
 - [inco-cc/pinentry-dmenu](https://github.com/inco-cc/pinentry-dmenu) - 🔑 simple dmenu / GnuPG integration
-- [cdown/clipmenu](https://github.com/cdown/clipmenu) - Clipboard management using dmenu
 - [juacq97/dotfilesOlds](https://github.com/juacq97/dotfilesOlds) - Un respaldo de mis dotfiles más importantes en mi laptop
 - [softmoth/zsh-vim-mode](https://github.com/softmoth/zsh-vim-mode) - Friendly bindings for ZSH's vi mode
 - [htr3n/zsh-config](https://github.com/htr3n/zsh-config) - Faster and enjoyable ZSH (maybe) !!!
@@ -2659,7 +2659,7 @@
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [PrettyCoffee/startpage](https://github.com/PrettyCoffee/startpage) - A React library which provides tools that help creating browser startpages in react.
 - [spacebarchat/client](https://github.com/spacebarchat/client) - Open source, themeable and extendable discord-compatible native Spacebar client
-- [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file uploader and awesome bunker written in node! 🚀
+- [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file vault written in TypeScript! 🚀
 - [xbrowsersync/api](https://github.com/xbrowsersync/api) - Server-side REST API that serves requests from xBrowserSync client apps
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
 - [imLinguin/jelly-desktop](https://github.com/imLinguin/jelly-desktop) - Simple community made desktop client for Jellyfin
