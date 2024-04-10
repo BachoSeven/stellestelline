@@ -1296,6 +1296,7 @@
 
 ## Kotlin 
 
+- [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
 - [OmGodse/Notally](https://github.com/OmGodse/Notally) - A beautiful notes app
 - [iamrasel/lunar-launcher](https://github.com/iamrasel/lunar-launcher) - Feature rich android home with minimal look. 🇵🇸
 - [ReVanced/revanced-cli](https://github.com/ReVanced/revanced-cli) - 💻 Command line application to use ReVanced
