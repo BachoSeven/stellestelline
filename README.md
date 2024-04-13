@@ -141,6 +141,7 @@
 
 ## C 
 
+- [tukaani-project/xz](https://github.com/tukaani-project/xz) - XZ Utils
 - [Notselwyn/CVE-2024-1086](https://github.com/Notselwyn/CVE-2024-1086) - Universal local privilege escalation Proof-of-Concept exploit for CVE-2024-1086, working on most Linux kernels between v5.14 and v6.6, including Debian, Ubuntu, and KernelCTF. The success rate is 99.4
 - [HunterNise/Progetto-Fibonacci](https://github.com/HunterNise/Progetto-Fibonacci) - a project on the algorithms of the Liber Abaci by Fibonacci
 - [merge/skulls](https://github.com/merge/skulls) - pre-built coreboot images and documentation on how to flash them for Thinkpad Laptops
@@ -713,7 +714,6 @@
 
 - [kirel/detexify](https://github.com/kirel/detexify) - Latex Symbol Classifier Web Frontend
 - [nimaipatel/arch-dotfiles](https://github.com/nimaipatel/arch-dotfiles) - Λ dotfiles for (Arch) GNU/Linux
-- [thosgood/fga](https://github.com/thosgood/fga) - An English translation of Grothendieck's Fondements de la Géometrie Algébrique
 - [NethServer/docs](https://github.com/NethServer/docs) - NethServer documentation
 - [williamckha/spicetify-fluent](https://github.com/williamckha/spicetify-fluent) - Spicetify theme inspired by Microsoft's Fluent Design
 - [schnensch0/ziro](https://github.com/schnensch0/ziro) - spicetify theme inspired by zorin
@@ -924,7 +924,7 @@
 - [jpdillingham/brainz](https://github.com/jpdillingham/brainz) - A lightweight MusicBrainz CLI in Go.
 - [hkparker/go-i2p](https://github.com/hkparker/go-i2p) - A pure Go implementation of the I2P router
 - [majestrate/XD](https://github.com/majestrate/XD) - meme bittorrent client
-- [70xH/Kat-OH](https://github.com/70xH/Kat-OH) - (WIP) A Huge Fetch
+- [8u6-57r34k/Kat-OH](https://github.com/8u6-57r34k/Kat-OH) - (WIP) A Huge Fetch
 - [fadedlamp42/gostatus](https://github.com/fadedlamp42/gostatus) - An ergonomic status monitor alternative to slstatus
 - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
 - [wildeyedskies/stmp](https://github.com/wildeyedskies/stmp) - subsonic terminal music player
@@ -2015,7 +2015,7 @@
 
 ## Rust 
 
-- [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) - A WiFi auditing software that can perform deauth attacks and passwords cracking
+- [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) - A WiFi security auditing software mainly based on aircrack-ng tools suite
 - [aarmn/negahban](https://github.com/aarmn/negahban) - 🧐 A simple file watcher, based on `notify`, designed to be fast, easy-to-use and async friendly
 - [Smithay/smithay](https://github.com/Smithay/smithay) - A smithy for rusty wayland compositors
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
@@ -2337,7 +2337,7 @@
 - [justinyaodu/iscanimage](https://github.com/justinyaodu/iscanimage) - User-friendly Linux command line tool for operating scanner devices
 - [mariorossi77/natype](https://github.com/mariorossi77/natype) - NATO phonetic alphabet cli test
 - [ptr1337/linux-cacule](https://github.com/ptr1337/linux-cacule) - Archlinux Kernel based on the Cacule Scheduler and with many improvements.
-- [KF-Art/ungoogled-chromium-void](https://github.com/KF-Art/ungoogled-chromium-void) - Void Linux repository for Ungoogled Chromium fork.
+- [KF-Art/ungoogled-chromium-void](https://github.com/KF-Art/ungoogled-chromium-void) - [Deprecated] Void Linux repository for Ungoogled Chromium fork.
 - [steadfasterX/SALT](https://github.com/steadfasterX/SALT) - SALT - [S]teadfasterX [A]ll-in-one [L]G [T]ool
 - [spxak1/weywot](https://github.com/spxak1/weywot) - My notes on using Pop!_OS
 - [sayan01/scripts](https://github.com/sayan01/scripts) - scripts
@@ -2830,6 +2830,7 @@
 
 ## XSLT 
 
+- [thosgood/fga](https://github.com/thosgood/fga) - An English translation of Grothendieck's Fondements de la Géometrie Algébrique
 - [thosgood/sga](https://github.com/thosgood/sga) - An English translation of the Séminaire de Géométrie Algébrique du Bois Marie
 
 ## Zig 
