@@ -2015,6 +2015,7 @@
 
 ## Rust 
 
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) - A WiFi security auditing software mainly based on aircrack-ng tools suite
 - [aarmn/negahban](https://github.com/aarmn/negahban) - 🧐 A simple file watcher, based on `notify`, designed to be fast, easy-to-use and async friendly
 - [Smithay/smithay](https://github.com/Smithay/smithay) - A smithy for rusty wayland compositors
@@ -2314,7 +2315,6 @@
 - [JLErvin/dotfiles](https://github.com/JLErvin/dotfiles) - Configuration files for arch linux and macOS
 - [BachoSeven/mimi](https://github.com/BachoSeven/mimi) - a better xdg-open - an active fork
 - [mariorossi77/consoom](https://github.com/mariorossi77/consoom) - blazing fast plebbit consooming
-- [axyl-os/axyl-iso](https://github.com/axyl-os/axyl-iso) - Axyl is a Linux distro centered on tiling window managers. Choose from i3, bspwm, dwm and more.
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [MunifTanjim/zed](https://github.com/MunifTanjim/zed) - ZSH Plugin Manager
 - [denysvitali/covid-cert-analysis](https://github.com/denysvitali/covid-cert-analysis) - 
