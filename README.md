@@ -1604,7 +1604,7 @@
 - [hbtlabs/chromium-white-flash-fix](https://github.com/hbtlabs/chromium-white-flash-fix) - [deprecated (issue fixed)] chromium google-chrome white flash bug fix
 - [astsu777/wallpapers](https://github.com/astsu777/wallpapers) - My wallpapers
 - [chaotic-aur/packages](https://github.com/chaotic-aur/packages) - The packages Mason, what do they mean? (Package requests and bug reports here) 📑
-- [rsaihe/gruvbox-material-kitty](https://github.com/rsaihe/gruvbox-material-kitty) - A port of @sainnhe's Gruvbox Material theme for Kitty.
+- [selenebun/gruvbox-material-kitty](https://github.com/selenebun/gruvbox-material-kitty) - A port of @sainnhe's Gruvbox Material theme for Kitty.
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 - [pagopa-archive/io](https://github.com/pagopa-archive/io) - Repository principale di IO: offre una mappa di informazioni e risorse per orientarsi nel progetto
 - [Francesco149/gopher](https://github.com/Francesco149/gopher) - new gopherspace, will be mostly programming/tech writeups
