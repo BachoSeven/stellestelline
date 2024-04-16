@@ -929,6 +929,7 @@
 - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
 - [wildeyedskies/stmp](https://github.com/wildeyedskies/stmp) - subsonic terminal music player
 - [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go
+- [1Password/for-open-source](https://github.com/1Password/for-open-source) - Get a 1Password team account for free to support your open source initiatives!
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [yktoo/ymuse](https://github.com/yktoo/ymuse) - GTK client for Music Player Daemon (MPD) written in Go
@@ -1271,6 +1272,11 @@
 
 ## Julia 
 
+- [oscar-system/Oscar.jl](https://github.com/oscar-system/Oscar.jl) - A comprehensive open source computer algebra system for computations in algebra, geometry, and number theory.
+- [oscar-system/Singular.jl](https://github.com/oscar-system/Singular.jl) - Julia package for the Singular library
+- [thofma/Hecke.jl](https://github.com/thofma/Hecke.jl) - Computational algebraic number theory
+- [Nemocas/Nemo.jl](https://github.com/Nemocas/Nemo.jl) - Julia bindings for various mathematical libraries (including flint2)
+- [tkluck/GaloisFields.jl](https://github.com/tkluck/GaloisFields.jl) - Finite fields for Julia
 - [Arpeggeo/julia-distributed-computing](https://github.com/Arpeggeo/julia-distributed-computing) - The ultimate guide to distributed computing in Julia
 - [kleinhenz/SlurmClusterManager.jl](https://github.com/kleinhenz/SlurmClusterManager.jl) - julia package for running code on slurm clusters
 - [JuliaSymbolics/Metatheory.jl](https://github.com/JuliaSymbolics/Metatheory.jl) - General purpose algebraic metaprogramming and symbolic computation library for the Julia programming language: E-Graphs & equality saturation, term rewriting and more.
@@ -1423,6 +1429,7 @@
 
 ## MATLAB 
 
+- [JuicyLegend/Operation-ENF](https://github.com/JuicyLegend/Operation-ENF) - Operation ENF is an attempt at discovering the origins of TMMS.
 - [darkcrystal24/heuristic_endomorphisms](https://github.com/darkcrystal24/heuristic_endomorphisms) - Heuristic determination of endomorphism rings of curves
 - [simmaco99/SimplessoPrimale](https://github.com/simmaco99/SimplessoPrimale) - Algoritmo del Simplesso Primale
 - [lukefleed/lab-didattico](https://github.com/lukefleed/lab-didattico) - Esercizi svolti di Laboratorio Didattico di Matematica Computazionale [2020/2021]
@@ -1563,7 +1570,6 @@
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [thaiducdung255/vieb-conf](https://github.com/thaiducdung255/vieb-conf) - personal configs for vieb
 - [CuddleBear92/Hydrus-guides](https://github.com/CuddleBear92/Hydrus-guides) - 
-- [1Password/for-open-source](https://github.com/1Password/for-open-source) - Get a 1Password team account for free to support your open source initiatives!
 - [comfies/tldrlfs](https://github.com/comfies/tldrlfs) - Too Long; Didn't Read Linux From Scratch
 - [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
 - [keystroke3/Tauon-themes](https://github.com/keystroke3/Tauon-themes) - A few of my own themes for Tauon Music Box: https://github.com/Taiko2k/TauonMusicBox.git
@@ -2145,7 +2151,7 @@
 - [Edu4rdSHL/blackarch-devtools](https://github.com/Edu4rdSHL/blackarch-devtools) - Development framework for the BlackArch Linux distribution.
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [jhbabon/scout](https://github.com/jhbabon/scout) - Friendly fuzzy finder made with rust
-- [VixenUtils/Myxer](https://github.com/VixenUtils/Myxer) - A modern Volume Mixer for PulseAudio.
+- [Aurailus/Myxer](https://github.com/Aurailus/Myxer) - A modern Volume Mixer for PulseAudio.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage emails
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
@@ -2596,6 +2602,7 @@
 
 ## TeX 
 
+- [williamstein/ant](https://github.com/williamstein/ant) - Algebra Number Theory book
 - [suchow/Dissertate](https://github.com/suchow/Dissertate) - Beautiful LaTeX dissertation templates.
 - [wg030/jlcode](https://github.com/wg030/jlcode) - A latex package for displaying Julia code using the listings package. The package supports pdftex, luatex and xetex for compilation.
 - [habi/latex](https://github.com/habi/latex) - Some LaTeX code snippets I've hacked together over the years.
