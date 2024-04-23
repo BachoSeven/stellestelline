@@ -1566,7 +1566,6 @@
 - [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
 - [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [zX3no/ncmpcpp-windows](https://github.com/zX3no/ncmpcpp-windows) - Guide for ncmpcpp on windows.
-- [beucismis/awesome-fetch](https://github.com/beucismis/awesome-fetch) - Command-line fetch tools for system/other information
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [thaiducdung255/vieb-conf](https://github.com/thaiducdung255/vieb-conf) - personal configs for vieb
 - [CuddleBear92/Hydrus-guides](https://github.com/CuddleBear92/Hydrus-guides) - 
@@ -1811,6 +1810,7 @@
 - [hchargois/gohufont](https://github.com/hchargois/gohufont) - A monospace bitmap font.
 - [ExposedCat/Meowgram](https://github.com/ExposedCat/Meowgram) - Telegram client written in GTK & Python
 - [xgi/castero](https://github.com/xgi/castero) - TUI podcast client for the terminal
+- [beucismis/awesome-fetch](https://github.com/beucismis/awesome-fetch) - Command-line fetch tools for system/other information
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [8go/matrix-commander](https://github.com/8go/matrix-commander) - simple but convenient CLI-based Matrix client app for sending and receiving
 - [makccr/pyt](https://github.com/makccr/pyt) - A polybar module to fetch the sub count for a YouTube channel.
