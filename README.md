@@ -2403,6 +2403,7 @@
 - [chaotic-aur/pkgbuild-chaotic-mirrorlist](https://github.com/chaotic-aur/pkgbuild-chaotic-mirrorlist) - ArchLinux PKGBUILD for "chaotic-mirrorlist"
 - [chaotic-aur/pkgbuild-chaotic-keyring](https://github.com/chaotic-aur/pkgbuild-chaotic-keyring) - ArchLinux PKGBUILD for "chaotic-keyring"
 - [k8ieone/arch-install](https://github.com/k8ieone/arch-install) - Install scripts for Arch Linux
+- [keystroke3/dotfiles](https://github.com/keystroke3/dotfiles) - My Linux settings and configs
 - [bfrg/gpg-guide](https://github.com/bfrg/gpg-guide) - Quick-start guide to GPG
 - [jzbor/mashup](https://github.com/jzbor/mashup) - Merely Another Shell Utility Project
 - [jstkdng/ungoogled-chromium-bin](https://github.com/jstkdng/ungoogled-chromium-bin) - Mirror from the now deleted ungoogled-chromium-bin AUR package
@@ -2752,7 +2753,6 @@
 - [felipec/vim-sanegx](https://github.com/felipec/vim-sanegx) - Makes gx work correctly.
 - [lifepillar/vim-gruvbox8](https://github.com/lifepillar/vim-gruvbox8) - A simplified and optimized Gruvbox colorscheme for Vim
 - [yangmillstheory/vim-snipe](https://github.com/yangmillstheory/vim-snipe) - 
-- [keystroke3/dotfiles](https://github.com/keystroke3/dotfiles) - My Linux settings and configs
 - [tyru/open-browser.vim](https://github.com/tyru/open-browser.vim) - Open URI with your favorite browser from your most favorite editor
 - [dhruvasagar/vim-dotoo](https://github.com/dhruvasagar/vim-dotoo) - Org-mode like task logging & time tracking in Vim
 - [sayanarijit/xplr.vim](https://github.com/sayanarijit/xplr.vim) - Fork of https://github.com/mcchrish/nnn.vim modified to work with xplr. Until xplr has its own plugin.
