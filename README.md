@@ -824,7 +824,7 @@
 - [dmpanch/radio](https://github.com/dmpanch/radio) - MPD + MPC + Telegram bot radio stack in Docker
 - [paulbismuth/nicotine-plus-docker](https://github.com/paulbismuth/nicotine-plus-docker) - 
 - [kokmok/rpi-nicotine-novnc](https://github.com/kokmok/rpi-nicotine-novnc) - 🐳 Nicotine Over noVNC Docker Container for RPI
-- [realies/soulseek-docker](https://github.com/realies/soulseek-docker) - 🐳 Soulseek Over noVNC Docker Container
+- [realies/soulseek-docker](https://github.com/realies/soulseek-docker) - 🐳 Soulseek Docker Container
 
 ## Emacs Lisp 
 
@@ -1478,6 +1478,7 @@
 
 - [PedroHLC/system-setup](https://github.com/PedroHLC/system-setup) - Recipe for creating my NixOS machines. (ZFS and Sway)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
+- [fdietze/dotfiles](https://github.com/fdietze/dotfiles) - 
 - [donovanglover/nix-config](https://github.com/donovanglover/nix-config) - My NixOS configuration with Nix Flakes, Home Manager, Stylix, and Hyprland.
 - [b3nj5m1n/dotfiles](https://github.com/b3nj5m1n/dotfiles) - 
 
@@ -2474,7 +2475,6 @@
 - [sdushantha/fontpreview](https://github.com/sdushantha/fontpreview) - Highly customizable and minimal font previewer written in bash
 - [sdushantha/farge](https://github.com/sdushantha/farge) - Click on a pixel on your screen and show its color value
 - [khuei/gtcf](https://github.com/khuei/gtcf) - gentoo configuration
-- [fdietze/dotfiles](https://github.com/fdietze/dotfiles) - 
 - [jstkdng/aur](https://github.com/jstkdng/aur) - AUR packages I maintain and co-maintain
 - [toltec-dev/toltec](https://github.com/toltec-dev/toltec) - Community-maintained repository of free software for the reMarkable tablet.
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
