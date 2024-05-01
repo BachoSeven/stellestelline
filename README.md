@@ -1080,6 +1080,7 @@
 
 ## Java 
 
+- [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
 - [zigazajc007/Passky](https://github.com/zigazajc007/Passky) - The best authentication plugin
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
@@ -1625,7 +1626,7 @@
 - [make-github-pseudonymous-again/404](https://github.com/make-github-pseudonymous-again/404) - :sauropod: Missing technology
 - [adi1090x/uGRUB](https://github.com/adi1090x/uGRUB) - Create an ultimate multiboot USB flash drive with Grub2 bootloader
 - [jlapolla/infokey-vim](https://github.com/jlapolla/infokey-vim) - Vim-like keybindings for `info`
-- [andirueckel/undefined-medium](https://github.com/andirueckel/undefined-medium) - undefined medium — a free and open-source monospace typeface with 400+ characters
+- [andirueckel/undefined-medium](https://github.com/andirueckel/undefined-medium) - undefined medium — a free and open-source pixel grid-based monospace typeface with 500+ characters
 - [vamolessa/verco](https://github.com/vamolessa/verco) - A simple Git/Mercurial/PlasticSCM tui client based on keyboard shortcuts
 - [UgurcanAkkok/AreWeRustYet](https://github.com/UgurcanAkkok/AreWeRustYet) - Awesome list of "Are We *thing* Yet" for Rust
 - [AndydeCleyre/archbuilder_telegram-desktop-userfonts](https://github.com/AndydeCleyre/archbuilder_telegram-desktop-userfonts) - 
