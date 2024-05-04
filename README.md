@@ -349,7 +349,7 @@
 - [juliusHuelsmann/st-history-vim](https://github.com/juliusHuelsmann/st-history-vim) - Development of the "vim patch" and  a minimalist "history patch" for the suckless simple terminal (st).
 - [stivale/stivale](https://github.com/stivale/stivale) - The stivale boot protocols' specifications and headers.
 - [TomatOrg/TomatBoot](https://github.com/TomatOrg/TomatBoot) - A UEFI 64bit Bootloader
-- [limine-bootloader/limine](https://github.com/limine-bootloader/limine) - Modern, advanced, portable, multiprotocol bootloader.
+- [limine-bootloader/limine](https://github.com/limine-bootloader/limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager.
 - [gnuplot/gnuplot](https://github.com/gnuplot/gnuplot) - Unofficial mirror of gnuplot's git repository. Please don't open pull requests here, go to https://sourceforge.net/p/gnuplot/gnuplot-main/merge-requests/ instead.
 - [hohmannr/xccp](https://github.com/hohmannr/xccp) - xccp - X Console Colorpicker
 - [takase1121/xwinwrap](https://github.com/takase1121/xwinwrap) - My fork of xwinwrap. Xwinwrap allows you to stick most of the apps to your desktop background.
