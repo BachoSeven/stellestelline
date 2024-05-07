@@ -1705,6 +1705,7 @@
 
 ## Python 
 
+- [kraanzu/smassh](https://github.com/kraanzu/smassh) - Smassh your Keyboard, TUI Edition
 - [LMFDB/lmfdb](https://github.com/LMFDB/lmfdb) - L-Functions and Modular Forms Database
 - [oskarsh/Yin-Yang](https://github.com/oskarsh/Yin-Yang) - Auto Nightmode for KDE, Gnome, Budgie, VSCode, Atom and more
 - [hhannine/superpaper](https://github.com/hhannine/superpaper) - A cross-platform multi monitor wallpaper manager.
@@ -2029,6 +2030,7 @@
 
 ## Rust 
 
+- [lemunozm/termchat](https://github.com/lemunozm/termchat) - Terminal chat through the LAN with video streaming and file transfer.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) - A WiFi security auditing software mainly based on aircrack-ng tools suite
 - [aarmn/negahban](https://github.com/aarmn/negahban) - 🧐 A simple file watcher, based on `notify`, designed to be fast, easy-to-use and async friendly
