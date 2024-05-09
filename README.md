@@ -502,7 +502,6 @@
 - [9wm/xss](https://github.com/9wm/xss) - 
 - [HarveyHunt/howm](https://github.com/HarveyHunt/howm) - A lightweight, X11 tiling window manager that behaves like vim
 - [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
-- [shans10/dotfiles](https://github.com/shans10/dotfiles) - 
 - [carlini/printf-tac-toe](https://github.com/carlini/printf-tac-toe) - tic-tac-toe in a single call to printf
 - [gammu/gammu](https://github.com/gammu/gammu) - Gammu All Mobile Management Utilities
 - [himdel/hsetroot](https://github.com/himdel/hsetroot) - yet another wallpaper application
@@ -1275,6 +1274,7 @@
 
 ## Julia 
 
+- [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl) - A framework for applied category theory in the Julia language
 - [oscar-system/Oscar.jl](https://github.com/oscar-system/Oscar.jl) - A comprehensive open source computer algebra system for computations in algebra, geometry, and number theory.
 - [oscar-system/Singular.jl](https://github.com/oscar-system/Singular.jl) - Julia package for the Singular library
 - [thofma/Hecke.jl](https://github.com/thofma/Hecke.jl) - Computational algebraic number theory
@@ -2802,7 +2802,7 @@
 - [907th/vim-auto-save](https://github.com/907th/vim-auto-save) - A Vim plugin which saves files to disk automatically.
 - [andymass/vim-matchup](https://github.com/andymass/vim-matchup) - vim match-up: even better % :facepunch: navigate and highlight matching words :facepunch: modern matchit and matchparen.  Supports both vim and neovim + tree-sitter.
 - [gnu-octave/vim-octave](https://github.com/gnu-octave/vim-octave) - Octave syntax and indentation support for Vim
-- [lambdalisue/battery.vim](https://github.com/lambdalisue/battery.vim) - Show battery information on statusline/tabline of Neovim/Vim
+- [lambdalisue/vim-battery](https://github.com/lambdalisue/vim-battery) - Show battery information on statusline/tabline of Neovim/Vim
 - [ghifarit53/tokyonight-vim](https://github.com/ghifarit53/tokyonight-vim) - A clean, dark vim colorscheme that celebrates the lights of downtown Tokyo at night, based on a VSCode theme by @enkia with the same name [Archived because I'm no longer using this]
 - [mhinz/vim-startify](https://github.com/mhinz/vim-startify) - :link: The fancy start screen for Vim.
 - [nerdypepper/scientifica](https://github.com/nerdypepper/scientifica) - tall, condensed, bitmap font for geeks
