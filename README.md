@@ -157,6 +157,7 @@
 - [alols/xcape](https://github.com/alols/xcape) - Linux utility to configure modifier keys to act as other keys when pressed and released on their own.
 - [FT-Labs/pdwm](https://github.com/FT-Labs/pdwm) - full animation supported, easy configurable (uses shared library) dwm fork with a control center (pdwmc)
 - [bakkeby/dwm-commented](https://github.com/bakkeby/dwm-commented) - A fork of dwm with comments explaining in detail how the window manager works
+- [rozniak/xfce-winxp-tc](https://github.com/rozniak/xfce-winxp-tc) - Windows XP stuff for XFCE
 - [vacaboja/tg](https://github.com/vacaboja/tg) - A program for timing mechanical watches
 - [mini-rose/rose-browser](https://github.com/mini-rose/rose-browser) - Minimalist browser based on webkit2.
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
@@ -411,7 +412,6 @@
 - [astrand/xclip](https://github.com/astrand/xclip) - Command line interface to the X11 clipboard
 - [LukeSmithxyz/scroll](https://github.com/LukeSmithxyz/scroll) - Minor personal tweaks to suckless's scroll (for st)
 - [Cubified/ntwm](https://github.com/Cubified/ntwm) - A tiny, frameless, keyboard-driven tiling window manager with multimonitor support, written in ANSI C.
-- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 - [EHfive/pulseaudio-modules-bt](https://github.com/EHfive/pulseaudio-modules-bt) - [Deprecated, see https://github.com/EHfive/pulseaudio-modules-bt/issues/154] Adds Sony LDAC, aptX, aptX HD, AAC codecs (A2DP Audio) support to PulseAudio on Linux
 - [sanicSanic/dwmblocks](https://github.com/sanicSanic/dwmblocks) - My status bar: my build of the modular dwmblocks
 - [dankamongmen/notcurses](https://github.com/dankamongmen/notcurses) - blingful character graphics/TUI library. definitely not curses.
@@ -2248,7 +2248,6 @@
 ## SCSS 
 
 - [phc-dm/seminarietti-website](https://github.com/phc-dm/seminarietti-website) - Piccolo sito in Astro per i Seminarietti del PHC
-- [rozniak/xfce-winxp-tc](https://github.com/rozniak/xfce-winxp-tc) - Windows XP stuff for XFCE
 - [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [vinibiavatti1/TuiCss](https://github.com/vinibiavatti1/TuiCss) - Text-based user interface CSS library
 - [ungoogled-software/ungoogled-software.github.io](https://github.com/ungoogled-software/ungoogled-software.github.io) - Website for ungoogled-chromium
@@ -2851,6 +2850,7 @@
 
 ## Zig 
 
+- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 - [riverwm/river](https://github.com/riverwm/river) - [mirror] A dynamic tiling Wayland compositor
 
 ## sed 
