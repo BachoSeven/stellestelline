@@ -550,6 +550,7 @@
 
 ## C++ 
 
+- [Osndok/eaglemode](https://github.com/Osndok/eaglemode) - Tracking official source releases from the Eagle Mode ZUI cathedral-model project on SourceForge; Upstream does not accept patches, and neither can this project; feel free to fork and change it, but p
 - [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficientl
 - [lean-dojo/LeanCopilot](https://github.com/lean-dojo/LeanCopilot) - LLMs as Copilots for Theorem Proving in Lean
 - [jstkdng/ueberzugpp](https://github.com/jstkdng/ueberzugpp) - Drop in replacement for ueberzug written in C++
@@ -2354,7 +2355,7 @@
 - [ptr1337/linux-cacule](https://github.com/ptr1337/linux-cacule) - Archlinux Kernel based on the Cacule Scheduler and with many improvements.
 - [KF-Art/ungoogled-chromium-void](https://github.com/KF-Art/ungoogled-chromium-void) - [Deprecated] Void Linux repository for Ungoogled Chromium fork.
 - [steadfasterX/SALT](https://github.com/steadfasterX/SALT) - SALT - [S]teadfasterX [A]ll-in-one [L]G [T]ool
-- [spxak1/weywot](https://github.com/spxak1/weywot) - My notes on using Pop!_OS
+- [spxak1/weywot](https://github.com/spxak1/weywot) - My notes on using Linux
 - [sayan01/scripts](https://github.com/sayan01/scripts) - scripts
 - [codingtony/udev-monitor-hotplug](https://github.com/codingtony/udev-monitor-hotplug) - Script that get triggered when monitors are plugged in or out in Linux
 - [Barbaross93/Muspelheim](https://github.com/Barbaross93/Muspelheim) - Thonkpad dotfiles
