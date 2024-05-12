@@ -2613,6 +2613,7 @@
 
 ## TeX 
 
+- [jjgarzella/pandemic-class-field-theory](https://github.com/jjgarzella/pandemic-class-field-theory) - This is a more polished writeup of a series of talks given in a digital reading course during the COVID-19 pandemic. The topic of the seminar was local class field theory. The proof deduces class fiel
 - [williamstein/ant](https://github.com/williamstein/ant) - Algebra Number Theory book
 - [suchow/Dissertate](https://github.com/suchow/Dissertate) - Beautiful LaTeX dissertation templates.
 - [wg030/jlcode](https://github.com/wg030/jlcode) - A latex package for displaying Julia code using the listings package. The package supports pdftex, luatex and xetex for compilation.
