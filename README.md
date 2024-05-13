@@ -1283,7 +1283,7 @@
 - [tkluck/GaloisFields.jl](https://github.com/tkluck/GaloisFields.jl) - Finite fields for Julia
 - [Arpeggeo/julia-distributed-computing](https://github.com/Arpeggeo/julia-distributed-computing) - The ultimate guide to distributed computing in Julia
 - [kleinhenz/SlurmClusterManager.jl](https://github.com/kleinhenz/SlurmClusterManager.jl) - julia package for running code on slurm clusters
-- [JuliaSymbolics/Metatheory.jl](https://github.com/JuliaSymbolics/Metatheory.jl) - General purpose algebraic metaprogramming and symbolic computation library for the Julia programming language: E-Graphs & equality saturation, term rewriting and more.
+- [JuliaSymbolics/Metatheory.jl](https://github.com/JuliaSymbolics/Metatheory.jl) - Makes Julia reason with equations. General purpose metaprogramming, symbolic computation and algebraic equational reasoning library for the Julia programming language: E-Graphs & equality saturation, 
 - [tlienart/Franklin.jl](https://github.com/tlienart/Franklin.jl) - (yet another) static site generator. Simple, customisable, fast, maths with KaTeX, code evaluation, optional pre-rendering, in Julia.
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 - [JuliaHomotopyContinuation/HomotopyContinuation.jl](https://github.com/JuliaHomotopyContinuation/HomotopyContinuation.jl) - A Julia package for solving systems of polynomials via homotopy continuation.
