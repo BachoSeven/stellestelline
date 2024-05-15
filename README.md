@@ -142,6 +142,8 @@
 
 ## C 
 
+- [nicenemo/franken-planck](https://github.com/nicenemo/franken-planck) - Custom QMK keyboard layout for a Planck Keyboard
+- [Felerius/planck-layout](https://github.com/Felerius/planck-layout) - Layout for my Planck keyboard
 - [tukaani-project/xz](https://github.com/tukaani-project/xz) - XZ Utils
 - [Notselwyn/CVE-2024-1086](https://github.com/Notselwyn/CVE-2024-1086) - Universal local privilege escalation Proof-of-Concept exploit for CVE-2024-1086, working on most Linux kernels between v5.14 and v6.6, including Debian, Ubuntu, and KernelCTF. The success rate is 99.4
 - [HunterNise/Progetto-Fibonacci](https://github.com/HunterNise/Progetto-Fibonacci) - a project on the algorithms of the Liber Abaci by Fibonacci
@@ -1705,6 +1707,7 @@
 
 ## Python 
 
+- [strodgers/epomaker-controller](https://github.com/strodgers/epomaker-controller) - 
 - [kraanzu/smassh](https://github.com/kraanzu/smassh) - Smassh your Keyboard, TUI Edition
 - [LMFDB/lmfdb](https://github.com/LMFDB/lmfdb) - L-Functions and Modular Forms Database
 - [oskarsh/Yin-Yang](https://github.com/oskarsh/Yin-Yang) - Auto Nightmode for KDE, Gnome, Budgie, VSCode, Atom and more
@@ -2653,6 +2656,7 @@
 
 ## TypeScript 
 
+- [chetanbhat/quantum-wordle](https://github.com/chetanbhat/quantum-wordle) - Quantum Wordle
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [wclr/vscode-autosave-ext](https://github.com/wclr/vscode-autosave-ext) - AutoSave Extension for VSCodee
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles.
