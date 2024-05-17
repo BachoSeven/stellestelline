@@ -683,7 +683,7 @@
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [PurritoBin/PurritoBin](https://github.com/PurritoBin/PurritoBin) - fast, minimalistic, encrypted command line paste-bin
 - [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland (sort of), and other things, too
-- [MasterQ32/kristall](https://github.com/MasterQ32/kristall) - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
+- [ikskuh/kristall](https://github.com/ikskuh/kristall) - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
 - [allencch/med](https://github.com/allencch/med) - Linux alternative game memory editor
 - [grappendorf/smarkant](https://github.com/grappendorf/smarkant) - Convert your IKEA Bekant table into an IoT device
 - [robin7331/IKEA-Hackant](https://github.com/robin7331/IKEA-Hackant) - 
