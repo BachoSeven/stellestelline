@@ -1894,7 +1894,7 @@
 - [garabik/grc](https://github.com/garabik/grc) - generic colouriser
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [fake-name/xA-Scraper](https://github.com/fake-name/xA-Scraper) - 
-- [aaronraimist/element-themes](https://github.com/aaronraimist/element-themes) - A place to share themes for Element (formerly Riot), PRs with new themes are welcome!
+- [aaronraimist/element-themes](https://github.com/aaronraimist/element-themes) - A place to share themes for Element. PRs with new themes are welcome!
 - [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [mhtghn/Luricifer](https://github.com/mhtghn/Luricifer) - A simple CLI tool to fetch lyrics from AZlyrics of the playing Spotify song
