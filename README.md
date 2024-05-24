@@ -1237,7 +1237,7 @@
 - [artemave/translate_onhover](https://github.com/artemave/translate_onhover) - Browser translation extension
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [darksun-misc/piratebay-db-dump](https://github.com/darksun-misc/piratebay-db-dump) - A CSV file with all torrent infohashes and names from thepiratebay.org on the moment of 2019-Sep-14. You can lookup the content you need by the name and download the data by inserting the infohash int
-- [alextrv/enhanced-h264ify](https://github.com/alextrv/enhanced-h264ify) - A Firefox/Chrome extension that blocks video codecs you have chosen on YouTube
+- [alextrv/enhanced-h264ify](https://github.com/alextrv/enhanced-h264ify) - A Firefox/Chrome extension that blocks video and audio codecs you have chosen on YouTube
 - [erkserkserks/h264ify](https://github.com/erkserkserks/h264ify) - A Chrome extension that makes YouTube stream H.264 videos instead of VP8/VP9 videos
 - [Boettner-eric/Tiles](https://github.com/Boettner-eric/Tiles) - A responsive design homepage with live search
 - [htor/synth](https://github.com/htor/synth) - A simple polyphonic synth in the browser
@@ -1542,7 +1542,6 @@
 - [phc-dm/forum](https://github.com/phc-dm/forum) - Forum di domande-risposta open soruce con wiki integrata (In cerca di una vero nome)
 - [NNBnh/bangs4all](https://github.com/NNBnh/bangs4all) - 
 - [jnmcfly/awesome-startpage](https://github.com/jnmcfly/awesome-startpage) - This is a carefully compiled list of remarkable projects with the focus on startpages.
-- [n0tsteve/Genshin-Map-Helper](https://github.com/n0tsteve/Genshin-Map-Helper) - Best genshin software for map research, full legit helper without analogues.
 - [spacebarchat/spacebarchat](https://github.com/spacebarchat/spacebarchat) - 📬 Spacebar is a free open source selfhostable discord compatible communication platform
 - [TemporalAgent7/awesome-windows-privacy](https://github.com/TemporalAgent7/awesome-windows-privacy) - A list of awesome tools, documentation and scripts for better privacy on Microsoft Windows
 - [fiatjaf/awesome-loginless](https://github.com/fiatjaf/awesome-loginless) - an awesome list of internet services that don't require logins or registrations
