@@ -84,6 +84,7 @@
 - [Svelte](#svelte)
 - [TeX](#tex)
 - [TypeScript](#typescript)
+- [Typst](#typst)
 - [V](#v)
 - [Vala](#vala)
 - [Vim Script](#vim-script)
@@ -142,6 +143,7 @@
 
 ## C 
 
+- [GermainZ/xdg-desktop-portal-termfilechooser](https://github.com/GermainZ/xdg-desktop-portal-termfilechooser) - xdg-desktop-portal backend for choosing files with your favorite file chooser
 - [pwmt/zathura](https://github.com/pwmt/zathura) - Document viewer
 - [nicenemo/franken-planck](https://github.com/nicenemo/franken-planck) - Custom QMK keyboard layout for a Planck Keyboard
 - [Felerius/planck-layout](https://github.com/Felerius/planck-layout) - Layout for my Planck keyboard
@@ -2722,6 +2724,10 @@
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
 - [pop-os/shell](https://github.com/pop-os/shell) - Pop!_OS Shell
 - [obsfx/libgen-downloader](https://github.com/obsfx/libgen-downloader) - A simple tool to search and download ebooks from libgen via terminal user interface.
+
+## Typst 
+
+- [JamesxX/typst-chem-par](https://github.com/JamesxX/typst-chem-par) - Typst show rules for parsing IUPAC names and chemical formulae
 
 ## V 
 
