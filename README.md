@@ -225,7 +225,7 @@
 - [file/file](https://github.com/file/file) - Read-only mirror of file CVS repository, updated every half hour. NOTE: do not make pull requests here, nor comment any commits, submit them usual way to bug tracker or to the mailing list. Maintainer
 - [ryanflannery/vitunes](https://github.com/ryanflannery/vitunes) - A curses media indexer and player for vi users
 - [ghaerr/microwindows](https://github.com/ghaerr/microwindows) - The Nano-X Window System
-- [gottaeat/apathy](https://github.com/gottaeat/apathy) - an independent homegrown operating system featuring linux in its core, supplemented with musl libc and a standalone llvm suite.
+- [gottaeat/apathy](https://github.com/gottaeat/apathy) - Independent homegrown operating system featuring Linux in its core, supplemented with musl libc and a standalone LLVM suite.
 - [Aalbus-linux/Aalbus](https://github.com/Aalbus-linux/Aalbus) - The master repository for the Aalbus distribution
 - [intel/sgx-software-enable](https://github.com/intel/sgx-software-enable) - 
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
@@ -1708,6 +1708,7 @@
 
 ## Python 
 
+- [xu1868/SaySelf](https://github.com/xu1868/SaySelf) - Public code repo for paper "SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales"
 - [strodgers/epomaker-controller](https://github.com/strodgers/epomaker-controller) - 
 - [kraanzu/smassh](https://github.com/kraanzu/smassh) - Smassh your Keyboard, TUI Edition
 - [LMFDB/lmfdb](https://github.com/LMFDB/lmfdb) - L-Functions and Modular Forms Database
