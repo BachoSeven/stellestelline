@@ -2290,6 +2290,7 @@
 
 ## Shell 
 
+- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [lcorbasson/docker-skp2dae](https://github.com/lcorbasson/docker-skp2dae) - SketchUp (SKP) to DAE converter using Docker, WINE and ugly glue
 - [aziis98/scripts-2023](https://github.com/aziis98/scripts-2023) - Yet another scripts repo
 - [Bladtman242/potato](https://github.com/Bladtman242/potato) - A pomodoro timer for the shell
