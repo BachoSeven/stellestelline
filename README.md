@@ -555,6 +555,7 @@
 
 ## C++ 
 
+- [d99kris/nchat](https://github.com/d99kris/nchat) - Terminal-based Telegram / WhatsApp client for Linux and macOS
 - [Osndok/eaglemode](https://github.com/Osndok/eaglemode) - Tracking official source releases from the Eagle Mode ZUI cathedral-model project on SourceForge; Upstream does not accept patches, and neither can this project; feel free to fork and change it, but p
 - [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficientl
 - [lean-dojo/LeanCopilot](https://github.com/lean-dojo/LeanCopilot) - LLMs as Copilots for Theorem Proving in Lean
