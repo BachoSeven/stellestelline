@@ -555,6 +555,7 @@
 
 ## C++ 
 
+- [naelstrof/maim](https://github.com/naelstrof/maim) - maim (make image) takes screenshots of your desktop. It has options to take only a region, and relies on slop to query for regions. maim is supposed to be an improved scrot.
 - [d99kris/nchat](https://github.com/d99kris/nchat) - Terminal-based Telegram / WhatsApp client for Linux and macOS
 - [Osndok/eaglemode](https://github.com/Osndok/eaglemode) - Tracking official source releases from the Eagle Mode ZUI cathedral-model project on SourceForge; Upstream does not accept patches, and neither can this project; feel free to fork and change it, but p
 - [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficientl
@@ -1576,7 +1577,6 @@
 - [jakeday/linux-surface](https://github.com/jakeday/linux-surface) - Linux Kernel for Surface Devices
 - [PF4Public/ungoogled-chromium-bin](https://github.com/PF4Public/ungoogled-chromium-bin) - Binary releases of ungoogled-chromium
 - [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
-- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [zX3no/ncmpcpp-windows](https://github.com/zX3no/ncmpcpp-windows) - Guide for ncmpcpp on windows.
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [thaiducdung255/vieb-conf](https://github.com/thaiducdung255/vieb-conf) - personal configs for vieb
@@ -2136,6 +2136,7 @@
 - [Polochon-street/bliss-rs](https://github.com/Polochon-street/bliss-rs) - A song analysis library for making playlists
 - [Polochon-street/blissify-rs](https://github.com/Polochon-street/blissify-rs) - bliss bindings for MPD.
 - [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
+- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [ZeroX-DG/moon](https://github.com/ZeroX-DG/moon) - :earth_americas: :moon: A hobby web browser developed from scratch
 - [KSXGitHub/parallel-disk-usage](https://github.com/KSXGitHub/parallel-disk-usage) - Highly parallelized, blazing fast directory tree analyzer
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
