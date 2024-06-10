@@ -28,6 +28,7 @@
 - [Dockerfile](#dockerfile)
 - [Emacs Lisp](#emacs-lisp)
 - [F#](#f#)
+- [Fluent](#fluent)
 - [GAP](#gap)
 - [GDScript](#gdscript)
 - [GLSL](#glsl)
@@ -847,6 +848,10 @@
 - [vincenzoml/ProgrammingLanguages](https://github.com/vincenzoml/ProgrammingLanguages) - 
 - [ryco117/FunctionalSoul](https://github.com/ryco117/FunctionalSoul) - A Soulseek client app written in F#.
 
+## Fluent 
+
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
+
 ## GAP 
 
 - [gap-system/gap](https://github.com/gap-system/gap) - Main development repository for GAP - Groups, Algorithms, Programming, a System for Computational Discrete Algebra
@@ -1033,6 +1038,7 @@
 - [easychen/not-only-fans](https://github.com/easychen/not-only-fans) - an open source, self-hosted digital content subscription platform like `onlyfans.com`  with  cryptocurrency payment
 - [timb-machine/linux-malware](https://github.com/timb-machine/linux-malware) - Tracking interesting Linux (and UNIX) malware. Send PRs
 - [grtcdr/linen](https://github.com/grtcdr/linen) - A light, calm and champagnesque colorscheme.
+- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [hyperreal64/zsh-manual-mdbook](https://github.com/hyperreal64/zsh-manual-mdbook) - Mdbook for Zsh Manual
 - [comfies/comfi.es](https://github.com/comfies/comfi.es) - the /comfy/ website
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
@@ -1774,7 +1780,6 @@
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
 - [Fran314/SmashDataCollectorPython](https://github.com/Fran314/SmashDataCollectorPython) - A script to automatically collect stats from Super Smash Bros. Ultimate competitive and casual matches
 - [cjnaz/xbsjsonedit](https://github.com/cjnaz/xbsjsonedit) - A basic editor for xBrowserSync json backup files
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [xsmile/chromexup](https://github.com/xsmile/chromexup) - External extension updater for Chromium based browsers
 - [MissLavender-LQ/LibreQuake](https://github.com/MissLavender-LQ/LibreQuake) - A freesoftware quake one remake with art under the BSD license
 - [ipython/xkcd-font](https://github.com/ipython/xkcd-font) - The xkcd font
@@ -2136,7 +2141,6 @@
 - [Polochon-street/bliss-rs](https://github.com/Polochon-street/bliss-rs) - A song analysis library for making playlists
 - [Polochon-street/blissify-rs](https://github.com/Polochon-street/blissify-rs) - bliss bindings for MPD.
 - [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
-- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [ZeroX-DG/moon](https://github.com/ZeroX-DG/moon) - :earth_americas: :moon: A hobby web browser developed from scratch
 - [KSXGitHub/parallel-disk-usage](https://github.com/KSXGitHub/parallel-disk-usage) - Highly parallelized, blazing fast directory tree analyzer
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
