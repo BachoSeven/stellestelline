@@ -429,7 +429,7 @@
 - [AsahiLinux/linux](https://github.com/AsahiLinux/linux) - Linux kernel source tree
 - [philipl/pifs](https://github.com/philipl/pifs) - πfs - the data-free filesystem!
 - [PitchBlackRecoveryProject/android_device_asus_Z010D-pbrp](https://github.com/PitchBlackRecoveryProject/android_device_asus_Z010D-pbrp) - This is the Device Tree for Asus Zenfone Max Z010D TWRP
-- [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/
+- [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc
 - [mihirlad55/dwm-anybar](https://github.com/mihirlad55/dwm-anybar) - 
 - [plasmoduck/modwm](https://github.com/plasmoduck/modwm) - MODWM - Modular Dynamic Window Manager
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
@@ -2105,7 +2105,6 @@
 - [minijackson/set_eq](https://github.com/minijackson/set_eq) - A command-line tool to manipulate PulseAudio's equalizers
 - [sharkdp/binocle](https://github.com/sharkdp/binocle) - a graphical tool to visualize binary data
 - [Gerschtli/dwm-status](https://github.com/Gerschtli/dwm-status) - Highly performant and configurable DWM status service
-- [MustafaSalih1993/rsblocks](https://github.com/MustafaSalih1993/rsblocks) - A fast status-bar for dwm window manager written in Rust 🦀
 - [Arnavion/matrix-client-rs](https://github.com/Arnavion/matrix-client-rs) - TUI Matrix client in Rust.
 - [sioodmy/todo](https://github.com/sioodmy/todo) - Simple todo cli program written in rust
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
@@ -2184,7 +2183,6 @@
 - [gigitux/youpforwhatsapp](https://github.com/gigitux/youpforwhatsapp) - A simple wrapper written in rust and gtk-rs for whatsapp web
 - [orhun/menyoki](https://github.com/orhun/menyoki) - Screen{shot,cast} and perform ImageOps on the command line 🌱 🏞️
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
-- [MustafaSalih1993/tai](https://github.com/MustafaSalih1993/tai) - tai (Terminal Ascii Images) tool to convert images to text written in Rust
 - [jam1garner/nail](https://github.com/jam1garner/nail) - A vim-inspired hex editor written in rust
 - [mathall/rim](https://github.com/mathall/rim) - Aspiring vim-like text editor
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
