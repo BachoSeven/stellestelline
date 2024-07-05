@@ -395,7 +395,7 @@
 - [domsson/succade](https://github.com/domsson/succade) - Run, feed and style your Lemonbar with ease
 - [linuxwacom/libwacom](https://github.com/linuxwacom/libwacom) - libwacom is a tablet description library
 - [universal-ctags/ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
-- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written mostly in C.
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - An actively maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [tectonic-typesetting/tectonic-staging](https://github.com/tectonic-typesetting/tectonic-staging) - Staging files from the TeXLive repository for use in Tectonic.
 - [Wilnath/asetroot](https://github.com/Wilnath/asetroot) - A lightweight animated wallpaper program
 - [glouw/paperview](https://github.com/glouw/paperview) - A high performance X11 animated wallpaper setter
@@ -2448,6 +2448,7 @@
 - [MCotocel/pactest](https://github.com/MCotocel/pactest) - Test AUR software in a chroot
 - [kevinlynx/dhtcrawler2](https://github.com/kevinlynx/dhtcrawler2) - dhtcrawler is a DHT crawler written in erlang. It can join a DHT network and crawl many P2P torrents. The program save all torrent info into database and provide an http interface to search a torrent 
 - [kiddae/scripts](https://github.com/kiddae/scripts) - A bunch of failed attempts at automatizing simple tasks.
+- [lahwaacz/dotfiles](https://github.com/lahwaacz/dotfiles) - Personal configuration for my Arch Linux systems
 - [emanuelep57/Bspwm-SpaceBlue](https://github.com/emanuelep57/Bspwm-SpaceBlue) - Config files for my GitHub profile.
 - [ungoogled-software/ungoogled-chromium-archlinux](https://github.com/ungoogled-software/ungoogled-chromium-archlinux) - Arch Linux packaging for ungoogled-chromium
 - [ryanmjacobs/c](https://github.com/ryanmjacobs/c) - Compile and execute C "scripts" in one go!
@@ -2784,7 +2785,6 @@
 - [dhruvasagar/vim-dotoo](https://github.com/dhruvasagar/vim-dotoo) - Org-mode like task logging & time tracking in Vim
 - [sayanarijit/xplr.vim](https://github.com/sayanarijit/xplr.vim) - Fork of https://github.com/mcchrish/nnn.vim modified to work with xplr. Until xplr has its own plugin.
 - [chrisbra/Colorizer](https://github.com/chrisbra/Colorizer) - color hex codes and color names
-- [lahwaacz/dotfiles](https://github.com/lahwaacz/dotfiles) - Personal configuration for my Arch Linux systems
 - [leanprover/lean.vim](https://github.com/leanprover/lean.vim) - 
 - [AndrewRadev/splitjoin.vim](https://github.com/AndrewRadev/splitjoin.vim) - Switch between single-line and multiline forms of code
 - [rbtnn/vim-mario](https://github.com/rbtnn/vim-mario) - Mario on Vim
