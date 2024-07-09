@@ -1082,7 +1082,7 @@
 - [TomSmeets/FractalArt](https://github.com/TomSmeets/FractalArt) - Generate colorful wallpapers!
 - [afreakk/dmenuhistory](https://github.com/afreakk/dmenuhistory) - History for dmenu, fzf and rofi -dmenu type applications (show most frequently accessed on top)
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
-- [fosskers/aura](https://github.com/fosskers/aura) - A secure, multilingual package manager for Arch Linux and the AUR.
+- [fosskers/aura](https://github.com/fosskers/aura) - A multilingual package manager for Arch Linux and the AUR.
 - [lettier/gifcurry](https://github.com/lettier/gifcurry) - 😎 The open-source, Haskell-built video editor for GIF makers.
 - [ehamberg/9m](https://github.com/ehamberg/9m) - 9m Unicode URL Shortener
 - [rightsreserved/byz4ntine](https://github.com/rightsreserved/byz4ntine) - my config files
