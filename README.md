@@ -28,6 +28,7 @@
 - [Dockerfile](#dockerfile)
 - [Emacs Lisp](#emacs-lisp)
 - [F#](#f#)
+- [Fluent](#fluent)
 - [GAP](#gap)
 - [GDScript](#gdscript)
 - [GLSL](#glsl)
@@ -489,7 +490,7 @@
 - [salman-abedin/tide](https://github.com/salman-abedin/tide) - Minimal Transmission CLI client
 - [cruegge/pam-gnupg](https://github.com/cruegge/pam-gnupg) - Unlock GnuPG keys on login
 - [a-nikolaev/curseofwar](https://github.com/a-nikolaev/curseofwar) - A Real Time Strategy game for Linux.
-- [aligrudi/neatvi](https://github.com/aligrudi/neatvi) - A small vi/ex editor for editing bidirectional UTF-8 text
+- [aligrudi/neatvi](https://github.com/aligrudi/neatvi) - A small vi/ex editor for editing UTF-8 text
 - [dudik/herbe](https://github.com/dudik/herbe) - Daemon-less notifications without D-Bus. Minimal and lightweight.
 - [ashish-yadav11/dwmblocks](https://github.com/ashish-yadav11/dwmblocks) - Rewrite of dwmblocks with added features including clickability, cursor hinting and color.
 - [OpenAnnePro/AnnePro2-Shine](https://github.com/OpenAnnePro/AnnePro2-Shine) - Custom LED Matrix Firmware for Open Anne Pro 2 QMK Port
@@ -848,6 +849,10 @@
 - [vincenzoml/ProgrammingLanguages](https://github.com/vincenzoml/ProgrammingLanguages) - 
 - [ryco117/FunctionalSoul](https://github.com/ryco117/FunctionalSoul) - A Soulseek client app written in F#.
 
+## Fluent 
+
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
+
 ## GAP 
 
 - [gap-system/gap](https://github.com/gap-system/gap) - Main development repository for GAP - Groups, Algorithms, Programming, a System for Computational Discrete Algebra
@@ -1032,7 +1037,6 @@
 - [ritheshkumar95/im2latex-tensorflow](https://github.com/ritheshkumar95/im2latex-tensorflow) - Tensorflow implementation of the HarvardNLP paper - What You Get Is What You See: A Visual Markup Decompiler (https://arxiv.org/pdf/1609.04938v1.pdf)
 - [kencx/startpage](https://github.com/kencx/startpage) - Custom browser startpage
 - [planetmath/00_General](https://github.com/planetmath/00_General) - 
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [antcc/dotfiles-old-XPS](https://github.com/antcc/dotfiles-old-XPS) - Configuration files for Arch Linux.
 - [easychen/not-only-fans](https://github.com/easychen/not-only-fans) - an open source, self-hosted digital content subscription platform like `onlyfans.com`  with  cryptocurrency payment
 - [timb-machine/linux-malware](https://github.com/timb-machine/linux-malware) - Tracking interesting Linux (and UNIX) malware. Send PRs
@@ -2107,7 +2111,7 @@
 - [sioodmy/todo](https://github.com/sioodmy/todo) - Simple todo cli program written in rust
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [melody-notpond/uwutalk](https://github.com/melody-notpond/uwutalk) - Matrix client.
-- [AusCyberman/dotfile-sync](https://github.com/AusCyberman/dotfile-sync) - Syncing dotfiles or other symlinks easily
+- [auscyber/dotfile-sync](https://github.com/auscyber/dotfile-sync) - Syncing dotfiles or other symlinks easily
 - [Smithay/wayland-rs](https://github.com/Smithay/wayland-rs) - Rust implementation of the wayland protocol (client and server).
 - [Canop/dysk](https://github.com/Canop/dysk) - A linux utility to get information on filesystems, like df but better
 - [nrc/r4cppp](https://github.com/nrc/r4cppp) - Rust for C++ programmers
