@@ -1961,7 +1961,7 @@
 - [matrix-org/matrix-synapse-ldap3](https://github.com/matrix-org/matrix-synapse-ldap3) - An LDAP3 auth provider for Synapse
 - [Askannz/optimus-manager](https://github.com/Askannz/optimus-manager) - A Linux program to handle GPU switching on Optimus laptops.
 - [slavfox/Cozette](https://github.com/slavfox/Cozette) - A bitmap programming font optimized for coziness 💜
-- [kal39/ptmv](https://github.com/kal39/ptmv) - An utf-8/truecolor image and video viewer for the terminal
+- [kai-kj/ptmv](https://github.com/kai-kj/ptmv) - An utf-8/truecolor image and video viewer for the terminal
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [RobertCsordas/linux-intel-undervolt-tool](https://github.com/RobertCsordas/linux-intel-undervolt-tool) - Scripts for undervolting 6+th gen Intel i* CPUs and their internal GPU.
 - [bexxmodd/vizex](https://github.com/bexxmodd/vizex) - Visualize disk space and disk usage in your UNIX\Linux terminal
