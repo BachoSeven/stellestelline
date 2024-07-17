@@ -241,7 +241,7 @@
 - [rizinorg/rizin](https://github.com/rizinorg/rizin) - UNIX-like reverse engineering framework and command-line toolset.
 - [ashish-yadav11/st](https://github.com/ashish-yadav11/st) - My fork of the suckless terminal with proper scrolling support, text reflow and a few other additions.
 - [Nooo37/pinsel](https://github.com/Nooo37/pinsel) - Minimal screenshot annotation tool with lua config
-- [musikid/acpi_ec](https://github.com/musikid/acpi_ec) - Kernel module to access directly to the ACPI EC.
+- [saidsay-so/acpi_ec](https://github.com/saidsay-so/acpi_ec) - Kernel module to access directly to the ACPI EC.
 - [OpenBoardView/OpenBoardView](https://github.com/OpenBoardView/OpenBoardView) - View .brd files
 - [OpenPrinting/cups](https://github.com/OpenPrinting/cups) - OpenPrinting CUPS Sources
 - [monroewilliams/trackball](https://github.com/monroewilliams/trackball) - Code for a trackball I'm building from scratch
@@ -2120,7 +2120,7 @@
 - [pop-os/launcher](https://github.com/pop-os/launcher) - Modular IPC-based desktop launcher service
 - [garak92/rearx](https://github.com/garak92/rearx) - A TUI client for the Searx meta-search engine, written in Rust
 - [p-e-w/ternimal](https://github.com/p-e-w/ternimal) - Simulate a lifeform in the terminal
-- [musikid/fancy](https://github.com/musikid/fancy) - Control your laptop fans with a fancy ( ͡° ͜ʖ ͡°) software (compatible with NBFC).
+- [saidsay-so/fancy](https://github.com/saidsay-so/fancy) - Control your laptop fans with a fancy ( ͡° ͜ʖ ͡°) software (compatible with NBFC).
 - [sagudev/lac](https://github.com/sagudev/lac) - Lossless Audio Checker
 - [Icelk/clipcat](https://github.com/Icelk/clipcat) - clipcat is a clipboard manager written in Rust Programming Language.
 - [xrelkd/clipcat](https://github.com/xrelkd/clipcat) - A clipboard manager written in Rust Programming Language.
