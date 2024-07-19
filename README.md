@@ -1358,6 +1358,9 @@
 
 ## Lua 
 
+- [benbrastmckie/.config](https://github.com/benbrastmckie/.config) - NeoVim configuration optimized for writing in LaTeX
+- [3rd/image.nvim](https://github.com/3rd/image.nvim) - 🖼️ Bringing images to Neovim.
+- [Vaisakhkm2625/hologram-math-preview.nvim](https://github.com/Vaisakhkm2625/hologram-math-preview.nvim) - Preview latex-math equations in markdown files using hologram
 - [okuuva/auto-save.nvim](https://github.com/okuuva/auto-save.nvim) - 🧶 Automatically save your changes in NeoVim
 - [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API
 - [pocco81/auto-save.nvim](https://github.com/pocco81/auto-save.nvim) - 🧶 Automatically save your changes in NeoVim
@@ -2043,6 +2046,7 @@
 
 ## Rust 
 
+- [bytesnake/vim-graphical-preview](https://github.com/bytesnake/vim-graphical-preview) - Small plugin for Vim to display graphics with SIXEL characters
 - [Samyak2/toipe](https://github.com/Samyak2/toipe) - yet another typing test, but crab flavoured
 - [lemunozm/termchat](https://github.com/lemunozm/termchat) - Terminal chat through the LAN with video streaming and file transfer.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
