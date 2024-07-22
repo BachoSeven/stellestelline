@@ -566,7 +566,7 @@
 - [IMAGINARY/surfer-alggeo-gtk](https://github.com/IMAGINARY/surfer-alggeo-gtk) - Sources of SURFER 2008, which is written in C++ and GTK 2
 - [Singular/Singular](https://github.com/Singular/Singular) - sources for the Singular computer algebra system
 - [oxen-io/lokinet](https://github.com/oxen-io/lokinet) - Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [Vantskruv/wejoy](https://github.com/Vantskruv/wejoy) - Tool to read physical joystick devices, keyboards aswell, and create virtual joystick devices and output keyboard presses on a Linux system.
 - [textbrowser/biblioteq](https://github.com/textbrowser/biblioteq) - Archive and catalog the world for today's and tomorrow's generations! Available almost everyware. Completed?
 - [ofloveandhate/bertini_real](https://github.com/ofloveandhate/bertini_real) - software for real algebraic sets
@@ -1385,7 +1385,7 @@
 - [fhill2/xplr.nvim](https://github.com/fhill2/xplr.nvim) - XPLR - msgpack - lua
 - [sayanarijit/command-mode.xplr](https://github.com/sayanarijit/command-mode.xplr) - The missing command mode for xplr
 - [nickguletskii/GLXOSD](https://github.com/nickguletskii/GLXOSD) - GLXOSD is an extensible on-screen display (OSD)/overlay for OpenGL applications running on Linux with X11 which aims to provide similar functionality to MSI Afterburner/RivaTuner OSD. It can show FPS,
-- [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github's Neovim themes
+- [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - GitHub's Neovim themes
 - [jbyuki/instant.nvim](https://github.com/jbyuki/instant.nvim) - collaborative editing in Neovim using built-in capabilities
 - [undefinedDarkness/rice](https://github.com/undefinedDarkness/rice) - Home Sweet Home
 - [mountain-theme/Mountain](https://github.com/mountain-theme/Mountain) - Neutral. Calm.
@@ -1493,6 +1493,7 @@
 
 - [PedroHLC/system-setup](https://github.com/PedroHLC/system-setup) - Recipe for creating my NixOS machines. (ZFS and Sway)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
+- [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, Hyprland, kitty, kakoune, zsh and more
 - [fdietze/dotfiles](https://github.com/fdietze/dotfiles) - 
 - [donovanglover/nix-config](https://github.com/donovanglover/nix-config) - My NixOS configuration with Nix Flakes, Home Manager, Stylix, and Hyprland.
 - [b3nj5m1n/dotfiles](https://github.com/b3nj5m1n/dotfiles) - 
@@ -2046,6 +2047,10 @@
 
 ## Rust 
 
+- [elevenhsoft/cosmic-ext-applet-ollama](https://github.com/elevenhsoft/cosmic-ext-applet-ollama) - Ollama applet for COSMIC Desktop
+- [mariinkys/oboete](https://github.com/mariinkys/oboete) - A simple flashcards application for the COSMIC™ desktop written in Rust
+- [mariinkys/starrydex](https://github.com/mariinkys/starrydex) - A Pokédex application for the COSMIC™ desktop written in Rust
+- [elevenhsoft/WebApps](https://github.com/elevenhsoft/WebApps) - Web applications at your fingertips.
 - [bytesnake/vim-graphical-preview](https://github.com/bytesnake/vim-graphical-preview) - Small plugin for Vim to display graphics with SIXEL characters
 - [Samyak2/toipe](https://github.com/Samyak2/toipe) - yet another typing test, but crab flavoured
 - [lemunozm/termchat](https://github.com/lemunozm/termchat) - Terminal chat through the LAN with video streaming and file transfer.
@@ -2489,7 +2494,6 @@
 - [doronbehar/dotfiles](https://github.com/doronbehar/dotfiles) - My Dotfiles - tmux, vim, bash, zsh with powerline and git
 - [ful1e5/XCursor-pro](https://github.com/ful1e5/XCursor-pro) - Modern XCursors.
 - [pystardust/sbar](https://github.com/pystardust/sbar) - Simple dwm bar script with variable timing and signalling in posix
-- [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, Hyprland, kitty, kakoune, zsh and more
 - [paoloap/zaread](https://github.com/paoloap/zaread) - A (very) lightweight MS Office file reader
 - [Bugswriter/tuxi](https://github.com/Bugswriter/tuxi) - Tuxi is a cli assistant. Get answers of your questions instantly.
 - [lahwaacz/Scripts](https://github.com/lahwaacz/Scripts) - 
