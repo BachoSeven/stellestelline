@@ -933,7 +933,7 @@
 - [prasmussen/gdrive](https://github.com/prasmussen/gdrive) - Google Drive CLI Client
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [birchb1024/frangipanni](https://github.com/birchb1024/frangipanni) - Program to convert lines of text into a tree structure.
-- [hrfee/jfa-go](https://github.com/hrfee/jfa-go) - a better way to manage your Jellyfin users, now in go
+- [hrfee/jfa-go](https://github.com/hrfee/jfa-go) - a bit-of-everything user managament app for Jellyfin
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [jpdillingham/brainz](https://github.com/jpdillingham/brainz) - A lightweight MusicBrainz CLI in Go.
 - [hkparker/go-i2p](https://github.com/hkparker/go-i2p) - A pure Go implementation of the I2P router
