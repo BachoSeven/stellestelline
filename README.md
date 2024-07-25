@@ -1346,7 +1346,7 @@
 - [aziis98/lean-codespace](https://github.com/aziis98/lean-codespace) - Questa repository contiene un semplice progetto in Lean che può essere lanciato con un click su GitHub CodeSpaces
 - [leanprover-community/mathlib4](https://github.com/leanprover-community/mathlib4) - The math library of Lean 4
 - [ramonfmir/lean-scheme](https://github.com/ramonfmir/lean-scheme) - Schemes in Lean (v2)
-- [leanprover-community/mathlib](https://github.com/leanprover-community/mathlib) - Lean 3's obsolete mathematical components library: please use mathlib4
+- [leanprover-community/mathlib3](https://github.com/leanprover-community/mathlib3) - Lean 3's obsolete mathematical components library: please use mathlib4
 - [ImperialCollegeLondon/formalising-mathematics-2022](https://github.com/ImperialCollegeLondon/formalising-mathematics-2022) - Lean 3 material for Kevin Buzzard's Jan-Mar 2022 course on formalising mathematics. Lean 4 version available here: https://github.com/ImperialCollegeLondon/formalising-mathematics-2024
 - [ImperialCollegeLondon/formalising-mathematics](https://github.com/ImperialCollegeLondon/formalising-mathematics) - Lean 3 material for Kevin Buzzard's 2021 TCC courrse on formalising mathematics. Lean 4 version available here: https://github.com/ImperialCollegeLondon/formalising-mathematics-2024
 - [leanprover-community/lean-liquid](https://github.com/leanprover-community/lean-liquid) - 💧 Liquid Tensor Experiment
