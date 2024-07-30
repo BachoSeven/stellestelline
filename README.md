@@ -1155,7 +1155,7 @@
 - [JoseExposito/gnome-shell-extension-x11gestures](https://github.com/JoseExposito/gnome-shell-extension-x11gestures) - Enable GNOME Shell multi-touch gestures on X11 with this extension
 - [webosbrew/webos-homebrew-channel](https://github.com/webosbrew/webos-homebrew-channel) - Unofficial webOS TV homebrew store and root-related tooling
 - [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your windows with style.
-- [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 4k and 60fps, compatible with all browsers and platforms.
+- [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 8k and 60fps, compatible with all browsers and platforms.
 - [aziis98/art-2021-12-19](https://github.com/aziis98/art-2021-12-19) - Growing circuit board pattern
 - [caderek/gramma](https://github.com/caderek/gramma) - command-line grammar checker
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
@@ -1505,7 +1505,7 @@
 
 ## OCaml 
 
-- [ygrek/mldonkey](https://github.com/ygrek/mldonkey) - cross-platform multi-network p2p daemon
+- [ygrek/mldonkey](https://github.com/ygrek/mldonkey) - cross-platform multi-network p2p daemon (previously at http://mldonkey.sourceforge.net/)
 
 ## Objective-C 
 
