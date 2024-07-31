@@ -2586,7 +2586,7 @@
 - [ValdikSS/windows2usb](https://github.com/ValdikSS/windows2usb) - Windows 7/8/8.1/10/11 ISO to Flash Drive burning utility for Linux (MBR/GPT, BIOS/UEFI, FAT32/NTFS)
 - [felipesaa/A-vim-like-firefox-like-configuration-for-w3m](https://github.com/felipesaa/A-vim-like-firefox-like-configuration-for-w3m) - A configuration and documentation for w3m
 - [dylanaraps/shfm](https://github.com/dylanaraps/shfm) - file manager written in posix shell
-- [joestandring/dwm-bar](https://github.com/joestandring/dwm-bar) - A modular statusbar for dwm
+- [hollystandring/dwm-bar](https://github.com/hollystandring/dwm-bar) - A modular statusbar for dwm
 - [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A huge collection (80+) of plymouth themes ported from android bootanimations
 - [comfies/bed](https://github.com/comfies/bed) - bash only text editor
 - [sdushantha/kunst](https://github.com/sdushantha/kunst) - Download and display album art or display embedded album art
