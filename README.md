@@ -808,7 +808,7 @@
 ## D 
 
 - [yt-dlp/SponSkrub](https://github.com/yt-dlp/SponSkrub) - Strip advertisements from downloaded YouTube videos
-- [seeschloss/soulfind](https://github.com/seeschloss/soulfind) - Soulfind is a Soulseek server, written in D
+- [soulfind-dev/soulfind](https://github.com/soulfind-dev/soulfind) - Soulseek server implementation in D
 
 ## DIGITAL Command Language 
 
@@ -889,7 +889,7 @@
 - [Tnze/go-mc](https://github.com/Tnze/go-mc) - Collection of Go libraries for Minecraft
 - [aziis98/textml](https://github.com/aziis98/textml) - My personal textual markup language. Mostly a more structured alternative to Markdown
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
-- [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
+- [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [mayth/go-simple-upload-server](https://github.com/mayth/go-simple-upload-server) - Simple HTTP server to save artifacts
 - [doron-cohen/antidot](https://github.com/doron-cohen/antidot) - Cleans up your $HOME from those pesky dotfiles
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cozy typing speed tester in terminal
@@ -1128,7 +1128,6 @@
 
 ## JavaScript 
 
-- [bpc-clone/bypass-paywalls-clean-filters](https://github.com/bpc-clone/bypass-paywalls-clean-filters) - 
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [fjwillemsen/NativeOverleaf](https://github.com/fjwillemsen/NativeOverleaf) - Next-level academia! Repository for the Native Overleaf project, attempting to integrate Overleaf with native OS features for macOS, Linux and Windows.
@@ -1526,6 +1525,7 @@
 
 ## Others 
 
+- [bpc-clone/bypass-paywalls-clean-filters](https://github.com/bpc-clone/bypass-paywalls-clean-filters) - 
 - [bpc-clone/bypass-paywalls-chrome-clean](https://github.com/bpc-clone/bypass-paywalls-chrome-clean) - 
 - [bpc-clone/bypass-paywalls-firefox-clean](https://github.com/bpc-clone/bypass-paywalls-firefox-clean) - 
 - [revoltchat/self-hosted](https://github.com/revoltchat/self-hosted) - Deploy Revolt using Docker.
@@ -2052,6 +2052,7 @@
 
 ## Rust 
 
+- [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale
 - [elevenhsoft/cosmic-ext-applet-ollama](https://github.com/elevenhsoft/cosmic-ext-applet-ollama) - Ollama applet for COSMIC Desktop
 - [mariinkys/oboete](https://github.com/mariinkys/oboete) - A simple flashcards application for the COSMIC™ desktop written in Rust
 - [mariinkys/starrydex](https://github.com/mariinkys/starrydex) - A Pokédex application for the COSMIC™ desktop written in Rust
@@ -2310,6 +2311,7 @@
 
 ## Shell 
 
+- [matt-kukla/arxpdf](https://github.com/matt-kukla/arxpdf) - Download arXiv preprints as PDFs.
 - [Samueru-sama/fixsteam](https://github.com/Samueru-sama/fixsteam) - This script fixes multiple issues that the linux version of Steam has.
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [lcorbasson/docker-skp2dae](https://github.com/lcorbasson/docker-skp2dae) - SketchUp (SKP) to DAE converter using Docker, WINE and ugly glue
