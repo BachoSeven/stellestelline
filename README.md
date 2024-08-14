@@ -1984,7 +1984,7 @@
 - [toxinu/pyhn](https://github.com/toxinu/pyhn) - Hacker news command line client
 - [ms-jpq/chadtree](https://github.com/ms-jpq/chadtree) - File manager for Neovim. Better than NERDTree.
 - [hellerbarde/stapler](https://github.com/hellerbarde/stapler) - A small utility making use of the pypdf library to provide a (somewhat) lighter alternative to pdftk
-- [itsron143/XKCD](https://github.com/itsron143/XKCD) - A minimal command line tool for your daily dose of xkcd comics written in python. Feel free to contribute!
+- [itsron143/XKCD](https://github.com/itsron143/XKCD) - A minimal command line tool for your daily dose of xkcd comics written in python.
 - [ihabunek/toot](https://github.com/ihabunek/toot) - toot - Mastodon CLI & TUI
 - [s3rvac/weechat-notify-send](https://github.com/s3rvac/weechat-notify-send) - A WeeChat script that sends highlight and message notifications through notify-send.
 - [GermainZ/weechat-vimode](https://github.com/GermainZ/weechat-vimode) - A WeeChat script that adds vi-like modes, commands and keybindings.
