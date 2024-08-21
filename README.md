@@ -144,6 +144,7 @@
 
 ## C 
 
+- [yshui/deai](https://github.com/yshui/deai) - One-stop automation system for Linux
 - [GermainZ/xdg-desktop-portal-termfilechooser](https://github.com/GermainZ/xdg-desktop-portal-termfilechooser) - xdg-desktop-portal backend for choosing files with your favorite file chooser
 - [pwmt/zathura](https://github.com/pwmt/zathura) - Document viewer
 - [nicenemo/franken-planck](https://github.com/nicenemo/franken-planck) - Custom QMK keyboard layout for a Planck Keyboard
@@ -867,6 +868,7 @@
 
 ## Go 
 
+- [stephensli/idasen](https://github.com/stephensli/idasen) - Idasen desk is a simple CLI for interfacing with the Ikea IDÅSEN desk 🖥️
 - [tokiory/zed-gruvbox-material](https://github.com/tokiory/zed-gruvbox-material) - 🎨 💫 Gruvbox Material Theme for the Zed Editor
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [mrusme/neonmodem](https://github.com/mrusme/neonmodem) - Neon Modem Overdrive
@@ -1525,6 +1527,7 @@
 
 ## Others 
 
+- [jstkdng/hyena-browser](https://github.com/jstkdng/hyena-browser) - Patches and scripts to remove ads, cryptocurrency and phone-ing home from Brave Browser
 - [bpc-clone/bypass-paywalls-chrome-clean](https://github.com/bpc-clone/bypass-paywalls-chrome-clean) - 
 - [bpc-clone/bypass-paywalls-firefox-clean](https://github.com/bpc-clone/bypass-paywalls-firefox-clean) - 
 - [revoltchat/self-hosted](https://github.com/revoltchat/self-hosted) - Deploy Revolt using Docker.
@@ -2051,6 +2054,7 @@
 
 ## Rust 
 
+- [FrameworkComputer/framework-system](https://github.com/FrameworkComputer/framework-system) - Rust libraries and tools to interact with the Framework Computer systems
 - [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale
 - [elevenhsoft/cosmic-ext-applet-ollama](https://github.com/elevenhsoft/cosmic-ext-applet-ollama) - Ollama applet for COSMIC Desktop
 - [mariinkys/oboete](https://github.com/mariinkys/oboete) - A simple flashcards application for the COSMIC™ desktop written in Rust
@@ -2686,7 +2690,7 @@
 - [chetanbhat/quantum-wordle](https://github.com/chetanbhat/quantum-wordle) - Quantum Wordle
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [wclr/vscode-autosave-ext](https://github.com/wclr/vscode-autosave-ext) - AutoSave Extension for VSCodee
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles.
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and files.
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [Paper-Proof/paperproof](https://github.com/Paper-Proof/paperproof) - Lean theorem proving interface which feels like pen-and-paper proofs.
 - [benlikescode/geohub](https://github.com/benlikescode/geohub) - Free, open source geoguessr alternative
