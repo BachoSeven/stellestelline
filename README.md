@@ -727,6 +727,7 @@
 - [NethServer/docs](https://github.com/NethServer/docs) - NethServer documentation
 - [williamckha/spicetify-fluent](https://github.com/williamckha/spicetify-fluent) - Spicetify theme inspired by Microsoft's Fluent Design
 - [schnensch0/ziro](https://github.com/schnensch0/ziro) - spicetify theme inspired by zorin
+- [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [joeroe/risotto](https://github.com/joeroe/risotto) - A minimalist, responsive hugo theme inspired by terminal ricing aesthetics.
 - [ChocolateBread799/startpage](https://github.com/ChocolateBread799/startpage) - https://chocolatebread799.github.io/startpage/
 - [walkxcode/homer-theme](https://github.com/walkxcode/homer-theme) - 🎨 A custom Homer theme!
@@ -2279,7 +2280,6 @@
 ## SCSS 
 
 - [phc-dm/seminarietti-website](https://github.com/phc-dm/seminarietti-website) - Piccolo sito in Astro per i Seminarietti del PHC
-- [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [vinibiavatti1/TuiCss](https://github.com/vinibiavatti1/TuiCss) - Text-based user interface CSS library
 - [ungoogled-software/ungoogled-software.github.io](https://github.com/ungoogled-software/ungoogled-software.github.io) - Website for ungoogled-chromium
 - [prayag17/JellySkin](https://github.com/prayag17/JellySkin) - Vibrante/minimal Jellyfin CSS using custom Icons and more!!, created for Jellyfin web :film_strip:, can be used by just one line.
@@ -2686,11 +2686,12 @@
 
 ## TypeScript 
 
+- [zen-browser/surfer](https://github.com/zen-browser/surfer) - Simplifying building firefox forks!
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [chetanbhat/quantum-wordle](https://github.com/chetanbhat/quantum-wordle) - Quantum Wordle
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [wclr/vscode-autosave-ext](https://github.com/wclr/vscode-autosave-ext) - AutoSave Extension for VSCodee
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and files.
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [Paper-Proof/paperproof](https://github.com/Paper-Proof/paperproof) - Lean theorem proving interface which feels like pen-and-paper proofs.
 - [benlikescode/geohub](https://github.com/benlikescode/geohub) - Free, open source geoguessr alternative
