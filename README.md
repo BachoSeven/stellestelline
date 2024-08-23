@@ -1528,6 +1528,7 @@
 
 ## Others 
 
+- [Lapin0t/grothendieck-cern](https://github.com/Lapin0t/grothendieck-cern) - Alexander Grothendieck's 1972 talk at CERN, on scientific research
 - [jstkdng/hyena-browser](https://github.com/jstkdng/hyena-browser) - Patches and scripts to remove ads, cryptocurrency and phone-ing home from Brave Browser
 - [bpc-clone/bypass-paywalls-chrome-clean](https://github.com/bpc-clone/bypass-paywalls-chrome-clean) - 
 - [bpc-clone/bypass-paywalls-firefox-clean](https://github.com/bpc-clone/bypass-paywalls-firefox-clean) - 
@@ -1569,7 +1570,7 @@
 - [dothq/browser](https://github.com/dothq/browser) - The browser that fights for your privacy.
 - [yulunzhang/video-enhancement](https://github.com/yulunzhang/video-enhancement) - A list of resources for video enhancement, including video super-resolutio, interpolation, denoising, compression artifact removal et al..
 - [Digitalone1/EasyEffects-Presets](https://github.com/Digitalone1/EasyEffects-Presets) - Presets for EasyEffects and PulseEffects.
-- [ubports/ubuntu-touch](https://github.com/ubports/ubuntu-touch) - A simple and beautiful mobile OS for everyone! This repository is for Ubuntu Touch issue tracking. It does not contain any code used to create Ubuntu Touch.
+- [ubports/ubuntu-touch](https://github.com/ubports/ubuntu-touch) - Ubuntu Touch's issue inbox is now migrated to GitLab.
 - [aynp/dracula-wallpapers](https://github.com/aynp/dracula-wallpapers) - Wallpapers based on the Dracula Theme
 - [macchrome/linchrome](https://github.com/macchrome/linchrome) - ungoogled chromium portablelinux
 - [jellyfin-archive/jellyfin-docs](https://github.com/jellyfin-archive/jellyfin-docs) - Documentation for Jellyfin
@@ -1728,6 +1729,7 @@
 
 ## Python 
 
+- [guillaumegenthial/im2latex](https://github.com/guillaumegenthial/im2latex) - Image to LaTeX (Seq2seq + Attention with Beam Search) - Tensorflow
 - [xu1868/SaySelf](https://github.com/xu1868/SaySelf) - Public code repo for paper "SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales"
 - [strodgers/epomaker-controller](https://github.com/strodgers/epomaker-controller) - 
 - [kraanzu/smassh](https://github.com/kraanzu/smassh) - Smassh your Keyboard, TUI Edition
@@ -2645,6 +2647,7 @@
 
 ## TeX 
 
+- [jmoellermath/translate-SGAI](https://github.com/jmoellermath/translate-SGAI) - Let's translate works of Grothendieck
 - [jjgarzella/pandemic-class-field-theory](https://github.com/jjgarzella/pandemic-class-field-theory) - This is a more polished writeup of a series of talks given in a digital reading course during the COVID-19 pandemic. The topic of the seminar was local class field theory. The proof deduces class fiel
 - [williamstein/ant](https://github.com/williamstein/ant) - Algebra Number Theory book
 - [suchow/Dissertate](https://github.com/suchow/Dissertate) - Beautiful LaTeX dissertation templates.
