@@ -11,6 +11,7 @@
 - [Adblock Filter List](#adblock-filter-list)
 - [Agda](#agda)
 - [Assembly](#assembly)
+- [Astro](#astro)
 - [AutoHotkey](#autohotkey)
 - [AutoIt](#autoit)
 - [Awk](#awk)
@@ -123,6 +124,10 @@
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM and embedded RISC-V architectures.
 - [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 
+## Astro 
+
+- [aziis98/website-2023](https://github.com/aziis98/website-2023) - Forse finalmente mi sono fatto un sito che funge (con Astro, Preact e prima o poi un po' di MDX)
+
 ## AutoHotkey 
 
 - [fenwar/ahk-caps-ctrl-esc](https://github.com/fenwar/ahk-caps-ctrl-esc) - Autohotkey script that maps Capslock to Esc *and* Ctrl
@@ -144,6 +149,7 @@
 
 ## C 
 
+- [aziis98/arnoldi-distribuito](https://github.com/aziis98/arnoldi-distribuito) - Progetto di Calcolo Scientifico, Metodo di Arnoldi per Autovalori distribuito utilizzando PETSc
 - [yshui/deai](https://github.com/yshui/deai) - One-stop automation system for Linux
 - [GermainZ/xdg-desktop-portal-termfilechooser](https://github.com/GermainZ/xdg-desktop-portal-termfilechooser) - xdg-desktop-portal backend for choosing files with your favorite file chooser
 - [pwmt/zathura](https://github.com/pwmt/zathura) - Document viewer
@@ -869,6 +875,8 @@
 
 ## Go 
 
+- [aziis98/go-vite-kit](https://github.com/aziis98/go-vite-kit) - Minimal boilerplate with a golang server using Fiber and ViteJS for static pages
+- [aziis98/menu](https://github.com/aziis98/menu) - A small dmenu like tool for the terminal with integrated fuzzy search functionality, easily extensible with shell scripts
 - [stephensli/idasen](https://github.com/stephensli/idasen) - Idasen desk is a simple CLI for interfacing with the Ikea IDÅSEN desk 🖥️
 - [tokiory/zed-gruvbox-material](https://github.com/tokiory/zed-gruvbox-material) - 🎨 💫 Gruvbox Material Theme for the Zed Editor
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
