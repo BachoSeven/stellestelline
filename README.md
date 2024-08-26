@@ -678,7 +678,7 @@
 - [HackerPoet/FractalSoundExplorer](https://github.com/HackerPoet/FractalSoundExplorer) - Explore fractals in an audio-visual sandbox
 - [fgheng/keysound](https://github.com/fgheng/keysound) - keysound is keyboard sound software for Linux
 - [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++20.
-- [user-none/KDocker](https://github.com/user-none/KDocker) - KDocker will help you dock any application into the system tray
+- [user-none/KDocker](https://github.com/user-none/KDocker) - KDocker will help you dock most applications to the system tray
 - [clangen/musikcube](https://github.com/clangen/musikcube) - a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++
 - [houmain/keymapper](https://github.com/houmain/keymapper) - A cross-platform context-aware key remapper.
 - [picotorrent/picotorrent](https://github.com/picotorrent/picotorrent) - A tiny, hackable BitTorrent client.
@@ -877,7 +877,7 @@
 
 - [aziis98/go-vite-kit](https://github.com/aziis98/go-vite-kit) - Minimal boilerplate with a golang server using Fiber and ViteJS for static pages
 - [aziis98/menu](https://github.com/aziis98/menu) - A small dmenu like tool for the terminal with integrated fuzzy search functionality, easily extensible with shell scripts
-- [stephensli/idasen](https://github.com/stephensli/idasen) - Idasen desk is a simple CLI for interfacing with the Ikea IDÅSEN desk 🖥️
+- [stephen-slm/idasen](https://github.com/stephen-slm/idasen) - Idasen desk is a simple CLI for interfacing with the Ikea IDÅSEN desk 🖥️
 - [tokiory/zed-gruvbox-material](https://github.com/tokiory/zed-gruvbox-material) - 🎨 💫 Gruvbox Material Theme for the Zed Editor
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [mrusme/neonmodem](https://github.com/mrusme/neonmodem) - Neon Modem Overdrive
