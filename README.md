@@ -875,6 +875,7 @@
 
 ## Go 
 
+- [aziis98/mup](https://github.com/aziis98/mup) - A micro file uploader written in Go to easily share files over LAN
 - [aziis98/go-vite-kit](https://github.com/aziis98/go-vite-kit) - Minimal boilerplate with a golang server using Fiber and ViteJS for static pages
 - [aziis98/menu](https://github.com/aziis98/menu) - A small dmenu like tool for the terminal with integrated fuzzy search functionality, easily extensible with shell scripts
 - [stephen-slm/idasen](https://github.com/stephen-slm/idasen) - Idasen desk is a simple CLI for interfacing with the Ikea IDÅSEN desk 🖥️
