@@ -27,6 +27,7 @@
 - [DIGITAL Command Language](#digital-command-language)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
+- [Elvish](#elvish)
 - [Emacs Lisp](#emacs-lisp)
 - [F#](#f#)
 - [Fluent](#fluent)
@@ -842,10 +843,14 @@
 - [kokmok/rpi-nicotine-novnc](https://github.com/kokmok/rpi-nicotine-novnc) - 🐳 Nicotine Over noVNC Docker Container for RPI
 - [realies/soulseek-docker](https://github.com/realies/soulseek-docker) - 🐳 Soulseek Docker Container
 
+## Elvish 
+
+- [SolitudeSF/dot](https://github.com/SolitudeSF/dot) - heh, configs
+
 ## Emacs Lisp 
 
 - [osnr/dotfiles](https://github.com/osnr/dotfiles) - :clipboard: dotfiles.
-- [susam/emfy](https://github.com/susam/emfy) - A very basic dark and sleek Emacs setup for general purpose editing and programming
+- [susam/emfy](https://github.com/susam/emfy) - A dark and sleek Emacs setup for general purpose editing and programming
 - [Olivia5k/dotfiles](https://github.com/Olivia5k/dotfiles) - Heavy emacs customizations with a purple finish
 - [jnykopp/emaccordion](https://github.com/jnykopp/emaccordion) - Control Emacs with MIDI
 - [jasonliang-dev/dotfiles](https://github.com/jasonliang-dev/dotfiles) - ~/.*
@@ -1896,7 +1901,6 @@
 - [lahwaacz/wiki-scripts](https://github.com/lahwaacz/wiki-scripts) - Framework for writing bots, maintenance scripts or performing data analysis on wikis powered by MediaWiki
 - [lahwaacz/arch-wiki-docs](https://github.com/lahwaacz/arch-wiki-docs) - A script to download pages from Arch Wiki for offline browsing
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
-- [SolitudeSF/dot](https://github.com/SolitudeSF/dot) - heh, configs
 - [LazoCoder/Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokemon terminal themes.
 - [XayOn/torrentstream](https://github.com/XayOn/torrentstream) - Python simple BitTorrent streaming library based on libtorrent
 - [themayankjha/JAKYM](https://github.com/themayankjha/JAKYM) - JAKYM, Just Another Konsole YouTube-Music. A command line based Youtube music player written in Python with both Spotify and Youtube playlist support and easy on memory. See README for installation in
