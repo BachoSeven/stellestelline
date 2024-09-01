@@ -679,7 +679,7 @@
 - [HackerPoet/FractalSoundExplorer](https://github.com/HackerPoet/FractalSoundExplorer) - Explore fractals in an audio-visual sandbox
 - [fgheng/keysound](https://github.com/fgheng/keysound) - keysound is keyboard sound software for Linux
 - [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++20.
-- [user-none/KDocker](https://github.com/user-none/KDocker) - KDocker will help you dock most applications to the system tray
+- [user-none/KDocker](https://github.com/user-none/KDocker) - Dock most applications to the system tray
 - [clangen/musikcube](https://github.com/clangen/musikcube) - a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++
 - [houmain/keymapper](https://github.com/houmain/keymapper) - A cross-platform context-aware key remapper.
 - [picotorrent/picotorrent](https://github.com/picotorrent/picotorrent) - A tiny, hackable BitTorrent client.
@@ -1743,6 +1743,7 @@
 
 ## Python 
 
+- [tamland/python-tidal](https://github.com/tamland/python-tidal) - Python API for TIDAL music streaming service
 - [guillaumegenthial/im2latex](https://github.com/guillaumegenthial/im2latex) - Image to LaTeX (Seq2seq + Attention with Beam Search) - Tensorflow
 - [xu1868/SaySelf](https://github.com/xu1868/SaySelf) - Public code repo for paper "SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales"
 - [strodgers/epomaker-controller](https://github.com/strodgers/epomaker-controller) - 
@@ -2703,6 +2704,7 @@
 
 ## TypeScript 
 
+- [Mastermindzh/tidal-hifi](https://github.com/Mastermindzh/tidal-hifi) - The web version of Tidal running in electron with hifi support thanks to widevine.
 - [zen-browser/surfer](https://github.com/zen-browser/surfer) - Simplifying building firefox forks!
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [chetanbhat/quantum-wordle](https://github.com/chetanbhat/quantum-wordle) - Quantum Wordle
