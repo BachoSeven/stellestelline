@@ -682,6 +682,7 @@
 - [user-none/KDocker](https://github.com/user-none/KDocker) - Dock most applications to the system tray
 - [clangen/musikcube](https://github.com/clangen/musikcube) - a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++
 - [houmain/keymapper](https://github.com/houmain/keymapper) - A cross-platform context-aware key remapper.
+- [BrowserWorks/Waterfox](https://github.com/BrowserWorks/Waterfox) - The official Waterfox 💧 source code repository
 - [picotorrent/picotorrent](https://github.com/picotorrent/picotorrent) - A tiny, hackable BitTorrent client.
 - [suratovvlad/qBittorrent](https://github.com/suratovvlad/qBittorrent) - Dark qBittorrent BitTorrent client
 - [sandsmark/polkit-dumb-agent](https://github.com/sandsmark/polkit-dumb-agent) - a polkit agent in 145 lines of code, because polkit is dumb and none of the other agents worked
@@ -1708,7 +1709,6 @@
 - [pomf/pomf](https://github.com/pomf/pomf) - Pomf is a simple lightweight file host with support for drop, paste, click and API uploading.
 - [spotweb/spotweb](https://github.com/spotweb/spotweb) - Decentralized community
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
-- [BrowserWorks/Waterfox](https://github.com/BrowserWorks/Waterfox) - The official Waterfox 💧 source code repository
 - [xero/figlet-fonts](https://github.com/xero/figlet-fonts) - my collection of figlet / toilet ascii art fonts
 
 ## Pascal 
@@ -2076,7 +2076,7 @@
 - [elevenhsoft/cosmic-ext-applet-ollama](https://github.com/elevenhsoft/cosmic-ext-applet-ollama) - Ollama applet for COSMIC Desktop
 - [mariinkys/oboete](https://github.com/mariinkys/oboete) - A simple flashcards application for the COSMIC™ desktop written in Rust
 - [mariinkys/starrydex](https://github.com/mariinkys/starrydex) - A Pokédex application for the COSMIC™ desktop written in Rust
-- [elevenhsoft/WebApps](https://github.com/elevenhsoft/WebApps) - Web applications at your fingertips.
+- [cosmic-utils/WebApps](https://github.com/cosmic-utils/WebApps) - Web applications at your fingertips.
 - [bytesnake/vim-graphical-preview](https://github.com/bytesnake/vim-graphical-preview) - Small plugin for Vim to display graphics with SIXEL characters
 - [Samyak2/toipe](https://github.com/Samyak2/toipe) - yet another typing test, but crab flavoured
 - [lemunozm/termchat](https://github.com/lemunozm/termchat) - Terminal chat through the LAN with video streaming and file transfer.
@@ -2194,7 +2194,7 @@
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [dmadisetti/steam-tui](https://github.com/dmadisetti/steam-tui) - Rust TUI client for steamcmd
-- [pop-os/system76-power](https://github.com/pop-os/system76-power) - System76 Power Management
+- [pop-os/system76-power](https://github.com/pop-os/system76-power) - Power profile management for Linux
 - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
 - [o2sh/miro](https://github.com/o2sh/miro) - My terminal emulator
 - [nelsonjchen/speedtest-rs](https://github.com/nelsonjchen/speedtest-rs) - speedtest-cli in Rust.
@@ -2338,7 +2338,7 @@
 - [aziis98/scripts-2023](https://github.com/aziis98/scripts-2023) - Yet another scripts repo
 - [Bladtman242/potato](https://github.com/Bladtman242/potato) - A pomodoro timer for the shell
 - [rifazn/dark-toggle](https://github.com/rifazn/dark-toggle) - A small POSIX compliant shell script that toggles between the dark and light variants of a GTK theme.
-- [dougy147/scitopdf](https://github.com/dougy147/scitopdf) - bash script to quickly fetch, download and open scientific papers from Sci-Hub's database.
+- [dougy147/scitopdf](https://github.com/dougy147/scitopdf) - Script to quickly fetch scientific papers.
 - [Unipisa/dm-cups](https://github.com/Unipisa/dm-cups) - Backend CUPS con accounting integrato
 - [K4zoku/nowm](https://github.com/K4zoku/nowm) - 🚫 Managing window without a window manager. (59 slocs)
 - [aziis98/bash-vcs](https://github.com/aziis98/bash-vcs) - An extremely simple version control system written in bash
