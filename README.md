@@ -2076,7 +2076,7 @@
 - [elevenhsoft/cosmic-ext-applet-ollama](https://github.com/elevenhsoft/cosmic-ext-applet-ollama) - Ollama applet for COSMIC Desktop
 - [mariinkys/oboete](https://github.com/mariinkys/oboete) - A simple flashcards application for the COSMIC™ desktop written in Rust
 - [mariinkys/starrydex](https://github.com/mariinkys/starrydex) - A Pokédex application for the COSMIC™ desktop written in Rust
-- [cosmic-utils/WebApps](https://github.com/cosmic-utils/WebApps) - Web applications at your fingertips.
+- [cosmic-utils/web-apps](https://github.com/cosmic-utils/web-apps) - Web applications at your fingertips.
 - [bytesnake/vim-graphical-preview](https://github.com/bytesnake/vim-graphical-preview) - Small plugin for Vim to display graphics with SIXEL characters
 - [Samyak2/toipe](https://github.com/Samyak2/toipe) - yet another typing test, but crab flavoured
 - [lemunozm/termchat](https://github.com/lemunozm/termchat) - Terminal chat through the LAN with video streaming and file transfer.
