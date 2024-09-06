@@ -2073,7 +2073,7 @@
 
 - [FrameworkComputer/framework-system](https://github.com/FrameworkComputer/framework-system) - Rust libraries and tools to interact with the Framework Computer systems
 - [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale
-- [elevenhsoft/cosmic-ext-applet-ollama](https://github.com/elevenhsoft/cosmic-ext-applet-ollama) - Ollama applet for COSMIC Desktop
+- [cosmic-utils/cosmic-ext-applet-ollama](https://github.com/cosmic-utils/cosmic-ext-applet-ollama) - Ollama applet for COSMIC Desktop
 - [mariinkys/oboete](https://github.com/mariinkys/oboete) - A simple flashcards application for the COSMIC™ desktop written in Rust
 - [mariinkys/starrydex](https://github.com/mariinkys/starrydex) - A Pokédex application for the COSMIC™ desktop written in Rust
 - [cosmic-utils/web-apps](https://github.com/cosmic-utils/web-apps) - Web applications at your fingertips.
