@@ -1677,7 +1677,6 @@
 - [usonianhorizon/vt-fnt](https://github.com/usonianhorizon/vt-fnt) - A collection of bitmap .FNT fonts created from various programming fonts, and to be used by FreeBSD's vt console terminal.
 - [oppiliappan/curie](https://github.com/oppiliappan/curie) - An upscaled version of scientifica.
 - [rsubtil/fortune-mod-billwurtz](https://github.com/rsubtil/fortune-mod-billwurtz) - A collection of quotes from bill wurtz, i guess...
-- [samhh/bangin](https://github.com/samhh/bangin) - bangin is a primitive, portable shell script which enables DuckDuckGo-like bangs.
 - [mihic/linux-intel-undervolt](https://github.com/mihic/linux-intel-undervolt) - Guide to linux undervolting for Haswell and never Intel CPUs
 - [tin-cat/commodore-pet-mini](https://github.com/tin-cat/commodore-pet-mini) - 3D models and additional files for the project Commodore PET Mini
 - [szorfein/unix-portfolio](https://github.com/szorfein/unix-portfolio) - Screenshots of my many themes (uncompressed)
