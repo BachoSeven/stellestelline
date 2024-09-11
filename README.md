@@ -575,7 +575,7 @@
 - [oxen-io/lokinet](https://github.com/oxen-io/lokinet) - Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [Vantskruv/wejoy](https://github.com/Vantskruv/wejoy) - Tool to read physical joystick devices, keyboards aswell, and create virtual joystick devices and output keyboard presses on a Linux system.
-- [textbrowser/biblioteq](https://github.com/textbrowser/biblioteq) - Archive and catalog the world for today's and tomorrow's generations! Available almost everyware. Completed?
+- [textbrowser/biblioteq](https://github.com/textbrowser/biblioteq) - Archive and catalog the world for today's and tomorrow's generations! Awesome and everyware.
 - [ofloveandhate/bertini_real](https://github.com/ofloveandhate/bertini_real) - software for real algebraic sets
 - [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 - [leonmavr/zeitkatze](https://github.com/leonmavr/zeitkatze) - time cat -- literally. Available as AUR package
