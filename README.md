@@ -1544,6 +1544,7 @@
 
 ## Others 
 
+- [skal3mar/Spotify-Premium-apk](https://github.com/skal3mar/Spotify-Premium-apk) - Free Spotify Premium Subscription for Android devices.
 - [Lapin0t/grothendieck-cern](https://github.com/Lapin0t/grothendieck-cern) - Alexander Grothendieck's 1972 talk at CERN, on scientific research
 - [jstkdng/hyena-browser](https://github.com/jstkdng/hyena-browser) - Patches and scripts to remove ads, cryptocurrency and phone-ing home from Brave Browser
 - [bpc-clone/bypass-paywalls-chrome-clean](https://github.com/bpc-clone/bypass-paywalls-chrome-clean) - 
@@ -1742,6 +1743,7 @@
 
 ## Python 
 
+- [google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry) - 
 - [tamland/python-tidal](https://github.com/tamland/python-tidal) - Python API for TIDAL music streaming service
 - [guillaumegenthial/im2latex](https://github.com/guillaumegenthial/im2latex) - Image to LaTeX (Seq2seq + Attention with Beam Search) - Tensorflow
 - [xu1868/SaySelf](https://github.com/xu1868/SaySelf) - Public code repo for paper "SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales"
