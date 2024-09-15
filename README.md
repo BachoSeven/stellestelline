@@ -1567,7 +1567,6 @@
 - [murtaza-u/window_manager_tutorial](https://github.com/murtaza-u/window_manager_tutorial) - Tutorial series on building an X11 dynamic tiling window manager in C
 - [bcbcarl/docker-hollywood](https://github.com/bcbcarl/docker-hollywood) - Fake A Hollywood Hacker Screen.
 - [phisch/phinger-cursors](https://github.com/phisch/phinger-cursors) - Most likely the most over engineered cursor theme.
-- [graysky2/kernel_compiler_patch](https://github.com/graysky2/kernel_compiler_patch) - Kernel patch enables compiler optimizations for additional CPUs.
 - [uzkbwza/viii](https://github.com/uzkbwza/viii) - a small bitmap font for coding
 - [JingOS-team/JingOS](https://github.com/JingOS-team/JingOS) - Awesome - JingOS - The World’s First Linux-based OS design for Tablets
 - [AsahiLinux/docs](https://github.com/AsahiLinux/docs) - Hardware and software docs / wiki
@@ -2332,6 +2331,7 @@
 
 ## Shell 
 
+- [SecUpwN/Spotify-AdKiller](https://github.com/SecUpwN/Spotify-AdKiller) - Your Party with Spotify - without ads!
 - [matt-kukla/arxpdf](https://github.com/matt-kukla/arxpdf) - Download arXiv preprints as PDFs.
 - [Samueru-sama/fixsteam](https://github.com/Samueru-sama/fixsteam) - This script fixes multiple issues that the linux version of Steam has.
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
@@ -2360,6 +2360,7 @@
 - [BachoSeven/dotfiles](https://github.com/BachoSeven/dotfiles) - rice repo
 - [cb-linux/breath](https://github.com/cb-linux/breath) - Linux for Chromebooks
 - [CyberShadow/aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
+- [graysky2/kernel_compiler_patch](https://github.com/graysky2/kernel_compiler_patch) - Kernel patch enables compiler optimizations for additional CPUs.
 - [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements.
 - [Kratacoa/dotfiles](https://github.com/Kratacoa/dotfiles) - 🌠 please support breaking of copyright laws 🌠
 - [k-vernooy/dotfiles](https://github.com/k-vernooy/dotfiles) - An organizational repository for my dotfiles and scripts
