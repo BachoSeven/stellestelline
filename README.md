@@ -2777,7 +2777,7 @@
 
 ## Typst 
 
-- [JamesxX/typst-chem-par](https://github.com/JamesxX/typst-chem-par) - Typst show rules for parsing IUPAC names and chemical formulae
+- [jamesrswift/typst-chem-par](https://github.com/jamesrswift/typst-chem-par) - Typst show rules for parsing IUPAC names and chemical formulae
 
 ## V 
 
