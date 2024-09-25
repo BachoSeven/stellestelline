@@ -936,7 +936,7 @@
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [foxcpp/maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
 - [shazow/ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
-- [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
+- [harness/harness](https://github.com/harness/harness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - 🧲 Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [jezek/xgb](https://github.com/jezek/xgb) - The X Go Binding is a low-level API to communicate with the X server. It is modeled on XCB and supports many X extensions.
@@ -2434,7 +2434,6 @@
 - [a-schaefers/i3-wm-gruvbox-theme](https://github.com/a-schaefers/i3-wm-gruvbox-theme) - An i3-wm gruvbox theme implementation
 - [tremby/imgur.sh](https://github.com/tremby/imgur.sh) - Bart's Imgur uploader bash script
 - [zlatinb/muwire-pkg](https://github.com/zlatinb/muwire-pkg) - MuWire Packaging Project
-- [terminalforlife/ShellProjects](https://github.com/terminalforlife/ShellProjects) - Projects written in POSIX shell and BASH.
 - [linux-surface/linux-surface](https://github.com/linux-surface/linux-surface) - Linux Kernel for Surface Devices
 - [tamago324/compe-zsh](https://github.com/tamago324/compe-zsh) - zsh completion source for nvim-compe
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
@@ -2678,7 +2677,7 @@
 - [thosgood/translations](https://github.com/thosgood/translations) - some maths papers in English
 - [domenicozambella/creche](https://github.com/domenicozambella/creche) - A Crèche Course in Model Theory. Lecture notes for an introductory (under)graduate couse in model theory
 - [ryankeleti/ega](https://github.com/ryankeleti/ega) - amateur translation project of Grothendieck's EGA.
-- [semorrison/category-theory-2017](https://github.com/semorrison/category-theory-2017) - 
+- [kim-em/category-theory-2017](https://github.com/kim-em/category-theory-2017) - 
 - [gillescastel/lecture-notes](https://github.com/gillescastel/lecture-notes) - LaTeX code for some of my lecture notes
 - [f0nzie/tikz_favorites](https://github.com/f0nzie/tikz_favorites) - collection of favorite TikZ graphics
 - [simmaco99/GeometriaII](https://github.com/simmaco99/GeometriaII) - 
