@@ -2881,7 +2881,7 @@
 - [Konfekt/vim-office](https://github.com/Konfekt/vim-office) - read common binary files, such as PDFs and those of Microsoft Office or LibreOffice, in Vim
 - [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more
 - [dbmrq/vim-ditto](https://github.com/dbmrq/vim-ditto) - :speak_no_evil: Stop repeating yourself
-- [camnw/lf-vim](https://github.com/camnw/lf-vim) - Vim syntax highlighting for lfrc
+- [andis-sprinkis/lf-vim](https://github.com/andis-sprinkis/lf-vim) - Vim syntax highlighting for lfrc
 
 ## Vim Snippet 
 
