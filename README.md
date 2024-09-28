@@ -2150,7 +2150,7 @@
 - [Canop/dysk](https://github.com/Canop/dysk) - A linux utility to get information on filesystems, like df but better
 - [nrc/r4cppp](https://github.com/nrc/r4cppp) - Rust for C++ programmers
 - [pop-os/tiler](https://github.com/pop-os/tiler) - Generic tiling window manager library in Rust
-- [kpcyrd/pacman-bintrans](https://github.com/kpcyrd/pacman-bintrans) - Experimental binary transparency for pacman with sigstore and rekor
+- [kpcyrd/pacman-bintrans](https://github.com/kpcyrd/pacman-bintrans) - Experimental pacman integration for Reproducible Builds and Binary Transparency (with sigstore/rekor)
 - [pop-os/launcher](https://github.com/pop-os/launcher) - Modular IPC-based desktop launcher service
 - [garak92/rearx](https://github.com/garak92/rearx) - A TUI client for the Searx meta-search engine, written in Rust
 - [p-e-w/ternimal](https://github.com/p-e-w/ternimal) - Simulate a lifeform in the terminal
@@ -2881,7 +2881,7 @@
 - [Konfekt/vim-office](https://github.com/Konfekt/vim-office) - read common binary files, such as PDFs and those of Microsoft Office or LibreOffice, in Vim
 - [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more
 - [dbmrq/vim-ditto](https://github.com/dbmrq/vim-ditto) - :speak_no_evil: Stop repeating yourself
-- [andis-sprinkis/lf-vim](https://github.com/andis-sprinkis/lf-vim) - Vim syntax highlighting for lfrc
+- [andis-sprinkis/lf-vim](https://github.com/andis-sprinkis/lf-vim) - Vim syntax highlighting for the lf config. file (lfrc)
 
 ## Vim Snippet 
 
