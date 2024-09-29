@@ -2143,7 +2143,7 @@
 - [Gerschtli/dwm-status](https://github.com/Gerschtli/dwm-status) - Highly performant and configurable DWM status service
 - [Arnavion/matrix-client-rs](https://github.com/Arnavion/matrix-client-rs) - TUI Matrix client in Rust.
 - [sioodmy/todo](https://github.com/sioodmy/todo) - Simple todo cli program written in rust
-- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
+- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications —— Maintenance status: on hold. I have no time for OSS currently; back late 2024.
 - [melody-notpond/uwutalk](https://github.com/melody-notpond/uwutalk) - Matrix client.
 - [auscyber/dotfile-sync](https://github.com/auscyber/dotfile-sync) - Syncing dotfiles or other symlinks easily
 - [Smithay/wayland-rs](https://github.com/Smithay/wayland-rs) - Rust implementation of the wayland protocol (client and server).
