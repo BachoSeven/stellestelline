@@ -85,6 +85,7 @@
 - [Shell](#shell)
 - [Stylus](#stylus)
 - [Svelte](#svelte)
+- [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Typst](#typst)
@@ -770,7 +771,7 @@
 - [obliviousofcraps/mf-dots](https://github.com/obliviousofcraps/mf-dots) - These are some of my ridiculously shit dotfiles that I use in my unproductive daily life.
 - [christiangenco/chrome-export-history](https://github.com/christiangenco/chrome-export-history) - Chrome Extension to export your entire history in json or csv
 - [LukeSmithxyz/based.cooking](https://github.com/LukeSmithxyz/based.cooking) - A simple culinary website.
-- [Jorengarenar/RedditOldRedesignedDark](https://github.com/Jorengarenar/RedditOldRedesignedDark) - Dark theme for Reddit Old
+- [Jorenar/RedditOldRedesignedDark](https://github.com/Jorenar/RedditOldRedesignedDark) - Dark theme for Reddit Old
 - [jakebian/kan](https://github.com/jakebian/kan) - Kan: A browser extension for reading nLab
 - [owozsh/adwaita-rounded](https://github.com/owozsh/adwaita-rounded) - A patch to round the bottom corners of the Adwaita theme.
 - [StylishThemes/StackOverflow-Dark](https://github.com/StylishThemes/StackOverflow-Dark) - 📚 Dark theme for Stack Overflow & most Stack Exchange network sites
@@ -1953,7 +1954,7 @@
 - [balta2ar/brotab](https://github.com/balta2ar/brotab) - Control your browser's tabs from the command line
 - [Diaoul/subliminal](https://github.com/Diaoul/subliminal) - Subtitles, faster than your thoughts
 - [matrix-org/pantalaimon](https://github.com/matrix-org/pantalaimon) - E2EE aware proxy daemon for matrix clients.
-- [themix-project/themix-gui](https://github.com/themix-project/themix-gui) - Graphical application for generating different color variations of Oomox (Numix-based) and Materia (ex-Flat-Plat) themes (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Pa
+- [themix-project/themix-gui](https://github.com/themix-project/themix-gui) - Graphical application for generating different color variations of Oomox (Numix-based) theme (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Papirus and Suru++ icon themes
 - [jarun/imgp](https://github.com/jarun/imgp) - :camera_flash: Fast batch image resizer and rotator
 - [zdict/zdict](https://github.com/zdict/zdict) - The last online dictionary CLI framework you need.
 - [mopidy/mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
@@ -2659,6 +2660,10 @@
 ## Svelte 
 
 - [1ntEgr8/arss](https://github.com/1ntEgr8/arss) - An rss reader
+
+## Swift 
+
+- [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
 
 ## TeX 
 
