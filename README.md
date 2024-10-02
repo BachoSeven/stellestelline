@@ -543,7 +543,6 @@
 - [UraniumDonut/nbfc-revive](https://github.com/UraniumDonut/nbfc-revive) - NoteBook FanControl
 - [qmk/qmk_toolbox](https://github.com/qmk/qmk_toolbox) - A Toolbox companion for QMK Firmware
 - [piotrderen/auCDtect-Frontend](https://github.com/piotrderen/auCDtect-Frontend) - gui interface to auCDtect.exe
-- [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [FlareSolverr/FlareSolverrSharp](https://github.com/FlareSolverr/FlareSolverrSharp) - FlareSolverr .Net / Proxy server to bypass Cloudflare protection
 - [jpdillingham/Soulseek.NET](https://github.com/jpdillingham/Soulseek.NET) - A .NET Standard client library for the Soulseek network.
 - [slskd/slskd](https://github.com/slskd/slskd) - A modern client-server application for the Soulseek file sharing network.
@@ -1038,7 +1037,7 @@
 - [MarginaliaSearch/MarginaliaSearch](https://github.com/MarginaliaSearch/MarginaliaSearch) - Internet search engine for text-oriented websites. Indexing the small, old and weird web.
 - [gerby-project/gerby-website](https://github.com/gerby-project/gerby-website) - Tag-based webview of LaTeX documents
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
-- [livialima/linuxupskillchallenge](https://github.com/livialima/linuxupskillchallenge) - Learn the skills required to sysadmin a remote Linux server from the commandline.
+- [livialima/linuxupskillchallenge-oldfork](https://github.com/livialima/linuxupskillchallenge-oldfork) - This is an old deactivated fork. Go to the current repo at livialima/linuxupskillchallenge
 - [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna) - A minimal opinionated theme for Hugo
 - [rbrignall/numble](https://github.com/rbrignall/numble) - Wordle with maths-themed words
 - [abuseofnotation/category-theory-illustrated](https://github.com/abuseofnotation/category-theory-illustrated) - A book about category theory
