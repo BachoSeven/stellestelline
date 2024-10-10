@@ -1309,7 +1309,7 @@
 - [oscar-system/Oscar.jl](https://github.com/oscar-system/Oscar.jl) - A comprehensive open source computer algebra system for computations in algebra, geometry, and number theory.
 - [oscar-system/Singular.jl](https://github.com/oscar-system/Singular.jl) - Julia package for the Singular library
 - [thofma/Hecke.jl](https://github.com/thofma/Hecke.jl) - Computational algebraic number theory
-- [Nemocas/Nemo.jl](https://github.com/Nemocas/Nemo.jl) - Julia bindings for various mathematical libraries (including flint2)
+- [Nemocas/Nemo.jl](https://github.com/Nemocas/Nemo.jl) - Julia bindings for the FLINT number theory C library
 - [tkluck/GaloisFields.jl](https://github.com/tkluck/GaloisFields.jl) - Finite fields for Julia
 - [Arpeggeo/julia-distributed-computing](https://github.com/Arpeggeo/julia-distributed-computing) - The ultimate guide to distributed computing in Julia
 - [kleinhenz/SlurmClusterManager.jl](https://github.com/kleinhenz/SlurmClusterManager.jl) - julia package for running code on slurm clusters
