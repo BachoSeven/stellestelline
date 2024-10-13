@@ -1545,7 +1545,6 @@
 
 ## Others 
 
-- [skal3mar/Spotify-Premium-apk](https://github.com/skal3mar/Spotify-Premium-apk) - Free Spotify Premium Subscription for Android devices.
 - [Lapin0t/grothendieck-cern](https://github.com/Lapin0t/grothendieck-cern) - Alexander Grothendieck's 1972 talk at CERN, on scientific research
 - [jstkdng/hyena-browser](https://github.com/jstkdng/hyena-browser) - Patches and scripts to remove ads, cryptocurrency and phone-ing home from Brave Browser
 - [bpc-clone/bypass-paywalls-chrome-clean](https://github.com/bpc-clone/bypass-paywalls-chrome-clean) - 
@@ -2462,7 +2461,7 @@
 - [bfrg/gpg-guide](https://github.com/bfrg/gpg-guide) - Quick-start guide to GPG
 - [jzbor/mashup](https://github.com/jzbor/mashup) - Merely Another Shell Utility Project
 - [jstkdng/ungoogled-chromium-bin](https://github.com/jstkdng/ungoogled-chromium-bin) - Mirror from the now deleted ungoogled-chromium-bin AUR package
-- [Mangeshrex/rxfetch](https://github.com/Mangeshrex/rxfetch) - A custom system info fetching tool
+- [mngshm/rxfetch](https://github.com/mngshm/rxfetch) - A custom system info fetching tool
 - [labbots/google-drive-upload](https://github.com/labbots/google-drive-upload) - Bash scripts to upload files to google drive
 - [cristianzsh/openbsd-selfhosted](https://github.com/cristianzsh/openbsd-selfhosted) - :blowfish: Shell script for self-hosting cloud, email, and git services
 - [turquoise-hexagon/dots](https://github.com/turquoise-hexagon/dots) - another dotfiles repo
