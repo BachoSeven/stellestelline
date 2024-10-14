@@ -1008,7 +1008,7 @@
 - [pldubouilh/gossa](https://github.com/pldubouilh/gossa) - 🎶 a fast and simple multimedia fileserver
 - [tryffel/jellycli](https://github.com/tryffel/jellycli) - Jellyfin terminal client
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [tulir/gomuks](https://github.com/tulir/gomuks) - A terminal based Matrix client written in Go.
+- [tulir/gomuks](https://github.com/tulir/gomuks) - A Matrix client written in Go.
 - [Ldaxar/Goblocks](https://github.com/Ldaxar/Goblocks) - Status bar for dwm
 - [Rican7/define](https://github.com/Rican7/define) - A command-line dictionary (thesaurus) app, with access to multiple sources, written in Go.
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
@@ -1517,7 +1517,6 @@
 - [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for NixOS, sway, kitty, helix, zsh and more
 - [fdietze/dotfiles](https://github.com/fdietze/dotfiles) - 
 - [donovanglover/nix-config](https://github.com/donovanglover/nix-config) - My NixOS configuration with Nix Flakes, Home Manager, Stylix, and Hyprland.
-- [b3nj5m1n/dotfiles](https://github.com/b3nj5m1n/dotfiles) - 
 
 ## Nushell 
 
@@ -2625,6 +2624,7 @@
 - [budlabs/typiskt](https://github.com/budlabs/typiskt) - touchtyping training in the terminal
 - [kaihendry/dotfiles](https://github.com/kaihendry/dotfiles) - Home directory with an absurd amount of tweaks
 - [ech1/torbridge](https://github.com/ech1/torbridge) - 
+- [b3nj5m1n/dotfiles](https://github.com/b3nj5m1n/dotfiles) - 
 - [DanielFGray/fzf-scripts](https://github.com/DanielFGray/fzf-scripts) - a collection of scripts that rely on https://github.com/junegunn/fzf
 - [deepjyoti30/dots](https://github.com/deepjyoti30/dots) - My dotfiles
 - [ispanos/anergos](https://github.com/ispanos/anergos) - Bootstarp script for my workstation, with a turnkey Archlinux install.
