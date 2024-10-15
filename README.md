@@ -1741,7 +1741,7 @@
 - [google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry) - 
 - [tamland/python-tidal](https://github.com/tamland/python-tidal) - Python API for TIDAL music streaming service
 - [guillaumegenthial/im2latex](https://github.com/guillaumegenthial/im2latex) - Image to LaTeX (Seq2seq + Attention with Beam Search) - Tensorflow
-- [xu1868/SaySelf](https://github.com/xu1868/SaySelf) - Public code repo for paper "SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales"
+- [tianyang-x/SaySelf](https://github.com/tianyang-x/SaySelf) - Public code repo for paper "SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales"
 - [strodgers/epomaker-controller](https://github.com/strodgers/epomaker-controller) - 
 - [kraanzu/smassh](https://github.com/kraanzu/smassh) - Smassh your Keyboard, TUI Edition
 - [LMFDB/lmfdb](https://github.com/LMFDB/lmfdb) - L-Functions and Modular Forms Database
