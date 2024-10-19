@@ -1650,7 +1650,6 @@
 - [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
 - [hbtlabs/chromium-white-flash-fix](https://github.com/hbtlabs/chromium-white-flash-fix) - [deprecated (issue fixed)] chromium google-chrome white flash bug fix
 - [astsu777/wallpapers](https://github.com/astsu777/wallpapers) - My wallpapers
-- [chaotic-aur/packages](https://github.com/chaotic-aur/packages) - The packages Mason, what do they mean? (Package requests and bug reports here) 📑
 - [selenebun/gruvbox-material-kitty](https://github.com/selenebun/gruvbox-material-kitty) - A port of @sainnhe's Gruvbox Material theme for Kitty.
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 - [pagopa-archive/io](https://github.com/pagopa-archive/io) - Repository principale di IO: offre una mappa di informazioni e risorse per orientarsi nel progetto
@@ -2546,6 +2545,7 @@
 - [mlvzk/discocss](https://github.com/mlvzk/discocss) - A tiny Discord css-injector for Linux and MacOS.
 - [lemnos/theme.sh](https://github.com/lemnos/theme.sh) - A script which lets you set your $terminal theme.
 - [odilonscoelho/dots](https://github.com/odilonscoelho/dots) - Meus scripts
+- [chaotic-aur/packages](https://github.com/chaotic-aur/packages) - The packages Mason, what do they mean? (Package requests and bug reports here) 📑
 - [uriel1998/vindauga](https://github.com/uriel1998/vindauga) - Download and display album art or display embedded (or folder-based) album art using a bash script; a largely rewritten fork of kunst
 - [bobafetthotmail/refind-theme-regular](https://github.com/bobafetthotmail/refind-theme-regular) - 
 - [NNBnh/bfetch](https://github.com/NNBnh/bfetch) - 📠 Dynamic fetch displayer that SuperB
@@ -2566,7 +2566,7 @@
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
 - [graysky2/profile-cleaner](https://github.com/graysky2/profile-cleaner) - Simple script to vacuum and reindex sqlite databases used by Firefox and by Chrome/Chromium.
 - [lemniskett/archbox](https://github.com/lemniskett/archbox) - Easy to use Arch Linux chroot environment with some functionalities to integrate it with your existing Linux installation. Mirror of https://momodev.lemniskett.moe/lemniskett/archbox
-- [foldback/shiki](https://github.com/foldback/shiki) - Shiki ~ Wikipedia 🌐 on your Terminal
+- [holdhack/shiki](https://github.com/holdhack/shiki) - Shiki ~ Wikipedia 🌐 on your Terminal
 - [make-github-pseudonymous-again/dotfiles](https://github.com/make-github-pseudonymous-again/dotfiles) - :wrench: ~/. dotfiles for Arch Linux
 - [helixarch/debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
 - [make-github-pseudonymous-again/gifify](https://github.com/make-github-pseudonymous-again/gifify) - :rainbow: Convert videos to GIFs
