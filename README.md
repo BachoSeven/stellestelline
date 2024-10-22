@@ -763,6 +763,7 @@
 - [Etesam913/slick-fox](https://github.com/Etesam913/slick-fox) - :fox_face: A firefox config that has rounded tabs and a url bar that can disappear when not selected on. It works with any theme.
 - [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox) - An opinionated set of configurations for firefox.
 - [Rosmaninho/Zotero-Dark-Theme](https://github.com/Rosmaninho/Zotero-Dark-Theme) - userChrome.css file for a Zotero dark theme. Suggestions for improvements are welcome.
+- [JulienMaille/dribbblish-dynamic-theme](https://github.com/JulienMaille/dribbblish-dynamic-theme) - A mod of Dribbblish theme for Spicetify with support for light/dark modes and album art based colors.
 - [Libera-Chat/libera-chat.github.io](https://github.com/Libera-Chat/libera-chat.github.io) - The website of Libera Chat, providing documentation and news
 - [kkYrusobad/kkYrusobad.github.io](https://github.com/kkYrusobad/kkYrusobad.github.io) - Material startpage/dashboard for home server!
 - [RuneAudio/Docs](https://github.com/RuneAudio/Docs) - Official documentation of the RuneAudio project.
@@ -1038,7 +1039,7 @@
 - [gerby-project/gerby-website](https://github.com/gerby-project/gerby-website) - Tag-based webview of LaTeX documents
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [livialima/linuxupskillchallenge-oldfork](https://github.com/livialima/linuxupskillchallenge-oldfork) - This is an old deactivated fork. Go to the current repo at livialima/linuxupskillchallenge
-- [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna) - A minimal opinionated theme for Hugo
+- [gokarna-theme/gokarna-hugo](https://github.com/gokarna-theme/gokarna-hugo) - A minimal opinionated theme for Hugo
 - [rbrignall/numble](https://github.com/rbrignall/numble) - Wordle with maths-themed words
 - [abuseofnotation/category-theory-illustrated](https://github.com/abuseofnotation/category-theory-illustrated) - A book about category theory
 - [agrothendieck/agrothendieck.github.io](https://github.com/agrothendieck/agrothendieck.github.io) - THÈMES POUR UNE HARMONIE
@@ -1223,7 +1224,6 @@
 - [josdejong/mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
 - [zlatinb/mucats](https://github.com/zlatinb/mucats) - Website for hosting hashes of cat videos and other files shared on the MuWire network
 - [Priler/dino3d](https://github.com/Priler/dino3d) - 🦖 Google Chrome T-Rex Run! in 3D (WebGL experiment)
-- [JulienMaille/dribbblish-dynamic-theme](https://github.com/JulienMaille/dribbblish-dynamic-theme) - A mod of Dribbblish theme for Spicetify with support for light/dark modes and album art based colors.
 - [felixrieseberg/macintosh.js](https://github.com/felixrieseberg/macintosh.js) - 🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
 - [kylon/Sharedown](https://github.com/kylon/Sharedown) - Electron application to download Sharepoint videos (especially meant for students)
 - [ericblade/xo](https://github.com/ericblade/xo) - XO - The Subsonic Commander
