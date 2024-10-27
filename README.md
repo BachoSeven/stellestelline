@@ -403,7 +403,7 @@
 - [domsson/succade](https://github.com/domsson/succade) - Run, feed and style your Lemonbar with ease
 - [linuxwacom/libwacom](https://github.com/linuxwacom/libwacom) - libwacom is a tablet description library
 - [universal-ctags/ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
-- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - An actively maintained, feature-rich and performance oriented, neofetch like system information tool.
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [tectonic-typesetting/tectonic-staging](https://github.com/tectonic-typesetting/tectonic-staging) - Staging files from the TeXLive repository for use in Tectonic.
 - [Wilnath/asetroot](https://github.com/Wilnath/asetroot) - A lightweight animated wallpaper program
 - [glouw/paperview](https://github.com/glouw/paperview) - A high performance X11 animated wallpaper setter
