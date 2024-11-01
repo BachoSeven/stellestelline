@@ -2845,7 +2845,7 @@
 - [voldikss/vim-floaterm](https://github.com/voldikss/vim-floaterm) - :computer: Terminal manager for (neo)vim
 - [HendrikPetertje/vimify](https://github.com/HendrikPetertje/vimify) - Spotify integration for vim
 - [xero/blaquemagick.vim](https://github.com/xero/blaquemagick.vim) - greyscale monochrome with a blue highlight vim colorscheme
-- [dstein64/vim-startuptime](https://github.com/dstein64/vim-startuptime) - A plugin for profiling Vim and Neovim startup time.
+- [dstein64/vim-startuptime](https://github.com/dstein64/vim-startuptime) - A plugin for viewing Vim and Neovim startup event timing information.
 - [m-pilia/vim-pkgbuild](https://github.com/m-pilia/vim-pkgbuild) - Vim plugin to edit PKGBUILD files
 - [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim
 - [edvb/catium.vim](https://github.com/edvb/catium.vim) - add an element of nyan cat to vim
