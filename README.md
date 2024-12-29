@@ -1143,6 +1143,7 @@
 
 ## JavaScript 
 
+- [anvaka/atree](https://github.com/anvaka/atree) - Just a simple Christmas tree, based on reddit story
 - [revoltchat/self-hosted](https://github.com/revoltchat/self-hosted) - Deploy Revolt using Docker.
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
@@ -1541,6 +1542,7 @@
 
 ## Others 
 
+- [roman-kashitsyn/my-favorite-things](https://github.com/roman-kashitsyn/my-favorite-things) - The collection of things I like.
 - [Lapin0t/grothendieck-cern](https://github.com/Lapin0t/grothendieck-cern) - Alexander Grothendieck's 1972 talk at CERN, on scientific research
 - [jstkdng/hyena-browser](https://github.com/jstkdng/hyena-browser) - Patches and scripts to remove ads, cryptocurrency and phone-ing home from Brave Browser
 - [bpc-clone/bpc_chrome_support](https://github.com/bpc-clone/bpc_chrome_support) - 
@@ -2710,7 +2712,7 @@
 - [chetanbhat/quantum-wordle](https://github.com/chetanbhat/quantum-wordle) - Quantum Wordle
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [wclr/vscode-autosave-ext](https://github.com/wclr/vscode-autosave-ext) - AutoSave Extension for VSCodee
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [Paper-Proof/paperproof](https://github.com/Paper-Proof/paperproof) - Lean theorem proving interface which feels like pen-and-paper proofs.
 - [benlikescode/geohub](https://github.com/benlikescode/geohub) - Free, open source geoguessr alternative
